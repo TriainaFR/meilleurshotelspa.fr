@@ -25,6 +25,10 @@ BASE = f"https://{HOST}"
 ENDPOINT = "https://api.indexnow.org/indexnow"
 NS = "{http://www.sitemaps.org/schemas/sitemap/0.9}"
 
+# Un User-Agent explicite est indispensable : les pare-feu applicatifs (Cloudflare
+# devant ce site, entre autres) renvoient 403 à l'agent par défaut de urllib.
+UA = "Meilleurs-IndexNow/1.0 (+https://www.lesmeilleurshotelspa.fr/)"
+
 MESSAGES = {
     200: "OK, URLs acceptées.",
     202: "Accepté, la clé est en cours de validation par le moteur.",
@@ -47,10 +51,10 @@ def find_key():
 
 
 def key_is_online(key):
-    url = f"{BASE}/{key}.txt"
+    req = urllib.request.Request(f"{BASE}/{key}.txt", headers={"User-Agent": UA})
     try:
-        with urllib.request.urlopen(url, timeout=15) as r:
-            return r.status == 200 and r.read().decode().strip() == key
+        with urllib.request.urlopen(req, timeout=15) as r:
+            return r.status == 200 and r.read().decode("utf-8-sig").strip() == key
     except Exception:
         return False
 
@@ -93,7 +97,8 @@ def submit(urls, key, dry_run=False):
 
     req = urllib.request.Request(
         ENDPOINT, data=json.dumps(payload).encode(),
-        headers={"Content-Type": "application/json; charset=utf-8"}, method="POST")
+        headers={"Content-Type": "application/json; charset=utf-8", "User-Agent": UA},
+        method="POST")
     try:
         with urllib.request.urlopen(req, timeout=30) as r:
             code = r.status
