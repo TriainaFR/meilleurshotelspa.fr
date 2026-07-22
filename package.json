@@ -12,6 +12,8 @@
     "indexnow": "python3 tools/indexnow.py --changed",
     "indexnow:all": "python3 tools/indexnow.py --all",
     "indexnow:dry": "python3 tools/indexnow.py --changed --dry-run",
+    "monitor": "python3 tools/monitor.py",
+    "monitor:watch": "python3 tools/monitor.py --watch",
     "publish:site": "npm run build && git add -A && git commit -m \"Publication\" && git push"
   },
   "engines": {
