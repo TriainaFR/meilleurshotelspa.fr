@@ -73,10 +73,14 @@ restantes évaluées sur données publiques ». Ajouter une phrase dans
 ## Entretien courant
 
 ### Après chaque publication
-Lancer le build, qui recalcule tout ce qui dérive du catalogue :
+Lancer le build, qui recalcule tout ce qui dérive du catalogue, puis prévenir
+les moteurs une fois le déploiement passé :
 
 ```bash
 uv run --with pillow python tools/build.py
+git commit -am "…" && git push
+# après déploiement
+python3 tools/indexnow.py --changed
 ```
 
 Ne jamais éditer à la main un compteur, une liste d'articles, une date de mise à

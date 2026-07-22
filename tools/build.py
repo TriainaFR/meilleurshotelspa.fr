@@ -384,7 +384,23 @@ def sync_sitemap():
 
 
 # ------------------------------------------------------------- 6. contrôles
+def check_indexnow():
+    """La clé IndexNow doit être un fichier <clé>.txt à la racine, contenant
+    exactement la clé. Un fichier renommé ou modifié fait refuser toutes les
+    soumissions par Bing (403), sans autre signal que l'absence d'indexation."""
+    keys = [f for f in os.listdir(".") if re.fullmatch(r"[0-9a-f]{8,128}\.txt", f)]
+    if not keys:
+        fail("clé IndexNow absente : voir tools/indexnow.py")
+        return
+    if len(keys) > 1:
+        fail(f"plusieurs clés IndexNow à la racine ({', '.join(keys)}), n'en garder qu'une")
+    k = keys[0]
+    if open(k, encoding="utf-8").read().strip() != os.path.splitext(k)[0]:
+        fail(f"{k} doit contenir exactement la clé, sans rien d'autre")
+
+
 def checks():
+    check_indexnow()
     for f in pages():
         s = open(f, encoding="utf-8").read()
         for i, b in enumerate(re.findall(r'<script type="application/ld\+json">(.*?)</script>', s, re.S)):

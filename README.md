@@ -46,6 +46,27 @@ Le script dérive automatiquement de `assets/articles.js` et de l'historique git
 Il échoue si un JSON-LD est invalide, s'il reste un tiret cadratin, une image
 absente ou un lien interne mort. `--check` exécute les contrôles sans rien écrire.
 
+## IndexNow
+
+Le site est déclaré auprès d'**IndexNow**, le protocole partagé par Bing, Yandex,
+Seznam et Naver : un ping et la page est recrawlée en quelques minutes au lieu de
+quelques jours. Google n'y participe pas, c'est la Search Console qui fait foi
+pour lui.
+
+La clé est le fichier `<clé>.txt` à la racine, qui doit contenir exactement la
+clé et rester accessible en ligne : c'est la preuve de propriété du domaine.
+`tools/build.py` vérifie cette cohérence à chaque build.
+
+```bash
+python3 tools/indexnow.py --changed    # pages modifiées au dernier commit (usage courant)
+python3 tools/indexnow.py --all        # toutes les URLs du sitemap (après une refonte)
+python3 tools/indexnow.py --changed --dry-run
+```
+
+À lancer **après le déploiement**, pas avant : tant que le fichier de clé n'est
+pas en ligne, Bing refuse la soumission avec un 403. Le script le vérifie et
+s'arrête plutôt que d'envoyer dans le vide.
+
 ## Règles éditoriales appliquées dans le code
 
 - Domaine canonique : `https://www.lesmeilleurshotelspa.fr`.
