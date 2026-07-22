@@ -25,6 +25,17 @@ RewriteCond %{REQUEST_FILENAME} -d
 RewriteCond %{REQUEST_URI} !/$
 RewriteRule ^(.*)$ https://www.lesmeilleurshotelspa.fr/$1/ [L,R=301]
 
+# ------------------------------------------- Markdown pour les agents
+# Un agent qui envoie `Accept: text/markdown` reçoit l'article en Markdown, à la
+# même URL. Les navigateurs, qui demandent text/html, ne sont pas concernés.
+RewriteCond %{HTTP_ACCEPT} text/markdown [NC]
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}index.md -f
+RewriteRule ^(.*)/$ /$1/index.md [L]
+
+RewriteCond %{HTTP_ACCEPT} text/markdown [NC]
+RewriteCond %{DOCUMENT_ROOT}/$1.md -f
+RewriteRule ^(.+)\.html$ /$1.md [L]
+
 # ------------------------------------------------------------------- erreurs
 ErrorDocument 404 /404.html
 
@@ -65,7 +76,20 @@ ErrorDocument 404 /404.html
   </FilesMatch>
   <FilesMatch "\.html$">
     Header set Cache-Control "public, max-age=0, must-revalidate"
+    Header append Vary "Accept"
   </FilesMatch>
+
+  # Markdown : jamais mis en cache par un intermédiaire partagé (il serait servi
+  # à un navigateur), jamais indexé (la page HTML est la version canonique).
+  <FilesMatch "\.md$">
+    Header set Content-Type "text/markdown; charset=utf-8"
+    Header set Cache-Control "private, max-age=0, must-revalidate"
+    Header set X-Robots-Tag "noindex"
+    Header append Vary "Accept"
+  </FilesMatch>
+
+  # En-têtes Link (RFC 8288) : découverte pour les agents
+  Header set Link "</llms.txt>; rel=\"describedby\"; type=\"text/plain\", </.well-known/agent-skills/index.json>; rel=\"service-desc\"; type=\"application/json\", </redaction/>; rel=\"author\", </mentions-legales/>; rel=\"license\""
 
   # ------------------------------------------------------------- sécurité
   Header set X-Content-Type-Options "nosniff"

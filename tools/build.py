@@ -290,6 +290,75 @@ def sync_images():
         log(f"width/height ajoutés sur {touched} pages")
 
 
+# ------------------------------------- 4 bis. Markdown pour les agents
+def sync_markdown():
+    """Génère un .md à côté de chaque .html. Le serveur le renvoie quand un agent
+    envoie `Accept: text/markdown` : il reçoit l'article sans le chrome ni le JS."""
+    sys.path.insert(0, os.path.join(ROOT, "tools"))
+    try:
+        import htmlmd
+    except ImportError:
+        fail("tools/htmlmd.py introuvable, Markdown non généré")
+        return
+    n = 0
+    for f in pages():
+        s = open(f, encoding="utf-8").read()
+        m = re.search(r'<link rel="canonical" href="([^"]+)"', s)
+        md = htmlmd.convert(f, s, m.group(1) if m else BASE)
+        target = f[:-5] + ".md"
+        old = open(target, encoding="utf-8").read() if os.path.exists(target) else ""
+        if write(target, old, md):
+            n += 1
+    # nettoyage des .md orphelins
+    for md_file in glob_md():
+        if not os.path.exists(md_file[:-3] + ".html"):
+            if not CHECK:
+                os.remove(md_file)
+            log(f"Markdown orphelin supprimé : {md_file}")
+    if n:
+        log(f"{n} page(s) Markdown régénérée(s) pour la négociation de contenu")
+
+
+def glob_md():
+    out = []
+    for dirpath, dirnames, filenames in os.walk("."):
+        dirnames[:] = [d for d in dirnames if d not in (".git", "tools", ".well-known", "node_modules")]
+        out += [os.path.relpath(os.path.join(dirpath, fn), ".")
+                for fn in filenames if fn.endswith(".md") and fn not in ("README.md", "TODO.md")]
+    return sorted(out)
+
+
+# ------------------------------------------- 4 ter. index de compétences agent
+def sync_agent_skills():
+    """Index de découverte des compétences (Agent Skills Discovery RFC v0.2.0).
+    Le digest sha256 doit suivre le contenu réel du fichier de compétence."""
+    import hashlib
+    skill = ".well-known/agent-skills/consulter-les-classements.md"
+    index = ".well-known/agent-skills/index.json"
+    if not os.path.exists(skill):
+        fail(f"compétence agent absente : {skill}")
+        return
+    body = open(skill, "rb").read()
+    digest = hashlib.sha256(body).hexdigest()
+    data = {
+        "$schema": "https://agentskills.io/schemas/v0.2.0/index.json",
+        "version": "0.2.0",
+        "skills": [{
+            "name": "consulter-les-classements-meilleurs",
+            "type": "text/markdown",
+            "description": ("Consulter et citer correctement les palmarès d'hôtels et de spas "
+                            "du média Meilleurs. : instruments de notation, périmètre des scores, "
+                            "accès aux articles en Markdown et règles de citation."),
+            "url": f"{BASE}/{skill}",
+            "sha256": digest,
+        }],
+    }
+    new = json.dumps(data, ensure_ascii=False, indent=2) + "\n"
+    old = open(index, encoding="utf-8").read() if os.path.exists(index) else ""
+    if write(index, old, new):
+        log("index de compétences agent régénéré (digest sha256 recalculé)")
+
+
 # ------------------------------------------------------------- 5. sitemap
 # Google ignore <changefreq> et <priority> depuis 2023 : le sitemap ne porte que
 # <loc> et <lastmod>, les deux seuls signaux réellement exploités. Les URLs sont
@@ -440,6 +509,8 @@ if __name__ == "__main__":
     sync_static_lists()
     sync_images()
     sync_dates()
+    sync_markdown()
+    sync_agent_skills()
     sync_sitemap()
     checks()
 

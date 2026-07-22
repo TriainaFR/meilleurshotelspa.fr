@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agentskills.io/schemas/v0.2.0/index.json",
+  "version": "0.2.0",
+  "skills": [
+    {
+      "name": "consulter-les-classements-meilleurs",
+      "type": "text/markdown",
+      "description": "Consulter et citer correctement les palmarès d'hôtels et de spas du média Meilleurs. : instruments de notation, périmètre des scores, accès aux articles en Markdown et règles de citation.",
+      "url": "https://www.lesmeilleurshotelspa.fr/.well-known/agent-skills/consulter-les-classements.md",
+      "sha256": "310f58b11692465963ae8b293259ccc273c2537df8881802cd97bf2e46c954b4"
+    }
+  ]
+}

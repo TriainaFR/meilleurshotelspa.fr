@@ -23,6 +23,22 @@
 	@index_explicite path_regexp idx ^(.*)/index\.html$
 	redir @index_explicite {re.idx.1}/ permanent
 
+	# ---------------------------------------------- Markdown pour les agents
+	# Un agent qui envoie `Accept: text/markdown` reçoit l'article en Markdown,
+	# sans navigation ni JavaScript, à la même URL. Les navigateurs, qui
+	# demandent text/html, continuent de recevoir la page normale.
+	@md_dir {
+		header Accept *text/markdown*
+		path */
+	}
+	rewrite @md_dir {path}index.md
+
+	@md_html {
+		header Accept *text/markdown*
+		path_regexp mdh ^(.*)\.html$
+	}
+	rewrite @md_html {re.mdh.1}.md
+
 	# ------------------------------------------------------------------- cache
 	@immuable path *.webp *.jpg *.jpeg *.png *.svg *.ico *.woff2
 	header @immuable Cache-Control "public, max-age=31536000, immutable"
@@ -30,8 +46,36 @@
 	@revalide path *.css *.js
 	header @revalide Cache-Control "public, max-age=86400, must-revalidate"
 
-	@html path *.html /
-	header @html Cache-Control "public, max-age=0, must-revalidate"
+	# Toute réponse négociable porte Vary: Accept, sans quoi un cache pourrait
+	# servir du Markdown à un navigateur.
+	@negociable path *.html */
+	header @negociable {
+		Cache-Control "public, max-age=0, must-revalidate"
+		Vary "Accept"
+	}
+
+	# Le Markdown ne doit jamais être mis en cache par un intermédiaire partagé,
+	# ni indexé : la page HTML reste la version canonique. Deux matchers, car
+	# Caddy évalue `header` AVANT `rewrite` : celui sur l'en-tête Accept couvre
+	# la réponse négociée, celui sur le chemin couvre l'accès direct au .md.
+	@negocie_md header Accept *text/markdown*
+	header @negocie_md {
+		Content-Type "text/markdown; charset=utf-8"
+		Cache-Control "private, max-age=0, must-revalidate"
+		X-Robots-Tag "noindex"
+		Vary "Accept"
+	}
+
+	@md_direct path *.md
+	header @md_direct {
+		Content-Type "text/markdown; charset=utf-8"
+		X-Robots-Tag "noindex"
+	}
+
+	# ----------------------------------------------- découverte pour agents
+	# En-têtes Link (RFC 8288) : où trouver la description du site, l'index de
+	# compétences, la rédaction et les conditions de réutilisation.
+	header Link "</llms.txt>; rel=\"describedby\"; type=\"text/plain\", </.well-known/agent-skills/index.json>; rel=\"service-desc\"; type=\"application/json\", </redaction/>; rel=\"author\", </mentions-legales/>; rel=\"license\""
 
 	# ---------------------------------------------------------------- sécurité
 	header {
