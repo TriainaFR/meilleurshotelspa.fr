@@ -30,6 +30,25 @@ Côté DNS, faire pointer `www` vers l'hébergeur retenu et laisser l'apex
 
 ---
 
+## Standards agents (scan Cloudflare Agent-Ready)
+
+Quatre standards sont en place : Markdown négocié, WebMCP, index de compétences
+et en-têtes Link. Reste un point, qui demande un accès au DNS Cloudflare.
+
+### DNS-AID (Discoverability, 1 point)
+Publier des enregistrements SVCB ou HTTPS sous `_index._agents.lesmeilleurshotelspa.fr`,
+pointant vers un point d'entrée de découverte. À faire dans le tableau de bord
+Cloudflare, zone DNS. Signer la zone en DNSSEC pour que les résolveurs valident.
+Valeur réelle limitée tant que le site n'expose pas de point d'entrée agent :
+c'est un gain de score plus qu'un gain d'usage.
+
+### Volontairement non implémentés
+Catalogue d'API (RFC 9727), OAuth/OIDC, ressource protégée OAuth, `auth.md` et
+carte de serveur MCP. Le site n'a **ni API ni authentification** : publier ces
+documents annoncerait aux agents des points d'entrée qui n'existent pas. Ils ne
+deviendront pertinents que le jour où le média exposera un vrai service, par
+exemple une API de consultation des classements.
+
 ## Contenu et crédibilité
 
 ### Photos des deux auteurs
