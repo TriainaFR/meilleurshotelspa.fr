@@ -1,0 +1,90 @@
+# lesmeilleurshotelspa.fr — configuration Apache (hébergement OVH)
+# Domaine canonique : https://www.lesmeilleurshotelspa.fr
+
+# ---------------------------------------------------------------- redirections
+RewriteEngine On
+
+# 1. Forcer HTTPS. Sur OVH le TLS est terminé en amont : c'est X-Forwarded-Proto
+#    qui fait foi, %{HTTPS} n'est pas fiable derrière le proxy.
+RewriteCond %{HTTP:X-Forwarded-Proto} =http [OR]
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP:X-Forwarded-Proto} !=https
+RewriteRule ^ https://www.lesmeilleurshotelspa.fr%{REQUEST_URI} [L,R=301]
+
+# 2. Forcer le sous-domaine www (apex et toute autre variante d'hôte)
+RewriteCond %{HTTP_HOST} !^www\.lesmeilleurshotelspa\.fr$ [NC]
+RewriteCond %{HTTP_HOST} !^$
+RewriteRule ^ https://www.lesmeilleurshotelspa.fr%{REQUEST_URI} [L,R=301]
+
+# 3. Une seule URL par page : /dossier/index.html redirige vers /dossier/
+RewriteCond %{THE_REQUEST} \s/(.*/)?index\.html[\s?] [NC]
+RewriteRule ^(.*/)?index\.html$ /%1 [L,R=301]
+
+# 4. Ajouter le slash final aux dossiers, sans casser le port ni le protocole
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteCond %{REQUEST_URI} !/$
+RewriteRule ^(.*)$ https://www.lesmeilleurshotelspa.fr/$1/ [L,R=301]
+
+# ------------------------------------------------------------------- erreurs
+ErrorDocument 404 /404.html
+
+# --------------------------------------------------------------- compression
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml
+  AddOutputFilterByType DEFLATE application/javascript application/json
+  AddOutputFilterByType DEFLATE application/xml image/svg+xml
+</IfModule>
+
+<IfModule mod_brotli.c>
+  AddOutputFilterByType BROTLI_COMPRESS text/html text/css text/plain text/xml
+  AddOutputFilterByType BROTLI_COMPRESS application/javascript application/json
+  AddOutputFilterByType BROTLI_COMPRESS application/xml image/svg+xml
+</IfModule>
+
+# ------------------------------------------------------------------ cache
+# Les images portent un nom stable : un an. Le HTML, le CSS et le JS peuvent
+# changer à chaque publication : revalidation systématique, pas de contenu périmé.
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/webp                "access plus 1 year"
+  ExpiresByType image/jpeg                "access plus 1 year"
+  ExpiresByType image/png                 "access plus 1 year"
+  ExpiresByType image/svg+xml             "access plus 1 year"
+  ExpiresByType font/woff2                "access plus 1 year"
+  ExpiresByType text/css                  "access plus 1 day"
+  ExpiresByType application/javascript    "access plus 1 day"
+  ExpiresByType text/html                 "access plus 0 seconds"
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(webp|jpg|jpeg|png|svg|woff2)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+  <FilesMatch "\.(css|js)$">
+    Header set Cache-Control "public, max-age=86400, must-revalidate"
+  </FilesMatch>
+  <FilesMatch "\.html$">
+    Header set Cache-Control "public, max-age=0, must-revalidate"
+  </FilesMatch>
+
+  # ------------------------------------------------------------- sécurité
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set Permissions-Policy "geolocation=(), microphone=(), camera=(), interest-cohort=()"
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+</IfModule>
+
+# ------------------------------------------------------------------- types
+<IfModule mod_mime.c>
+  AddType image/webp .webp
+  AddType application/xml .xml
+  AddType text/plain .txt
+</IfModule>
+
+# --------------------------------------------------------------- protection
+# Ne jamais servir les sources de build ni les fichiers de configuration
+<FilesMatch "^(\.htaccess|\.gitignore|README\.md|railway\.json|Caddyfile)$">
+  Require all denied
+</FilesMatch>
+RedirectMatch 404 ^/(tools|\.git)/

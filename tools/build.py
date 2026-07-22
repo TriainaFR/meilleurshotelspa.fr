@@ -291,33 +291,96 @@ def sync_images():
 
 
 # ------------------------------------------------------------- 5. sitemap
-PRIORITY = {"index.html": "1.0", "articles.html": "0.9"}
+# Google ignore <changefreq> et <priority> depuis 2023 : le sitemap ne porte que
+# <loc> et <lastmod>, les deux seuls signaux réellement exploités. Les URLs sont
+# groupées par rubrique et ordonnées comme le site, pas alphabétiquement.
+
+NOINDEX = re.compile(r'<meta name="robots" content="[^"]*noindex')
+
+# Ordre de lecture des pages hors catalogue éditorial
+FIXED_ORDER = [
+    "index.html", "articles.html",
+    "notre-methode/index.html", "redaction/index.html",
+    "redaction/lucas-lecoq/index.html", "redaction/swann-bertaud/index.html",
+    "contact.html", "mentions-legales/index.html", "confidentialite/index.html",
+]
+
+SECTIONS = [
+    ("Accueil et sommaire",      lambda f, a: f in ("index.html", "articles.html")),
+    ("Palmarès et classements",  lambda f, a: a and a["cat"] == "Palmarès"),
+    ("Enquêtes et ouvertures",   lambda f, a: a and a["cat"] in ("Enquête", "Ouverture")),
+    ("Spas et bien-être",        lambda f, a: a and a["cat"] == "Spas"),
+    ("Destinations",             lambda f, a: a and a["cat"] == "Destinations"),
+    ("Le média",                 lambda f, a: f.startswith(("notre-methode/", "redaction/"))),
+    ("Contact et mentions",      lambda f, a: True),
+]
 
 
 def sync_sitemap():
-    urls = []
+    by_page = {os.path.join(a["url"], "index.html").replace("\\", "/"): a for a in ARTS}
+    entries, seen, skipped = [], set(), 0
+
+    remaining = []
     for f in pages():
-        if f in ("404.html",):
+        if f == "404.html":
             continue
         s = open(f, encoding="utf-8").read()
+        if NOINDEX.search(s):
+            skipped += 1
+            continue
         m = re.search(r'<link rel="canonical" href="([^"]+)"', s)
         if not m:
-            fail(f"canonical manquant : {f}")
+            fail(f"canonical manquant, page absente du sitemap : {f}")
             continue
         loc = m.group(1)
-        d = git_date(f) or datetime.now(timezone.utc).strftime("%Y-%m-%d")
-        prio = PRIORITY.get(f, "0.3" if ("mentions" in f or "confidentialite" in f)
-                            else "0.6" if "redaction" in f or "contact" in f
-                            else "0.8")
-        freq = "daily" if f in PRIORITY else "monthly"
-        urls.append(f"  <url><loc>{loc}</loc><lastmod>{d}</lastmod>"
-                    f"<changefreq>{freq}</changefreq><priority>{prio}</priority></url>")
+        if not loc.startswith(BASE + "/"):
+            fail(f"canonical hors domaine canonique : {f} -> {loc}")
+            continue
+        if loc in seen:
+            fail(f"URL en double dans le sitemap : {loc}")
+            continue
+        seen.add(loc)
+        remaining.append((f, loc, by_page.get(f)))
+
+    blocks = []
+    for title, match in SECTIONS:
+        group = [x for x in remaining if match(x[0], x[2])]
+        if not group:
+            continue
+        remaining = [x for x in remaining if x not in group]
+        # Règle de tri : page pilier en tête de rubrique, puis parutions de la plus
+        # récente à la plus ancienne (titre en départage). Les pages hors catalogue
+        # suivent l'ordre de lecture défini dans FIXED_ORDER.
+        group.sort(key=lambda x: (x[2]["title"] if x[2] else x[1]))
+        group.sort(key=lambda x: x[2]["date"] if x[2] else "", reverse=True)
+        group.sort(key=lambda x: FIXED_ORDER.index(x[0]) if x[0] in FIXED_ORDER else 99)
+        group.sort(key=lambda x: 0 if x[0].startswith("palmares/") else 1)
+        lines = [f"  <!-- {title} -->"]
+        for f, loc, a in group:
+            d = git_date(f) or datetime.now(timezone.utc).strftime("%Y-%m-%d")
+            lines.append(f"  <url>\n    <loc>{loc}</loc>\n    <lastmod>{d}</lastmod>\n  </url>")
+            entries.append(loc)
+        blocks.append("\n".join(lines))
+
     xml = ('<?xml version="1.0" encoding="UTF-8"?>\n'
            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-           + "\n".join(urls) + "\n</urlset>\n")
+           + "\n\n".join(blocks) + "\n</urlset>\n")
+
+    # validation stricte avant écriture
+    try:
+        import xml.etree.ElementTree as ET
+        root = ET.fromstring(xml)
+        n = len(root.findall("{http://www.sitemaps.org/schemas/sitemap/0.9}url"))
+        if n != len(entries):
+            fail(f"sitemap : {n} balises url pour {len(entries)} URLs attendues")
+    except Exception as e:
+        fail(f"sitemap XML invalide : {e}")
+        return
+
     old = open("sitemap.xml", encoding="utf-8").read() if os.path.exists("sitemap.xml") else ""
     if write("sitemap.xml", old, xml):
-        log(f"sitemap.xml régénéré ({len(urls)} URLs)")
+        log(f"sitemap.xml régénéré ({len(entries)} URLs indexables"
+            + (f", {skipped} page(s) en noindex exclue(s)" if skipped else "") + ")")
 
 
 # ------------------------------------------------------------- 6. contrôles

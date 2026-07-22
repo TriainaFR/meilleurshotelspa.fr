@@ -59,5 +59,24 @@ absente ou un lien interne mort. `--check` exécute les contrôles sans rien éc
 
 ## Déploiement
 
-Hébergement : OVH et Railway. Servir la racine du dépôt en statique, avec
-`404.html` en page d'erreur et une redirection de l'apex vers `www`.
+Domaine canonique : **https://www.lesmeilleurshotelspa.fr**
+
+Deux configurations sont fournies, à choisir selon l'hébergeur :
+
+| Hébergeur | Fichiers | Ce qu'ils font |
+|---|---|---|
+| **OVH** (Apache) | `.htaccess` | HTTPS forcé via `X-Forwarded-Proto`, apex → `www`, `/dossier/index.html` → `/dossier/`, `ErrorDocument 404`, compression, cache long sur les images, en-têtes de sécurité |
+| **Railway** (Caddy) | `Caddyfile`, `nixpacks.toml`, `railway.json` | Même comportement. Seul l'apex est redirigé vers `www` : le domaine `.up.railway.app` reste joignable, sinon les healthchecks reçoivent une 301 |
+
+Le build Railway copie le site dans `/srv` et en exclut `tools/`, les fichiers de
+configuration et la documentation, puis valide le `Caddyfile` avant de démarrer.
+
+### Après la première mise en ligne
+
+1. Vérifier que `/robots.txt` et `/sitemap.xml` répondent en 200, et qu'une URL
+   inexistante renvoie un **code 404** et non un 200.
+2. Déclarer le site dans Google Search Console et Bing Webmaster Tools, y
+   soumettre le sitemap.
+3. Contrôler les trois redirections : apex → www, http → https, `/index.html` → `/`.
+
+Le reste des chantiers ouverts est listé dans [TODO.md](TODO.md).

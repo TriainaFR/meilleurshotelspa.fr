@@ -1,0 +1,17 @@
+# Railway : site statique servi par Caddy, aucune compilation.
+# Le contenu publiable est copié dans /srv, racine déclarée par le Caddyfile ;
+# les fichiers de build et de configuration restent hors de la racine servie.
+
+[phases.setup]
+nixPkgs = ["caddy"]
+
+[phases.build]
+cmds = [
+  "mkdir -p /srv",
+  "cp -r . /srv",
+  "rm -rf /srv/tools /srv/.git /srv/Caddyfile /srv/railway.json /srv/nixpacks.toml /srv/README.md /srv/TODO.md /srv/.htaccess /srv/.gitignore",
+  "caddy validate --config ./Caddyfile --adapter caddyfile",
+]
+
+[start]
+cmd = "caddy run --config /app/Caddyfile --adapter caddyfile"
