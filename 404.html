@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Page introuvable | Meilleurs.</title>
+<meta name="description" content="Cette page n'existe pas ou a été déplacée. Retrouvez les palmarès, guides et enquêtes de Meilleurs. depuis l'accueil ou le sommaire.">
+<meta name="robots" content="noindex, follow">
+
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/favicon.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta name="theme-color" content="#F5F0E4">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=Archivo:ital,wdth,wght@0,62..125,100..900;1,62..125,100..900&family=Spline+Sans+Mono:ital,wght@0,300..700;1,300..700&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=Archivo:ital,wdth,wght@0,62..125,100..900;1,62..125,100..900&family=Spline+Sans+Mono:ital,wght@0,300..700;1,300..700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=Archivo:ital,wdth,wght@0,62..125,100..900;1,62..125,100..900&family=Spline+Sans+Mono:ital,wght@0,300..700;1,300..700&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="/assets/style.css">
+<style>
+  .e404{min-height:70vh;display:flex;flex-direction:column;justify-content:center;padding-block:clamp(60px,10vh,140px)}
+  .e404 .num{font-family:var(--serif);font-weight:800;font-variation-settings:"opsz" 144,"WONK" 1;
+    font-size:clamp(5rem,18vw,13rem);line-height:.85;letter-spacing:-.04em;color:var(--ink)}
+  .e404 .num i{color:var(--coral);font-style:normal}
+  .e404 h1{margin-top:.3em;max-width:20ch}
+  .e404 p.lead{max-width:56ch;margin-top:1.2em;font-size:1.05rem;line-height:1.75;color:var(--ink-soft)}
+  .e404 .links{display:flex;flex-wrap:wrap;gap:14px 26px;margin-top:2.4em;align-items:center}
+</style>
+</head>
+<body>
+
+<div class="topstrip">
+  <div class="wrap">
+    <span>Édition n°01 · Été 2026</span>
+    <span class="hide-m">Paris · Nice · Biarritz · Saint-Tropez</span>
+    <span class="temp hide-m">Eau du bassin : <b>28,4 °C</b></span>
+    <span id="today">·</span>
+  </div>
+</div>
+
+<header class="masthead">
+  <div class="wrap">
+    <a href="/index.html" class="logo">Meilleurs<span class="dot">.</span></a>
+    <nav class="main" aria-label="Navigation principale">
+      <a href="/index.html#palmares">Palmarès</a>
+      <a href="/index.html#destinations">Destinations</a>
+      <a href="/index.html#spa">Spas &amp; Bien-être</a>
+      <a href="/articles.html">Articles</a>
+      <a href="/contact.html">Contact</a>
+    </nav>
+    <div class="mast-actions">
+      <button class="btn-search" data-search-open aria-label="Ouvrir la recherche"><span class="ic">⌕</span> Rechercher</button>
+      <button class="burger" id="burger" aria-expanded="false" aria-controls="overlay">Menu</button>
+    </div>
+  </div>
+</header>
+
+<div class="overlay" id="overlay" aria-hidden="true">
+  <button class="close" id="close-overlay">Fermer ✕</button>
+  <nav class="wrap" aria-label="Menu mobile">
+    <a class="big" href="/index.html#palmares" style="transition-delay:.08s">Palmarès <small>50 adresses</small></a>
+    <a class="big" href="/index.html#destinations" style="transition-delay:.16s">Destinations <small>07 régions</small></a>
+    <a class="big" href="/index.html#spa" style="transition-delay:.24s">Spas &amp; Bien-être <small>30 testés</small></a>
+    <a class="big" href="/articles.html" style="transition-delay:.32s">Tous les articles <small data-art-count>18 parutions</small></a>
+    <a class="big" href="/contact.html" style="transition-delay:.4s">Contact <small>48 h chrono</small></a>
+    <a class="big" data-search-open style="transition-delay:.48s">Rechercher <small>⌕</small></a>
+  </nav>
+</div>
+
+<section class="wrap e404">
+  <span class="num">4<i>0</i>4</span>
+  <h1>Cette chambre <i>n'existe pas</i></h1>
+  <p class="lead">
+    La page que vous cherchez a été déplacée, renommée, ou n'a jamais existé.
+    Cela arrive même dans les meilleures maisons. Le sommaire complet du média est
+    à un clic, et la recherche fonctionne sur les 18 parutions.
+  </p>
+  <div class="links">
+    <a href="/articles.html" class="btn-primary">Tous les articles <span class="arr">→</span></a>
+    <a href="/palmares/meilleurs-hotels-spas-france-2026/" class="link-under">Le palmarès 2026</a>
+    <a data-search-open class="link-under" style="cursor:pointer">Rechercher une adresse</a>
+    <a href="/contact.html" class="link-under">Signaler un lien mort</a>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap foot-grid">
+    <div class="foot-brand">
+      <span class="logo" style="color:var(--paper)">Meilleurs<span class="dot">.</span></span>
+      <p>Le média français des hôtels, spas et destinations d'exception.
+      Indépendant, payé par personne, dormi partout.</p>
+    </div>
+    <div>
+      <h4>Explorer</h4>
+      <ul>
+        <li><a href="/index.html#palmares">Palmarès 2026</a></li>
+        <li><a href="/index.html#destinations">Destinations</a></li>
+        <li><a href="/index.html#spa">Spas &amp; Bien-être</a></li>
+        <li><a href="/articles.html">Tous les articles</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Le média</h4>
+      <ul>
+        <li><a href="/notre-methode/">Notre méthode</a></li>
+        <li><a href="/redaction/">La rédaction</a></li>
+        <li><a href="/contact.html">Nous écrire</a></li>
+        <li><a href="/contact.html">Presse</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Légal</h4>
+      <ul>
+        <li><a href="/mentions-legales/">Mentions légales</a></li>
+        <li><a href="/confidentialite/">Confidentialité</a></li>
+        <li><a href="/confidentialite/#cookies">Cookies</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="foot-mast" aria-hidden="true">Meilleurs<i>.</i></div>
+  <div class="colophon">
+    <div class="wrap">
+      <span>© MMXXVI lesmeilleurshotelspa.fr · Triaina SAS</span>
+      <span>Paris, fait avec soin, relu en peignoir</span>
+      <span>FR · Édition France</span>
+    </div>
+  </div>
+</footer>
+
+<script src="/assets/articles.js"></script>
+<script src="/assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,376 @@
+#!/usr/bin/env python3
+"""
+Build de lesmeilleurshotelspa.fr : à lancer après CHAQUE ajout ou modification d'article.
+
+    python3 tools/build.py            # applique tout
+    python3 tools/build.py --check    # ne modifie rien, signale seulement
+
+Ce que le script maintient automatiquement, à partir de assets/articles.js
+(la seule source de vérité du catalogue) et de l'historique git :
+
+  1. Compteurs du site : « N parutions » dans tous les menus, nombre de régions
+     couvertes, nombre de spas testés, compteurs des cartes destinations.
+  2. Listes statiques d'articles, injectées dans #latest-grid, #latest-wire et
+     #articles-grid pour que les crawlers sans JavaScript (GPTBot, ClaudeBot,
+     PerplexityBot) voient les liens. Le JS les remplace pour les humains.
+  3. Dates : dateModified des JSON-LD, meta content-freshness et mention
+     « Dernière mise à jour » alignées sur la dernière modification git du
+     fichier. Aucune date n'est inventée : si le fichier n'a jamais été
+     committé, sa date reste inchangée.
+  4. Dimensions des images (width/height) et variantes WebP manquantes.
+  5. sitemap.xml régénéré (URLs + lastmod).
+
+Contrôles de non-régression : JSON-LD valide, aucun tiret cadratin, aucun lien
+interne mort, aucune image pointant vers un fichier absent.
+"""
+
+import argparse, json, os, re, subprocess, sys
+from datetime import datetime, timezone
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE = "https://www.lesmeilleurshotelspa.fr"
+os.chdir(ROOT)
+
+CHECK = "--check" in sys.argv
+changes, problems = [], []
+
+
+def log(msg):
+    changes.append(msg)
+
+
+def fail(msg):
+    problems.append(msg)
+
+
+def pages():
+    out = []
+    for dirpath, dirnames, filenames in os.walk("."):
+        dirnames[:] = [d for d in dirnames if d not in (".git", "tools", "node_modules")]
+        for fn in filenames:
+            if fn.endswith(".html"):
+                out.append(os.path.relpath(os.path.join(dirpath, fn), "."))
+    return sorted(out)
+
+
+def write(path, old, new):
+    if old == new:
+        return False
+    if not CHECK:
+        open(path, "w", encoding="utf-8").write(new)
+    return True
+
+
+# ---------------------------------------------------------------- catalogue
+def load_articles():
+    """Lit assets/articles.js sans l'exécuter : les clés JS nues sont mises entre
+    guillemets, mais uniquement hors des chaînes (les titres contiennent des
+    deux-points, ex. « Les meilleurs hôtels de Lyon : du boutique-hôtel... »)."""
+    src = open("assets/articles.js", encoding="utf-8").read()
+    src = re.sub(r"/\*.*?\*/", "", src, flags=re.S)
+    body = src[src.index("[") : src.rindex("]") + 1]
+
+    out, i, in_str, esc = [], 0, False, False
+    while i < len(body):
+        c = body[i]
+        if in_str:
+            out.append(c)
+            if esc:
+                esc = False
+            elif c == "\\":
+                esc = True
+            elif c == '"':
+                in_str = False
+            i += 1
+            continue
+        if c == '"':
+            in_str = True
+            out.append(c)
+            i += 1
+            continue
+        m = re.match(r"([A-Za-z_]\w*)\s*:", body[i:])
+        if m and (not out or out[-1].strip() in ("", "{", ",", "\n")):
+            out.append(f'"{m.group(1)}":')
+            i += m.end()
+            continue
+        out.append(c)
+        i += 1
+
+    arts = json.loads(re.sub(r",(\s*[\]}])", r"\1", "".join(out)))
+    return sorted(arts, key=lambda a: a["date"], reverse=True)
+
+
+ARTS = load_articles()
+REGIONS = sorted({r.strip() for a in ARTS for r in a["region"].split("·")})
+SPAS = sum(1 for a in ARTS if a["cat"] == "Spas")
+
+FR_MONTHS = ["janv.", "févr.", "mars", "avr.", "mai", "juin",
+             "juil.", "août", "sept.", "oct.", "nov.", "déc."]
+FR_MONTHS_LONG = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
+                  "août", "septembre", "octobre", "novembre", "décembre"]
+
+
+def fr_date(iso, long=False):
+    y, m, d = (int(x) for x in iso.split("-"))
+    return f"{d} {(FR_MONTHS_LONG if long else FR_MONTHS)[m - 1]} {y}"
+
+
+# ------------------------------------------------------- 1. compteurs du site
+def dest_cards():
+    """Nombre de destinations mises en avant sur la page d'accueil."""
+    home = open("index.html", encoding="utf-8").read()
+    return len(re.findall(r'<a class="dest-card"', home)) or 7
+
+
+def spa_count():
+    """Somme des adresses annoncées par les titres des articles de la rubrique Spas.
+    On s'appuie sur le décompte de chaque article, déjà vérifié à la publication,
+    plutôt que sur un comptage de balises qui raterait les entrées de tableau."""
+    total = 0
+    for a in ARTS:
+        if a["cat"] != "Spas":
+            continue
+        m = re.search(r"(\d+)\s+adresses", a["title"])
+        if m:
+            total += int(m.group(1))
+    return total or SPAS
+
+
+def sync_counters():
+    n, regions, spas = len(ARTS), dest_cards(), spa_count()
+    touched = 0
+    for f in pages():
+        s = open(f, encoding="utf-8").read()
+        o = s
+        s = re.sub(r'(data-art-count>)\d+( parutions)', rf'\g<1>{n}\g<2>', s)
+        s = re.sub(r'(Destinations <small>)\d+( régions)', rf'\g<1>{regions:02d}\g<2>', s)
+        s = re.sub(r'(Bien-être <small>)\d+( testés)', rf'\g<1>{spas}\g<2>', s)
+        s = re.sub(r'(<div class="st"><b>)\d+(</b><span>spas testés)', rf'\g<1>{spas}\g<2>', s)
+        if write(f, o, s):
+            touched += 1
+    if touched:
+        log(f"compteurs synchronisés sur {touched} pages "
+            f"({n} parutions, {regions} destinations, {spas} spas testés)")
+
+
+# ------------------------------------- 2. listes statiques (crawlers sans JS)
+_DIMS = {}
+
+
+def img_dims(rel):
+    """Dimensions natives d'une image, mises en cache (évite le CLS sur les cartes)."""
+    if rel not in _DIMS:
+        try:
+            from PIL import Image
+            _DIMS[rel] = Image.open(rel).size
+        except Exception:
+            _DIMS[rel] = None
+    return _DIMS[rel]
+
+
+def card_html(a, prefix=""):
+    rel = a.get("photo", "images/og-default.jpg")
+    photo = prefix + rel
+    d = img_dims(rel)
+    wh = f' width="{d[0]}" height="{d[1]}"' if d else ""
+    return (
+        f'<a class="art-card" href="{prefix}{a["url"]}" data-cat="{a["cat"]}">'
+        f'<div class="ph"><img{wh} src="{photo}" alt="" loading="lazy" decoding="async"></div>'
+        f'<div class="meta"><span class="cat">{a["cat"]}</span>'
+        f'<span class="date">{fr_date(a["date"])}</span></div>'
+        f'<h3>{a["title"]}</h3>'
+        f'<p class="dest">{a["dest"]} · {a["reading"]} min de lecture</p></a>'
+    )
+
+
+def wire_html(a, prefix=""):
+    return (
+        f'<a class="wire-row" href="{prefix}{a["url"]}">'
+        f'<span class="w-date">{fr_date(a["date"]).replace(" 2026", "")}</span>'
+        f'<span class="w-cat">{a["cat"]}</span>'
+        f'<span class="w-title">{a["title"]}</span>'
+        f'<span class="w-arr">→</span></a>'
+    )
+
+
+def fill(container_id, html, page):
+    """Injecte la liste statique entre deux marqueurs HTML, dans le conteneur que
+    le JS repeuple côté client. Les marqueurs rendent l'opération idempotente :
+    relancer le build remplace le bloc au lieu de l'empiler."""
+    open_m, close_m = f"<!--S:{container_id}-->", f"<!--/S:{container_id}-->"
+    s = open(page, encoding="utf-8").read()
+    o = s
+    if open_m not in s:
+        m = re.search(r'<div [^>]*id="%s"[^>]*>' % container_id, s)
+        if not m:
+            fail(f"conteneur #{container_id} introuvable dans {page}")
+            return
+        s = s[: m.end()] + open_m + close_m + s[m.end():]
+    i, j = s.index(open_m) + len(open_m), s.index(close_m)
+    s = s[:i] + "\n" + html + "\n" + s[j:]
+    if write(page, o, s):
+        log(f"liens statiques régénérés dans #{container_id} ({page})")
+
+
+def sync_static_lists():
+    fill("latest-grid", "".join(card_html(a) for a in ARTS[:12]), "index.html")
+    fill("latest-wire", "".join(wire_html(a) for a in ARTS[12:]), "index.html")
+    fill("articles-grid", "".join(card_html(a) for a in ARTS), "articles.html")
+
+
+# ------------------------------------------------------------ 3. dates auto
+def git_date(path):
+    try:
+        out = subprocess.run(["git", "log", "-1", "--format=%cs", "--", path],
+                             capture_output=True, text=True, timeout=10).stdout.strip()
+        return out or None
+    except Exception:
+        return None
+
+
+def sync_dates():
+    touched = 0
+    for f in pages():
+        d = git_date(f)
+        if not d:
+            continue
+        s = open(f, encoding="utf-8").read()
+        o = s
+        s = re.sub(r'("dateModified":\s*")\d{4}-\d{2}-\d{2}(")', rf'\g<1>{d}\g<2>', s)
+        s = re.sub(r'(<meta name="content-freshness" content=")\d{4}-\d{2}-\d{2}(")', rf'\g<1>{d}\g<2>', s)
+        s = re.sub(r'(Dernière mise à jour&nbsp;:|Dernière mise à jour :)\s*\d{1,2} \w+ \d{4}',
+                   rf'\g<1> {fr_date(d, long=True)}', s)
+        s = re.sub(r'(Mise à jour le )\d{1,2} \w+ \d{4}', rf'\g<1>{fr_date(d, long=True)}', s)
+        if write(f, o, s):
+            touched += 1
+    if touched:
+        log(f"dates de mise à jour alignées sur git sur {touched} pages")
+    elif not any(git_date(f) for f in pages()[:3]):
+        log("dates : dépôt git sans historique, aucune date touchée")
+
+
+# --------------------------------------------------- 4. images (dims + webp)
+def sync_images():
+    try:
+        from PIL import Image
+    except ImportError:
+        log("images : Pillow absent, étape ignorée (pip install pillow)")
+        return
+    made = 0
+    dims = {}
+    for src in sorted(f for f in os.listdir("images") if f.lower().endswith((".jpg", ".jpeg", ".png"))):
+        p = os.path.join("images", src)
+        im = Image.open(p)
+        dims[src] = im.size
+        stem = os.path.splitext(p)[0]
+        if not os.path.exists(stem + ".webp") and not CHECK:
+            im.convert("RGB").save(stem + ".webp", "WEBP", quality=76, method=5)
+            made += 1
+        if im.size[0] > 900 and not os.path.exists(stem + "-800.webp") and not CHECK:
+            w, h = im.size
+            im.convert("RGB").resize((800, round(h * 800 / w)), Image.LANCZOS)\
+              .save(stem + "-800.webp", "WEBP", quality=74, method=5)
+            made += 1
+    if made:
+        log(f"{made} variantes WebP générées")
+
+    touched = 0
+    for f in pages():
+        s = open(f, encoding="utf-8").read()
+        o = s
+        for m in re.finditer(r"<img\b[^>]*>", s, re.S):
+            tag = m.group(0)
+            ms = re.search(r'src="[^"]*images/([^"/]+)"', tag)
+            if ms and "width=" not in tag and ms.group(1) in dims:
+                w, h = dims[ms.group(1)]
+                s = s.replace(tag, tag.replace("<img ", f'<img width="{w}" height="{h}" ', 1), 1)
+        if write(f, o, s):
+            touched += 1
+    if touched:
+        log(f"width/height ajoutés sur {touched} pages")
+
+
+# ------------------------------------------------------------- 5. sitemap
+PRIORITY = {"index.html": "1.0", "articles.html": "0.9"}
+
+
+def sync_sitemap():
+    urls = []
+    for f in pages():
+        if f in ("404.html",):
+            continue
+        s = open(f, encoding="utf-8").read()
+        m = re.search(r'<link rel="canonical" href="([^"]+)"', s)
+        if not m:
+            fail(f"canonical manquant : {f}")
+            continue
+        loc = m.group(1)
+        d = git_date(f) or datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        prio = PRIORITY.get(f, "0.3" if ("mentions" in f or "confidentialite" in f)
+                            else "0.6" if "redaction" in f or "contact" in f
+                            else "0.8")
+        freq = "daily" if f in PRIORITY else "monthly"
+        urls.append(f"  <url><loc>{loc}</loc><lastmod>{d}</lastmod>"
+                    f"<changefreq>{freq}</changefreq><priority>{prio}</priority></url>")
+    xml = ('<?xml version="1.0" encoding="UTF-8"?>\n'
+           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+           + "\n".join(urls) + "\n</urlset>\n")
+    old = open("sitemap.xml", encoding="utf-8").read() if os.path.exists("sitemap.xml") else ""
+    if write("sitemap.xml", old, xml):
+        log(f"sitemap.xml régénéré ({len(urls)} URLs)")
+
+
+# ------------------------------------------------------------- 6. contrôles
+def checks():
+    for f in pages():
+        s = open(f, encoding="utf-8").read()
+        for i, b in enumerate(re.findall(r'<script type="application/ld\+json">(.*?)</script>', s, re.S)):
+            try:
+                json.loads(b)
+            except Exception as e:
+                fail(f"JSON-LD invalide : {f} bloc {i} ({e})")
+        if "—" in s:
+            fail(f"tiret cadratin interdit : {f}")
+        if re.search(r"[Rr]édactrice", re.sub(r"<!--.*?-->", "", s, flags=re.S)):
+            fail(f"signature au féminin : {f}")
+        d = os.path.dirname(f) or "."
+
+        def resolve(ref):
+            """Un chemin commençant par / est relatif à la racine du site,
+            les autres au dossier de la page."""
+            return os.path.join(".", ref.lstrip("/")) if ref.startswith("/") else os.path.join(d, ref)
+
+        for src in re.findall(r'src="([^"]*images/[^"]+)"', s) + re.findall(r'srcset="([^"]+)"', s):
+            for cand in src.split(","):
+                path = cand.strip().split(" ")[0]
+                if path.startswith("http") or not path:
+                    continue
+                if not os.path.exists(resolve(path)):
+                    fail(f"image absente : {f} -> {path}")
+        for href in re.findall(r'href="([^"#?]+)"', s):
+            if href.startswith(("http", "mailto", "tel", "data:")):
+                continue
+            p = resolve(href)
+            if not os.path.exists(p) and not os.path.exists(os.path.join(p, "index.html")):
+                fail(f"lien mort : {f} -> {href}")
+
+
+# ----------------------------------------------------------------- exécution
+if __name__ == "__main__":
+    sync_counters()
+    sync_static_lists()
+    sync_images()
+    sync_dates()
+    sync_sitemap()
+    checks()
+
+    print(f"\n  Build {'(vérification seule)' if CHECK else ''} : "
+          f"{len(ARTS)} articles, {len(pages())} pages\n")
+    for c in changes:
+        print("  ✓", c)
+    if problems:
+        print()
+        for p in problems:
+            print("  ✗", p)
+        sys.exit(1)
+    print("\n  Aucun problème détecté.\n")

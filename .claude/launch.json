@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "site",
+      "runtimeExecutable": "/bin/sh",
+      "runtimeArgs": [
+        "-c",
+        "exec /Users/l.l/.local/share/uv/python/cpython-3.12-macos-aarch64-none/bin/python3.12 -m http.server \"$PORT\" --bind 127.0.0.1"
+      ],
+      "autoPort": true
+    }
+  ]
+}

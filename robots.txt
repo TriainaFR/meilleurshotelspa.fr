@@ -1,0 +1,32 @@
+# lesmeilleurshotelspa.fr : média Meilleurs., édité par Triaina SAS
+# Tout le site est ouvert au crawl, y compris aux robots des moteurs de réponse IA.
+
+User-agent: *
+Allow: /
+
+# Moteurs et assistants IA explicitement bienvenus
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://www.lesmeilleurshotelspa.fr/sitemap.xml

@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+._*
+
+# Outils locaux
+.claude/scheduled_tasks.lock
+.claude/settings.local.json
+__pycache__/
+*.pyc
+.venv/
+node_modules/
