@@ -523,4 +523,11 @@ if __name__ == "__main__":
         for p in problems:
             print("  ✗", p)
         sys.exit(1)
-    print("\n  Aucun problème détecté.\n")
+    print("\n  Aucun problème détecté.")
+
+    # Rappel de l'étape que l'on oublie : un contenu publié sans notification met
+    # des jours à être découvert, avec elle quelques minutes.
+    if changes and not CHECK:
+        print("\n  Prochaine étape : commiter, pousser, déployer,")
+        print("  puis  npm run indexnow  pour notifier Bing et Copilot.")
+    print()

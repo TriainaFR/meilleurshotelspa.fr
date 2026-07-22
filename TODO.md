@@ -92,18 +92,17 @@ restantes évaluées sur données publiques ». Ajouter une phrase dans
 ## Entretien courant
 
 ### Après chaque publication
-Lancer le build, qui recalcule tout ce qui dérive du catalogue, puis prévenir
-les moteurs une fois le déploiement passé :
+La routine est en trois temps, et la troisième n'est pas optionnelle :
 
 ```bash
-uv run --with pillow python tools/build.py
+npm run build                     # compteurs, Markdown, dates, sitemap, contrôles
 git commit -am "…" && git push
-# après déploiement
-python3 tools/indexnow.py --changed
+npm run indexnow                  # après déploiement : Bing et Copilot
 ```
 
-Ne jamais éditer à la main un compteur, une liste d'articles, une date de mise à
-jour ou le sitemap : le prochain build les écrasera.
+Le build rappelle lui-même la dernière étape en fin de sortie. Ne jamais éditer à
+la main un compteur, une liste d'articles, une date de mise à jour ou le sitemap :
+le prochain build les écrasera.
 
 ### Rythme de fraîcheur
 Les tarifs relevés datent tous de juillet 2026. Prévoir une révision mensuelle :
