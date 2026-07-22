@@ -22,8 +22,15 @@ os.chdir(ROOT)
 
 HOST = "www.lesmeilleurshotelspa.fr"
 BASE = f"https://{HOST}"
-ENDPOINT = "https://api.indexnow.org/indexnow"
 NS = "{http://www.sitemaps.org/schemas/sitemap/0.9}"
+
+# Le point d'entrée partagé relaie déjà aux moteurs participants, mais on notifie
+# Bing en direct : c'est son index qui alimente les citations de Microsoft Copilot,
+# et un relais en panne passerait autrement inaperçu.
+ENDPOINTS = [
+    ("IndexNow (partagé)", "https://api.indexnow.org/indexnow"),
+    ("Bing et Copilot", "https://www.bing.com/indexnow"),
+]
 
 # Un User-Agent explicite est indispensable : les pare-feu applicatifs (Cloudflare
 # devant ce site, entre autres) renvoient 403 à l'agent par défaut de urllib.
@@ -84,31 +91,39 @@ def changed_urls():
 
 def submit(urls, key, dry_run=False):
     if not urls:
-        print("Aucune URL à soumettre.")
+        print("Aucune URL à soumettre : aucune page n'a changé au dernier commit.")
+        print("Pour resoumettre tout le site : npm run indexnow:all")
         return 0
     payload = {"host": HOST, "key": key, "keyLocation": f"{BASE}/{key}.txt",
                "urlList": urls[:10000]}
-    print(f"{len(payload['urlList'])} URL(s) à soumettre à IndexNow :")
+    print(f"{len(payload['urlList'])} URL(s) à soumettre :")
     for u in payload["urlList"]:
         print("  ", u)
     if dry_run:
         print("\n--dry-run : rien n'a été envoyé.")
         return 0
 
-    req = urllib.request.Request(
-        ENDPOINT, data=json.dumps(payload).encode(),
-        headers={"Content-Type": "application/json; charset=utf-8", "User-Agent": UA},
-        method="POST")
-    try:
-        with urllib.request.urlopen(req, timeout=30) as r:
-            code = r.status
-    except urllib.error.HTTPError as e:
-        code = e.code
-    except Exception as e:
-        sys.exit(f"Échec réseau : {e}")
-
-    print(f"\nRéponse {code} : {MESSAGES.get(code, 'code inattendu')}")
-    return 0 if code in (200, 202) else 1
+    body = json.dumps(payload).encode()
+    failed = 0
+    print()
+    for label, endpoint in ENDPOINTS:
+        req = urllib.request.Request(
+            endpoint, data=body,
+            headers={"Content-Type": "application/json; charset=utf-8", "User-Agent": UA},
+            method="POST")
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                code = r.status
+        except urllib.error.HTTPError as e:
+            code = e.code
+        except Exception as e:
+            print(f"  {label:22} échec réseau : {e}")
+            failed += 1
+            continue
+        ok = code in (200, 202)
+        print(f"  {label:22} {code} {MESSAGES.get(code, 'code inattendu')}")
+        failed += 0 if ok else 1
+    return 1 if failed == len(ENDPOINTS) else 0
 
 
 if __name__ == "__main__":

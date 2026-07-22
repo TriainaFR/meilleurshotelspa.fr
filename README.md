@@ -58,14 +58,36 @@ clé et rester accessible en ligne : c'est la preuve de propriété du domaine.
 `tools/build.py` vérifie cette cohérence à chaque build.
 
 ```bash
-python3 tools/indexnow.py --changed    # pages modifiées au dernier commit (usage courant)
-python3 tools/indexnow.py --all        # toutes les URLs du sitemap (après une refonte)
-python3 tools/indexnow.py --changed --dry-run
+npm run indexnow        # pages modifiées au dernier commit (usage courant)
+npm run indexnow:all    # toutes les URLs du sitemap (après une refonte)
+npm run indexnow:dry    # afficher ce qui serait envoyé, sans envoyer
 ```
+
+La soumission part vers **deux points d'entrée** : celui partagé
+(`api.indexnow.org`, qui relaie aux moteurs participants) et **celui de Bing en
+direct**, dont l'index alimente les citations de Microsoft Copilot. Un relais en
+panne passerait autrement inaperçu.
 
 À lancer **après le déploiement**, pas avant : tant que le fichier de clé n'est
 pas en ligne, Bing refuse la soumission avec un 403. Le script le vérifie et
 s'arrête plutôt que d'envoyer dans le vide.
+
+## Scripts npm
+
+`package.json` ne sert qu'à ces raccourcis : le site n'a **aucune dépendance
+Node**, rien n'est compilé.
+
+| Commande | Effet |
+|---|---|
+| `npm run build` | Le build complet (compteurs, Markdown, dates, sitemap, contrôles) |
+| `npm run check` | Les contrôles seuls, sans rien écrire |
+| `npm run indexnow` | Soumet les pages modifiées au dernier commit |
+| `npm run indexnow:all` | Soumet les 27 URLs du sitemap |
+| `npm run publish:site` | Build, commit et push en une commande |
+
+Le `nixpacks.toml` déclare `providers = []` précisément pour que Railway ignore
+ce `package.json` : sans ça, Nixpacks basculerait en build Node et chercherait
+un `npm run build` côté serveur, qui n'a pas lieu d'être.
 
 ## Règles éditoriales appliquées dans le code
 

@@ -1,6 +1,14 @@
 # Railway : site statique servi par Caddy, aucune compilation.
+#
+# providers = [] désactive la détection automatique. C'est indispensable : la
+# présence d'un package.json (qui ne sert qu'aux scripts npm en local) ferait
+# autrement basculer Nixpacks en build Node, avec un npm install et un
+# npm run build qui n'existent pas ici.
+#
 # Le contenu publiable est copié dans /srv, racine déclarée par le Caddyfile ;
 # les fichiers de build et de configuration restent hors de la racine servie.
+
+providers = []
 
 [phases.setup]
 nixPkgs = ["caddy"]
@@ -9,7 +17,7 @@ nixPkgs = ["caddy"]
 cmds = [
   "mkdir -p /srv",
   "cp -r . /srv",
-  "rm -rf /srv/tools /srv/.git /srv/Caddyfile /srv/railway.json /srv/nixpacks.toml /srv/README.md /srv/TODO.md /srv/.htaccess /srv/.gitignore",
+  "rm -rf /srv/tools /srv/.git /srv/Caddyfile /srv/railway.json /srv/nixpacks.toml /srv/README.md /srv/TODO.md /srv/.htaccess /srv/.gitignore /srv/package.json /srv/package-lock.json /srv/node_modules",
   "caddy validate --config ./Caddyfile --adapter caddyfile",
 ]
 

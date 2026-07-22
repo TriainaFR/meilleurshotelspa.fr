@@ -1,0 +1,20 @@
+{
+  "name": "lesmeilleurshotelspa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Meilleurs. — site du média des hôtels, spas et destinations d'exception (lesmeilleurshotelspa.fr)",
+  "homepage": "https://www.lesmeilleurshotelspa.fr",
+  "author": "Triaina SAS",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "uv run --with pillow python tools/build.py",
+    "check": "uv run --with pillow python tools/build.py --check",
+    "indexnow": "python3 tools/indexnow.py --changed",
+    "indexnow:all": "python3 tools/indexnow.py --all",
+    "indexnow:dry": "python3 tools/indexnow.py --changed --dry-run",
+    "publish:site": "npm run build && git add -A && git commit -m \"Publication\" && git push"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
