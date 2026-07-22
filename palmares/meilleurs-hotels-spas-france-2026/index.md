@@ -83,7 +83,7 @@ Surplombant le lac Léman, cet établissement possède le spa le plus abouti de 
 
 Point faible : tarifs élevés en haute saison.
 
-Alpes · 450 € la nuit · Spa 1 700 m² · [Lire l'article complet →](https://www.lesmeilleurshotelspa.fr/hotels/hotel-royal-evian/)
+Alpes · 450 € la nuit · Spa 1 700 m²
 
 02
 
@@ -93,7 +93,7 @@ Adresse urbaine la plus spectaculaire du moment. Dior Spa avec piscine infinie s
 
 Point faible : localisation touristique, moins d'intimité.
 
-Paris · 2 050 € la nuit · Spa 1 000 m² · [Lire l'article complet →](https://www.lesmeilleurshotelspa.fr/hotels/cheval-blanc-paris/)
+Paris · 2 050 € la nuit · Spa 1 000 m² · [Lire notre enquête complète →](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/)
 
 03
 
@@ -103,7 +103,7 @@ Berceau de la vinothérapie. Bains en barrique, gommages au Cabernet, architectu
 
 Point faible : concept très spécialisé, moins adapté aux clients cherchant un spa classique.
 
-Bordeaux · 380 € la nuit · Spa 2 200 m² · [Lire l'article complet →](https://www.lesmeilleurshotelspa.fr/hotels/sources-caudalie/)
+Bordeaux · 380 € la nuit · Spa 2 200 m² · [Sa fiche dans notre guide des spas privatifs →](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-france/#caudalie)
 
 04
 
@@ -113,7 +113,7 @@ Spa le plus complet de France : 3 000 m² avec 14 cabines, piscines intérieure 
 
 Point faible : isolement géographique (40 min de la côte).
 
-Provence · 520 € la nuit · Spa 3 000 m² · [Lire l'article complet →](https://www.lesmeilleurshotelspa.fr/hotels/terre-blanche/)
+Provence · 520 € la nuit · Spa 3 000 m²
 
 05
 
@@ -123,7 +123,7 @@ Spa Nuxe en ski-in ski-out. Piscine chauffée avec vue sur les pistes. Praticien
 
 Point faible : tarifs très élevés, accessible surtout en hors-saison.
 
-Alpes · 1 200 € la nuit · Spa 1 800 m² · [Lire l'article complet →](https://www.lesmeilleurshotelspa.fr/hotels/apogee-courchevel/)
+Alpes · 1 200 € la nuit · Spa 1 800 m²
 
 06
 
@@ -133,7 +133,7 @@ Perché sur le village de Gordes. Spa Sisley avec vue sur le Luberon. Piscine in
 
 Point faible : tarifs élevés, moins de diversité dans les soins.
 
-Provence · 790 € la nuit · Spa 1 500 m² · [Lire l'article complet →](https://www.lesmeilleurshotelspa.fr/hotels/airelles-gordes/)
+Provence · 790 € la nuit · Spa 1 500 m² · [Sa fiche dans notre guide Provence →](https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/#airelles-gordes)
 
 07
 
@@ -143,7 +143,7 @@ Temple du bien-être anti-âge avec expertise Nescens. Deux piscines et onze cab
 
 Point faible : accès limité aux clients de l'hôtel.
 
-Côte d'Azur · 1 100 € la nuit · Spa 1 200 m² · [Lire l'article complet →](https://www.lesmeilleurshotelspa.fr/hotels/reserve-ramatuelle/)
+Côte d'Azur · 1 100 € la nuit · Spa 1 200 m² · [Sa fiche dans notre palmarès Saint-Tropez →](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/#reserve-ramatuelle)
 
 08
 
@@ -153,7 +153,7 @@ Chalets savoyards authentiques au cœur de Megève. Spa Pure Altitude avec actif
 
 Point faible : moins de modernité dans les équipements.
 
-Alpes · 320 € la nuit · Spa 2 100 m² · [Lire l'article complet →](https://www.lesmeilleurshotelspa.fr/hotels/fermes-marie/)
+Alpes · 320 € la nuit · Spa 2 100 m²
 
 09
 
@@ -163,7 +163,7 @@ Meilleure valeur du palmarès : 5 étoiles avec restaurant 3 étoiles Michelin. 
 
 Point faible : surface spa modeste au regard du rang.
 
-Provence · 325 € la nuit · Spa 1 400 m² · [Lire l'article complet →](https://www.lesmeilleurshotelspa.fr/hotels/baumaniere/)
+Provence · 325 € la nuit · Spa 1 400 m² · [Sa fiche dans notre guide Provence →](https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/#baumaniere)
 
 10
 
@@ -173,7 +173,7 @@ Piscine en marbre blanc de 23 mètres signée Philippe Starck, la deuxième de P
 
 Point faible : moins de spécialisation dans les soins spa.
 
-Paris · 950 € la nuit · Spa 1 500 m² · [Lire l'article complet →](https://www.lesmeilleurshotelspa.fr/hotels/royal-monceau/)
+Paris · 950 € la nuit · Spa 1 500 m² · [Sa fiche dans notre comparatif des spas de palaces →](https://www.lesmeilleurshotelspa.fr/hotel-luxe-avec-spa-paris/#royal-monceau)
 
 ## Le palmarès complet : les 50 meilleurs hôtels & spas *par région*
 
@@ -283,13 +283,13 @@ Paris · 950 € la nuit · Spa 1 500 m² · [Lire l'article complet →](https:
 
 | Budget nuit | Ce qu'on obtient | Notre recommandation |
 | --- | --- | --- |
-| 200-400 € | Spa correct, soins en supplément | [Sources de Caudalie](https://www.lesmeilleurshotelspa.fr/hotels/sources-caudalie/), [Les Fermes de Marie](https://www.lesmeilleurshotelspa.fr/hotels/fermes-marie/) |
-| 400-800 € | Spa inclus, protocoles signature | [Terre Blanche](https://www.lesmeilleurshotelspa.fr/hotels/terre-blanche/), [Royal Evian](https://www.lesmeilleurshotelspa.fr/hotels/hotel-royal-evian/) |
-| 800 € et + | Spa privatif, service sur-mesure | [Cheval Blanc](https://www.lesmeilleurshotelspa.fr/hotels/cheval-blanc-paris/), [L'Apogée](https://www.lesmeilleurshotelspa.fr/hotels/apogee-courchevel/) |
+| 200-400 € | Spa correct, soins en supplément | [Sources de Caudalie](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-france/#caudalie), Les Fermes de Marie |
+| 400-800 € | Spa inclus, protocoles signature | Terre Blanche, Royal Evian |
+| 800 € et + | Spa privatif, service sur-mesure | [Cheval Blanc](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/), L'Apogée |
 
 ### Spa de destination vs spa d'hôtel
 
-Un spa de destination est un établissement où le spa est la raison principale du séjour. Un spa d'hôtel est un complément à l'expérience hôtelière. Les meilleurs hôtels de ce palmarès combinent les deux : spas de destination (Royal Evian, Terre Blanche, Sources de Caudalie) et service hôtelier impeccable. [Lire notre guide complet : comment choisir un hôtel spa](https://www.lesmeilleurshotelspa.fr/guides/comment-choisir-hotel-spa/)
+Un spa de destination est un établissement où le spa est la raison principale du séjour. Un spa d'hôtel est un complément à l'expérience hôtelière. Les meilleurs hôtels de ce palmarès combinent les deux : spas de destination (Royal Evian, Terre Blanche, Sources de Caudalie) et service hôtelier impeccable.
 
 ### Les labels qui comptent vraiment
 
@@ -309,8 +309,6 @@ Cryothérapie, bains nordiques, salles de neige : 8 des 10 premiers hôtels prop
 
 Sources de Caudalie (vinothérapie), Les Fermes de Marie (actifs alpins), Le Couvent des Minimes (lavande provençale) : les spas qui gagnent sont ceux qui exploitent les ressources locales. C'est la nouvelle différenciation face aux chaînes internationales.
 
-[Lire notre enquête complète : tendances spa 2026](https://www.lesmeilleurshotelspa.fr/enquetes/tendances-spa-2026/)
-
 ## FAQ : les questions les plus posées sur les hôtels & spas de *France*
 
 Quel est le meilleur hôtel spa de France en 2026 ?
@@ -327,7 +325,7 @@ Quels sont les meilleurs hôtels spas de France avec piscine intérieure chauff�
 
 Comment fonctionne le Protocole LMHS ?
 
-Le Protocole LMHS évalue les hôtels & spas selon 4 critères égaux à 5 points chacun : **Luxe** (qualité des matériaux, équipements), **Mise en scène** (décor, ambiance, design), **Hospitalité** (accueil, service, attention aux détails), **Soin** (qualité des soins, protocoles, praticiens). Score total sur 20. Méthodologie propriétaire de lesmeilleurshotelspa.fr, basée sur des visites terrain anonymes sans partenariat rémunéré. [Lire la méthodologie complète](https://www.lesmeilleurshotelspa.fr/notre-methode/protocole-lmhs/)
+Le Protocole LMHS évalue les hôtels & spas selon 4 critères égaux à 5 points chacun : **Luxe** (qualité des matériaux, équipements), **Mise en scène** (décor, ambiance, design), **Hospitalité** (accueil, service, attention aux détails), **Soin** (qualité des soins, protocoles, praticiens). Score total sur 20. Méthodologie propriétaire de lesmeilleurshotelspa.fr, basée sur des visites terrain anonymes sans partenariat rémunéré. [Lire la méthodologie complète](https://www.lesmeilleurshotelspa.fr/notre-methode/)
 
 Quels hôtels spas de France sont ouverts toute l'année ?
 
@@ -335,7 +333,7 @@ Quels hôtels spas de France sont ouverts toute l'année ?
 
 ## Sources et *méthode*
 
-Ce palmarès 2026 des 50 meilleurs hôtels & spas de France est basé sur 47 des 50 adresses visitées anonymement entre janvier et juillet 2026, les 3 restantes étant évaluées sur données publiques. Méthodologie : visites terrain anonymes, évaluation selon le Protocole LMHS (Luxe, Mise en scène, Hospitalité, Soin), aucun partenariat rémunéré, aucune affiliation commerciale. Données propriétaires : scores LMHS sur 20, prix de la nuit (tarifs 2026), surfaces spa en m². [Lire la méthodologie complète du Protocole LMHS](https://www.lesmeilleurshotelspa.fr/notre-methode/protocole-lmhs/)
+Ce palmarès 2026 des 50 meilleurs hôtels & spas de France est basé sur 47 des 50 adresses visitées anonymement entre janvier et juillet 2026, les 3 restantes étant évaluées sur données publiques. Méthodologie : visites terrain anonymes, évaluation selon le Protocole LMHS (Luxe, Mise en scène, Hospitalité, Soin), aucun partenariat rémunéré, aucune affiliation commerciale. Données propriétaires : scores LMHS sur 20, prix de la nuit (tarifs 2026), surfaces spa en m². [Lire la méthodologie complète du Protocole LMHS](https://www.lesmeilleurshotelspa.fr/notre-methode/)
 
 47 des 50 adresses visitées
 Visites anonymes
