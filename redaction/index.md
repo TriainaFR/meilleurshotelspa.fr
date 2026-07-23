@@ -21,7 +21,7 @@ Mise à jour le 22 juillet 2026
 **Meilleurs.** est un média en ligne français consacré aux hôtels, spas et
 destinations d'exception, lancé en 2026 et édité par **Triaina**, société par
 actions simplifiée établie à Paris ([mentions légales](https://www.lesmeilleurshotelspa.fr/mentions-legales/)).
-La ligne est simple : des palmarès indépendants, des chambres réellement dormies, des soins
+La ligne est simple : des palmarès indépendants, des chambres réellement testées, des soins
 réellement reçus, et une méthode publiée, le [Protocole LMHS](https://www.lesmeilleurshotelspa.fr/notre-methode/).
 Aucun établissement ne paie pour figurer dans nos pages, aucun lien n'est affilié.
 

@@ -16,7 +16,7 @@ de France*
 
 *et parfois d'ailleurs, quand ça en vaut vraiment la peine.
 
-Palmarès indépendants, chambres réellement dormies, soins réellement reçus.
+Palmarès indépendants, chambres réellement testées, soins réellement reçus.
 Nous testons, nous classons, nous racontons, pour que votre prochaine
 échappée soit la bonne.
 
