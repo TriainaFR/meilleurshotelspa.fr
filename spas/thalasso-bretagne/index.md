@@ -21,6 +21,8 @@ Publié le 25 juillet 2026
 ✺
 18 min de lecture
 
+Le Castel Clara, sur la falaise de Goulphar à Belle-Île-en-Mer : premier du classement avec 17,6/20.
+
 ## TL;DR : l'essentiel · Le podium breton 2026
 
 1. **Castel Clara Thalasso & Spa**, Belle-Île-en-Mer, 17,6/20 :
