@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-07-22 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-07-25 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -17,13 +17,21 @@ Le sommaire
 
 [
 
-Palmarès23 juil. 2026
+Palmarès25 juil. 2026
 
 ### Les meilleurs hôtels de luxe à Paris : 19 adresses classées
 
 Paris · 22 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/)[
+
+Spas25 juil. 2026
+
+### Meilleure thalasso en Bretagne : 11 adresses testées
+
+Bretagne · 18 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/)[
 
 Ouverture22 juil. 2026
 

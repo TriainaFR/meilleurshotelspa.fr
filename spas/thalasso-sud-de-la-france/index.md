@@ -2,7 +2,7 @@
 
 > 14 adresses de thalasso testées et classées selon le Protocole LMHS, dont 11 dans le sud de la France et 3 repères hors zone. Prix, soins, scores.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/spas/thalasso-sud-de-la-france/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-07-22 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/spas/thalasso-sud-de-la-france/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-07-25 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -202,7 +202,7 @@ Rédacteur, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 22 juillet 2026
+Dernière mise à jour : 25 juillet 2026
 
 Meilleurs.
 
