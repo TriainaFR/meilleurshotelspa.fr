@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Palmarès23 juil. 2026
+
+### Les meilleurs hôtels de luxe à Paris : 19 adresses classées
+
+Paris · 22 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/)[
+
 Ouverture22 juil. 2026
 
 ### Nouveaux hôtels en France : les 10 ouvertures de l'automne 2026

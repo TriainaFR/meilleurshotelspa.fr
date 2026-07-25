@@ -2,11 +2,11 @@
 
 > Le média français de référence des meilleurs hôtels, spas et destinations. Palmarès indépendants, guides et récits. Testé sur place, sans partenariat commercial.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/ · Dernière mise à jour : 2026-07-22 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/ · Dernière mise à jour : 2026-07-23 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
-Meilleurs. (lesmeilleurshotelspa.fr) est un média français indépendant qui classe les hôtels, spas et destinations d'exception selon le Protocole LMHS : visites anonymes, nuits payées, zéro partenariat. Palmarès 2026 des 50 meilleurs hôtels et spas de France mené par le Royal Evian (19,2/20), le Cheval Blanc Paris (18,8/20) et Les Sources de Caudalie (18,5/20). 18 parutions : classements par ville (Paris, Lyon, Marseille, Bordeaux, Biarritz, Saint-Tropez), spas privatifs, thalasso, hammams, ouvertures.
+Meilleurs. (lesmeilleurshotelspa.fr) est un média français indépendant qui classe les hôtels, spas et destinations d'exception selon le Protocole LMHS : visites anonymes, nuits payées, zéro partenariat. Palmarès 2026 des 50 meilleurs hôtels et spas de France mené par le Royal Evian (19,2/20), le Cheval Blanc Paris (18,8/20) et Les Sources de Caudalie (18,5/20). 19 parutions : classements par ville (Paris, Lyon, Marseille, Bordeaux, Biarritz, Saint-Tropez), palaces parisiens, spas privatifs, thalasso, hammams, ouvertures.
 
 ---
 Le média des adresses d'exception
@@ -33,6 +33,14 @@ Le fil
 Les 12 dernières unes + dépêches
 
 [
+
+Palmarès23 juil. 2026
+
+### Les meilleurs hôtels de luxe à Paris : 19 adresses classées
+
+Paris · 22 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/)[
 
 Ouverture22 juil. 2026
 
@@ -120,20 +128,12 @@ Spas21 juil. 2026
 
 Paris · 15 min de lecture
 
-](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/)[
-
-Destinations21 juil. 2026
-
-### Hôtel avec spa privatif : 12 adresses testées, du chalet au château
-
-France · 17 min de lecture
-
-](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-france/)
+](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/)
 
 Et aussi
 La suite du fil
 
-[21 juil.DestinationsSpa privatif en Île-de-France : 6 adresses à moins d'une heure de Paris→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-ile-de-france/)[21 juil.PalmarèsLes meilleurs hôtels de luxe à Saint-Tropez : palmarès 2026→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/)[21 juil.PalmarèsHôtels de charme sur la Côte d'Azur : 12 adresses testées→](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/)[21 juil.PalmarèsLes meilleurs hôtels 4 étoiles de Paris : 12 adresses testées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-paris/)[21 juil.EnquêteCheval Blanc Paris : le palace LVMH tient-il ses promesses ?→](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/)[21 juil.PalmarèsLes plus beaux hôtels de Bordeaux : 10 adresses sélectionnées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-bordeaux/)
+[21 juil.DestinationsHôtel avec spa privatif : 12 adresses testées, du chalet au château→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-france/)[21 juil.DestinationsSpa privatif en Île-de-France : 6 adresses à moins d'une heure de Paris→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-ile-de-france/)[21 juil.PalmarèsLes meilleurs hôtels de luxe à Saint-Tropez : palmarès 2026→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/)[21 juil.PalmarèsHôtels de charme sur la Côte d'Azur : 12 adresses testées→](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/)[21 juil.PalmarèsLes meilleurs hôtels 4 étoiles de Paris : 12 adresses testées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-paris/)[21 juil.EnquêteCheval Blanc Paris : le palace LVMH tient-il ses promesses ?→](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/)[21 juil.PalmarèsLes plus beaux hôtels de Bordeaux : 10 adresses sélectionnées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-bordeaux/)
 
 Nouveaux articles chaque semaine, testés avant d'être écrits.
 [Tous les articles →](https://www.lesmeilleurshotelspa.fr/articles.html)
