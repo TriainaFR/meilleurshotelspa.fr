@@ -290,6 +290,36 @@ def sync_images():
         log(f"width/height ajoutés sur {touched} pages")
 
 
+# ------------------------------------ 3 bis. versionnage des assets
+# assets/articles.js EST le catalogue : s'il est servi périmé, la page d'accueil
+# affiche l'ancienne liste d'articles par-dessus le HTML pourtant à jour. Les
+# caches (navigateur ET CDN) ne savent pas qu'il a changé tant que l'URL est la
+# même. On ajoute donc au lien un hash du contenu : une publication change l'URL,
+# ce qui force tout le monde à recharger, et le fichier peut rester en cache long.
+VERSIONED = ["assets/articles.js", "assets/app.js", "assets/webmcp.js", "assets/style.css"]
+
+
+def sync_asset_versions():
+    import hashlib
+    touched = 0
+    hashes = {}
+    for a in VERSIONED:
+        if os.path.exists(a):
+            hashes[os.path.basename(a)] = hashlib.sha1(open(a, "rb").read()).hexdigest()[:8]
+    for f in pages():
+        s = open(f, encoding="utf-8").read()
+        o = s
+        for name, h in hashes.items():
+            # remplace le lien avec ou sans ?v= existant, quelle que soit sa profondeur
+            s = re.sub(r'((?:\.\./)*(?:/)?assets/' + re.escape(name) + r')(\?v=[0-9a-f]+)?(?=["\'])',
+                       lambda m: m.group(1) + "?v=" + h, s)
+        if write(f, o, s):
+            touched += 1
+    if touched:
+        log(f"versions d'assets rafraîchies sur {touched} pages "
+            + ", ".join(f"{n} {h}" for n, h in sorted(hashes.items())))
+
+
 # ------------------------------------- 4 bis. Markdown pour les agents
 def sync_markdown():
     """Génère un .md à côté de chaque .html. Le serveur le renvoie quand un agent
@@ -509,6 +539,7 @@ if __name__ == "__main__":
     sync_static_lists()
     sync_images()
     sync_dates()
+    sync_asset_versions()
     sync_markdown()
     sync_agent_skills()
     sync_sitemap()
