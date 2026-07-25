@@ -16,7 +16,7 @@ la meilleure. Dix adresses classées non pas sur leur qualité d'hôtel, mais su
 critère que personne d'autre ne mesure : ce qu'elles font réellement pour un couple.
 Huit d'entre elles sont sous 300 € la nuit en basse saison.
 
-Par **Lucas Lecoq**, rédacteur en chef
+Par [**Lucas Lecoq**](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/), rédacteur en chef
 ✺
 Publié le 21 juillet 2026
 ✺

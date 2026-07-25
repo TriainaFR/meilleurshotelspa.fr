@@ -15,7 +15,7 @@ La thalassothérapie est née ici, à Roscoff, en 1899. Cent vingt-sept ans plus
 onze centres testés au thermomètre et au chronomètre, notés sur 20, avec un critère
 d'entrée que beaucoup préfèrent taire : l'eau doit venir de la mer.
 
-Par **Swann Bertaud**, rédacteur hôtellerie de luxe
+Par [**Swann Bertaud**](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/), rédacteur hôtellerie de luxe
 ✺
 Publié le 25 juillet 2026
 ✺

@@ -15,7 +15,7 @@ Le palace le plus spectaculaire de la capitale sur le plan architectural et gast
 Mais son rapport prix-expérience reste le talon d'Achille de l'ensemble, et certains
 détails d'exécution trahissent encore une jeunesse relative face aux institutions centenaires.
 
-Par **Swann Bertaud**, rédacteur hôtellerie de luxe
+Par [**Swann Bertaud**](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/), rédacteur hôtellerie de luxe
 ✺
 Publié le 21 juillet 2026
 ✺

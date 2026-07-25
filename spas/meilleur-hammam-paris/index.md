@@ -15,7 +15,7 @@ Du bain maure centenaire de la Grande Mosquée au marbre de Carrare du Bristol :
 8 adresses visitées anonymement entre avril et juillet 2026, thermomètre en main,
 gant de crin sur l'avant-bras.
 
-Par **Swann Bertaud**, rédacteur
+Par [**Swann Bertaud**](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/), rédacteur
 ✺
 Publié le 21 juillet 2026
 ✺

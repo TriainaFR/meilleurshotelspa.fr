@@ -15,7 +15,7 @@ Palmarès · Données propriétaires LMHS
 évaluées sur données publiques ; toutes notées sur 20 selon le Protocole LMHS.
 Aucun partenariat rémunéré, aucune affiliation commerciale.
 
-Par **Lucas Lecoq**, rédacteur en chef
+Par [**Lucas Lecoq**](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/), rédacteur en chef
 ✺
 Publié le 21 juillet 2026
 ✺

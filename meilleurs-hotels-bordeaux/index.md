@@ -15,7 +15,7 @@ Bordeaux compte aujourd'hui une offre hôtelière qui rivalise avec Lyon ou Mars
 Dix établissements passés au crible, avec pour chacun son score, son bémol, et son
 indice vin, notre mesure de l'ancrage viticole réel.
 
-Par **Lucas Lecoq**, rédacteur en chef
+Par [**Lucas Lecoq**](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/), rédacteur en chef
 ✺
 Publié le 21 juillet 2026
 ✺

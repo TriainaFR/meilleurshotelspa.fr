@@ -15,7 +15,7 @@ Quatre kilomètres de front de mer, un palace classé, deux spots de surf de ré
 mondiale et une cuisine basque qui tient ses promesses. Huit adresses testées, notées,
 et mesurées à un critère que personne d'autre n'applique : leur ancrage basque réel.
 
-Par **Swann Bertaud**, rédacteur
+Par [**Swann Bertaud**](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/), rédacteur
 ✺
 Publié le 21 juillet 2026
 ✺

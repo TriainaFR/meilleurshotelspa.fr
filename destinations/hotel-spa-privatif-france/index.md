@@ -16,7 +16,7 @@ se cachent deux réalités qui n'ont pas le même prix. 12 adresses testées ano
 entre février et juillet 2026, dont 11 réellement privatives ; la douzième, Le Barn,
 au spa collectif, sert de contre-exemple.
 
-Par **Lucas Lecoq**, rédacteur en chef
+Par [**Lucas Lecoq**](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/), rédacteur en chef
 ✺
 Publié le 21 juillet 2026
 ✺

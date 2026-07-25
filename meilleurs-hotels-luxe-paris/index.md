@@ -15,7 +15,7 @@ Paris compte treize palaces officiels depuis juin 2026, davantage que toute autr
 Nous en avons retenu dix, auxquels s'ajoutent neuf cinq étoiles de caractère. Classement,
 tarifs relevés, et le défaut de chaque adresse.
 
-Par **Lucas Lecoq**, rédacteur en chef
+Par [**Lucas Lecoq**](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/), rédacteur en chef
 ✺
 Publié le 25 juillet 2026
 ✺

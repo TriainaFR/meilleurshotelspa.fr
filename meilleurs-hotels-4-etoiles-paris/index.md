@@ -14,7 +14,7 @@ Palmarès local · Grille LMHS Destination
 Deux à quatre fois moins cher qu'un palace, pour un service et un design souvent aussi
 mémorables. Douze boutique-hôtels passés au crible, de 125 à 285 € la nuit en basse saison.
 
-Par **Lucas Lecoq**, rédacteur en chef
+Par [**Lucas Lecoq**](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/), rédacteur en chef
 ✺
 Publié le 21 juillet 2026
 ✺

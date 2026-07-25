@@ -16,7 +16,7 @@ quatre 5 étoiles, dont trois dans ce classement, et une table trois macarons. D
 notées, et mesurées à un critère que personne d'autre n'applique : ce qu'elles doivent
 réellement à Marseille.
 
-Par **Swann Bertaud**, rédacteur
+Par [**Swann Bertaud**](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/), rédacteur
 ✺
 Publié le 22 juillet 2026
 ✺

@@ -16,7 +16,7 @@ teck massif, soins Dior ou Valmont : les écarts sont immenses, et le prix de la
 prédit pas la qualité du spa. Nous avons noté le spa *seul*, et mesuré ce qu'il faut
 vraiment débourser pour y entrer sans dormir sur place.
 
-Par **Swann Bertaud**, rédacteur
+Par [**Swann Bertaud**](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/), rédacteur
 ✺
 Publié le 21 juillet 2026
 ✺

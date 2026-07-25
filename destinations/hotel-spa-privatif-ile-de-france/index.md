@@ -16,7 +16,7 @@ vraiment, cinq en Île-de-France et une aux portes de la région, côté Chantil
 entre mars et juillet 2026, avec la distinction systématique entre spa permanent et
 spa privatisable.
 
-Par **Swann Bertaud**, rédacteur
+Par [**Swann Bertaud**](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/), rédacteur
 ✺
 Publié le 21 juillet 2026
 ✺

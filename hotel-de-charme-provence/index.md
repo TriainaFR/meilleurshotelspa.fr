@@ -16,7 +16,7 @@ concentre les adresses les plus désirables de France. Douze sortent du lot, ave
 chacune, son score, son bémol, et l'indice qui sépare celles qui *font* la Provence
 de celles qui se contentent de la décorer.
 
-Par **Swann Bertaud**, rédacteur
+Par [**Swann Bertaud**](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/), rédacteur
 ✺
 Publié le 21 juillet 2026
 ✺

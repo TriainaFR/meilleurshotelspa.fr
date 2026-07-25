@@ -15,7 +15,7 @@ Saint-Tropez compte 45 hôtels, dont une douzaine revendiquent le luxe.
 Huit méritent vraiment l'attention, avec, pour chacun, son score, ses prix réels
 haute et basse saison, et son bémol.
 
-Par **Lucas Lecoq**, rédacteur en chef
+Par [**Lucas Lecoq**](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/), rédacteur en chef
 ✺
 Publié le 21 juillet 2026
 ✺

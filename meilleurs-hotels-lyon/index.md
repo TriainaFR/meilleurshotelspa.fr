@@ -15,7 +15,7 @@ Capitale française de la gastronomie, Lyon a longtemps eu une hôtellerie en de
 table. Ce n'est plus vrai. Huit adresses testées, notées, et mesurées à un critère que
 personne d'autre n'applique : ce que l'hôtel fait réellement de la cuisine lyonnaise.
 
-Par **Lucas Lecoq**, rédacteur en chef
+Par [**Lucas Lecoq**](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/), rédacteur en chef
 ✺
 Publié le 21 juillet 2026
 ✺

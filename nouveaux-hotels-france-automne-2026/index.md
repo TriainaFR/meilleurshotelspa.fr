@@ -17,7 +17,7 @@ septembre et décembre, le Château de Cîteaux ouvre le 24 juillet, deux vienne
 et une, à Langres, est en activité depuis 2024.
 Notées avant séjour, en toute transparence.
 
-Par **Swann Bertaud**, rédacteur
+Par [**Swann Bertaud**](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/), rédacteur
 ✺
 Publié le 22 juillet 2026
 ✺

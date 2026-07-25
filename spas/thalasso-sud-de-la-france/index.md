@@ -14,7 +14,7 @@ Guide-sélection · Données propriétaires LMHS
 Bandol, Canet, Port-Camargue, Hyères, Antibes… 15 centres visités anonymement entre
 janvier et juillet 2026, notés sur 20 selon le Protocole LMHS. Aucun partenariat commercial.
 
-Par **Swann Bertaud**, rédacteur
+Par [**Swann Bertaud**](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/), rédacteur
 ✺
 Publié le 21 juillet 2026
 ✺

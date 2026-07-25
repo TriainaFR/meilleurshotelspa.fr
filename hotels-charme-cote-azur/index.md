@@ -15,7 +15,7 @@ La Côte d'Azur compte des centaines d'hôtels qui revendiquent le charme. Douze
 vraiment qu'on s'y arrête, avec, pour chacun, son score, son bémol, et l'indice charme
 qui révèle le bon mois pour réserver.
 
-Par **Swann Bertaud**, rédacteur
+Par [**Swann Bertaud**](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/), rédacteur
 ✺
 Publié le 21 juillet 2026
 ✺

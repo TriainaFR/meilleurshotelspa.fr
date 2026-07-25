@@ -15,7 +15,7 @@ La vraie thalasso utilise de l'eau de mer naturelle, et en région parisienne, e
 rarissime. 8 centres testés anonymement entre mars et juillet 2026, 3 en Île-de-France
 et 5 accessibles depuis Paris, notés sur 20 selon le Protocole LMHS. Aucun partenariat.
 
-Par **Lucas Lecoq**, rédacteur en chef
+Par [**Lucas Lecoq**](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/), rédacteur en chef
 ✺
 Publié le 21 juillet 2026
 ✺
