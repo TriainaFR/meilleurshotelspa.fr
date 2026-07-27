@@ -49,6 +49,19 @@ documents annoncerait aux agents des points d'entrée qui n'existent pas. Ils ne
 deviendront pertinents que le jour où le média exposera un vrai service, par
 exemple une API de consultation des classements.
 
+## Édition internationale
+
+La Sardaigne, publiée le 27 juillet 2026, est la première parution hors de France.
+Trois points restent à trancher :
+
+- Le colophon, la page d'accueil et `llms.txt` décrivent encore le média comme une
+  **« Édition France »**. À revoir si d'autres destinations étrangères suivent.
+- Les deux indices de l'article (**Indice Exclusivité** et **Score Authenticité sarde**,
+  tous deux sur 10) ne figurent pas sur `/notre-methode/`. S'ils resservent ailleurs,
+  les y documenter plutôt que de les redéfinir dans chaque article.
+- Aucune des sept maisons n'a été visitée : l'article le dit, mais le site ne dispose
+  d'aucune grille dédiée aux classements étrangers sur données publiques.
+
 ## Contenu et crédibilité
 
 ### Photos des deux auteurs
@@ -81,6 +94,11 @@ moteurs de réservation officiels.
 Présent sur les 28 pages, rattaché à aucun bassin identifiable. Soit l'assumer
 comme un clin d'œil de chrome, soit le rattacher à un établissement réel et le
 sourcer.
+
+### Les sept tarifs sardes
+Les prix de `/sardaigne/meilleurs-hotels-5-etoiles/` (de 172 à 600 €) viennent du
+brief et sont publiés comme ordres de grandeur relevés en juillet 2026. Aucun n'a
+été recoupé sur un moteur de réservation officiel.
 
 ### Les 3 adresses non visitées du palmarès
 Le site annonce désormais « 47 des 50 adresses visitées anonymement, les 3
