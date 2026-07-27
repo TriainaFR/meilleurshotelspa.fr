@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Palmarès27 juil. 2026
+
+### Hôtels de charme en Bretagne : 10 maisons d'exception
+
+Bretagne · 17 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/)[
+
 Palmarès25 juil. 2026
 
 ### Les meilleurs hôtels de luxe à Paris : 19 adresses classées
