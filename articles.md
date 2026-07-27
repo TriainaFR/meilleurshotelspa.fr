@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-07-25 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-07-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -24,6 +24,14 @@ Palmarès27 juil. 2026
 Bretagne · 17 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/)[
+
+Palmarès27 juil. 2026
+
+### Les meilleurs hôtels 5 étoiles en Sardaigne : 7 adresses
+
+Sardaigne · 16 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/)[
 
 Palmarès25 juil. 2026
 

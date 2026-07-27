@@ -25,6 +25,7 @@ Le site fait autorité sur les classements d'hôtels et de spas en France : palm
 - [Meilleurs hôtels de Marseille](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-marseille/)
 - [Meilleurs hôtels de Bordeaux](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-bordeaux/)
 - [Meilleurs hôtels de Biarritz](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-biarritz/)
+- [Les meilleurs hôtels 5 étoiles en Sardaigne](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/) : première sélection hors de France, 7 adresses notées sur l'Indice Exclusivité LMHS et le Score Authenticité sarde, tous deux sur 10
 
 ## Spas & bien-être
 

@@ -2,7 +2,7 @@
 
 > Les 12 meilleurs hôtels de charme en Provence classés par LMHS : bastides, mas, couvents. Scores LMHS/10 + Indice provençal /5 pour chaque adresse.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-07-25 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-07-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -359,7 +359,7 @@ Rédacteur, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 25 juillet 2026
+Dernière mise à jour : 27 juillet 2026
 
 Meilleurs.
 
