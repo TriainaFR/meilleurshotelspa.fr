@@ -237,6 +237,10 @@ Tarifs relevés juillet 2026
 
 - [TripAdvisor, Byblos Saint-Tropez](https://www.tripadvisor.fr/Hotel_Review-g187242-d197818-Reviews-Hotel_Byblos_Saint_Tropez-Saint_Tropez_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d.html)
 
+### Pour aller plus loin
+
+- [Les meilleurs hôtels 5 étoiles en Sardaigne : 7 adresses](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/)
+
 [Lucas Lecoq](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/)
 Rédacteur en chef, Meilleurs.
 
@@ -251,11 +255,11 @@ Indépendant, payé par personne, dormi partout.
 
 #### Explorer
 
-- [Palmarès 2026](https://www.lesmeilleurshotelspa.fr/index.html#palmares)
+- [Palmarès 2026](https://www.lesmeilleurshotelspa.fr/#palmares)
 
-- [Destinations](https://www.lesmeilleurshotelspa.fr/index.html#destinations)
+- [Destinations](https://www.lesmeilleurshotelspa.fr/#destinations)
 
-- [Spas & Bien-être](https://www.lesmeilleurshotelspa.fr/index.html#spa)
+- [Spas & Bien-être](https://www.lesmeilleurshotelspa.fr/#spa)
 
 - [Tous les articles](https://www.lesmeilleurshotelspa.fr/articles.html)
 

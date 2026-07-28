@@ -313,6 +313,10 @@ Indice accessibilité
 
 - [TripAdvisor, Hôtel Fabric (Best of the Best 2026)](https://www.tripadvisor.fr/Hotel_Review-g187147-d4340356-Reviews-Hotel_Fabric_Paris_Oberkampf-Paris_Ile_de_France.html)
 
+### Pour aller plus loin
+
+- [Les meilleurs hôtels de luxe à Paris : 19 adresses classées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/)
+
 [Lucas Lecoq](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/)
 Rédacteur en chef, Meilleurs.
 
@@ -327,11 +331,11 @@ Indépendant, payé par personne, dormi partout.
 
 #### Explorer
 
-- [Palmarès 2026](https://www.lesmeilleurshotelspa.fr/index.html#palmares)
+- [Palmarès 2026](https://www.lesmeilleurshotelspa.fr/#palmares)
 
-- [Destinations](https://www.lesmeilleurshotelspa.fr/index.html#destinations)
+- [Destinations](https://www.lesmeilleurshotelspa.fr/#destinations)
 
-- [Spas & Bien-être](https://www.lesmeilleurshotelspa.fr/index.html#spa)
+- [Spas & Bien-être](https://www.lesmeilleurshotelspa.fr/#spa)
 
 - [Tous les articles](https://www.lesmeilleurshotelspa.fr/articles.html)
 

@@ -307,6 +307,12 @@ Indice charme propriétaire
 
 - [Relais & Châteaux, Château de la Chèvre d'Or](https://www.relaischateaux.com/fr/hotel/chateau-de-la-chevre-d-or/)
 
+### Pour aller plus loin
+
+- [Hôtels de charme en Bretagne : 10 maisons d'exception](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/)
+
+- [Les meilleurs hôtels 5 étoiles en Sardaigne : 7 adresses](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/)
+
 [Swann Bertaud](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/)
 Rédacteur, Meilleurs.
 
@@ -321,11 +327,11 @@ Indépendant, payé par personne, dormi partout.
 
 #### Explorer
 
-- [Palmarès 2026](https://www.lesmeilleurshotelspa.fr/index.html#palmares)
+- [Palmarès 2026](https://www.lesmeilleurshotelspa.fr/#palmares)
 
-- [Destinations](https://www.lesmeilleurshotelspa.fr/index.html#destinations)
+- [Destinations](https://www.lesmeilleurshotelspa.fr/#destinations)
 
-- [Spas & Bien-être](https://www.lesmeilleurshotelspa.fr/index.html#spa)
+- [Spas & Bien-être](https://www.lesmeilleurshotelspa.fr/#spa)
 
 - [Tous les articles](https://www.lesmeilleurshotelspa.fr/articles.html)
 

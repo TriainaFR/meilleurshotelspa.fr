@@ -197,6 +197,10 @@ Visites anonymes
 0 partenariat commercial
 Données propriétaires
 
+### Pour aller plus loin
+
+- [Meilleure thalasso en Bretagne : 11 adresses testées](https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/)
+
 [Swann Bertaud](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/)
 Rédacteur, Meilleurs.
 
@@ -211,11 +215,11 @@ Indépendant, payé par personne, dormi partout.
 
 #### Explorer
 
-- [Palmarès 2026](https://www.lesmeilleurshotelspa.fr/index.html#palmares)
+- [Palmarès 2026](https://www.lesmeilleurshotelspa.fr/#palmares)
 
-- [Destinations](https://www.lesmeilleurshotelspa.fr/index.html#destinations)
+- [Destinations](https://www.lesmeilleurshotelspa.fr/#destinations)
 
-- [Spas & Bien-être](https://www.lesmeilleurshotelspa.fr/index.html#spa)
+- [Spas & Bien-être](https://www.lesmeilleurshotelspa.fr/#spa)
 
 - [Tous les articles](https://www.lesmeilleurshotelspa.fr/articles.html)
 

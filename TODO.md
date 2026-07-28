@@ -22,11 +22,24 @@ Côté DNS, faire pointer `www` vers l'hébergeur retenu et laisser l'apex
 `lesmeilleurshotelspa.fr` redirigé (la config s'en charge côté serveur).
 
 **Après la mise en ligne**, dans l'ordre :
-1. Vérifier que `https://www.lesmeilleurshotelspa.fr/robots.txt` et `/sitemap.xml`
-   répondent en 200, et qu'une URL inexistante renvoie bien un **code 404** (pas 200).
+1. ~~Vérifier `robots.txt`, `/sitemap.xml` et le code 404~~ : fait le 28/07/2026,
+   les trois répondent correctement (404 réel sur une URL inexistante).
 2. Déclarer le site dans **Google Search Console** et **Bing Webmaster Tools**,
-   y soumettre le sitemap.
-3. Contrôler les redirections : apex → www, http → https, `/index.html` → `/`.
+   y soumettre le sitemap. Search Console est en place depuis le 25/07/2026.
+3. ~~Contrôler les redirections~~ : fait, `/index.html` renvoie bien 301 vers `/`.
+
+### Suivi Search Console
+Au 28/07/2026, trois rapports sont ouverts. Deux ne demandent aucune action :
+
+- **« Autre page avec balise canonique correcte »** sur `articles.html?cat=Ouverture` :
+  c'est le comportement attendu d'une URL de filtre, Google confirme que la
+  canonique fonctionne. Les liens visibles sont conservés pour les lecteurs, les
+  données structurées ne les citent plus.
+- **« Explorée, actuellement non indexée »** sur la thalasso bretonne et les hôtels
+  de luxe parisiens : les deux pages avaient été publiées sans aucun lien éditorial
+  entrant. Corrigé le 28/07/2026, et le build refuse désormais toute page orpheline.
+  Reste à **demander l'indexation** des deux URLs dans l'inspecteur Search Console,
+  puis à cliquer « Valider la correction » sur le rapport « Page avec redirection ».
 
 ---
 

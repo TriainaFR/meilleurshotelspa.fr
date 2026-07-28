@@ -271,6 +271,8 @@ Indice accessibilité propriétaire
 
 ### Pour aller plus loin
 
+- [Les meilleurs hôtels de luxe à Paris : 19 adresses classées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/)
+
 - [Cheval Blanc Paris : le palace LVMH tient-il ses promesses ?](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/)
 
 - [Meilleur hammam à Paris : 8 adresses testées, thermomètre en main](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/)
@@ -295,11 +297,11 @@ Indépendant, payé par personne, dormi partout.
 
 #### Explorer
 
-- [Palmarès 2026](https://www.lesmeilleurshotelspa.fr/index.html#palmares)
+- [Palmarès 2026](https://www.lesmeilleurshotelspa.fr/#palmares)
 
-- [Destinations](https://www.lesmeilleurshotelspa.fr/index.html#destinations)
+- [Destinations](https://www.lesmeilleurshotelspa.fr/#destinations)
 
-- [Spas & Bien-être](https://www.lesmeilleurshotelspa.fr/index.html#spa)
+- [Spas & Bien-être](https://www.lesmeilleurshotelspa.fr/#spa)
 
 - [Tous les articles](https://www.lesmeilleurshotelspa.fr/articles.html)
 

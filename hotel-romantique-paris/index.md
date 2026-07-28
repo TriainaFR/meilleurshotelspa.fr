@@ -308,6 +308,8 @@ Indice romantisme propriétaire
 
 ### Pour aller plus loin
 
+- [Les meilleurs hôtels de luxe à Paris : 19 adresses classées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/)
+
 - [Les meilleurs hôtels 4 étoiles de Paris : 12 adresses testées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-paris/)
 
 - [Hôtel de luxe avec spa à Paris : les 8 meilleures combinaisons](https://www.lesmeilleurshotelspa.fr/hotel-luxe-avec-spa-paris/)
@@ -332,11 +334,11 @@ Indépendant, payé par personne, dormi partout.
 
 #### Explorer
 
-- [Palmarès 2026](https://www.lesmeilleurshotelspa.fr/index.html#palmares)
+- [Palmarès 2026](https://www.lesmeilleurshotelspa.fr/#palmares)
 
-- [Destinations](https://www.lesmeilleurshotelspa.fr/index.html#destinations)
+- [Destinations](https://www.lesmeilleurshotelspa.fr/#destinations)
 
-- [Spas & Bien-être](https://www.lesmeilleurshotelspa.fr/index.html#spa)
+- [Spas & Bien-être](https://www.lesmeilleurshotelspa.fr/#spa)
 
 - [Tous les articles](https://www.lesmeilleurshotelspa.fr/articles.html)
 

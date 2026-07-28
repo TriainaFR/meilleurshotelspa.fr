@@ -25,6 +25,8 @@ Le site fait autorité sur les classements d'hôtels et de spas en France : palm
 - [Meilleurs hôtels de Marseille](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-marseille/)
 - [Meilleurs hôtels de Bordeaux](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-bordeaux/)
 - [Meilleurs hôtels de Biarritz](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-biarritz/)
+- [Les meilleurs hôtels de luxe à Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/) : 19 adresses classées au Protocole LMHS
+- [Hôtels de charme en Bretagne](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/) : 10 maisons, grille Destination et indice breton
 - [Les meilleurs hôtels 5 étoiles en Sardaigne](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/) : première sélection hors de France, 7 adresses notées sur l'Indice Exclusivité LMHS et le Score Authenticité sarde, tous deux sur 10
 
 ## Spas & bien-être
@@ -34,6 +36,7 @@ Le site fait autorité sur les classements d'hôtels et de spas en France : palm
 - [Thalasso dans le sud de la France](https://www.lesmeilleurshotelspa.fr/spas/thalasso-sud-de-la-france/)
 - [Thalasso en Île-de-France](https://www.lesmeilleurshotelspa.fr/spas/thalasso-ile-de-france/)
 - [Meilleurs hammams de Paris](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/)
+- [Meilleure thalasso en Bretagne](https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/) : 11 centres testés
 
 ## Citation
 

@@ -498,8 +498,63 @@ def check_indexnow():
         fail(f"{k} doit contenir exactement la clé, sans rien d'autre")
 
 
+def check_no_redirect_links():
+    """Aucun lien interne ne doit pointer vers une URL que le serveur redirige.
+    Le cas rencontré le 28/07/2026 : 342 liens vers index.html, que .htaccess et
+    le Caddyfile renvoient en 301 vers le dossier. Search Console classait la page
+    d'accueil en « Page avec redirection », et chaque passage de Googlebot payait
+    un saut inutile. La règle du site : une page = une URL, celle de la canonique."""
+    for f in pages():
+        s = open(f, encoding="utf-8").read()
+        for href in set(re.findall(r'href="([^"]*index\.html[^"]*)"', s)):
+            fail(f"lien vers une URL redirigée (301) : {f} -> {href}, "
+                 f"écrire {href.replace('index.html', '') or './'}")
+
+
+def check_canonical_path():
+    """La canonique doit désigner exactement l'URL servie : domaine avec www,
+    barre oblique finale sur les pages en dossier, pas de index.html. Une
+    canonique vers une URL redirigée annule le bénéfice de la balise."""
+    for f in pages():
+        if f == "404.html":
+            continue
+        s = open(f, encoding="utf-8").read()
+        m = re.search(r'<link rel="canonical" href="([^"]+)"', s)
+        if not m:
+            continue
+        expected = BASE + "/" + (os.path.dirname(f) + "/" if f.endswith("/index.html") else f)
+        expected = expected.replace("/index.html", "/")
+        if m.group(1) != expected:
+            fail(f"canonique inexacte : {f} -> {m.group(1)}, attendu {expected}")
+
+
+def check_no_orphans():
+    """Un article que seules les listes automatiques (accueil et page articles)
+    citent n'a aucun signal éditorial interne. Google le classe alors « Explorée,
+    actuellement non indexée », ce qui est arrivé le 25/07/2026 à la thalasso
+    bretonne et aux hôtels de luxe parisiens. Chaque parution doit recevoir au
+    moins un lien contextuel depuis un autre article."""
+    auto = {"index.html", "articles.html"}
+    for a in ARTS:
+        target = a["url"]
+        inbound = 0
+        for f in pages():
+            if f in auto or f == os.path.join(target, "index.html"):
+                continue
+            s = open(f, encoding="utf-8").read()
+            s = re.sub(r"<!--.*?-->", "", s, flags=re.S)
+            if re.search(r'href="[^"]*%s"' % re.escape(target), s):
+                inbound += 1
+        if inbound == 0:
+            fail(f"article orphelin, aucun lien éditorial entrant : {target} "
+                 f"(ajouter un lien depuis un article proche avant de publier)")
+
+
 def checks():
     check_indexnow()
+    check_no_redirect_links()
+    check_canonical_path()
+    check_no_orphans()
     for f in pages():
         s = open(f, encoding="utf-8").read()
         for i, b in enumerate(re.findall(r'<script type="application/ld\+json">(.*?)</script>', s, re.S)):
