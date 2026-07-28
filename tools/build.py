@@ -511,6 +511,24 @@ def check_no_redirect_links():
                  f"écrire {href.replace('index.html', '') or './'}")
 
 
+def check_no_query_links():
+    """Le site ne publie aucun lien interne vers une URL à paramètre. Une URL en
+    ?cat= ou ?q= est une page distincte pour un crawler : il la parcourt, la
+    déduplique, et ce budget-là n'est pas passé sur les vrais articles. Les
+    filtres et la recherche passent par un fragment (#cat=Spas), que les
+    crawlers ignorent. Seul le versionnage des assets (?v=hash) est toléré :
+    il force le rafraîchissement des caches et ne crée pas de page."""
+    for f in pages():
+        s = open(f, encoding="utf-8").read()
+        for href in set(re.findall(r'href="([^"]+)"', s)):
+            if href.startswith(("http", "mailto", "tel", "data:")) or "?" not in href:
+                continue
+            if re.match(r'^[./]*assets/[^?]+\?v=[0-9a-f]+$', href):
+                continue
+            fail(f"lien vers une URL à paramètre : {f} -> {href}, "
+                 f"utiliser un fragment (#{href.split('?', 1)[1]})")
+
+
 def check_canonical_path():
     """La canonique doit désigner exactement l'URL servie : domaine avec www,
     barre oblique finale sur les pages en dossier, pas de index.html. Une
@@ -553,6 +571,7 @@ def check_no_orphans():
 def checks():
     check_indexnow()
     check_no_redirect_links()
+    check_no_query_links()
     check_canonical_path()
     check_no_orphans()
     for f in pages():

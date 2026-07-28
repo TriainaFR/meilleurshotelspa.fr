@@ -2,7 +2,7 @@
 
 > Le média français de référence des meilleurs hôtels, spas et destinations. Palmarès indépendants, guides et récits. Testé sur place, sans partenariat commercial.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/ · Dernière mise à jour : 2026-07-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/ · Dernière mise à jour : 2026-07-28 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -186,7 +186,7 @@ Protocole LMHS : 47 des 50 adresses visitées anonymement, les 3 restantes éval
 
 Palaces · Criques · Rosé frais
 
-](https://www.lesmeilleurshotelspa.fr/articles.html?q=Côte+d'Azur)
+](https://www.lesmeilleurshotelspa.fr/articles.html#q=Côte+d'Azur)
 [
 30 adresses
 
@@ -194,7 +194,7 @@ Palaces · Criques · Rosé frais
 
 Palaces · Spas urbains · Hammams
 
-](https://www.lesmeilleurshotelspa.fr/articles.html?q=Paris)
+](https://www.lesmeilleurshotelspa.fr/articles.html#q=Paris)
 [
 22 adresses
 
@@ -202,7 +202,7 @@ Palaces · Spas urbains · Hammams
 
 Bastides · Oliveraies · Marseille
 
-](https://www.lesmeilleurshotelspa.fr/articles.html?q=Provence)
+](https://www.lesmeilleurshotelspa.fr/articles.html#q=Provence)
 [
 10 adresses
 
@@ -210,7 +210,7 @@ Bastides · Oliveraies · Marseille
 
 Châteaux · Spas privatifs · Escapades
 
-](https://www.lesmeilleurshotelspa.fr/articles.html?q=Île-de-France)
+](https://www.lesmeilleurshotelspa.fr/articles.html#q=Île-de-France)
 [
 08 adresses
 
@@ -218,7 +218,7 @@ Châteaux · Spas privatifs · Escapades
 
 Surf · Belle Époque · Piment doux
 
-](https://www.lesmeilleurshotelspa.fr/articles.html?q=Pays+basque)
+](https://www.lesmeilleurshotelspa.fr/articles.html#q=Pays+basque)
 [
 10 adresses
 
@@ -226,7 +226,7 @@ Surf · Belle Époque · Piment doux
 
 Vignes · Vinothérapie · Pierre blonde
 
-](https://www.lesmeilleurshotelspa.fr/articles.html?q=Bordeaux)
+](https://www.lesmeilleurshotelspa.fr/articles.html#q=Bordeaux)
 [
 08 adresses
 
@@ -234,7 +234,7 @@ Vignes · Vinothérapie · Pierre blonde
 
 Boutique-hôtels · Fourvière · Tables
 
-](https://www.lesmeilleurshotelspa.fr/articles.html?q=Lyon)
+](https://www.lesmeilleurshotelspa.fr/articles.html#q=Lyon)
 
 Le dossier bien-être
 
@@ -252,7 +252,7 @@ des simples jacuzzis d'hôtel. Voici ce que l'eau nous a appris.
 
 **∞**peignoirs
 
-[Explorer les spas →](https://www.lesmeilleurshotelspa.fr/articles.html?cat=Spas)
+[Explorer les spas →](https://www.lesmeilleurshotelspa.fr/articles.html#cat=Spas)
 
 Vapeur : 45 °C ↗
 Silence : total ✓

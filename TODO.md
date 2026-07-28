@@ -32,9 +32,11 @@ Côté DNS, faire pointer `www` vers l'hébergeur retenu et laisser l'apex
 Au 28/07/2026, trois rapports sont ouverts. Deux ne demandent aucune action :
 
 - **« Autre page avec balise canonique correcte »** sur `articles.html?cat=Ouverture` :
-  c'est le comportement attendu d'une URL de filtre, Google confirme que la
-  canonique fonctionne. Les liens visibles sont conservés pour les lecteurs, les
-  données structurées ne les citent plus.
+  la canonique faisait son travail, mais ces URLs de filtre consommaient du budget
+  de crawl pour rien. Le 28/07/2026, les 38 liens internes en `?cat=` et `?q=` sont
+  passés en fragment (`#cat=Spas`), que les crawlers ignorent. L'ancienne forme
+  reste lue par le JavaScript pour les liens déjà partagés. Le rapport s'éteindra
+  de lui-même une fois les URLs oubliées.
 - **« Explorée, actuellement non indexée »** sur la thalasso bretonne et les hôtels
   de luxe parisiens : les deux pages avaient été publiées sans aucun lien éditorial
   entrant. Corrigé le 28/07/2026, et le build refuse désormais toute page orpheline.

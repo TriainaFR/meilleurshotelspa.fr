@@ -138,8 +138,12 @@
     const chipsWrap = $("#chips"), input = $("#filter-input"), count = $("#art-count"), empty = $("#empty-state");
     const cats = ["Tous"].concat(Array.from(new Set(ARTICLES.map(a => a.cat))));
     let state = {cat:"Tous", q:""};
-    /* filtres profonds : articles.html?cat=Spas / ?q=Corse (depuis la landing) */
-    const params = new URLSearchParams(location.search);
+    /* Filtres profonds : articles.html#cat=Spas / #q=Corse (depuis la landing).
+       Le fragment, et non la chaîne de requête : une URL en ?cat= est une page
+       distincte pour un crawler, qui la parcourt au détriment des vrais articles.
+       Un fragment ne l'est pas. La forme ?cat= reste lue pour les liens déjà
+       partagés ou mis en favori, mais le site n'en publie plus. */
+    const params = new URLSearchParams(location.hash.slice(1) || location.search.slice(1));
     const pCat = params.get("cat"), pQ = params.get("q");
     if(pCat){
       const m = cats.find(c => norm(c) === norm(pCat));

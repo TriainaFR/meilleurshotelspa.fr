@@ -2,7 +2,7 @@
 
 > 14 adresses de thalasso testées et classées selon le Protocole LMHS, dont 11 dans le sud de la France et 3 repères hors zone. Prix, soins, scores.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/spas/thalasso-sud-de-la-france/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-07-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/spas/thalasso-sud-de-la-france/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-07-28 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -79,7 +79,7 @@ Cabourg, Carnac et La Rochelle figurent hors zone sud : ils sont conservés dans
 
 Point faible : parking payant, réservation indispensable 3 semaines à l'avance en été. Tarifs hébergement élevés en haute saison (250 €+/nuit).
 
-Bandol · Cure Forme Marine 3 j dès 380 € · Bassins 1 000 m² · 25 cabines · [Hôtels & spas sur la Côte d'Azur →](https://www.lesmeilleurshotelspa.fr/articles.html?q=Côte+d'Azur)
+Bandol · Cure Forme Marine 3 j dès 380 € · Bassins 1 000 m² · 25 cabines · [Hôtels & spas sur la Côte d'Azur →](https://www.lesmeilleurshotelspa.fr/articles.html#q=Côte+d'Azur)
 
 02
 
@@ -129,7 +129,7 @@ La PACA concentre les meilleurs scores LMHS du sud. Bandol domine avec 18,4/20. 
 
 ### Occitanie : Languedoc et Roussillon (6 centres)
 
-Le meilleur rapport qualité/prix du sud. Les Flamants Roses à Canet sont une anomalie positive : 1 200 m² de bassins pour 290 € la cure 3 jours. Port-Camargue offre une expérience nature, tandis que Les Corallines séduisent par leur architecture unique. Banyuls, Argelès et Sète complètent l'offre avec des tarifs très compétitifs. Pour explorer les différentes techniques de bien-être, consultez notre [comparatif sauna, hammam et banya](https://www.lesmeilleurshotelspa.fr/articles.html?q=banya).
+Le meilleur rapport qualité/prix du sud. Les Flamants Roses à Canet sont une anomalie positive : 1 200 m² de bassins pour 290 € la cure 3 jours. Port-Camargue offre une expérience nature, tandis que Les Corallines séduisent par leur architecture unique. Banyuls, Argelès et Sète complètent l'offre avec des tarifs très compétitifs. Pour explorer les différentes techniques de bien-être, consultez notre [comparatif sauna, hammam et banya](https://www.lesmeilleurshotelspa.fr/articles.html#q=banya).
 
 ### Pays basque (1 centre)
 
@@ -206,7 +206,7 @@ Rédacteur, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 27 juillet 2026
+Dernière mise à jour : 28 juillet 2026
 
 Meilleurs.
 

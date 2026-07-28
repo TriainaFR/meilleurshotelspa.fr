@@ -2,7 +2,7 @@
 
 > Palmarès LMHS 2026 : les 8 meilleurs hôtels de Biarritz classés par score et indice basque. Du palace Belle Époque au boutique surf, trouvez votre adresse idéale.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-biarritz/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-07-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-biarritz/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-07-28 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -276,7 +276,7 @@ Rédacteur, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 27 juillet 2026
+Dernière mise à jour : 28 juillet 2026
 
 Meilleurs.
 

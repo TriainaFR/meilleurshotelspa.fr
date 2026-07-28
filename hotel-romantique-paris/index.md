@@ -2,7 +2,7 @@
 
 > 10 hôtels romantiques à Paris testés par LMHS, dont 8 sous 300 €/nuit. Indice romantisme, fiches détaillées et conseils par occasion.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/hotel-romantique-paris/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-07-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/hotel-romantique-paris/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-07-28 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -325,7 +325,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 27 juillet 2026
+Dernière mise à jour : 28 juillet 2026
 
 Meilleurs.
 

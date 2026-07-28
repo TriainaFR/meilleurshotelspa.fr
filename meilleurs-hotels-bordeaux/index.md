@@ -2,7 +2,7 @@
 
 > Découvrez les 10 meilleurs hôtels de Bordeaux 2026 selon LMHS. Palmarès complet avec scores LMHS, indices vin et avis d'experts.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-bordeaux/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-07-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-bordeaux/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-07-28 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -222,7 +222,7 @@ C'est le cœur de Bordeaux, entre la place de la Comédie, les allées de Tourny
 
 ### Les Quais et les Chartrons
 
-La grande réussite urbaine de Bordeaux de la dernière décennie. Les quais de la Garonne réhabilités, les Bassins à flots, la Cité du Vin : c'est ici que Bordeaux a changé de visage. Le **Seeko'o Hôtel** est l'hôtel design de référence de ce secteur, à 800 m de la Cité du Vin. L'**Hôtel des Quinconces** est à la limite des Chartrons, dans un quartier plus résidentiel et calme. Pour les amateurs d'œnotourisme, la Cité du Vin est à dix minutes à pied, et nos [articles sur la vinothérapie bordelaise](https://www.lesmeilleurshotelspa.fr/articles.html?q=Caudalie) complètent parfaitement ce séjour.
+La grande réussite urbaine de Bordeaux de la dernière décennie. Les quais de la Garonne réhabilités, les Bassins à flots, la Cité du Vin : c'est ici que Bordeaux a changé de visage. Le **Seeko'o Hôtel** est l'hôtel design de référence de ce secteur, à 800 m de la Cité du Vin. L'**Hôtel des Quinconces** est à la limite des Chartrons, dans un quartier plus résidentiel et calme. Pour les amateurs d'œnotourisme, la Cité du Vin est à dix minutes à pied, et nos [articles sur la vinothérapie bordelaise](https://www.lesmeilleurshotelspa.fr/articles.html#q=Caudalie) complètent parfaitement ce séjour.
 
 ### Saint-Pierre et quartiers historiques
 
@@ -288,7 +288,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 27 juillet 2026
+Dernière mise à jour : 28 juillet 2026
 
 Meilleurs.
 
