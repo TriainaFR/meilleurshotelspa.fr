@@ -88,8 +88,24 @@ ErrorDocument 404 /404.html
     Header append Vary "Accept"
   </FilesMatch>
 
+  # Catalogue d'API (RFC 9727) : le fichier n'a pas d'extension, sans quoi Apache
+  # le sert en text/plain et aucun agent ne le reconnaît.
+  <Files "api-catalog">
+    Header set Content-Type "application/linkset+json"
+    Header set Cache-Control "public, max-age=3600"
+    Header set X-Robots-Tag "noindex"
+  </Files>
+
+  # Points d'entrée machine : ouverts à tous, mais hors index. Ce sont des
+  # ressources pour agents, pas des pages : elles n'ont rien à faire dans les
+  # résultats de recherche, où elles prendraient du budget de crawl aux articles.
+  <FilesMatch "\.json$">
+    Header set X-Robots-Tag "noindex"
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+
   # En-têtes Link (RFC 8288) : découverte pour les agents
-  Header set Link "</llms.txt>; rel=\"describedby\"; type=\"text/plain\", </.well-known/agent-skills/index.json>; rel=\"service-desc\"; type=\"application/json\", </redaction/>; rel=\"author\", </mentions-legales/>; rel=\"license\""
+  Header set Link "</llms.txt>; rel=\"describedby\"; type=\"text/plain\", </.well-known/agent-skills/index.json>; rel=\"service-desc\"; type=\"application/json\", </.well-known/api-catalog>; rel=\"api-catalog\"; type=\"application/linkset+json\", </redaction/>; rel=\"author\", </mentions-legales/>; rel=\"license\""
 
   # ------------------------------------------------------------- sécurité
   Header set X-Content-Type-Options "nosniff"

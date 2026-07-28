@@ -370,23 +370,163 @@ def sync_agent_skills():
         return
     body = open(skill, "rb").read()
     digest = hashlib.sha256(body).hexdigest()
+    # Les trois champs ci-dessous suivent la lettre de la spec v0.2.0 (RFC Cloudflare
+    # « Agent Skills Discovery ») : un client qui ne reconnaît pas l'URI de $schema
+    # NE DOIT PAS traiter l'index, `type` n'accepte que skill-md ou archive, et le
+    # digest se note « sha256:<hex> » dans un champ nommé `digest`.
     data = {
-        "$schema": "https://agentskills.io/schemas/v0.2.0/index.json",
-        "version": "0.2.0",
+        "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
         "skills": [{
             "name": "consulter-les-classements-meilleurs",
-            "type": "text/markdown",
+            "type": "skill-md",
             "description": ("Consulter et citer correctement les palmarès d'hôtels et de spas "
                             "du média Meilleurs. : instruments de notation, périmètre des scores, "
                             "accès aux articles en Markdown et règles de citation."),
             "url": f"{BASE}/{skill}",
-            "sha256": digest,
+            "digest": f"sha256:{digest}",
         }],
     }
     new = json.dumps(data, ensure_ascii=False, indent=2) + "\n"
     old = open(index, encoding="utf-8").read() if os.path.exists(index) else ""
     if write(index, old, new):
         log("index de compétences agent régénéré (digest sha256 recalculé)")
+
+
+# ------------------------------ 4 quater. API de consultation du catalogue
+# Le média n'a ni compte ni panier : la seule chose qu'un agent peut légitimement
+# demander, c'est le catalogue. On l'expose donc en lecture seule, en JSON statique,
+# décrit par un document OpenAPI et référencé par un catalogue d'API (RFC 9727).
+# Rien d'autre n'est annoncé : publier une découverte OAuth ou une carte de serveur
+# MCP reviendrait à promettre aux agents des points d'entrée qui n'existent pas.
+
+def sync_agent_api():
+    updated = max(a["date"] for a in ARTS)
+
+    catalogue = {
+        "name": "Catalogue des parutions de Meilleurs.",
+        "description": "Toutes les parutions du média lesmeilleurshotelspa.fr, en lecture seule. "
+                       "Chaque entrée pointe vers la page HTML et vers sa version Markdown, "
+                       "servie aussi par négociation de contenu (Accept: text/markdown).",
+        "publisher": "Meilleurs. (lesmeilleurshotelspa.fr), édité par Triaina SAS",
+        "license": f"{BASE}/mentions-legales/",
+        "documentation": f"{BASE}/llms.txt",
+        "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
+        "updated": updated,
+        "count": len(ARTS),
+        "articles": [{
+            "slug": a["slug"],
+            "title": a["title"],
+            "category": a["cat"],
+            "destination": a["dest"],
+            "region": a["region"],
+            "published": a["date"],
+            "readingMinutes": a["reading"],
+            "url": f"{BASE}/{a['url']}",
+            "markdown": f"{BASE}/{a['url']}index.md",
+            "image": f"{BASE}/{a.get('photo', 'images/og-default.jpg')}",
+        } for a in ARTS],
+    }
+
+    openapi = {
+        "openapi": "3.1.0",
+        "info": {
+            "title": "API de consultation du catalogue Meilleurs.",
+            "version": "1.0.0",
+            "summary": "Lecture seule du catalogue des palmarès d'hôtels et de spas.",
+            "description": "API statique, sans authentification ni écriture. Elle sert le "
+                           "catalogue des parutions du média Meilleurs. Les articles eux-mêmes "
+                           "sont disponibles en Markdown à la même URL que la page HTML, par "
+                           "négociation de contenu (en-tête Accept: text/markdown).",
+            "license": {"name": "Mentions légales", "url": f"{BASE}/mentions-legales/"},
+            "contact": {"name": "La rédaction", "url": f"{BASE}/contact.html"},
+        },
+        "servers": [{"url": BASE}],
+        "paths": {
+            "/api/articles.json": {
+                "get": {
+                    "operationId": "listArticles",
+                    "summary": "Liste toutes les parutions du média",
+                    "description": "Renvoie le catalogue complet, trié de la parution la plus "
+                                   "récente à la plus ancienne.",
+                    "responses": {
+                        "200": {
+                            "description": "Le catalogue des parutions",
+                            "content": {"application/json": {"schema": {
+                                "type": "object",
+                                "required": ["updated", "count", "articles"],
+                                "properties": {
+                                    "updated": {"type": "string", "format": "date"},
+                                    "count": {"type": "integer"},
+                                    "articles": {"type": "array", "items": {
+                                        "type": "object",
+                                        "required": ["slug", "title", "category", "url"],
+                                        "properties": {
+                                            "slug": {"type": "string"},
+                                            "title": {"type": "string"},
+                                            "category": {"type": "string",
+                                                         "enum": sorted({a["cat"] for a in ARTS})},
+                                            "destination": {"type": "string"},
+                                            "region": {"type": "string"},
+                                            "published": {"type": "string", "format": "date"},
+                                            "readingMinutes": {"type": "integer"},
+                                            "url": {"type": "string", "format": "uri"},
+                                            "markdown": {"type": "string", "format": "uri"},
+                                            "image": {"type": "string", "format": "uri"},
+                                        },
+                                    }},
+                                },
+                            }}},
+                        }
+                    },
+                }
+            },
+            "/api/status.json": {
+                "get": {
+                    "operationId": "getStatus",
+                    "summary": "État du service",
+                    "responses": {"200": {"description": "Service disponible",
+                                          "content": {"application/json": {"schema": {
+                                              "type": "object",
+                                              "properties": {
+                                                  "status": {"type": "string"},
+                                                  "articles": {"type": "integer"},
+                                                  "updated": {"type": "string", "format": "date"},
+                                              }}}}}},
+                }
+            },
+        },
+    }
+
+    status = {"status": "ok", "articles": len(ARTS), "updated": updated}
+
+    # RFC 9727 : un catalogue d'API est un linkset JSON, ancré sur l'URL de l'API.
+    catalog = {
+        "linkset": [{
+            "anchor": f"{BASE}/api/articles.json",
+            "service-desc": [{"href": f"{BASE}/api/openapi.json",
+                              "type": "application/openapi+json",
+                              "title": "Description OpenAPI 3.1"}],
+            "service-doc": [{"href": f"{BASE}/llms.txt", "type": "text/plain",
+                             "title": "Présentation du média pour les agents"}],
+            "status": [{"href": f"{BASE}/api/status.json", "type": "application/json",
+                        "title": "État du service"}],
+            "license": [{"href": f"{BASE}/mentions-legales/", "type": "text/html"}],
+            "author": [{"href": f"{BASE}/redaction/", "type": "text/html"}],
+        }],
+    }
+
+    os.makedirs("api", exist_ok=True)
+    written = 0
+    for path, data in (("api/articles.json", catalogue),
+                       ("api/openapi.json", openapi),
+                       ("api/status.json", status),
+                       (".well-known/api-catalog", catalog)):
+        new = json.dumps(data, ensure_ascii=False, indent=2) + "\n"
+        old = open(path, encoding="utf-8").read() if os.path.exists(path) else ""
+        if write(path, old, new):
+            written += 1
+    if written:
+        log(f"API de consultation régénérée ({written} fichier(s), {len(ARTS)} parutions)")
 
 
 # ------------------------------------------------------------- 5. sitemap
@@ -616,6 +756,7 @@ if __name__ == "__main__":
     sync_asset_versions()
     sync_markdown()
     sync_agent_skills()
+    sync_agent_api()
     sync_sitemap()
     checks()
 

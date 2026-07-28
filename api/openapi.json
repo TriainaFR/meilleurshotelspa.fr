@@ -1,0 +1,142 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "API de consultation du catalogue Meilleurs.",
+    "version": "1.0.0",
+    "summary": "Lecture seule du catalogue des palmarès d'hôtels et de spas.",
+    "description": "API statique, sans authentification ni écriture. Elle sert le catalogue des parutions du média Meilleurs. Les articles eux-mêmes sont disponibles en Markdown à la même URL que la page HTML, par négociation de contenu (en-tête Accept: text/markdown).",
+    "license": {
+      "name": "Mentions légales",
+      "url": "https://www.lesmeilleurshotelspa.fr/mentions-legales/"
+    },
+    "contact": {
+      "name": "La rédaction",
+      "url": "https://www.lesmeilleurshotelspa.fr/contact.html"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://www.lesmeilleurshotelspa.fr"
+    }
+  ],
+  "paths": {
+    "/api/articles.json": {
+      "get": {
+        "operationId": "listArticles",
+        "summary": "Liste toutes les parutions du média",
+        "description": "Renvoie le catalogue complet, trié de la parution la plus récente à la plus ancienne.",
+        "responses": {
+          "200": {
+            "description": "Le catalogue des parutions",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": [
+                    "updated",
+                    "count",
+                    "articles"
+                  ],
+                  "properties": {
+                    "updated": {
+                      "type": "string",
+                      "format": "date"
+                    },
+                    "count": {
+                      "type": "integer"
+                    },
+                    "articles": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "required": [
+                          "slug",
+                          "title",
+                          "category",
+                          "url"
+                        ],
+                        "properties": {
+                          "slug": {
+                            "type": "string"
+                          },
+                          "title": {
+                            "type": "string"
+                          },
+                          "category": {
+                            "type": "string",
+                            "enum": [
+                              "Destinations",
+                              "Enquête",
+                              "Ouverture",
+                              "Palmarès",
+                              "Spas"
+                            ]
+                          },
+                          "destination": {
+                            "type": "string"
+                          },
+                          "region": {
+                            "type": "string"
+                          },
+                          "published": {
+                            "type": "string",
+                            "format": "date"
+                          },
+                          "readingMinutes": {
+                            "type": "integer"
+                          },
+                          "url": {
+                            "type": "string",
+                            "format": "uri"
+                          },
+                          "markdown": {
+                            "type": "string",
+                            "format": "uri"
+                          },
+                          "image": {
+                            "type": "string",
+                            "format": "uri"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/status.json": {
+      "get": {
+        "operationId": "getStatus",
+        "summary": "État du service",
+        "responses": {
+          "200": {
+            "description": "Service disponible",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "status": {
+                      "type": "string"
+                    },
+                    "articles": {
+                      "type": "integer"
+                    },
+                    "updated": {
+                      "type": "string",
+                      "format": "date"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

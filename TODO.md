@@ -47,22 +47,41 @@ Au 28/07/2026, trois rapports sont ouverts. Deux ne demandent aucune action :
 
 ## Standards agents (scan Cloudflare Agent-Ready)
 
-Quatre standards sont en place : Markdown négocié, WebMCP, index de compétences
-et en-têtes Link. Reste un point, qui demande un accès au DNS Cloudflare.
+Score au 28/07/2026 : **57, niveau 4 « Agent-Integrated »**. Six standards sont en
+place : Markdown négocié, WebMCP (4 outils), index de compétences, en-têtes Link,
+règles de bots et Content Signals dans `robots.txt`, et depuis le 28/07/2026 une
+**API de consultation** décrite par OpenAPI et publiée dans un catalogue RFC 9727.
 
-### DNS-AID (Discoverability, 1 point)
-Publier des enregistrements SVCB ou HTTPS sous `_index._agents.lesmeilleurshotelspa.fr`,
-pointant vers un point d'entrée de découverte. À faire dans le tableau de bord
-Cloudflare, zone DNS. Signer la zone en DNSSEC pour que les résolveurs valident.
-Valeur réelle limitée tant que le site n'expose pas de point d'entrée agent :
-c'est un gain de score plus qu'un gain d'usage.
+Reste un point qui demande un accès au DNS Cloudflare.
+
+### DNS-AID, à faire dans Cloudflare (Discoverability, 1 point)
+Le site expose désormais un vrai point d'entrée machine, l'enregistrement DNS a donc
+un sens. Dans le tableau de bord Cloudflare, zone `lesmeilleurshotelspa.fr`, onglet
+DNS, créer un enregistrement **HTTPS** (type 65) :
+
+```
+Nom     : _index._agents
+Priorité: 1
+Cible   : www.lesmeilleurshotelspa.fr
+Params  : alpn="h2,http/1.1" port=443
+```
+
+Puis activer **DNSSEC** (onglet DNS, section DNSSEC, « Enable DNSSEC ») pour que les
+résolveurs renvoient une réponse authentifiée : la spec DNS-AID le demande. Le
+registrar doit ensuite recevoir l'enregistrement DS que Cloudflare affiche.
 
 ### Volontairement non implémentés
-Catalogue d'API (RFC 9727), OAuth/OIDC, ressource protégée OAuth, `auth.md` et
-carte de serveur MCP. Le site n'a **ni API ni authentification** : publier ces
-documents annoncerait aux agents des points d'entrée qui n'existent pas. Ils ne
-deviendront pertinents que le jour où le média exposera un vrai service, par
-exemple une API de consultation des classements.
+**OAuth/OIDC, ressource protégée OAuth, `auth.md` et carte de serveur MCP.** Le site
+n'a **ni compte ni authentification**, et son WebMCP s'exécute dans la page, sans
+serveur MCP distant : publier ces documents annoncerait aux agents des points
+d'entrée qui n'existent pas, et le premier agent qui essaierait tomberait sur un 404.
+Ils ne deviendront pertinents que si le média expose un service authentifié, ou un
+serveur MCP hébergé. Un Worker Cloudflare exposant les classements en outils MCP
+ferait gagner le point « MCP Server Card », mais c'est un projet à part entière.
+
+**Web Bot Auth** (`/.well-known/http-message-signatures-directory`) ne nous concerne
+pas : ce répertoire de clés se publie quand on **opère** un robot qui signe ses
+requêtes, pas quand on édite un site. Le scan le signale sans le compter.
 
 ## Édition internationale
 

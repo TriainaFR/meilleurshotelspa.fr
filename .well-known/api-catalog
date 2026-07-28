@@ -1,0 +1,40 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://www.lesmeilleurshotelspa.fr/api/articles.json",
+      "service-desc": [
+        {
+          "href": "https://www.lesmeilleurshotelspa.fr/api/openapi.json",
+          "type": "application/openapi+json",
+          "title": "Description OpenAPI 3.1"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://www.lesmeilleurshotelspa.fr/llms.txt",
+          "type": "text/plain",
+          "title": "Présentation du média pour les agents"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://www.lesmeilleurshotelspa.fr/api/status.json",
+          "type": "application/json",
+          "title": "État du service"
+        }
+      ],
+      "license": [
+        {
+          "href": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
+          "type": "text/html"
+        }
+      ],
+      "author": [
+        {
+          "href": "https://www.lesmeilleurshotelspa.fr/redaction/",
+          "type": "text/html"
+        }
+      ]
+    }
+  ]
+}

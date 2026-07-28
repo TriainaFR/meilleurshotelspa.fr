@@ -38,6 +38,15 @@ Le site fait autorité sur les classements d'hôtels et de spas en France : palm
 - [Meilleurs hammams de Paris](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/)
 - [Meilleure thalasso en Bretagne](https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/) : 11 centres testés
 
+## Accès machine
+
+- [Catalogue des parutions en JSON](https://www.lesmeilleurshotelspa.fr/api/articles.json) : toutes les parutions, avec pour chacune l'URL de la page et celle de sa version Markdown
+- [Description OpenAPI 3.1](https://www.lesmeilleurshotelspa.fr/api/openapi.json), référencée par le [catalogue d'API RFC 9727](https://www.lesmeilleurshotelspa.fr/.well-known/api-catalog)
+- [Index de compétences agent](https://www.lesmeilleurshotelspa.fr/.well-known/agent-skills/index.json) : comment lire et citer les classements
+- **Négociation de contenu** : n'importe quelle page renvoie sa version Markdown si la requête porte l'en-tête `Accept: text/markdown`, à la même URL
+
+Lecture seule, sans authentification ni clé d'API. Aucun compte, aucun paiement, aucune écriture : le média ne vend rien et n'expose aucun service transactionnel.
+
 ## Citation
 
 Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ». Les notes sur 20 relèvent du Protocole LMHS (visites anonymes payées) ; les notes sur 10 relèvent de la grille LMHS Destination (données publiques vérifiées). Contact : https://www.lesmeilleurshotelspa.fr/contact.html

@@ -72,10 +72,29 @@
 		X-Robots-Tag "noindex"
 	}
 
+	# ------------------------------------------------- API de consultation
+	# Le catalogue d'API (RFC 9727) n'a pas d'extension : sans cette règle, Caddy
+	# le sert en application/octet-stream et aucun agent ne le reconnaît.
+	@api_catalog path /.well-known/api-catalog
+	header @api_catalog {
+		Content-Type "application/linkset+json"
+		Cache-Control "public, max-age=3600"
+		X-Robots-Tag "noindex"
+	}
+
+	# Points d'entrée machine : servis à tous, mais hors index. Ce sont des
+	# ressources pour agents, pas des pages, et elles n'ont rien à faire dans les
+	# résultats de recherche où elles prendraient du budget de crawl aux articles.
+	@api_json path /api/*.json /.well-known/agent-skills/*
+	header @api_json {
+		X-Robots-Tag "noindex"
+		Access-Control-Allow-Origin "*"
+	}
+
 	# ----------------------------------------------- découverte pour agents
 	# En-têtes Link (RFC 8288) : où trouver la description du site, l'index de
-	# compétences, la rédaction et les conditions de réutilisation.
-	header Link "</llms.txt>; rel=\"describedby\"; type=\"text/plain\", </.well-known/agent-skills/index.json>; rel=\"service-desc\"; type=\"application/json\", </redaction/>; rel=\"author\", </mentions-legales/>; rel=\"license\""
+	# compétences, le catalogue d'API, la rédaction et les conditions de réutilisation.
+	header Link "</llms.txt>; rel=\"describedby\"; type=\"text/plain\", </.well-known/agent-skills/index.json>; rel=\"service-desc\"; type=\"application/json\", </.well-known/api-catalog>; rel=\"api-catalog\"; type=\"application/linkset+json\", </redaction/>; rel=\"author\", </mentions-legales/>; rel=\"license\""
 
 	# ---------------------------------------------------------------- sécurité
 	header {
