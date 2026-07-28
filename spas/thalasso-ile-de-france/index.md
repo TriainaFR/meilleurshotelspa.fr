@@ -194,6 +194,8 @@ Données propriétaires
 
 ### Pour aller plus loin
 
+- [Spas avec bain froid à Paris : 5 adresses testées, toutes sous 100 €](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/)
+
 - [Meilleure thalasso en Bretagne : 11 adresses testées](https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/)
 
 [Lucas Lecoq](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/)

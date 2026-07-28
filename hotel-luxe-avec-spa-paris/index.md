@@ -271,6 +271,8 @@ Indice accessibilité propriétaire
 
 ### Pour aller plus loin
 
+- [Spas avec bain froid à Paris : 5 adresses testées, toutes sous 100 €](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/)
+
 - [Les meilleurs hôtels de luxe à Paris : 19 adresses classées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/)
 
 - [Cheval Blanc Paris : le palace LVMH tient-il ses promesses ?](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/)

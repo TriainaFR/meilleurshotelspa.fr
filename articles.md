@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Spas28 juil. 2026
+
+### Spas avec bain froid à Paris : 5 adresses testées
+
+Paris · 14 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/)[
+
 Palmarès27 juil. 2026
 
 ### Hôtels de charme en Bretagne : 10 maisons d'exception
