@@ -212,10 +212,47 @@ def fill(container_id, html, page):
         log(f"liens statiques régénérés dans #{container_id} ({page})")
 
 
+def recit_html(a, rank):
+    """Carte des « récits du moment » sur la page d'accueil."""
+    rel = a.get("photo", "images/og-default.jpg")
+    d = img_dims(rel)
+    wh = f' width="{d[0]}" height="{d[1]}"' if d else ""
+    stem = os.path.splitext(rel)[0]
+    small = f"{stem}-800.webp" if os.path.exists(f"{stem}-800.webp") else None
+    srcset = (f'srcset="{small} 800w, {stem}.webp 1400w" sizes="(max-width:820px) 100vw, 400px"'
+              if small else f'srcset="{stem}.webp"')
+    delay = f' style="transition-delay:.{rank * 12:02d}s"' if rank else ""
+    teaser = a.get("recit") or f'{a["dest"]}, {a["reading"]} min de lecture.'
+    return (
+        f'<a class="recit rv" href="{a["url"]}"{delay}>'
+        f'<div class="ph"><span class="cat">{a["cat"]}</span>'
+        f'<picture><source type="image/webp" {srcset}>'
+        f'<img decoding="async"{wh} src="{rel}" alt="" loading="lazy"></picture>'
+        f'<span class="num">{rank + 1:02d}</span></div>'
+        f'<h3>{a["title"]}</h3>'
+        f'<p>{teaser}</p>'
+        f'<span class="meta">{a["cat"]}, {a["reading"]} min de lecture</span></a>'
+    )
+
+
+def recits():
+    """Sélection des « récits du moment ». Règle : tout article dédié à un seul
+    établissement (rubrique Enquête) y figure, du plus récent au plus ancien ;
+    les slots restants vont aux parutions qui portent un chapô `recit` dans le
+    catalogue. La grille est en trois colonnes : on la remplit par multiples de
+    trois pour ne jamais laisser une carte orpheline en deuxième ligne."""
+    dedies = [a for a in ARTS if a["cat"] == "Enquête"]
+    autres = [a for a in ARTS if a.get("recit") and a not in dedies]
+    cands = dedies + autres
+    n = max(3, (len(cands) // 3) * 3)
+    return cands[:n]
+
+
 def sync_static_lists():
     fill("latest-grid", "".join(card_html(a) for a in ARTS[:12]), "index.html")
     fill("latest-wire", "".join(wire_html(a) for a in ARTS[12:]), "index.html")
     fill("articles-grid", "".join(card_html(a) for a in ARTS), "articles.html")
+    fill("recit-grid", "".join(recit_html(a, i) for i, a in enumerate(recits())), "index.html")
 
 
 # ------------------------------------------------------------ 3. dates auto

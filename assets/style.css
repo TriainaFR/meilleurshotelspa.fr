@@ -413,7 +413,7 @@ nav.main a[aria-current="page"]::after{transform:scaleX(1)}
 .recits{padding-block:clamp(70px,9vw,130px)}
 .recit-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(20px,2.6vw,40px)}
 .recit{position:relative}
-.recit:nth-child(2){transform:translateY(clamp(20px,3vw,52px))}
+.recit:nth-child(2),.recit:nth-child(5){transform:translateY(clamp(20px,3vw,52px))}
 .recit .ph{
   aspect-ratio:4/5;overflow:hidden;border-radius:12px;border:1.5px solid var(--line-strong);position:relative;
 }
@@ -441,7 +441,7 @@ nav.main a[aria-current="page"]::after{transform:scaleX(1)}
 .recit .meta{font-family:var(--mono);font-size:.68rem;letter-spacing:.08em;color:var(--ink-soft);margin-top:12px;text-transform:uppercase}
 @media(max-width:820px){
   .recit-grid{grid-template-columns:1fr;max-width:460px}
-  .recit:nth-child(2){transform:none}
+  .recit:nth-child(2),.recit:nth-child(5){transform:none}
 }
 
 /* ============ LE FIL (12 dernières parutions) ============ */

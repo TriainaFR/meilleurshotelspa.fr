@@ -262,36 +262,25 @@ Silence : total ✓
 Édito
 Longs formats, vraies adresses
 
-[
+[Enquête
 
-Enquête
+### Monteverdi Tuscany : le village toscan devenu hôtel d'auteur
 
-### Cheval Blanc Paris : le palace LVMH tient-il ses promesses ?
+Un hameau racheté maison par maison, deux Clés Michelin, quatorze couverts.
+
+Enquête, 15 min de lecture](https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/)[Enquête
+
+### Cheval Blanc Paris : le palace LVMH tient-il ses promesses ?
 
 Nuit sur place, spa Dior à l'épreuve, addition décortiquée.
 
-Enquête, 17 min de lecture
-](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/)
-[
+Enquête, 17 min de lecture](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/)[Ouverture
 
-Ouverture
-
-### Nouveaux hôtels : les 10 ouvertures de l'automne 2026
+### Nouveaux hôtels en France : les 10 ouvertures de l'automne 2026
 
 Dix maisons attendues, classées par score d'anticipation.
 
-Ouverture, 19 min de lecture
-](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-france-automne-2026/)
-[
-
-Palmarès
-
-### Hôtels de charme en Provence : 12 maisons d'exception
-
-Baumanière, Gordes, Villa La Coste : ce que valent vraiment les bastides.
-
-Palmarès, 19 min de lecture
-](https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/)
+Ouverture, 19 min de lecture](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-france-automne-2026/)
 
 Meilleurs.
 
