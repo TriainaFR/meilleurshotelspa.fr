@@ -5,9 +5,21 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-07-28",
-  "count": 23,
+  "updated": "2026-07-29",
+  "count": 24,
   "articles": [
+    {
+      "slug": "5-etoiles-france",
+      "title": "Meilleurs hôtels 5 étoiles en France : les 10 palaces hors Paris",
+      "category": "Palmarès",
+      "destination": "France",
+      "region": "France",
+      "published": "2026-07-29",
+      "readingMinutes": 18,
+      "url": "https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/fr-edenroc.jpg"
+    },
     {
       "slug": "bain-froid-paris",
       "title": "Spas avec bain froid à Paris : 5 adresses testées",

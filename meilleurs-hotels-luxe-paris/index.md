@@ -481,6 +481,10 @@ sur dossier. Ils rejoindront l'édition suivante.
 
 - [Hôtel romantique à Paris](https://www.lesmeilleurshotelspa.fr/hotel-romantique-paris/), 10 adresses testées, 8 sous 300 €
 
+### Pour aller plus loin
+
+- [Meilleurs hôtels 5 étoiles en France : les 10 palaces hors Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/)
+
 [Lucas Lecoq](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/)
 Rédacteur en chef, Meilleurs.
 

@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Palmarès29 juil. 2026
+
+### Meilleurs hôtels 5 étoiles en France : les 10 palaces hors Paris
+
+France · 18 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/)[
+
 Spas28 juil. 2026
 
 ### Spas avec bain froid à Paris : 5 adresses testées
