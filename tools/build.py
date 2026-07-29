@@ -235,7 +235,7 @@ def recit_html(a, rank):
         f'<div class="ph"><span class="cat">{a["cat"]}</span>'
         f'<picture><source type="image/webp" {srcset}>'
         f'<img decoding="async"{wh} src="{rel}" alt="" loading="lazy"></picture>'
-        f'<span class="num">{rank + 1:02d}</span></div>'
+        f'<span class="num" data-n="{rank + 1:02d}">{rank + 1:02d}</span></div>'
         f'<h3>{a["title"]}</h3>'
         f'<p>{teaser}</p>'
         f'<span class="meta">{a["cat"]}, {a["reading"]} min de lecture</span></a>'

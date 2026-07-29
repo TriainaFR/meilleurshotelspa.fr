@@ -425,12 +425,27 @@ nav.main a[aria-current="page"]::after{transform:scaleX(1)}
   background:var(--paper);padding:.5em 1em;border-radius:99px;border:1px solid var(--line-strong);
 }
 .recit .num{
-  position:absolute;right:10px;bottom:-24px;z-index:2;
+  position:absolute;right:.139em;bottom:-.333em;z-index:2;
   font-family:var(--serif);font-style:italic;font-weight:600;
   font-variation-settings:"opsz" 144;
   font-size:clamp(3.4rem,5vw,5rem);color:var(--coral);line-height:1;
-  text-shadow:3px 3px 0 var(--paper);
+  text-shadow:.042em .042em 0 var(--paper);
 }
+/* Le chiffre est calé sur son ENCRE, pas sur sa boîte. En italique, Fraunces
+   fait déborder les glyphes de leur chasse, et pas de la même façon : à 72 px,
+   « 01 » s'arrête pile à la boîte quand « 03 » la dépasse de 6,9 px. Calées à
+   droite, les trois cartes affichaient donc leur numéro à 10, 6,4 et 3,1 px du
+   cadre. Les marges ci-dessous rattrapent ce débord, mesuré glyphe par glyphe
+   et exprimé en em pour suivre la taille fluide. À refaire si la police change. */
+.recit .num[data-n="01"]{margin-right:0}
+.recit .num[data-n="02"]{margin-right:.050em}
+.recit .num[data-n="03"]{margin-right:.095em}
+.recit .num[data-n="04"]{margin-right:-.032em}
+.recit .num[data-n="05"]{margin-right:.087em}
+.recit .num[data-n="06"]{margin-right:.053em}
+.recit .num[data-n="07"]{margin-right:.132em}
+.recit .num[data-n="08"]{margin-right:.070em}
+.recit .num[data-n="09"]{margin-right:.032em}
 .recit h3{
   font-family:var(--serif);font-weight:580;font-variation-settings:"opsz" 60,"SOFT" 40;
   font-size:clamp(1.35rem,1.9vw,1.75rem);line-height:1.15;letter-spacing:-.015em;
