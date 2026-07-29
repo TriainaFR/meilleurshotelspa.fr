@@ -403,6 +403,8 @@ Quatre établissements ont été rétrogradés, une première depuis la créatio
 
 ## Pour aller *plus loin*
 
+- [Monteverdi Tuscany : le village toscan devenu hôtel d'auteur](https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/)
+
 - [Les 50 meilleurs hôtels & spas de France 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/), le palmarès national au Protocole LMHS sur 20
 
 - [Les meilleurs hôtels de luxe à Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/), 19 adresses classées, le pendant parisien de cette page

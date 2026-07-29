@@ -399,6 +399,8 @@ seconde le potager et l'intimité.
 
 ## Pour aller *plus loin*
 
+- [Monteverdi Tuscany : le village toscan devenu hôtel d'auteur](https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/)
+
 - [Les 8 meilleurs hôtels avec plage à l'île Maurice](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/)
 
 - [Les 50 meilleurs hôtels & spas de France 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/), le palmarès national au Protocole LMHS

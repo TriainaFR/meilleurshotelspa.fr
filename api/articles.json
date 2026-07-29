@@ -6,7 +6,7 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-07-29",
-  "count": 25,
+  "count": 26,
   "articles": [
     {
       "slug": "5-etoiles-france",
@@ -31,6 +31,18 @@
       "url": "https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/",
       "markdown": "https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/index.md",
       "image": "https://www.lesmeilleurshotelspa.fr/images/mu-bellemare.jpg"
+    },
+    {
+      "slug": "monteverdi-tuscany",
+      "title": "Monteverdi Tuscany : le village toscan devenu hôtel d'auteur",
+      "category": "Enquête",
+      "destination": "Toscane",
+      "region": "Toscane",
+      "published": "2026-07-29",
+      "readingMinutes": 15,
+      "url": "https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/mv-village.jpg"
     },
     {
       "slug": "bain-froid-paris",

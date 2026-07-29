@@ -33,6 +33,14 @@ Palmarès29 juil. 2026
 
 ](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/)[
 
+Enquête29 juil. 2026
+
+### Monteverdi Tuscany : le village toscan devenu hôtel d'auteur
+
+Toscane · 15 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/)[
+
 Spas28 juil. 2026
 
 ### Spas avec bain froid à Paris : 5 adresses testées

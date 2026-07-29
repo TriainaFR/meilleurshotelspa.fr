@@ -276,6 +276,8 @@ Tarifs relevés juillet 2026
 
 ### Pour aller plus loin
 
+- [Monteverdi Tuscany : le village toscan devenu hôtel d'auteur](https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/)
+
 - [Les meilleurs hôtels de luxe à Paris : 19 adresses classées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/)
 
 [Swann Bertaud](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/)
