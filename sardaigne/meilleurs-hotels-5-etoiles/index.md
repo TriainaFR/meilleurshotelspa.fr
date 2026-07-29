@@ -2,7 +2,7 @@
 
 > Découvrez notre sélection des 7 meilleurs hôtels 5 étoiles en Sardaigne : Faro Capo Spartivento, Petra Segreta, Gallicantu et plus. Luxe, authenticité et sensorialité.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-07-28 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-07-29 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -399,6 +399,8 @@ seconde le potager et l'intimité.
 
 ## Pour aller *plus loin*
 
+- [Les 8 meilleurs hôtels avec plage à l'île Maurice](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/)
+
 - [Les 50 meilleurs hôtels & spas de France 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/), le palmarès national au Protocole LMHS
 
 - [Les meilleurs hôtels de luxe à Saint-Tropez](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/), l'autre Méditerranée
@@ -414,7 +416,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 27 juillet 2026
 
-Dernière mise à jour : 28 juillet 2026
+Dernière mise à jour : 29 juillet 2026
 
 Meilleurs.
 

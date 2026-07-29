@@ -2,7 +2,7 @@
 
 > Palmarès exclusif 2026 : les 50 meilleurs hôtels & spas de France testés selon le Protocole LMHS. Classement par score, prix, région et type de spa.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-07-28 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-07-29 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -343,6 +343,8 @@ Données propriétaires
 
 ### Pour aller plus loin
 
+- [Les 8 meilleurs hôtels avec plage à l'île Maurice](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/)
+
 - [Meilleurs hôtels 5 étoiles en France : les 10 palaces hors Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/)
 
 [Lucas Lecoq](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/)
@@ -350,7 +352,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 28 juillet 2026
+Dernière mise à jour : 29 juillet 2026
 
 Meilleurs.
 

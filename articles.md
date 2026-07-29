@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-07-28 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-07-29 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -24,6 +24,14 @@ Palmarès29 juil. 2026
 France · 18 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/)[
+
+Palmarès29 juil. 2026
+
+### Les 8 meilleurs hôtels avec plage à l'île Maurice
+
+Île Maurice · 17 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/)[
 
 Spas28 juil. 2026
 

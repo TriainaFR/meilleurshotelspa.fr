@@ -6,7 +6,7 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-07-29",
-  "count": 24,
+  "count": 25,
   "articles": [
     {
       "slug": "5-etoiles-france",
@@ -19,6 +19,18 @@
       "url": "https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/",
       "markdown": "https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/index.md",
       "image": "https://www.lesmeilleurshotelspa.fr/images/fr-edenroc.jpg"
+    },
+    {
+      "slug": "plage-ile-maurice",
+      "title": "Les 8 meilleurs hôtels avec plage à l'île Maurice",
+      "category": "Palmarès",
+      "destination": "Île Maurice",
+      "region": "Île Maurice",
+      "published": "2026-07-29",
+      "readingMinutes": 17,
+      "url": "https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/mu-bellemare.jpg"
     },
     {
       "slug": "bain-froid-paris",
