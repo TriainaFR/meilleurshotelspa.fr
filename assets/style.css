@@ -414,9 +414,12 @@ nav.main a[aria-current="page"]::after{transform:scaleX(1)}
 .recit-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(20px,2.6vw,40px)}
 .recit{position:relative}
 .recit:nth-child(2),.recit:nth-child(5){transform:translateY(clamp(20px,3vw,52px))}
+/* Le rognage est porté par le <picture>, pas par le cadre : le numéro, qui
+   déborde volontairement sous l'image, était coupé net par overflow:hidden. */
 .recit .ph{
-  aspect-ratio:4/5;overflow:hidden;border-radius:12px;border:1.5px solid var(--line-strong);position:relative;
+  aspect-ratio:4/5;border-radius:12px;border:1.5px solid var(--line-strong);position:relative;
 }
+.recit .ph picture{display:block;width:100%;height:100%;overflow:hidden;border-radius:11px}
 .recit .ph img{width:100%;height:100%;object-fit:cover;transition:transform 1s var(--ease)}
 .recit:hover .ph img{transform:scale(1.06) rotate(1deg)}
 .recit .cat{
