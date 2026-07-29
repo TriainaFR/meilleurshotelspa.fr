@@ -114,14 +114,19 @@
     $$("[data-art-count]").forEach(el => { el.textContent = ARTICLES.length + " parutions"; });
   }
 
-  /* ---------- le fil : 12 unes + dépêches (landing) ---------- */
+  /* ---------- le fil : les FIL dernières unes + dépêches (landing) ----------
+     FIL doit valoir 2 + un multiple de 4 : sur desktop la grille fait quatre
+     colonnes et les deux premières cartes en occupent chacune deux, sinon la
+     dernière rangée reste orpheline. Même valeur que FIL dans tools/build.py,
+     qui écrit la version statique lue par les crawlers sans JavaScript. */
+  const FIL = 14;
   const latest = $("#latest-grid");
   if(latest && window.ARTICLES){
     const sorted = ARTICLES.slice().sort(byDateDesc);
-    latest.innerHTML = sorted.slice(0,12).map(cardHTML).join("");
+    latest.innerHTML = sorted.slice(0,FIL).map(cardHTML).join("");
     const wire = $("#latest-wire");
     if(wire){
-      wire.innerHTML = sorted.slice(12).map(a =>
+      wire.innerHTML = sorted.slice(FIL).map(a =>
         '<a class="wire-row" href="' + href(a) + '">' +
           '<span class="w-date">' + frDate(a.date).replace(" 2026","") + '</span>' +
           '<span class="w-cat">' + a.cat + '</span>' +

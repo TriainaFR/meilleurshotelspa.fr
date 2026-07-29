@@ -146,6 +146,7 @@ def sync_counters():
         s = re.sub(r'(Destinations <small>)\d+( régions)', rf'\g<1>{regions:02d}\g<2>', s)
         s = re.sub(r'(Bien-être <small>)\d+( testés)', rf'\g<1>{spas}\g<2>', s)
         s = re.sub(r'(<div class="st"><b>)\d+(</b><span>spas testés)', rf'\g<1>{spas}\g<2>', s)
+        s = re.sub(r'(Les )\d+( dernières unes)', rf'\g<1>{FIL}\g<2>', s)
         if write(f, o, s):
             touched += 1
     if touched:
@@ -154,6 +155,12 @@ def sync_counters():
 
 
 # ------------------------------------- 2. listes statiques (crawlers sans JS)
+# Nombre de cartes du fil « Fraîchement publié ». Sur desktop la grille fait
+# quatre colonnes et les deux premières cartes en occupent chacune deux
+# (.latest .art-card:nth-child(-n+2){grid-column:span 2}). Le compte doit donc
+# valoir 2 + un multiple de 4, sans quoi la dernière rangée reste orpheline.
+# Les parutions suivantes basculent dans le fil compact « Et aussi ».
+FIL = 14
 _DIMS = {}
 
 
@@ -249,8 +256,8 @@ def recits():
 
 
 def sync_static_lists():
-    fill("latest-grid", "".join(card_html(a) for a in ARTS[:12]), "index.html")
-    fill("latest-wire", "".join(wire_html(a) for a in ARTS[12:]), "index.html")
+    fill("latest-grid", "".join(card_html(a) for a in ARTS[:FIL]), "index.html")
+    fill("latest-wire", "".join(wire_html(a) for a in ARTS[FIL:]), "index.html")
     fill("articles-grid", "".join(card_html(a) for a in ARTS), "articles.html")
     fill("recit-grid", "".join(recit_html(a, i) for i, a in enumerate(recits())), "index.html")
 
