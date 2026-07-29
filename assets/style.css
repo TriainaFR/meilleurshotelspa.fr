@@ -428,7 +428,7 @@ nav.main a[aria-current="page"]::after{transform:scaleX(1)}
   background:var(--paper);padding:.5em 1em;border-radius:99px;border:1px solid var(--line-strong);
 }
 .recit .num{
-  position:absolute;right:.139em;bottom:-.22em;z-index:2;
+  position:absolute;right:.139em;bottom:-.10em;z-index:2;
   font-family:var(--serif);font-style:italic;font-weight:600;
   font-variation-settings:"opsz" 144;
   font-size:clamp(3.4rem,5vw,5rem);color:var(--coral);line-height:1;
