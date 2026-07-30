@@ -277,6 +277,8 @@ Indice accessibilité propriétaire
 
 - [Cheval Blanc Paris : le palace LVMH tient-il ses promesses ?](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/)
 
+- [Shangri-La The Shard : la piscine la plus haute d'Europe occidentale, et un spa de deux cabines](https://www.lesmeilleurshotelspa.fr/avis/shangri-la-the-shard-londres/)
+
 - [Meilleur hammam à Paris : 8 adresses testées, thermomètre en main](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/)
 
 - [Les 50 meilleurs hôtels & spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)

@@ -6,7 +6,7 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-07-30",
-  "count": 27,
+  "count": 28,
   "articles": [
     {
       "slug": "romantique-lyon",
@@ -19,6 +19,18 @@
       "url": "https://www.lesmeilleurshotelspa.fr/hotel-romantique-lyon/",
       "markdown": "https://www.lesmeilleurshotelspa.fr/hotel-romantique-lyon/index.md",
       "image": "https://www.lesmeilleurshotelspa.fr/images/ly-villaflorentine.jpg"
+    },
+    {
+      "slug": "shangri-la-shard",
+      "title": "Shangri-La The Shard, avis : Londres vu du 52e étage",
+      "category": "Enquête",
+      "destination": "Londres",
+      "region": "Londres",
+      "published": "2026-07-30",
+      "readingMinutes": 14,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/shangri-la-the-shard-londres/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/shangri-la-the-shard-londres/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/ld-shangrila.jpg"
     },
     {
       "slug": "5-etoiles-france",

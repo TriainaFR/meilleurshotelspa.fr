@@ -25,6 +25,14 @@ Lyon · 16 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/hotel-romantique-lyon/)[
 
+Enquête30 juil. 2026
+
+### Shangri-La The Shard, avis : Londres vu du 52e étage
+
+Londres · 14 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/shangri-la-the-shard-londres/)[
+
 Palmarès29 juil. 2026
 
 ### Meilleurs hôtels 5 étoiles en France : les 10 palaces hors Paris

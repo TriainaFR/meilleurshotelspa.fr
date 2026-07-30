@@ -276,6 +276,8 @@ Tarifs relevés juillet 2026
 
 ### Pour aller plus loin
 
+- [Shangri-La The Shard, avis : Londres vu du 52e étage, fiche LMHS 8,8/10](https://www.lesmeilleurshotelspa.fr/avis/shangri-la-the-shard-londres/)
+
 - [Monteverdi Tuscany : le village toscan devenu hôtel d'auteur](https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/)
 
 - [Les meilleurs hôtels de luxe à Paris : 19 adresses classées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/)
