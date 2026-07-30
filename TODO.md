@@ -114,6 +114,25 @@ existe (LinkedIn Triaina, Instagram, X), l'ajouter aux blocs `NewsMediaOrganizat
 Aucun mécanisme de rétention. Un formulaire « alerte palmarès » suffirait,
 sur le modèle du formulaire de contact déjà branché sur EmailJS.
 
+### Quatre adresses lyonnaises sans score Destination
+La parution du 30/07/2026, `/hotel-romantique-lyon/`, fait entrer quatre maisons
+au catalogue sans score LMHS sur 10 : **Villa Maïa**, **MiHotel La Tour Rose**,
+**Hôtel de l'Abbaye** et **Boscolo Lyon**. Elles n'ont pas passé la grille
+Destination, dont le critère thématique lyonnais est l'ancrage gastronomique
+(25 %), et trois d'entre elles n'ont pas de table lyonnaise intégrée. Deux suites
+possibles, à trancher :
+
+1. les faire passer la grille complète et **les intégrer au palmarès de Lyon**,
+   qui compte aujourd'hui sept adresses intra-muros. La Villa Maïa est la plus
+   criante : un 5 étoiles Leading Hotels of the World absent du palmarès de sa
+   propre ville ;
+2. ou assumer durablement la mention « non noté », qui est déjà explicitée dans
+   la méthode de la page.
+
+Manquent aussi leurs **fourchettes haute saison** : seul le tarif d'entrée a été
+relevé (450 €, 132 €, 195 €, 325 €). Et le **Collège Hôtel n'a pas de photo**,
+c'est la seule des huit fiches sans image.
+
 ---
 
 ## Données à recouper
