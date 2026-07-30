@@ -114,6 +114,38 @@ existe (LinkedIn Triaina, Instagram, X), l'ajouter aux blocs `NewsMediaOrganizat
 Aucun mécanisme de rétention. Un formulaire « alerte palmarès » suffirait,
 sur le modèle du formulaire de contact déjà branché sur EmailJS.
 
+### Un 404 mis en cache un an par Cloudflare
+**Bug d'infrastructure rencontré le 30/07/2026.** Le `Caddyfile` pose
+`Cache-Control: public, max-age=31536000, immutable` sur tout chemin en `.jpg`,
+`.webp`, `.png`, `.woff2`, **en fonction du chemin demandé, pas du code de
+réponse**. Une requête sur une image qui n'est pas encore déployée reçoit donc
+un **404 assorti d'un cache d'un an**, que Cloudflare sert ensuite en `HIT` :
+l'image devient inatteignable à cette URL même une fois le fichier en ligne.
+
+C'est arrivé à `images/ld-shangrila.jpg`, l'image `og:image` de l'avis
+Shangri-La The Shard, contournée en renommant le fichier `ld-shard-vue.jpg`.
+
+Deux choses à faire :
+
+1. **Corriger le `Caddyfile`** pour que les réponses d'erreur ne portent jamais
+   le cache long. Piste, à valider avec un binaire Caddy avant de pousser :
+   ```
+   handle_errors {
+       header -Cache-Control
+       header Cache-Control "no-store"
+       rewrite * /404.html
+       file_server
+   }
+   ```
+   Non testé : il n'y a pas de Caddy sur le poste, et une erreur de syntaxe dans
+   ce fichier casse tout le site.
+2. **Purger** `https://www.lesmeilleurshotelspa.fr/images/ld-shangrila.jpg` dans
+   Cloudflare (Caching → Purge single file), pour libérer l'URL empoisonnée.
+
+Règle de travail en attendant : **ne jamais requêter l'URL d'un nouvel asset
+avant que le déploiement soit en ligne.** Vérifier d'abord la page HTML, dont
+le cache est en `max-age=0`, et seulement ensuite les images.
+
 ### Quatre adresses lyonnaises sans score Destination
 La parution du 30/07/2026, `/hotel-romantique-lyon/`, fait entrer quatre maisons
 au catalogue sans score LMHS sur 10 : **Villa Maïa**, **MiHotel La Tour Rose**,
