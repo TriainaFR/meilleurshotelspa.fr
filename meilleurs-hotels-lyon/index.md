@@ -84,7 +84,7 @@ Sources : sites officiels, Booking.com, TripAdvisor, relevés en juillet 2026.
 
 **Pour qui :** couples en escapade romantique, amateurs de gastronomie lyonnaise, voyageurs qui veulent le meilleur de Lyon en un seul endroit.
 
-C'est l'adresse qui manquait à Lyon. Perchée sur la colline de Fourvière, avec une vue directe sur le site UNESCO et les toits de la Presqu'île, la Villa Florentine a rouvert le 30 avril 2026 après quatre mois de travaux : 36 chambres et suites repensées (de 23 m² à 128 m² pour les suites terrasse), un décor qui marie Renaissance lyonnaise et contemporain épuré, une piscine qui surplombe la ville. Ce qu'on retient surtout, c'est **La Table de la Villa Florentine**, le restaurant gastronomique intégré, qui travaille les produits du terroir lyonnais avec une carte Côtes du Rhône et Beaujolais soigneusement bâtie. Le petit-déjeuner, noté 9,1/10 par les clients, fait la part belle aux producteurs locaux. **C'est exactement ce que mesure notre indice gastronomique, et la Villa Florentine le remporte haut la main.** Membre Relais & Châteaux.
+C'est l'adresse qui manquait à Lyon. Perchée sur la colline de Fourvière, avec une vue directe sur le site UNESCO et les toits de la Presqu'île, la Villa Florentine a rouvert le 30 avril 2026 après quatre mois de travaux : 36 chambres et suites repensées (de 23 m² à 128 m² pour les suites terrasse), un décor qui marie Renaissance lyonnaise et contemporain épuré, une piscine qui surplombe la ville. Ce qu'on retient surtout, c'est **La Table de la Villa Florentine**, le restaurant gastronomique intégré, qui travaille les produits du terroir lyonnais avec une carte Côtes du Rhône et Beaujolais soigneusement bâtie. Le petit-déjeuner, noté 9,1/10 par les clients, fait la part belle aux producteurs locaux. **C'est exactement ce que mesure notre indice gastronomique, et la Villa Florentine le remporte haut la main.** Membre Relais & Châteaux. C'est aussi la première adresse de notre [classement des hôtels romantiques de Lyon](https://www.lesmeilleurshotelspa.fr/hotel-romantique-lyon/), avec le meilleur indice romantisme de la ville.
 
 Le bémol LMHS : quelques avis post-réouverture signalent des finitions inégales dans certaines chambres, la rénovation est fraîche, le rodage n'est pas terminé. La piscine, dont l'entretien était déjà critiqué avant les travaux, reste à surveiller. Et l'accès en voiture depuis le centre décourage ceux qui ne veulent pas conduire.
 
@@ -266,6 +266,8 @@ Indice gastronomique propriétaire
 - [Office du tourisme de Lyon, hébergements](https://www.visiterlyon.com/sejourner/hebergements/)
 
 ### Pour aller plus loin
+
+- [Hôtel romantique à Lyon : 8 adresses classées à l'indice romantisme](https://www.lesmeilleurshotelspa.fr/hotel-romantique-lyon/)
 
 - [Les 50 meilleurs hôtels & spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)
 

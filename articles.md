@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Palmarès30 juil. 2026
+
+### Hôtel romantique à Lyon : 8 adresses classées
+
+Lyon · 16 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/hotel-romantique-lyon/)[
+
 Palmarès29 juil. 2026
 
 ### Meilleurs hôtels 5 étoiles en France : les 10 palaces hors Paris

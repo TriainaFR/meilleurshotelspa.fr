@@ -314,6 +314,8 @@ Indice romantisme propriétaire
 
 - [Hôtel de luxe avec spa à Paris : les 8 meilleures combinaisons](https://www.lesmeilleurshotelspa.fr/hotel-luxe-avec-spa-paris/)
 
+- [Hôtel romantique à Lyon : 8 adresses classées avec le même indice](https://www.lesmeilleurshotelspa.fr/hotel-romantique-lyon/)
+
 - [Les 50 meilleurs hôtels et spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)
 
 - [Cheval Blanc Paris : le palace LVMH tient-il ses promesses ?](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/)
