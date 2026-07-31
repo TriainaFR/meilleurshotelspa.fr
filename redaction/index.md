@@ -1,22 +1,22 @@
 # La rédaction de Meilleurs. : qui écrit, qui teste, qui répond
 
-> La rédaction de Meilleurs. : Lucas Lecoq, rédacteur en chef, et Swann Bertaud, rédacteur hôtellerie de luxe. Média indépendant édité par Triaina SAS.
+> La rédaction de Meilleurs. : Lucas Lecoq, Swann Bertaud et Emmanuel Laveran. Média indépendant édité par Triaina SAS, aucun partenariat rémunéré.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/redaction/ · Dernière mise à jour : 2026-07-30 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/redaction/ · Dernière mise à jour : 2026-07-31 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
-Page de présentation de la rédaction du média en ligne français Meilleurs. (lesmeilleurshotelspa.fr), édité par Triaina SAS (Paris) et lancé en 2026. Deux signatures : Lucas Lecoq, rédacteur en chef et président de Triaina, qui signe les classements par ville et le palmarès national ; Swann Bertaud, rédacteur hôtellerie de luxe et directeur général de Triaina, qui signe les enquêtes palaces, spas et hammams. Tous les contenus suivent le Protocole LMHS : visites anonymes, nuits payées, aucun partenariat rémunéré, aucune affiliation.
+Page de présentation de la rédaction du média en ligne français Meilleurs. (lesmeilleurshotelspa.fr), édité par Triaina SAS (Paris) et lancé en 2026. Trois signatures : Lucas Lecoq, rédacteur en chef et président de Triaina, qui signe les classements par ville et le palmarès national ; Swann Bertaud, rédacteur hôtellerie de luxe et directeur général de Triaina, qui signe les enquêtes palaces, spas et hammams ; Emmanuel Laveran, rédacteur hôtels et gastronomie et associé de Triaina, cofondateur du magazine Yonder, arrivé en juillet 2026. Tous les contenus suivent le Protocole LMHS : visites anonymes, nuits payées, aucun partenariat rémunéré, aucune affiliation.
 
 ---
 Le média
 
-Deux signatures, un protocole, zéro partenariat rémunéré. Voici qui écrit Meilleurs.,
+Trois signatures, un protocole, zéro partenariat rémunéré. Voici qui écrit Meilleurs.,
 qui dort dans les chambres que nous notons, et qui répond quand vous nous écrivez.
 
 Édité par **Triaina**, Paris
 ✺
-Mise à jour le 30 juillet 2026
+Mise à jour le 31 juillet 2026
 
 **Meilleurs.** est un média en ligne français consacré aux hôtels, spas et
 destinations d'exception, lancé en 2026 et édité par **Triaina**, société par
@@ -63,6 +63,23 @@ Sa spécialité : vérifier ce que les brochures promettent, mètre carré par m
 10 parutions signées ·
 [Sa page auteur →](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/) ·
 [LinkedIn →](https://www.linkedin.com/in/swann-bertaud/)
+
+03
+
+### Emmanuel Laveran
+
+**Rédacteur hôtels et gastronomie · Associé de Triaina**
+
+Arrivé en juillet 2026, Emmanuel Laveran est cofondateur du magazine de voyage
+[Yonder](https://www.yonder.fr/redacteur/1769),
+où il a signé 226 articles, et fondateur de l'agence W Garden. Il écrit aussi pour Les
+Hardis et pour 180°C, la revue culture food dont il est associé. Chez Meilleurs., il
+prend le terrain le moins bien couvert par la concurrence : ce qui se passe à table, et
+ce que vaut la chambre au-dessus. Ses premières parutions ici sont à venir.
+
+Aucune parution signée à ce jour ·
+[Sa page auteur →](https://www.lesmeilleurshotelspa.fr/redaction/emmanuel-laveran/) ·
+[LinkedIn →](https://www.linkedin.com/in/elaveran/)
 
 ## Comment nous *travaillons*
 

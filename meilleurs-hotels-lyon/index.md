@@ -2,7 +2,7 @@
 
 > Les meilleurs hôtels de Lyon 2026 classés par le protocole LMHS : scores /10 et indice gastronomique inédit. De la Villa Florentine au Château de Bagnols.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-lyon/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-07-30 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-lyon/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-07-31 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -284,7 +284,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 30 juillet 2026
+Dernière mise à jour : 31 juillet 2026
 
 Meilleurs.
 
