@@ -43,7 +43,8 @@ la règle de la maison : un bémol par adresse, un tarif daté par prix, et aucu
 
 8 parutions signées ·
 [Sa page auteur →](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/) ·
-[LinkedIn →](https://www.linkedin.com/in/lucas-lecoq/)
+[LinkedIn →](https://www.linkedin.com/in/lucas-lecoq/) ·
+[Instagram →](https://www.instagram.com/ll_lcq/)
 
 02
 

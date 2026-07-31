@@ -17,6 +17,8 @@ Directeur de la publication, gardien de la méthode.
 Rédacteur en chef · **Meilleurs.**
 ✺
 [LinkedIn](https://www.linkedin.com/in/lucas-lecoq/)
+✺
+[Instagram](https://www.instagram.com/ll_lcq/)
 
 Cofondateur de Meilleurs. en 2026, **Lucas Lecoq** dirige la rédaction et
 assume la direction de la publication du site. Sa conviction, qui structure tout le média :
