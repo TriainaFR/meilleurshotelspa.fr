@@ -25,6 +25,14 @@ Cannes · 17 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/)[
 
+Destinations31 juil. 2026
+
+### Croisières sur le Nil : les 5 plus belles, comparées
+
+Égypte · 15 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/destinations/croisieres-egypte-nil/)[
+
 Palmarès30 juil. 2026
 
 ### Hôtel romantique à Lyon : 8 adresses classées

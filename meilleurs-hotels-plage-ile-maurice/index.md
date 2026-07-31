@@ -354,6 +354,8 @@ janvier, comptez le double.
 
 - [Les meilleurs hôtels 5 étoiles en Sardaigne](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/), notre autre sélection hors de France
 
+- [Croisières sur le Nil : les 5 plus belles](https://www.lesmeilleurshotelspa.fr/destinations/croisieres-egypte-nil/), quand la chambre flotte au lieu de rester à quai
+
 - [Les meilleurs hôtels de luxe à Saint-Tropez](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/), la Méditerranée avec plage privée
 
 - [Hôtel de luxe avec spa à Paris](https://www.lesmeilleurshotelspa.fr/hotel-luxe-avec-spa-paris/), les 8 spas de palaces comparés

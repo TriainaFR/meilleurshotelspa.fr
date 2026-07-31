@@ -76,9 +76,9 @@ Arrivé en juillet 2026, Emmanuel Laveran est cofondateur du magazine de voyage
 où il a signé 226 articles, et fondateur de l'agence W Garden. Il écrit aussi pour Les
 Hardis et pour 180°C, la revue culture food dont il est associé. Chez Meilleurs., il
 prend le terrain le moins bien couvert par la concurrence : ce qui se passe à table, et
-ce que vaut la chambre au-dessus. Ses premières parutions ici sont à venir.
+ce que vaut la chambre au-dessus. Il ouvre son compteur avec une sélection de [cinq croisières sur le Nil](https://www.lesmeilleurshotelspa.fr/destinations/croisieres-egypte-nil/).
 
-Aucune parution signée à ce jour ·
+1 parution signée ·
 [Sa page auteur →](https://www.lesmeilleurshotelspa.fr/redaction/emmanuel-laveran/) ·
 [LinkedIn →](https://www.linkedin.com/in/elaveran/)
 

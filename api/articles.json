@@ -6,7 +6,7 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-07-31",
-  "count": 29,
+  "count": 30,
   "articles": [
     {
       "slug": "luxe-cannes",
@@ -19,6 +19,18 @@
       "url": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/",
       "markdown": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/index.md",
       "image": "https://www.lesmeilleurshotelspa.fr/images/cn-carlton.jpg"
+    },
+    {
+      "slug": "croisieres-nil",
+      "title": "Croisières sur le Nil : les 5 plus belles, comparées",
+      "category": "Destinations",
+      "destination": "Égypte",
+      "region": "Égypte",
+      "published": "2026-07-31",
+      "readingMinutes": 15,
+      "url": "https://www.lesmeilleurshotelspa.fr/destinations/croisieres-egypte-nil/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/destinations/croisieres-egypte-nil/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/eg-gaia.jpg"
     },
     {
       "slug": "romantique-lyon",

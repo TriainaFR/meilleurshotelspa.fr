@@ -6,7 +6,7 @@ URL canonique : https://www.lesmeilleurshotelspa.fr/redaction/emmanuel-laveran/ 
 
 ## En résumé pour un agent
 
-Page auteur d'Emmanuel Laveran, rédacteur hôtels et gastronomie du média français Meilleurs. (lesmeilleurshotelspa.fr) et associé de Triaina SAS, société éditrice. Cofondateur du magazine de voyage Yonder, où il a signé 226 articles au 31 juillet 2026, fondateur et dirigeant de l'agence W Garden, contributeur des Hardis et de 180°C. Il rejoint la rédaction en juillet 2026 et n'y signe encore aucune parution.
+Page auteur d'Emmanuel Laveran, rédacteur hôtels et gastronomie du média français Meilleurs. (lesmeilleurshotelspa.fr) et associé de Triaina SAS, société éditrice. Cofondateur du magazine de voyage Yonder, où il a signé 226 articles au 31 juillet 2026, fondateur et dirigeant de l'agence W Garden, contributeur des Hardis et de 180°C. Il rejoint la rédaction en juillet 2026 et y signe sa première parution, une sélection de cinq croisières sur le Nil.
 
 ---
 La rédaction
@@ -41,10 +41,9 @@ Il dirige par ailleurs **W Garden**, l'agence parisienne qu'il a fondée. Chez M
 
 ## Ses *parutions*
 
-**Aucune à ce jour.** Emmanuel Laveran rejoint la rédaction en juillet 2026 et cette
-liste se remplira à sa première signature. Nous préférons l'écrire ainsi plutôt que de laisser
-croire à un historique qui n'existe pas encore : la règle vaut pour les hôtels que nous notons,
-elle vaut aussi pour nous. En attendant, ses 226 articles publiés sur
+- [Croisières sur le Nil : les 5 plus belles, comparées](https://www.lesmeilleurshotelspa.fr/destinations/croisieres-egypte-nil/), sa première signature, 31 juillet 2026
+
+Cette liste s'allongera au fil de ses parutions. Pour le reste, ses 226 articles publiés sur
 [Yonder](https://www.yonder.fr/redacteur/1769) disent
 mieux que nous ce qu'il sait faire.
 
@@ -61,7 +60,7 @@ commercial avec un établissement noté.
 
 Rédacteur hôtels et gastronomie
 Cofondateur de Yonder
-226 articles signés
+1 parution ici, 226 sur Yonder
 
 Meilleurs.
 
