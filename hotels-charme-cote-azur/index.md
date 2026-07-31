@@ -268,7 +268,7 @@ Pour un week-end romantique, le Château Eza dans le village médiéval d'Eze (v
 
 Quel est le meilleur hôtel de luxe à Cannes sur la Croisette ?
 
-Le Majestic Barrière (8,2/10) est l'adresse la plus complète sur la Croisette : palace classé, plage privée, spa Diane Barrière, restaurant Fouquet's et vue mer directe depuis les chambres supérieures. Il devance le Carlton et le Martinez sur le critère charme architectural et cohérence de l'offre selon notre protocole. Hors Festival, son indice charme de 0,30 est favorable en octobre-novembre, quand les tarifs redescendent à partir de 420 €/nuit.
+Le Majestic Barrière (8,2/10) est l'adresse la plus complète sur la Croisette : palace au sens courant du terme mais non distingué par Atout France, plage privée, spa Diane Barrière, restaurant Fouquet's et vue mer directe depuis les chambres supérieures. Il devance le Carlton et le Martinez sur le critère charme architectural et cohérence de l'offre selon notre protocole. Hors Festival, son indice charme de 0,30 est favorable en octobre-novembre, quand les tarifs redescendent à partir de 420 €/nuit.
 
 ## Méthode et *sources*
 
@@ -308,6 +308,8 @@ Indice charme propriétaire
 - [Relais & Châteaux, Château de la Chèvre d'Or](https://www.relaischateaux.com/fr/hotel/chateau-de-la-chevre-d-or/)
 
 ### Pour aller plus loin
+
+- [Hôtels de luxe à Cannes : les 8 meilleures adresses, classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/)
 
 - [Hôtels de charme en Bretagne : 10 maisons d'exception](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/)
 

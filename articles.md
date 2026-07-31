@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Palmarès31 juil. 2026
+
+### Hôtels de luxe à Cannes : les 8 meilleures adresses
+
+Cannes · 17 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/)[
+
 Palmarès30 juil. 2026
 
 ### Hôtel romantique à Lyon : 8 adresses classées
