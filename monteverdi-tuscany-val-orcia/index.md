@@ -2,7 +2,7 @@
 
 > Monteverdi Tuscany : hôtel de luxe en Toscane, Val d'Orcia. Un village médiéval restauré en 5 étoiles, deux Clés Michelin, spa, Oreade et ses 14 couverts. Score LMHS 9,4/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-07-31 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -242,6 +242,8 @@ chambre, suite ou maison de village privée.
 
 - [Les meilleurs hôtels 5 étoiles en Sardaigne](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/), l'autre versant italien de nos sélections
 
+- [The Romanos, Costa Navarino](https://www.lesmeilleurshotelspa.fr/avis/the-romanos-costa-navarino/), le contraire exact de Monteverdi : 321 chambres au lieu de quatorze couverts
+
 - [Les 10 meilleurs hôtels 5 étoiles de France hors Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/), l'échelle de comparaison
 
 - [Les 50 meilleurs hôtels & spas de France 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/), le palmarès national
@@ -255,7 +257,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 29 juillet 2026
 
-Dernière mise à jour : 31 juillet 2026
+Dernière mise à jour : 3 août 2026
 
 Meilleurs.
 

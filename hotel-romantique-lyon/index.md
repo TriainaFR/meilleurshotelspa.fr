@@ -2,7 +2,7 @@
 
 > 8 hôtels romantiques à Lyon classés par l'indice romantisme LMHS : Villa Florentine, Cour des Loges, Villa Maïa, Fourvière Hôtel. Prix, spa, vue et bémols.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/hotel-romantique-lyon/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-07-31 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/hotel-romantique-lyon/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -309,7 +309,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 30 juillet 2026
 
-Dernière mise à jour : 31 juillet 2026
+Dernière mise à jour : 3 août 2026
 
 Meilleurs.
 

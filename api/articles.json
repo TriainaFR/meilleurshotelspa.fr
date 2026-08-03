@@ -6,7 +6,7 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-08-03",
-  "count": 31,
+  "count": 32,
   "articles": [
     {
       "slug": "hammam-lyon",
@@ -19,6 +19,18 @@
       "url": "https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-lyon/",
       "markdown": "https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-lyon/index.md",
       "image": "https://www.lesmeilleurshotelspa.fr/images/hl-opera.jpg"
+    },
+    {
+      "slug": "romanos-navarino",
+      "title": "The Romanos, Costa Navarino : le luxe grec en Messénie",
+      "category": "Enquête",
+      "destination": "Messénie",
+      "region": "Grèce",
+      "published": "2026-08-03",
+      "readingMinutes": 15,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/the-romanos-costa-navarino/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/the-romanos-costa-navarino/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/gr-romanos-piscine.jpg"
     },
     {
       "slug": "luxe-cannes",
