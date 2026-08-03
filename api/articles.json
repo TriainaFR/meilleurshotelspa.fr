@@ -5,9 +5,21 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-07-31",
-  "count": 30,
+  "updated": "2026-08-03",
+  "count": 31,
   "articles": [
+    {
+      "slug": "hammam-lyon",
+      "title": "Meilleur hammam à Lyon : 7 adresses, ce qu'elles valent",
+      "category": "Spas",
+      "destination": "Lyon",
+      "region": "Auvergne-Rhône-Alpes",
+      "published": "2026-08-03",
+      "readingMinutes": 14,
+      "url": "https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-lyon/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-lyon/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/hl-opera.jpg"
+    },
     {
       "slug": "luxe-cannes",
       "title": "Hôtels de luxe à Cannes : les 8 meilleures adresses",

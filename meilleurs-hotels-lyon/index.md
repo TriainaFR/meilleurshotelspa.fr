@@ -269,6 +269,8 @@ Indice gastronomique propriétaire
 
 - [Hôtel romantique à Lyon : 8 adresses classées à l'indice romantisme](https://www.lesmeilleurshotelspa.fr/hotel-romantique-lyon/)
 
+- [Meilleur hammam à Lyon : 7 adresses, ce qu'elles valent](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-lyon/), dont une fermée jusqu'en octobre
+
 - [Les 50 meilleurs hôtels & spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)
 
 - [Les meilleurs hôtels 4 étoiles de Paris : 12 adresses testées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-paris/)

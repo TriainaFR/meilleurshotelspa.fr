@@ -266,6 +266,8 @@ Thermomètre ±0,5 °C
 
 ### Pour aller plus loin
 
+- [Meilleur hammam à Lyon : 7 adresses, ce qu'elles valent](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-lyon/), le pendant lyonnais
+
 - [Spas avec bain froid à Paris : 5 adresses testées, toutes sous 100 €](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/)
 
 [Swann Bertaud](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/)

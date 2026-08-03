@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Spas3 août 2026
+
+### Meilleur hammam à Lyon : 7 adresses, ce qu'elles valent
+
+Lyon · 14 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-lyon/)[
+
 Palmarès31 juil. 2026
 
 ### Hôtels de luxe à Cannes : les 8 meilleures adresses
