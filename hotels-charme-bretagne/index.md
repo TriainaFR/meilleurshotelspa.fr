@@ -427,6 +427,8 @@ réserver.
 
 ## Pour aller *plus loin*
 
+- [Hôtels de charme en Normandie : 10 maisons classées](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/), l'autre côte du nord-ouest
+
 - [Meilleure thalasso en Bretagne](https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/), 11 centres testés, l'autre facette de la côte
 
 - [Hôtels de charme en Provence](https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/), 12 maisons, le même instrument appliqué au Sud

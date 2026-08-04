@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Palmarès4 août 2026
+
+### Hôtels de charme en Normandie : 10 maisons classées
+
+Normandie · 18 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/)[
+
 Spas3 août 2026
 
 ### Meilleur hammam à Lyon : 7 adresses, ce qu'elles valent
