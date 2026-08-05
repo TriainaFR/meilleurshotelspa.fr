@@ -169,6 +169,25 @@ c'est la seule des huit fiches sans image.
 
 ## Données à recouper
 
+### Deux spas parisiens publiés sans note
+La parution du 05/08/2026, `/spas/meilleur-spa-avec-hammam-paris/`, publie le
+**Mandarin Oriental Paris** (251 rue Saint-Honoré, à ne pas confondre avec le
+Mandarin Oriental Lutetia du comparatif des palaces) et **Aux Bains Montorgueil**
+sans aucune note, faute de visite. Les visiter, relever la température de leur
+salle chaude au thermomètre, et remplacer les deux « non noté » par des scores
+Protocole LMHS sur 20. Le Mandarin Oriental est le plus urgent : 900 m², l'un
+des plus vastes spas d'hôtel de Paris, et son périmètre d'accès aux non-résidents
+n'est pas publié, il faudra le demander à l'établissement.
+
+### Le hammam de la Grande Mosquée et les annuaires
+Le site officiel écrit que le hammam est **exclusivement réservé aux femmes**.
+Top-halal, Plein Soleil Paris et la plupart des annuaires publient encore des
+créneaux hommes le mardi de 14 h à 21 h et le dimanche de 10 h à 21 h. Nos deux
+pages retiennent la source de l'établissement. À reconfirmer par téléphone lors
+de la prochaine passe : si les créneaux hommes existent dans les faits sans
+figurer en ligne, c'est une information qu'aucun guide français ne donne
+correctement, et elle vaut d'être publiée.
+
 ### Deux prix identiques non vérifiés
 Les Étangs de Corot et Le Barn affichent tous deux **290 €** dans
 `destinations/hotel-spa-privatif-ile-de-france/`. C'est plausible mais les deux
