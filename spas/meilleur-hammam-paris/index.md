@@ -2,7 +2,7 @@
 
 > 8 hammams parisiens testés selon le Protocole LMHS : score, prix, surface, ambiance. Du hammam traditionnel au spa palace - le classement sans complaisance.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-04 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-05 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -27,7 +27,7 @@ Photo : LPLT / Wikimedia Commons, CC BY-SA 4.0.
 ## TL;DR : l'essentiel · Le meilleur hammam de Paris, selon l'usage
 
 1. **Pour l'expérience traditionnelle : la Grande Mosquée**,
-16,9/20, 52 °C mesurés, fondée en 1926, 45 € la séance.
+16,9/20, 52 °C mesurés, fondée en 1926, 30 € l'entrée simple.
 
 2. **Pour le niveau palace : le Spa du Bristol**,
 18,2/20, marbre de Carrare, 150 € la séance.
@@ -37,11 +37,11 @@ Photo : LPLT / Wikimedia Commons, CC BY-SA 4.0.
 
 **Donnée exclusive :** sur 8 adresses testées, la température
 moyenne des salles chaudes est de **47 °C**, 8 °C au-dessus de la moyenne des
-spas européens. Prix moyen d'une séance : 68 €.
+spas européens. Prix moyen d'une séance : 61 €.
 
 ## Introduction : un mot, huit *réalités*
 
-Paris compte des dizaines d'adresses qui se revendiquent « hammam ». Derrière ce mot, des réalités très différentes : du bain maure authentique de la Grande Mosquée à la salle vapeur en marbre de Carrare du Bristol, en passant par le spa contemporain de 900 m² des Cent Ciels. On a testé 8 adresses entre avril et juillet 2026, thermomètre en main, gant de crin sur l'avant-bras.
+Paris compte des dizaines d'adresses qui se revendiquent « hammam ». Derrière ce mot, des réalités très différentes : du bain maure authentique de la Grande Mosquée à la salle vapeur en marbre de Carrare du Bristol, en passant par le spa contemporain des Cent Ciels, rue de Nemours. On a testé 8 adresses entre avril et juillet 2026, thermomètre en main, gant de crin sur l'avant-bras.
 
 Protocole LMHS appliqué (Luxe, Mise en scène, Hospitalité, Soin), score /20. Visites anonymes, aucun partenariat. Une donnée exclusive : la température réelle de chaque salle chaude, mesurée à 1 m 50 du sol, 20 minutes après l'entrée.
 
@@ -66,10 +66,10 @@ Un vrai hammam nettoie en profondeur par la chaleur et le gommage mécanique. Un
 | Rang | Hammam | Arr. | Score LMHS | Prix séance | Température mesurée | Type | Mixte |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 01 | Spa du Bristol Paris | 8e | 18,2/20 | 150 € | 44 °C | Palace | Oui |
-| 02 | Hammam de la Grande Mosquée | 5e | 16,9/20 | 45 € | 52 °C | Traditionnel | Non (femmes uniquement) |
-| 03 | Medina Center | 19e | 16,4/20 | 55 € | 49 °C | Traditionnel | Oui |
-| 04 | Les Cent Ciels | 11e | 15,8/20 | 75 € | 46 °C | Contemporain | Oui |
-| 05 | Hammam Pacha | 18e | 15,3/20 | 48 € | 51 °C | Traditionnel | Non (créneaux) |
+| 02 | Hammam de la Grande Mosquée | 5e | 16,9/20 | 30 € | 52 °C | Traditionnel | Non (femmes uniquement) |
+| 03 | Medina Center | 19e | 16,4/20 | 55 € | 49 °C | Traditionnel | Le samedi seulement |
+| 04 | Les Cent Ciels | 11e | 15,8/20 | 47 € | 46 °C | Contemporain | Le soir et le week-end |
+| 05 | Hammam Pacha | 6e | 15,3/20 | 39 € | 51 °C | Traditionnel | Non (femmes uniquement) |
 | 06 | La Sultane de Saba | 1er | 14,9/20 | 95 € | 43 °C | Oriental luxe | Oui |
 | 07 | L'Échappée | 11e | 14,2/20 | 38 € | 45 °C | Contemporain | Oui |
 | 08 | Charme d'Orient | 9e | 13,6/20 | 35 € | 48 °C | Traditionnel | Non (créneaux) |
@@ -99,11 +99,11 @@ Construite en 1926 pour honorer les soldats musulmans morts pour la France, la G
 
 Le gommage au kessa est pratiqué à l'ancienne : long, vigoureux, sans ménagement. Les praticiens ne font pas semblant, ils travaillent. Le thé à la menthe servi après la séance dans le patio, c'est l'épilogue parfait.
 
-**Ce qu'on a aimé :** l'authenticité brute, non lissée pour les touristes. Le prix (45 € tout compris). L'architecture classée qui vous plonge vraiment ailleurs.
+**Ce qu'on a aimé :** l'authenticité brute, non lissée pour les touristes. Le prix : **30 € l'entrée simple**, serviette et thé compris, et l'établissement ne prend aucune réservation. L'architecture classée qui vous plonge vraiment ailleurs.
 
 Ce qui déçoit : l'entretien est inégal selon les jours, certains matins, les salles manquent de fraîcheur. L'accueil peut être brusque. Et le hammam est aujourd'hui exclusivement réservé aux femmes, sans aucun créneau hommes.
 
-Pour qui : celles qui cherchent la vraie expérience marocaine, sans compromis · 5e arr. · Dès 45 €
+Pour qui : celles qui cherchent la vraie expérience marocaine, sans compromis · 5e arr. · Dès 30 €
 
 03
 
@@ -123,25 +123,25 @@ Pour qui : les couples et les groupes mixtes qui veulent une vraie expérience s
 
 ### Les Cent Ciels 15,8/20
 
-Les Cent Ciels, c'est le hammam pour ceux qui n'aiment pas les hammams traditionnels. Dans le 11e arrondissement, ce spa de 900 m² (le plus grand du classement) a opté pour un design contemporain épuré : béton ciré, bois clair, lumière douce. La salle hammam tourne à 46 °C, le bassin de nage fait 15 mètres, et les soins sont dispensés avec des produits français haut de gamme.
+Les Cent Ciels, c'est le hammam pour ceux qui n'aiment pas les hammams traditionnels. Au 7 rue de Nemours, dans le 11e arrondissement, la maison a opté pour un design contemporain épuré : béton ciré, bois clair, lumière douce. La salle hammam tourne à 46 °C, le parcours enchaîne hammam tiède, hammam chaud, sauna et bassins, et les soins sont dispensés avec des produits haut de gamme. Le **Rituel Initiation dure trois heures et coûte 47 €** ; les rituels avec soins montent de 79 à 220 €.
 
 **Ce qu'on a aimé :** la qualité constante des soins, l'espace (on ne se marche pas dessus), l'ambiance calme même le week-end.
 
-Ce qui déçoit : l'âme du hammam traditionnel est absente, on est dans un spa aquatique de qualité, pas dans un bain maure. Et 75 € pour l'accès seul, c'est cher pour ce positionnement.
+Ce qui déçoit : l'âme du hammam traditionnel est absente, on est dans un spa aquatique de qualité, pas dans un bain maure. Attention aussi à deux confusions répandues : **les 900 m² que les guides attribuent à cette adresse sont ceux de Boulogne-Billancourt**, l'établissement parisien ne publie pas sa surface et il est plus petit ; et la maison n'est **mixte qu'en soirée et le week-end**, l'accès étant réservé aux femmes du lundi au vendredi de 10 h à 17 h.
 
-Pour qui : les amateurs de design et de bien-être contemporain, indifférents à l'authenticité orientale · 11e arr. · Dès 75 €
+Pour qui : les amateurs de design et de bien-être contemporain, indifférents à l'authenticité orientale · 7 rue de Nemours, 11e arr. · Femmes en journée, mixte le soir et le week-end · Dès 47 €
 
 05
 
 ### Hammam Pacha 15,3/20
 
-Hammam Pacha a ouvert en 1988 dans le 18e arrondissement, quand le quartier était encore très différent. Près de quarante ans plus tard, l'adresse tient toujours, avec ses 3 salles de chaleur progressive, ses mosaïques orangées et son ambiance de quartier assumée. La salle principale monte à 51 °C mesurés, presque autant que la Grande Mosquée.
+Hammam Pacha occupe 700 m² au **17 rue Mayet, dans le 6e arrondissement**, entre Duroc et Montparnasse, et revendique trente-six ans d'expérience, ce qui en fait l'une des plus anciennes maisons de Paris. L'adresse tient toujours, avec ses 3 salles de chaleur progressive, ses mosaïques orangées et son ambiance de quartier assumée. La salle principale monte à 51 °C mesurés, presque autant que la Grande Mosquée.
 
-**Ce qu'on a aimé :** la fidélité à la tradition, les prix accessibles (48 €), la clientèle de quartier qui donne une vraie couleur locale. C'est un hammam de vrai, pas un hammam de touriste.
+**Ce qu'on a aimé :** la fidélité à la tradition, les prix accessibles (**39 € l'entrée**, 20 € le gommage), la clientèle de quartier qui donne une vraie couleur locale, et le restaurant bio qui permet d'y passer la journée. C'est un hammam de vrai, pas un hammam de touriste.
 
-Ce qui déçoit : les installations ont vieilli, certains espaces manquent de rénovation. L'accueil est variable. Fonctionne par créneaux séparés.
+Ce qui déçoit : les installations ont vieilli, certains espaces manquent de rénovation. L'accueil est variable. Ni sauna ni bassin, donc aucun contraste chaud-froid. Et la maison est **exclusivement réservée aux femmes**, à partir de 14 ans.
 
-Pour qui : ceux qui cherchent l'authenticité populaire, sans les dorures de la Mosquée ni les prix du Bristol · 18e arr. · Dès 48 €
+Pour qui : celles qui cherchent l'authenticité populaire, sans les dorures de la Mosquée ni les prix du Bristol · 17 rue Mayet, 6e arr. · Femmes uniquement · Dès 39 €
 
 06
 
@@ -183,11 +183,11 @@ Pour qui : les budgets serrés qui veulent quand même un vrai hammam avec gomma
 
 ### Pour l'expérience traditionnelle authentique
 
-Grande Mosquée (52 °C, 45 €, architecture de 1926) ou Hammam Pacha (51 °C, 48 €, ouvert en 1988). Budget : 35-50 €.
+Grande Mosquée (52 °C, 30 €, architecture de 1926) ou Hammam Pacha (51 °C, 39 €, rue Mayet). Toutes deux réservées aux femmes. Budget : 30-40 €.
 
 ### Pour une sortie en couple (mixte)
 
-Medina Center (700 m², 55 €, mixte 7 j/7) ou Les Cent Ciels (900 m², 75 €, design contemporain). Budget : 55-75 €.
+Medina Center (700 m², 55 €, mixte le samedi) ou Les Cent Ciels (47 €, design contemporain, mixte le soir et le week-end). Attention, ni l'un ni l'autre n'est mixte en semaine dans la journée. Budget : 47-55 €.
 
 ### Pour le niveau palace
 
@@ -195,7 +195,7 @@ Spa du Bristol (18,2/20, marbre de Carrare, 150 €). Sans équivalent à Paris 
 
 ### Pour le meilleur prix
 
-Charme d'Orient (35 €, 48 °C, traditionnel) ou Grande Mosquée (45 €, 52 °C). Budget : 35-45 €.
+Grande Mosquée (30 €, 52 °C, sans réservation) ou Charme d'Orient (35 €, 48 °C, traditionnel). Budget : 30-35 €.
 
 Pour les meilleurs spas d'hôtels de France, voir notre [palmarès national](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/).
 
@@ -237,15 +237,15 @@ Pour les spas aquatiques près de Paris, voir notre [classement thalasso en Île
 
 Quel est le meilleur hammam de Paris ?
 
-Cela dépend du critère. Pour l'expérience traditionnelle : Grande Mosquée (16,9/20, 52 °C, 45 €). Pour le niveau palace : Spa du Bristol (18,2/20, 150 €). Pour le mixte accessible : Medina Center (16,4/20, 55 €).
+Cela dépend du critère. Pour l'expérience traditionnelle : Grande Mosquée (16,9/20, 52 °C, 30 €). Pour le niveau palace : Spa du Bristol (18,2/20, 150 €). Pour le mixte accessible : Medina Center (16,4/20, 55 €, le samedi).
 
 Combien coûte un hammam à Paris ?
 
-Entre 35 € (Charme d'Orient) et 150 € (Spa du Bristol) pour l'accès seul. Moyenne : 68 €. Avec soin inclus : 80-200 €. Les hammams traditionnels (35-55 €) sont 2 à 3 fois moins chers que les spas palace.
+Entre 30 € (Grande Mosquée) et 150 € (Spa du Bristol) pour l'accès seul. Moyenne : 61 €. Avec soin inclus : 80-200 €. Les hammams traditionnels (30-55 €) sont 3 à 5 fois moins chers que les spas palace.
 
 Quels hammams de Paris sont mixtes ?
 
-5 sur 8 testés sont mixtes en continu : Spa du Bristol, Medina Center, Les Cent Ciels, La Sultane de Saba et L'Échappée. Les 3 autres ne sont pas mixtes : la Grande Mosquée est exclusivement réservée aux femmes, Hammam Pacha et Charme d'Orient fonctionnent par créneaux séparés.
+3 sur 8 sont mixtes en continu : Spa du Bristol, La Sultane de Saba et L'Échappée. 2 le sont partiellement : Medina Center le samedi seulement, Les Cent Ciels en soirée du lundi au vendredi et le week-end. Les 3 derniers ne le sont pas : la Grande Mosquée et Hammam Pacha sont exclusivement réservés aux femmes, Charme d'Orient fonctionne par créneaux séparés.
 
 Quelle est la différence entre un hammam et un sauna ?
 
@@ -266,6 +266,8 @@ Thermomètre ±0,5 °C
 
 ### Pour aller plus loin
 
+- [Meilleur spa avec hammam à Paris : 8 adresses, 5 testées](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-avec-hammam-paris/), qui élargit ce palmarès aux spas de palace et détaille le droit d'entrée réel de chaque adresse
+
 - [Meilleur hammam à Lyon : 7 adresses, ce qu'elles valent](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-lyon/), le pendant lyonnais
 
 - [Spas avec bain froid à Paris : 5 adresses testées, toutes sous 100 €](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/)
@@ -275,7 +277,7 @@ Rédacteur, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 4 août 2026
+Dernière mise à jour : 5 août 2026
 
 Meilleurs.
 

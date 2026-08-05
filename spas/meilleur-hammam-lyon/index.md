@@ -2,11 +2,11 @@
 
 > Les 7 hammams de Lyon classés par l'Indice Hammam LMHS : public, rituels, surfaces et tarifs vérifiés. Les Cent Ciels est fermé jusqu'en octobre 2026.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-lyon/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-04 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-lyon/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-05 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
-Guide LMHS des sept hammams de Lyon, classés par un Indice Hammam propriétaire noté sur 5 et fondé sur cinq critères publiquement vérifiables : le hammam comme cœur de métier, la présence d'un rituel traditionnel complet, le parcours d'eau, la surface dédiée et l'amplitude d'ouverture. Les Cent Ciels 4,7/5 mais FERMÉ POUR TRAVAUX JUSQU'EN OCTOBRE 2026, Les Bains de l'Opéra 4,2/5, Luxury Spa 4,0/5, Nomad & Sens 3,8/5, Hammam Le Jade 3,6/5, Au Bout du Monde 3,0/5, Calicéo 2,0/5. Contrairement au palmarès des hammams de Paris, aucun de ces établissements n'a fait l'objet d'une visite anonyme avec relevé de température : aucun score LMHS sur 10 n'est donc attribué. Adresses, publics, horaires et tarifs relevés le 3 août 2026.
+Guide LMHS des sept hammams de Lyon, classés par un Indice Hammam propriétaire noté sur 5 et fondé sur cinq critères publiquement vérifiables : le hammam comme cœur de métier, la présence d'un rituel traditionnel complet, le parcours d'eau, la surface dédiée et l'amplitude d'ouverture. Les Cent Ciels 4,7/5 mais FERMÉ POUR TRAVAUX JUSQU'EN OCTOBRE 2026, Les Bains de l'Opéra 4,2/5, Luxury Spa 4,0/5, Nomad & Sens 3,8/5, Hammam Le Jade 3,6/5, Au Bout du Monde 3,0/5, Calicéo 2,0/5. Contrairement au palmarès des hammams de Paris, aucun de ces établissements n'a fait l'objet d'une visite anonyme avec relevé de température : aucun score LMHS sur 20 n'est donc attribué. Adresses, publics, horaires et tarifs relevés le 3 août 2026.
 
 ---
 Guide urbain · Données propriétaires LMHS
@@ -47,11 +47,11 @@ classement avec **2,0/5** alors que c'est de loin l'entrée la moins chère de L
 C'est un centre de balnéothérapie qui possède un hammam, pas un hammam.
 **Les deux mots ne désignent pas la même chose**, et c'est tout l'objet de cette page.
 
-## Pourquoi cette page ne donne *aucune note sur 10*
+## Pourquoi cette page ne donne *aucune note sur 20*
 
-Nos [huit hammams parisiens](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/) portent un score LMHS sur 10. Il repose sur des visites anonymes, menées entre avril et juillet 2026, **avec relevé de température au thermomètre digital à 1,50 m du sol, vingt minutes après l'entrée en salle**. Sans ces mesures, la note n'existe pas : elle note le luxe, la mise en scène, l'hospitalité et le soin, quatre choses qu'on ne juge pas depuis un site internet.
+Nos [huit hammams parisiens](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/) portent un score LMHS sur 20. Il repose sur des visites anonymes, menées entre avril et juillet 2026, **avec relevé de température au thermomètre digital à 1,50 m du sol, vingt minutes après l'entrée en salle**. Sans ces mesures, la note n'existe pas : elle note le luxe, la mise en scène, l'hospitalité et le soin, quatre choses qu'on ne juge pas depuis un site internet.
 
-**Les sept hammams lyonnais de cette page n'ont pas encore été visités.** Nous ne leur attribuons donc pas de score sur 10, et nous préférons le dire plutôt que de fabriquer des notes qui affaibliraient celles de Paris. Ce qui suit est un guide documentaire, bâti sur ce qui se vérifie sans y être : l'**Indice Hammam LMHS**, noté sur 5, mesure cinq marqueurs publics :
+**Les sept hammams lyonnais de cette page n'ont pas encore été visités.** Nous ne leur attribuons donc pas de score sur 20, et nous préférons le dire plutôt que de fabriquer des notes qui affaibliraient celles de Paris. Ce qui suit est un guide documentaire, bâti sur ce qui se vérifie sans y être : l'**Indice Hammam LMHS**, noté sur 5, mesure cinq marqueurs publics :
 
 - **Le hammam est-il le métier de la maison**, ou un équipement parmi d'autres ?
 
@@ -63,7 +63,7 @@ Nos [huit hammams parisiens](https://www.lesmeilleurshotelspa.fr/spas/meilleur-h
 
 - **L'amplitude d'ouverture** : sept jours sur sept, ou quatre.
 
-Les visites lyonnaises sont programmées. Quand elles auront eu lieu, cette page recevra ses notes sur 10 et le dira, avec les températures relevées, comme à Paris.
+Les visites lyonnaises sont programmées. Quand elles auront eu lieu, cette page recevra ses notes sur 20 et le dira, avec les températures relevées, comme à Paris.
 
 ## Le tableau : *public*, surface, tarif et jours d'ouverture
 
@@ -79,7 +79,7 @@ Les visites lyonnaises sont programmées. Quand elles auront eu lieu, cette page
 
 Classement par Indice Hammam LMHS. Adresses, publics, horaires et tarifs relevés
 le 3 août 2026 sur les sites des établissements. Les surfaces sont celles que chaque maison
-annonce elle-même, elles n'ont pas été mesurées. Aucun score LMHS sur 10 n'est attribué faute
+annonce elle-même, elles n'ont pas été mesurées. Aucun score LMHS sur 20 n'est attribué faute
 de visite, voir la méthode ci-dessus.
 
 ## Les sept adresses, une par une
@@ -207,7 +207,7 @@ La privatisation de **Nomad & Sens** lève l'essentiel des appréhensions. Sinon
 
 ### Comparer avec Paris
 
-Notre [palmarès des hammams parisiens](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/), lui, repose sur huit visites anonymes avec relevé de température : c'est le seul de nos deux guides à porter des notes sur 10, et il explique pourquoi les écarts de chaleur entre établissements comptent autant que le décor.
+Notre [palmarès des hammams parisiens](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/), lui, repose sur huit visites anonymes avec relevé de température : c'est le seul de nos deux guides à porter des notes sur 20, et il explique pourquoi les écarts de chaleur entre établissements comptent autant que le décor.
 
 ## FAQ : hammam à *Lyon*
 
@@ -231,13 +231,13 @@ Quelle est la différence entre un hammam et un spa ?
 
 Le **hammam** est un rituel : salle tiède, salle chaude, gommage au gant par un praticien, rinçage, repos. C'est une séquence, avec une durée et un ordre. Le **spa** est une offre de soins, massages, bains et cabines, dont le hammam peut faire partie ou non. Sur les sept établissements de cette page, trois sont d'abord des hammams, quatre sont des spas, des instituts ou un centre aquatique qui en possèdent un.
 
-Pourquoi ce guide ne donne-t-il pas de notes sur 10 comme celui de Paris ?
+Pourquoi ce guide ne donne-t-il pas de notes sur 20 comme celui de Paris ?
 
 Parce que le score LMHS des hammams repose sur une **visite anonyme avec relevé de température au thermomètre digital**, à 1,50 m du sol et vingt minutes après l'entrée en salle, et sur quatre critères qui se jugent sur place : luxe, mise en scène, hospitalité, soin. **Les sept hammams lyonnais n'ont pas encore été visités.** Leur attribuer des notes reviendrait à vider de son sens celles de Paris. Ce guide s'en tient donc à l'Indice Hammam sur 5, construit sur des critères vérifiables à distance, et les notes suivront après les visites.
 
 ## Méthode et *sources*
 
-7 établissements lyonnais annonçant un hammam, classés par l'Indice Hammam LMHS noté sur 5, construit sur cinq marqueurs vérifiables sans visite : le hammam comme cœur de métier, la présence d'un rituel traditionnel complet, l'existence d'un parcours d'eau, la surface annoncée et l'amplitude d'ouverture. **Aucun de ces sept établissements n'a été visité à ce jour**, et aucun score LMHS sur 10 ne leur est attribué : contrairement à notre [palmarès des hammams de Paris](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/), fondé sur huit visites anonymes avec relevé de température, ce guide est documentaire. Adresses, publics, horaires, surfaces annoncées et tarifs relevés le 3 août 2026 sur les sites officiels des établissements. La fermeture des Cent Ciels est celle publiée par l'établissement lui-même. Les surfaces sont déclaratives et n'ont pas été mesurées. Aucun partenariat commercial, aucune affiliation. Photographie : Les Bains de l'Opéra, site officiel.
+7 établissements lyonnais annonçant un hammam, classés par l'Indice Hammam LMHS noté sur 5, construit sur cinq marqueurs vérifiables sans visite : le hammam comme cœur de métier, la présence d'un rituel traditionnel complet, l'existence d'un parcours d'eau, la surface annoncée et l'amplitude d'ouverture. **Aucun de ces sept établissements n'a été visité à ce jour**, et aucun score LMHS sur 20 ne leur est attribué : contrairement à notre [palmarès des hammams de Paris](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/), fondé sur huit visites anonymes avec relevé de température, ce guide est documentaire. Adresses, publics, horaires, surfaces annoncées et tarifs relevés le 3 août 2026 sur les sites officiels des établissements. La fermeture des Cent Ciels est celle publiée par l'établissement lui-même. Les surfaces sont déclaratives et n'ont pas été mesurées. Aucun partenariat commercial, aucune affiliation. Photographie : Les Bains de l'Opéra, site officiel.
 
 7 adresses
 Indice Hammam propriétaire
@@ -279,7 +279,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 3 août 2026
 
-Dernière mise à jour : 4 août 2026
+Dernière mise à jour : 5 août 2026
 
 Meilleurs.
 
