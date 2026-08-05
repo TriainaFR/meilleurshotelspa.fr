@@ -2,7 +2,7 @@
 
 > Dior Spa, piscine 30 m, Valmont, Clarins : LMHS compare les 8 meilleurs hôtels luxe avec spa à Paris. Scores exclusifs + indice day spa pour non-résidents.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/hotel-luxe-avec-spa-paris/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-04 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/hotel-luxe-avec-spa-paris/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-05 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -281,6 +281,8 @@ Indice accessibilité propriétaire
 
 - [Meilleur hammam à Paris : 8 adresses testées, thermomètre en main](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/)
 
+- [Meilleur spa avec hammam à Paris : 8 adresses, 5 testées](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-avec-hammam-paris/), où les palaces sont confrontés aux maisons orientales sur le seul terrain qui compte, le droit d'entrée
+
 - [Les 50 meilleurs hôtels & spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)
 
 - [Les meilleurs hôtels 4 étoiles de Paris : 12 adresses testées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-paris/)
@@ -292,7 +294,7 @@ Rédacteur, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 4 août 2026
+Dernière mise à jour : 5 août 2026
 
 Meilleurs.
 

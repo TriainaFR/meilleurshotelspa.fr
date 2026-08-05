@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-04 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-05 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -24,6 +24,14 @@ Ouverture5 août 2026
 Paris · 16 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-paris-2026/)[
+
+Spas5 août 2026
+
+### Meilleur spa avec hammam à Paris : 8 adresses, 5 testées
+
+Paris · 16 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-avec-hammam-paris/)[
 
 Palmarès4 août 2026
 

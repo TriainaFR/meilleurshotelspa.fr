@@ -2,7 +2,7 @@
 
 > Le média français de référence des meilleurs hôtels, spas et destinations. Palmarès indépendants, guides et récits. Testé sur place, sans partenariat commercial.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/ · Dernière mise à jour : 2026-08-04 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/ · Dernière mise à jour : 2026-08-05 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -41,6 +41,14 @@ Ouverture5 août 2026
 Paris · 16 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-paris-2026/)[
+
+Spas5 août 2026
+
+### Meilleur spa avec hammam à Paris : 8 adresses, 5 testées
+
+Paris · 16 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-avec-hammam-paris/)[
 
 Palmarès4 août 2026
 
@@ -136,20 +144,12 @@ Palmarès27 juil. 2026
 
 Bretagne · 17 min de lecture
 
-](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/)[
-
-Palmarès27 juil. 2026
-
-### Les meilleurs hôtels 5 étoiles en Sardaigne : 7 adresses
-
-Sardaigne · 16 min de lecture
-
-](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/)
+](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/)
 
 Et aussi
 La suite du fil
 
-[25 juil.PalmarèsLes meilleurs hôtels de luxe à Paris : 19 adresses classées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/)[25 juil.SpasMeilleure thalasso en Bretagne : 11 adresses testées→](https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/)[22 juil.OuvertureNouveaux hôtels en France : les 10 ouvertures de l'automne 2026→](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-france-automne-2026/)[22 juil.PalmarèsLes meilleurs hôtels de Marseille : 10 adresses testées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-marseille/)[21 juil.PalmarèsLes 50 meilleurs hôtels & spas de France, édition 2026→](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)[21 juil.PalmarèsHôtels de charme en Provence : 12 maisons d'exception testées→](https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/)[21 juil.PalmarèsLes meilleurs hôtels de Lyon : du boutique-hôtel au palace→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-lyon/)[21 juil.SpasHôtel de luxe avec spa à Paris : les 8 meilleures combinaisons→](https://www.lesmeilleurshotelspa.fr/hotel-luxe-avec-spa-paris/)[21 juil.PalmarèsLes meilleurs hôtels de Biarritz : surf, luxe et Atlantique→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-biarritz/)[21 juil.PalmarèsHôtel romantique à Paris : 10 adresses testées→](https://www.lesmeilleurshotelspa.fr/hotel-romantique-paris/)[21 juil.SpasThalasso sud de la France : 14 adresses testées, classées→](https://www.lesmeilleurshotelspa.fr/spas/thalasso-sud-de-la-france/)[21 juil.SpasThalasso Île-de-France : 8 adresses testées près de Paris→](https://www.lesmeilleurshotelspa.fr/spas/thalasso-ile-de-france/)[21 juil.SpasMeilleur hammam à Paris : 8 adresses testées, thermomètre en main→](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/)[21 juil.DestinationsHôtel avec spa privatif : 12 adresses testées, du chalet au château→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-france/)[21 juil.DestinationsSpa privatif en Île-de-France : 6 adresses à moins d'une heure de Paris→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-ile-de-france/)[21 juil.PalmarèsLes meilleurs hôtels de luxe à Saint-Tropez : palmarès 2026→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/)[21 juil.PalmarèsHôtels de charme sur la Côte d'Azur : 12 adresses testées→](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/)[21 juil.PalmarèsLes meilleurs hôtels 4 étoiles de Paris : 12 adresses testées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-paris/)[21 juil.EnquêteCheval Blanc Paris : le palace LVMH tient-il ses promesses ?→](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/)[21 juil.PalmarèsLes plus beaux hôtels de Bordeaux : 10 adresses sélectionnées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-bordeaux/)
+[27 juil.PalmarèsLes meilleurs hôtels 5 étoiles en Sardaigne : 7 adresses→](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/)[25 juil.PalmarèsLes meilleurs hôtels de luxe à Paris : 19 adresses classées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/)[25 juil.SpasMeilleure thalasso en Bretagne : 11 adresses testées→](https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/)[22 juil.OuvertureNouveaux hôtels en France : les 10 ouvertures de l'automne 2026→](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-france-automne-2026/)[22 juil.PalmarèsLes meilleurs hôtels de Marseille : 10 adresses testées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-marseille/)[21 juil.PalmarèsLes 50 meilleurs hôtels & spas de France, édition 2026→](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)[21 juil.PalmarèsHôtels de charme en Provence : 12 maisons d'exception testées→](https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/)[21 juil.PalmarèsLes meilleurs hôtels de Lyon : du boutique-hôtel au palace→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-lyon/)[21 juil.SpasHôtel de luxe avec spa à Paris : les 8 meilleures combinaisons→](https://www.lesmeilleurshotelspa.fr/hotel-luxe-avec-spa-paris/)[21 juil.PalmarèsLes meilleurs hôtels de Biarritz : surf, luxe et Atlantique→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-biarritz/)[21 juil.PalmarèsHôtel romantique à Paris : 10 adresses testées→](https://www.lesmeilleurshotelspa.fr/hotel-romantique-paris/)[21 juil.SpasThalasso sud de la France : 14 adresses testées, classées→](https://www.lesmeilleurshotelspa.fr/spas/thalasso-sud-de-la-france/)[21 juil.SpasThalasso Île-de-France : 8 adresses testées près de Paris→](https://www.lesmeilleurshotelspa.fr/spas/thalasso-ile-de-france/)[21 juil.SpasMeilleur hammam à Paris : 8 adresses testées, thermomètre en main→](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/)[21 juil.DestinationsHôtel avec spa privatif : 12 adresses testées, du chalet au château→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-france/)[21 juil.DestinationsSpa privatif en Île-de-France : 6 adresses à moins d'une heure de Paris→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-ile-de-france/)[21 juil.PalmarèsLes meilleurs hôtels de luxe à Saint-Tropez : palmarès 2026→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/)[21 juil.PalmarèsHôtels de charme sur la Côte d'Azur : 12 adresses testées→](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/)[21 juil.PalmarèsLes meilleurs hôtels 4 étoiles de Paris : 12 adresses testées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-paris/)[21 juil.EnquêteCheval Blanc Paris : le palace LVMH tient-il ses promesses ?→](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/)[21 juil.PalmarèsLes plus beaux hôtels de Bordeaux : 10 adresses sélectionnées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-bordeaux/)
 
 Nouveaux articles chaque semaine, testés avant d'être écrits.
 [Tous les articles →](https://www.lesmeilleurshotelspa.fr/articles.html)
@@ -260,7 +260,7 @@ Hammams historiques, bains nordiques face aux sommets, thalasso de granit breton
 notre rédaction passe l'année en peignoir pour séparer les vrais rituels
 des simples jacuzzis d'hôtel. Voici ce que l'eau nous a appris.
 
-**53**spas testés
+**61**spas testés
 
 **22**thalassos
 
@@ -308,7 +308,13 @@ Enquête, 17 min de lecture](https://www.lesmeilleurshotelspa.fr/cheval-blanc-pa
 
 Quatre des huit ont déjà ouvert, et le vrai sujet n'est pas Louis Vuitton.
 
-Ouverture, 16 min de lecture](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-paris-2026/)[Palmarès
+Ouverture, 16 min de lecture](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-paris-2026/)[Spas
+
+### Meilleur spa avec hammam à Paris : 8 adresses, 5 testées
+
+Deux adresses sur huit vous laissent entrer sans rien réserver, et aucun palace n'ouvre ses bassins.
+
+Spas, 16 min de lecture](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-avec-hammam-paris/)[Palmarès
 
 ### Hôtels de charme en Normandie : 10 maisons classées
 
@@ -332,7 +338,19 @@ Palmarès, 17 min de lecture](https://www.lesmeilleurshotelspa.fr/palmares/meill
 
 De quatorze passagers à cent six, ce n'est pas le même fleuve.
 
-Destinations, 15 min de lecture](https://www.lesmeilleurshotelspa.fr/destinations/croisieres-egypte-nil/)
+Destinations, 15 min de lecture](https://www.lesmeilleurshotelspa.fr/destinations/croisieres-egypte-nil/)[Ouverture
+
+### Nouveaux hôtels en France : les 10 ouvertures de l'automne 2026
+
+Dix maisons attendues, classées par score d'anticipation.
+
+Ouverture, 19 min de lecture](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-france-automne-2026/)[Palmarès
+
+### Hôtels de charme en Provence : 12 maisons d'exception testées
+
+Baumanière, Gordes, Villa La Coste : ce que valent vraiment les bastides.
+
+Palmarès, 19 min de lecture](https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/)
 
 Meilleurs.
 

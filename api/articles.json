@@ -6,7 +6,7 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-08-05",
-  "count": 34,
+  "count": 35,
   "articles": [
     {
       "slug": "ouvertures-paris-2026",
@@ -19,6 +19,18 @@
       "url": "https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-paris-2026/",
       "markdown": "https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-paris-2026/index.md",
       "image": "https://www.lesmeilleurshotelspa.fr/images/px-luxia.jpg"
+    },
+    {
+      "slug": "spa-hammam-paris",
+      "title": "Meilleur spa avec hammam à Paris : 8 adresses, 5 testées",
+      "category": "Spas",
+      "destination": "Paris",
+      "region": "Paris",
+      "published": "2026-08-05",
+      "readingMinutes": 16,
+      "url": "https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-avec-hammam-paris/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-avec-hammam-paris/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/hm-pacha.jpg"
     },
     {
       "slug": "charme-normandie",
