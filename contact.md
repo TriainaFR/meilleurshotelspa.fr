@@ -2,7 +2,7 @@
 
 > Écrivez à la rédaction de Meilleurs : proposer une adresse, presse et partenariats, signaler une erreur. Réponse sous 48 h.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/contact.html · Dernière mise à jour : 2026-08-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/contact.html · Dernière mise à jour : 2026-08-04 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 

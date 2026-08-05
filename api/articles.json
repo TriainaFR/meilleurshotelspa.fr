@@ -5,9 +5,21 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-08-04",
-  "count": 33,
+  "updated": "2026-08-05",
+  "count": 34,
   "articles": [
+    {
+      "slug": "ouvertures-paris-2026",
+      "title": "Nouveaux hôtels à Paris en 2026 : 8 ouvertures classées",
+      "category": "Ouverture",
+      "destination": "Paris",
+      "region": "Paris",
+      "published": "2026-08-05",
+      "readingMinutes": 16,
+      "url": "https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-paris-2026/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-paris-2026/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/px-luxia.jpg"
+    },
     {
       "slug": "charme-normandie",
       "title": "Hôtels de charme en Normandie : 10 maisons classées",

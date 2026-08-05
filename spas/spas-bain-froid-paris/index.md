@@ -2,7 +2,7 @@
 
 > 5 spas parisiens avec bain froid testés par LMHS : Sant Roch, Re-Set Club, Paris Ice Club, M-Yoga, NeurøRecup. Tarifs, températures, verdict. Aucun ne dépasse 100 €.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-04 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -338,7 +338,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 28 juillet 2026
 
-Dernière mise à jour : 3 août 2026
+Dernière mise à jour : 4 août 2026
 
 Meilleurs.
 

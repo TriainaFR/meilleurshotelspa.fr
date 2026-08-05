@@ -2,7 +2,7 @@
 
 > Notre palmarès 2026 des meilleurs hôtels de Marseille : 10 adresses notées par le protocole LMHS, du palace au boutique-hôtel, avec prix et indice marseillais.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-marseille/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-marseille/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-04 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -312,7 +312,7 @@ Rédacteur, Meilleurs.
 
 Publié le 22 juillet 2026
 
-Dernière mise à jour : 3 août 2026
+Dernière mise à jour : 4 août 2026
 
 Meilleurs.
 
