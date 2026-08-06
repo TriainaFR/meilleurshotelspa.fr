@@ -169,6 +169,19 @@ c'est la seule des huit fiches sans image.
 
 ## Données à recouper
 
+### Château du Portereau : aller dormir sur place
+L'avis du 06/08/2026, `/avis/chateau-du-portereau-vertou/`, est documentaire et
+l'annonce : **aucun séjour de contrôle**. Deux choses à obtenir pour le lever.
+D'abord une nuit sur place, qui permettrait de passer de la fiche LMHS sur 10 au
+Protocole LMHS sur 20. Ensuite **la grille tarifaire des chambres**, que
+l'établissement ne publie nulle part, et qui est ce qui pèse aujourd'hui sur
+l'axe rapport prix-expérience.
+
+Rappel avant tout échange avec l'hôtel : la page corrige trois chiffres que
+l'établissement lui-même publie autrement que la presse (3 hectares et non 5,
+fontaine de 6 mètres et non 7, Orangerie de 200 m²). C'est un argument à leur
+faveur, pas contre eux.
+
 ### Deux spas parisiens publiés sans note
 La parution du 05/08/2026, `/spas/meilleur-spa-avec-hammam-paris/`, publie le
 **Mandarin Oriental Paris** (251 rue Saint-Honoré, à ne pas confondre avec le
