@@ -2,7 +2,7 @@
 
 > Palmarès exclusif 2026 : les 50 meilleurs hôtels & spas de France testés selon le Protocole LMHS. Classement par score, prix, région et type de spa.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-05 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-06 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -347,14 +347,14 @@ Données propriétaires
 
 - [Meilleurs hôtels 5 étoiles en France : les 10 palaces hors Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/)
 
-- [Château du Portereau, avis : le 4 étoiles aux portes de Nantes](https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/), une ouverture de mai 2026 à suivre pour la prochaine édition du palmarès
+- [Château du Portereau : l'hôtel 4 étoiles qui réinvente Nantes](https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/), une ouverture de mai 2026 à suivre pour la prochaine édition du palmarès
 
 [Lucas Lecoq](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/)
 Rédacteur en chef, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 5 août 2026
+Dernière mise à jour : 6 août 2026
 
 Meilleurs.
 

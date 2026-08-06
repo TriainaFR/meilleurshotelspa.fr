@@ -2,7 +2,7 @@
 
 > Lucas Lecoq, rédacteur en chef de Meilleurs. et président de Triaina. Il signe le palmarès national et les classements par ville.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-05 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-06 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 

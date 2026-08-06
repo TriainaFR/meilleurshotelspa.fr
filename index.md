@@ -2,7 +2,7 @@
 
 > Le média français de référence des meilleurs hôtels, spas et destinations. Palmarès indépendants, guides et récits. Testé sur place, sans partenariat commercial.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/ · Dernière mise à jour : 2026-08-05 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/ · Dernière mise à jour : 2026-08-06 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -36,7 +36,7 @@ Les 14 dernières unes + dépêches
 
 Enquête6 août 2026
 
-### Château du Portereau, avis : le 4 étoiles aux portes de Nantes
+### Château du Portereau : l'hôtel 4 étoiles qui réinvente Nantes
 
 Vertou · 15 min de lecture
 
@@ -280,9 +280,9 @@ Longs formats, vraies adresses
 
 [Enquête
 
-### Château du Portereau, avis : le 4 étoiles aux portes de Nantes
+### Château du Portereau : l'hôtel 4 étoiles qui réinvente Nantes
 
-Rendez-vous de chasse des biscuitiers LU, puis siège de Maisons du Monde, et depuis mai un hôtel.
+Cinq siècles, une table passée chez Robuchon et un spa, à quinze minutes de Nantes.
 
 Enquête, 15 min de lecture](https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/)[Enquête
 
