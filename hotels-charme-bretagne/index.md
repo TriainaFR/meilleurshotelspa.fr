@@ -429,6 +429,8 @@ réserver.
 
 - [Hôtels de charme en Normandie : 10 maisons classées](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/), l'autre côte du nord-ouest
 
+- [Château du Portereau, aux portes de Nantes](https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/), l'ancien rendez-vous de chasse des biscuitiers LU devenu hôtel 4 étoiles, juste au sud de la frontière bretonne historique
+
 - [Meilleure thalasso en Bretagne](https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/), 11 centres testés, l'autre facette de la côte
 
 - [Hôtels de charme en Provence](https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/), 12 maisons, le même instrument appliqué au Sud

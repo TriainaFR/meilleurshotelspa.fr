@@ -5,9 +5,21 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-08-05",
-  "count": 35,
+  "updated": "2026-08-06",
+  "count": 36,
   "articles": [
+    {
+      "slug": "portereau-vertou",
+      "title": "Château du Portereau, avis : le 4 étoiles aux portes de Nantes",
+      "category": "Enquête",
+      "destination": "Vertou",
+      "region": "Pays de la Loire",
+      "published": "2026-08-06",
+      "readingMinutes": 15,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/pt-portereau.jpg"
+    },
     {
       "slug": "ouvertures-paris-2026",
       "title": "Nouveaux hôtels à Paris en 2026 : 8 ouvertures classées",

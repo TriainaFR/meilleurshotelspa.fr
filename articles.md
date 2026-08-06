@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Enquête6 août 2026
+
+### Château du Portereau, avis : le 4 étoiles aux portes de Nantes
+
+Vertou · 15 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/)[
+
 Ouverture5 août 2026
 
 ### Nouveaux hôtels à Paris en 2026 : 8 ouvertures classées
