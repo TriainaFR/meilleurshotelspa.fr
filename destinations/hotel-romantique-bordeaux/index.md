@@ -57,9 +57,9 @@ Vin & Romantisme : 5/5 · Score LMHS : 8,4/10 ·
 
 ### 2. Villas Foch Indice Romantisme 4,7/5
 
-**Allées de Tourny, 33000 Bordeaux · À partir de 236 €/nuit**
+**25 cours du Maréchal Foch, 33000 Bordeaux · À partir de 236 €/nuit**
 
-Boutique-hôtel 5 étoiles de 20 chambres et 8 suites, Villas Foch incarne le raffinement à la française. L'hôtel particulier du XIXe siècle conserve moulures et escalier monumental, contrastant élégamment avec la modernité discrète. La cave voûtée en pierres typiques abrite piscine chauffée, sauna et espace fitness. Le bar Le Ferdinand propose une sélection resserrée de grands crus classés et de spiritueux. L'offre « Bordeaux dans un écrin » (495 €) inclut hébergement, dîner, cocktail, spa et accès Cité du Vin. Réservation difficile en haute saison, taille réduite. Pour couples cherchant une expérience bordelaise complète avec intimité.
+Boutique-hôtel 5 étoiles de 20 chambres, dont 12 classiques et 8 suites, Villas Foch incarne le raffinement à la française. L'hôtel particulier haussmannien du XIXe siècle, dans le secteur classé au patrimoine mondial de l'UNESCO, conserve moulures et escalier monumental, contrastant élégamment avec la modernité discrète. La cave voûtée en pierres typiques abrite, sur 110 m², piscine chauffée, sauna et espace fitness. Le bar Le Ferdinand propose une sélection resserrée de grands crus classés et de spiritueux. L'offre « Bordeaux dans un écrin » (495 €) inclut hébergement, dîner, cocktail, spa et accès Cité du Vin. Réservation difficile en haute saison, taille réduite. Pour couples cherchant une expérience bordelaise complète avec intimité.
 
 Vin & Romantisme : 4/5 · Score LMHS : 9,0/10 ·
 [Site officiel →](https://www.villasfoch.fr/)
