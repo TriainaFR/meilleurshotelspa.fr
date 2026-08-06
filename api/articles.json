@@ -6,7 +6,7 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-08-06",
-  "count": 36,
+  "count": 37,
   "articles": [
     {
       "slug": "portereau-vertou",
@@ -19,6 +19,18 @@
       "url": "https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/",
       "markdown": "https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/index.md",
       "image": "https://www.lesmeilleurshotelspa.fr/images/pt-portereau.jpg"
+    },
+    {
+      "slug": "romantique-bordeaux",
+      "title": "Hôtel romantique Bordeaux : 8 palmarès 2026",
+      "category": "Palmarès",
+      "destination": "Bordeaux",
+      "region": "Nouvelle-Aquitaine",
+      "published": "2026-08-06",
+      "readingMinutes": 16,
+      "url": "https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-bordeaux/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-bordeaux/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/bx-mondrian.jpg"
     },
     {
       "slug": "ouvertures-paris-2026",

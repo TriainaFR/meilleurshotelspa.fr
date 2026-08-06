@@ -228,7 +228,7 @@ La grande réussite urbaine de Bordeaux de la dernière décennie. Les quais de 
 
 Le cœur médiéval de Bordeaux, autour de la cathédrale Saint-André et de la place de la Bourse. C'est ici que se cachent les deux pépites les plus intimes de la sélection. L'**Hôtel Cardinal** (à 100 m de la cathédrale) est notre numéro un absolu pour l'intimité et la culture viticole. L'**Hôtel Acantha / Bleu de Mer** (rue Saint-Rémi) offre l'emplacement le plus central pour le prix le plus bas. L'**Hôtel Yndo** est à quinze minutes à pied, dans un quartier résidentiel calme entre Gambetta et Saint-Seurin.
 
-Pour aller plus loin, consultez notre [palmarès national des 50 meilleurs hôtels & spas de France](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/) et notre sélection des [meilleurs hôtels 4 étoiles de Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-paris/) pour comparer les niveaux de prestation.
+Pour aller plus loin, consultez notre [palmarès national des 50 meilleurs hôtels & spas de France](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/) et notre sélection des [meilleurs hôtels 4 étoiles de Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-paris/) pour comparer les niveaux de prestation. Pour un séjour à deux, voir nos [8 hôtels romantiques de Bordeaux](https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-bordeaux/), classés à l'indice romantisme, qui reprennent quatre des adresses de cette page sous un autre angle.
 
 ## FAQ : vos questions sur les hôtels de *Bordeaux*
 

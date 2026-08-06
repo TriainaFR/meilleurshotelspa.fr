@@ -25,6 +25,14 @@ Vertou · 15 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/)[
 
+Palmarès6 août 2026
+
+### Hôtel romantique Bordeaux : 8 palmarès 2026
+
+Bordeaux · 16 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-bordeaux/)[
+
 Ouverture5 août 2026
 
 ### Nouveaux hôtels à Paris en 2026 : 8 ouvertures classées
