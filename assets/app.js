@@ -141,7 +141,14 @@
   const grid = $("#articles-grid");
   if(grid && window.ARTICLES){
     const chipsWrap = $("#chips"), input = $("#filter-input"), count = $("#art-count"), empty = $("#empty-state");
-    const cats = ["Tous"].concat(Array.from(new Set(ARTICLES.map(a => a.cat))));
+    /* « Récits » n'est pas une rubrique du catalogue mais une vue transversale :
+       la page d'accueil n'en montre que les huit premiers, le reste se consulte
+       ici. La règle d'appartenance doit rester identique à recits_all() dans
+       tools/build.py, sans quoi la home et cette page ne montreraient pas le
+       même ensemble. */
+    const RECITS = "Récits";
+    const isRecit = a => a.cat === "Enquête" || !!a.recit;
+    const cats = ["Tous", RECITS].concat(Array.from(new Set(ARTICLES.map(a => a.cat))));
     let state = {cat:"Tous", q:""};
     /* Filtres profonds : articles.html#cat=Spas / #q=Corse (depuis la landing).
        Le fragment, et non la chaîne de requête : une URL en ?cat= est une page
@@ -161,13 +168,14 @@
     function apply(){
       const q = norm(state.q);
       const res = ARTICLES.slice().sort(byDateDesc).filter(a =>
-        (state.cat === "Tous" || a.cat === state.cat) &&
+        (state.cat === "Tous" || (state.cat === RECITS ? isRecit(a) : a.cat === state.cat)) &&
         (!q || norm(a.title + " " + a.dest + " " + (a.region || "") + " " + a.cat).includes(q))
       );
       grid.innerHTML = res.map(cardHTML).join("");
       grid.style.display = res.length ? "" : "none";
       empty.style.display = res.length ? "none" : "";
-      count.textContent = res.length + (res.length > 1 ? " articles" : " article") +
+      const mot = state.cat === RECITS ? "récit" : "article";
+      count.textContent = res.length + " " + mot + (res.length > 1 ? "s" : "") +
         (state.cat !== "Tous" ? " · " + state.cat : "") +
         " · mis à jour quotidiennement";
     }

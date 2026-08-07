@@ -277,6 +277,7 @@ Silence : total ✓
 
 Édito
 Longs formats, vraies adresses
+[Voir les 16 récits](https://www.lesmeilleurshotelspa.fr/articles.html#cat=Récits)
 
 [Enquête
 
@@ -326,49 +327,7 @@ Palmarès, 18 min de lecture](https://www.lesmeilleurshotelspa.fr/meilleurs-hote
 
 Huit adresses classées à l'indice romantisme, et le vin qui fait la différence sur Paris.
 
-Palmarès, 16 min de lecture](https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-bordeaux/)[Ouverture
-
-### Nouveaux hôtels à Paris en 2026 : 8 ouvertures classées
-
-Quatre des huit ont déjà ouvert, et le vrai sujet n'est pas Louis Vuitton.
-
-Ouverture, 16 min de lecture](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-paris-2026/)[Spas
-
-### Meilleur spa avec hammam à Paris : 8 adresses, 5 testées
-
-Deux adresses sur huit vous laissent entrer sans rien réserver, et aucun palace n'ouvre ses bassins.
-
-Spas, 16 min de lecture](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-avec-hammam-paris/)[Palmarès
-
-### Hôtels de charme en Normandie : 10 maisons classées
-
-L'auberge de Monet, un château de cinq chambres, et deux étoiles Michelin là où on ne les attend pas.
-
-Palmarès, 18 min de lecture](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/)[Spas
-
-### Meilleur hammam à Lyon : 7 adresses, ce qu'elles valent
-
-Trois vrais hammams sur sept, et le plus beau est fermé jusqu'en octobre.
-
-Spas, 14 min de lecture](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-lyon/)[Palmarès
-
-### Hôtels de luxe à Cannes : les 8 meilleures adresses
-
-Le Carlton passe devant, et le seul palace de Cannes n'est pas celui qu'on croit.
-
-Palmarès, 17 min de lecture](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/)[Destinations
-
-### Croisières sur le Nil : les 5 plus belles, comparées
-
-De quatorze passagers à cent six, ce n'est pas le même fleuve.
-
-Destinations, 15 min de lecture](https://www.lesmeilleurshotelspa.fr/destinations/croisieres-egypte-nil/)[Ouverture
-
-### Nouveaux hôtels en France : les 10 ouvertures de l'automne 2026
-
-Dix maisons attendues, classées par score d'anticipation.
-
-Ouverture, 19 min de lecture](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-france-automne-2026/)
+Palmarès, 16 min de lecture](https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-bordeaux/)
 
 Meilleurs.
 

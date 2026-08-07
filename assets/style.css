@@ -259,6 +259,14 @@ nav.main a[aria-current="page"]::after{transform:scaleX(1)}
 .sec-head h2 i{font-style:italic;color:var(--azure);font-weight:480}
 .sec-head .side{text-align:right;flex-shrink:0}
 .sec-head .side .tag{display:block;margin-bottom:6px}
+/* Lien « voir tout » du bandeau de section : la home ne montre qu'une partie des
+   récits, le reste se consulte sur articles.html#cat=Récits. */
+.sec-head .side a.more{
+  display:inline-block;margin-top:6px;margin-bottom:0;text-decoration:none;
+  border-bottom:1.5px solid currentColor;padding-bottom:3px;transition:opacity .2s
+}
+.sec-head .side a.more::after{content:" →"}
+.sec-head .side a.more:hover{opacity:.6}
 @media(max-width:640px){.sec-head{flex-direction:column;align-items:flex-start}.sec-head .side{text-align:left}}
 
 /* ============ PALMARÈS ============ */

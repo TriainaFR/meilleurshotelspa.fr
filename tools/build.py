@@ -147,6 +147,7 @@ def sync_counters():
         s = re.sub(r'(Bien-être <small>)\d+( testés)', rf'\g<1>{spas}\g<2>', s)
         s = re.sub(r'(<div class="st"><b>)\d+(</b><span>spas testés)', rf'\g<1>{spas}\g<2>', s)
         s = re.sub(r'(Les )\d+( dernières unes)', rf'\g<1>{FIL}\g<2>', s)
+        s = re.sub(r'(data-recit-count>)\d+(</span> récits)', rf'\g<1>{len(recits_all())}\g<2>', s)
         if write(f, o, s):
             touched += 1
     if touched:
@@ -242,17 +243,27 @@ def recit_html(a, rank):
     )
 
 
-def recits():
-    """Sélection des « récits du moment ». Règle : tout article dédié à un seul
-    établissement (rubrique Enquête) y figure, du plus récent au plus ancien ;
-    les slots restants vont aux parutions qui portent un chapô `recit` dans le
-    catalogue. La grille est en trois colonnes : on la remplit par multiples de
-    trois pour ne jamais laisser une carte orpheline en deuxième ligne."""
+RECITS_HOME = 8
+
+
+def recits_all():
+    """Tous les « récits », dans l'ordre d'affichage. Règle : tout article dédié à
+    un seul établissement (rubrique Enquête) d'abord, du plus récent au plus
+    ancien, puis les parutions qui portent un chapô `recit` dans le catalogue.
+    assets/app.js applique exactement la même règle d'appartenance pour la puce
+    « Récits » de la page articles : le même ensemble doit s'y retrouver, à l'ordre
+    d'affichage près, la page articles triant par date."""
     dedies = [a for a in ARTS if a["cat"] == "Enquête"]
     autres = [a for a in ARTS if a.get("recit") and a not in dedies]
-    cands = dedies + autres
-    n = max(3, (len(cands) // 3) * 3)
-    return cands[:n]
+    return dedies + autres
+
+
+def recits():
+    """Les RECITS_HOME premiers, seuls affichés sur la page d'accueil. La grille
+    est en trois colonnes, huit cartes donnent donc 3 + 3 + 2 : la dernière rangée
+    est incomplète mais jamais orpheline. La suite se consulte sur
+    articles.html#cat=Récits, via le lien du bandeau de section."""
+    return recits_all()[:RECITS_HOME]
 
 
 def sync_static_lists():
