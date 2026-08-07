@@ -275,6 +275,8 @@ Indice accessibilité propriétaire
 
 - [Les meilleurs hôtels de luxe à Paris : 19 adresses classées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/)
 
+- [Les 10 meilleurs hôtels 5 étoiles à Paris en 2026](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-paris/), avec les palaces promus et rétrogradés
+
 - [Cheval Blanc Paris : le palace LVMH tient-il ses promesses ?](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/)
 
 - [Shangri-La The Shard : la piscine la plus haute d'Europe occidentale, et un spa de deux cabines](https://www.lesmeilleurshotelspa.fr/avis/shangri-la-the-shard-londres/)

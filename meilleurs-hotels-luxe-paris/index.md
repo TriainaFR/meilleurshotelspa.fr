@@ -485,6 +485,8 @@ sur dossier. Ils rejoindront l'édition suivante.
 
 - [Meilleurs hôtels 5 étoiles en France : les 10 palaces hors Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/)
 
+- [Les 10 meilleurs hôtels 5 étoiles à Paris en 2026](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-paris/), la sélection resserrée, et ce que la distinction Palace a changé cette année
+
 [Lucas Lecoq](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/)
 Rédacteur en chef, Meilleurs.
 

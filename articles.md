@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Palmarès7 août 2026
+
+### Les 10 meilleurs hôtels 5 étoiles à Paris en 2026
+
+Paris · 18 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-paris/)[
+
 Enquête6 août 2026
 
 ### Château du Portereau : l'hôtel 4 étoiles qui réinvente Nantes

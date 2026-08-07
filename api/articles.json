@@ -5,9 +5,21 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-08-06",
-  "count": 37,
+  "updated": "2026-08-07",
+  "count": 38,
   "articles": [
+    {
+      "slug": "5-etoiles-paris",
+      "title": "Les 10 meilleurs hôtels 5 étoiles à Paris en 2026",
+      "category": "Palmarès",
+      "destination": "Paris",
+      "region": "Paris",
+      "published": "2026-08-07",
+      "readingMinutes": 18,
+      "url": "https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-paris/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-paris/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/pa-crillon.jpg"
+    },
     {
       "slug": "portereau-vertou",
       "title": "Château du Portereau : l'hôtel 4 étoiles qui réinvente Nantes",
