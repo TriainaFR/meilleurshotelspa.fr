@@ -2,7 +2,7 @@
 
 > À Vertou, aux portes de Nantes, le Château du Portereau conjugue cinq siècles d'histoire, gastronomie de chef et spa dans un domaine de 3 hectares. Notre avis LMHS.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-06 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-07 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -228,7 +228,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 6 août 2026
 
-Dernière mise à jour : 6 août 2026
+Dernière mise à jour : 7 août 2026
 
 Meilleurs.
 

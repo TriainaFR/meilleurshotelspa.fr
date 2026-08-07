@@ -6,7 +6,7 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-08-07",
-  "count": 38,
+  "count": 39,
   "articles": [
     {
       "slug": "5-etoiles-paris",
@@ -19,6 +19,18 @@
       "url": "https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-paris/",
       "markdown": "https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-paris/index.md",
       "image": "https://www.lesmeilleurshotelspa.fr/images/pa-crillon.jpg"
+    },
+    {
+      "slug": "villa-florentine-avis",
+      "title": "Villa Florentine Lyon, avis : l'unique Relais & Châteaux de la ville",
+      "category": "Enquête",
+      "destination": "Lyon",
+      "region": "Auvergne-Rhône-Alpes",
+      "published": "2026-08-07",
+      "readingMinutes": 14,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/villa-florentine-lyon/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/villa-florentine-lyon/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/ly-vf-og.jpg"
     },
     {
       "slug": "portereau-vertou",

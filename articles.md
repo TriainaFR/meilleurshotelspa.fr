@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-06 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-07 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -24,6 +24,14 @@ Palmarès7 août 2026
 Paris · 18 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-paris/)[
+
+Enquête7 août 2026
+
+### Villa Florentine Lyon, avis : l'unique Relais & Châteaux de la ville
+
+Lyon · 14 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/villa-florentine-lyon/)[
 
 Enquête6 août 2026
 
