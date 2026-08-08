@@ -245,6 +245,8 @@ Tarifs relevés juillet 2026
 
 - [Les meilleurs hôtels 5 étoiles en Sardaigne : 7 adresses](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/)
 
+- [Hôtels de luxe à Cannes : les 8 meilleures adresses](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/), l'autre capitale du golfe
+
 [Lucas Lecoq](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/)
 Rédacteur en chef, Meilleurs.
 

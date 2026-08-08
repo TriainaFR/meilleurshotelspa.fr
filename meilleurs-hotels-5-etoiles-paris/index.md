@@ -273,6 +273,8 @@ Collection Palace Atout France 2026
 
 - [Hôtel de luxe avec spa à Paris : les 8 meilleures combinaisons](https://www.lesmeilleurshotelspa.fr/hotel-luxe-avec-spa-paris/)
 
+- [Nouveaux hôtels à Paris en 2026 : 8 ouvertures classées](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-paris-2026/), les prétendants au prochain palmarès
+
 - [Notre méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/), les grilles de notation et les règles d'indépendance
 
 [Emmanuel Laveran](https://www.lesmeilleurshotelspa.fr/redaction/emmanuel-laveran/)

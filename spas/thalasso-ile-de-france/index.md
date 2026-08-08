@@ -196,6 +196,10 @@ Données propriétaires
 
 - [Spas avec bain froid à Paris : 5 adresses testées, toutes sous 100 €](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/)
 
+- [Meilleur spa avec hammam à Paris : 8 adresses, 5 testées](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-avec-hammam-paris/), et lesquelles acceptent les non-résidents
+
+- [Spa privatif en Île-de-France : 6 adresses à moins d'une heure de Paris](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-ile-de-france/)
+
 - [Meilleure thalasso en Bretagne : 11 adresses testées](https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/)
 
 [Lucas Lecoq](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/)

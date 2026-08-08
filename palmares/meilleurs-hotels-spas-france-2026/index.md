@@ -347,6 +347,8 @@ Données propriétaires
 
 - [Meilleurs hôtels 5 étoiles en France : les 10 palaces hors Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/)
 
+- [Hôtels de charme en Normandie : 10 maisons classées](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/), la région que ce palmarès national couvre le moins
+
 - [Château du Portereau : l'hôtel 4 étoiles qui réinvente Nantes](https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/), une ouverture de mai 2026 à suivre pour la prochaine édition du palmarès
 
 [Lucas Lecoq](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/)

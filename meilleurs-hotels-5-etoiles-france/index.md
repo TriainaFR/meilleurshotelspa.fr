@@ -413,6 +413,10 @@ Quatre établissements ont été rétrogradés, une première depuis la créatio
 
 - [Hôtels de charme en Provence](https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/), 12 maisons, l'autre visage du Luberon
 
+- [Hôtels de charme en Normandie](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/), 10 maisons, là où la France du luxe compte le moins de palaces
+
+- [Hôtels de luxe à Cannes](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/), 8 adresses, dont le seul palace de la ville
+
 - [Notre méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/), les grilles de notation et les règles d'indépendance
 
 [Lucas Lecoq](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/)

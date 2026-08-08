@@ -317,6 +317,8 @@ Indice accessibilité
 
 - [Les meilleurs hôtels de luxe à Paris : 19 adresses classées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/)
 
+- [Les 10 meilleurs hôtels 5 étoiles à Paris en 2026](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-paris/), l'étage au-dessus, et les deux palaces rétrogradés cette année
+
 [Lucas Lecoq](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/)
 Rédacteur en chef, Meilleurs.
 

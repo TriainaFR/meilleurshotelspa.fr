@@ -313,6 +313,10 @@ Indice charme propriétaire
 
 - [Hôtels de charme en Bretagne : 10 maisons d'exception](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/)
 
+- [Hôtels de charme en Normandie : 10 maisons classées](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/), l'auberge de Monet et deux étoiles Michelin là où on ne les attend pas
+
+- [Les meilleurs hôtels de Marseille : 10 adresses testées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-marseille/), l'autre bout de la côte
+
 - [Les meilleurs hôtels 5 étoiles en Sardaigne : 7 adresses](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/)
 
 [Swann Bertaud](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/)

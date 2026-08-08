@@ -268,6 +268,8 @@ Indice Hammam propriétaire
 
 - [Hôtel romantique à Lyon : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/hotel-romantique-lyon/)
 
+- [Villa Florentine, avis : l'unique Relais & Châteaux de Lyon](https://www.lesmeilleurshotelspa.fr/avis/villa-florentine-lyon/), dont le spa a ouvert en juin 2026
+
 - [Les 50 meilleurs hôtels et spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)
 
 - [Spas avec bain froid à Paris : 5 adresses testées](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/)

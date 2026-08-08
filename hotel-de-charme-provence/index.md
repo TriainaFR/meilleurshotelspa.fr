@@ -348,6 +348,10 @@ Indice provençal propriétaire
 
 - [Hôtels de charme en Bretagne : 10 maisons d'exception](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/)
 
+- [Hôtels de charme en Normandie : 10 maisons classées](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/), le même instrument appliqué de Honfleur au pays d'Auge
+
+- [Les meilleurs hôtels de Marseille : 10 adresses testées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-marseille/), la ville que ce palmarès provençal laisse de côté
+
 - [Les 50 meilleurs hôtels & spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)
 
 - [Hôtels de charme sur la Côte d'Azur, 12 adresses testées](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/)

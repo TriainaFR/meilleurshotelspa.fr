@@ -294,6 +294,8 @@ Indice romantisme propriétaire
 
 - [Les meilleurs hôtels de Lyon : du boutique-hôtel au palace](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-lyon/)
 
+- [Hôtel romantique à Bordeaux : 8 adresses](https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-bordeaux/), le même indice romantisme appliqué au vignoble
+
 - [Villa Florentine, avis : l'unique Relais & Châteaux de Lyon](https://www.lesmeilleurshotelspa.fr/avis/villa-florentine-lyon/), l'adresse au meilleur indice romantisme de la ville
 
 - [Hôtel romantique à Paris : 10 adresses testées](https://www.lesmeilleurshotelspa.fr/hotel-romantique-paris/)

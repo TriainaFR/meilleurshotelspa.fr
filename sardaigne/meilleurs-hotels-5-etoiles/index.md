@@ -407,6 +407,8 @@ seconde le potager et l'intimité.
 
 - [Les meilleurs hôtels de luxe à Saint-Tropez](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/), l'autre Méditerranée
 
+- [The Romanos, Costa Navarino](https://www.lesmeilleurshotelspa.fr/avis/the-romanos-costa-navarino/), notre avis grec, l'autre rivage de cette même mer
+
 - [Hôtel de luxe avec spa à Paris](https://www.lesmeilleurshotelspa.fr/hotel-luxe-avec-spa-paris/), les 8 spas de palaces comparés
 
 - [Hôtels de charme sur la Côte d'Azur](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/), 12 adresses et l'indice charme

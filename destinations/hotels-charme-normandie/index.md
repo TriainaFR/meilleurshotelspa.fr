@@ -317,6 +317,8 @@ Indice Héritage Normand propriétaire
 
 - [Hôtels de charme en Bretagne : 10 maisons d'exception](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/)
 
+- [Château du Portereau, aux portes de Nantes](https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/), l'autre ouverture marquante du grand Ouest en 2026
+
 - [Hôtels de charme en Provence : 12 maisons d'exception testées](https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/)
 
 - [Hôtels de charme sur la Côte d'Azur : 12 adresses testées](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/)

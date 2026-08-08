@@ -24,7 +24,7 @@ Contrôles de non-régression : JSON-LD valide, aucun tiret cadratin, aucun lien
 interne mort, aucune image pointant vers un fichier absent.
 """
 
-import argparse, json, os, re, subprocess, sys
+import argparse, json, os, posixpath, re, subprocess, sys
 from datetime import datetime, timezone
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -741,26 +741,51 @@ def check_canonical_path():
             fail(f"canonique inexacte : {f} -> {m.group(1)}, attendu {expected}")
 
 
+MIN_INBOUND = 3
+
+
 def check_no_orphans():
     """Un article que seules les listes automatiques (accueil et page articles)
     citent n'a aucun signal éditorial interne. Google le classe alors « Explorée,
     actuellement non indexée », ce qui est arrivé le 25/07/2026 à la thalasso
-    bretonne et aux hôtels de luxe parisiens. Chaque parution doit recevoir au
-    moins un lien contextuel depuis un autre article."""
+    bretonne et aux hôtels de luxe parisiens, puis le 05/08/2026 aux hôtels de
+    charme de Normandie, dont la validation Search Console a échoué.
+
+    Deux leçons tirées de cet échec, toutes deux corrigées ici.
+
+    1. La Normandie n'était pas orpheline : elle avait un lien entrant, et passait
+       donc le contrôle. Un seul lien contextuel ne suffit pas à convaincre Google
+       d'indexer. Le seuil est passé à MIN_INBOUND, la médiane du site étant de 5.
+
+    2. Le contrôle comparait les href par sous-chaîne, `href="[^"]*<url>"`. Un lien
+       relatif entre pages sœurs, `../meilleur-hammam-lyon/` depuis un autre article
+       de spas/, ne contient pas le préfixe `spas/` et n'était donc jamais compté.
+       Les chemins sont désormais résolus avant comparaison."""
     auto = {"index.html", "articles.html"}
-    for a in ARTS:
-        target = a["url"]
-        inbound = 0
-        for f in pages():
-            if f in auto or f == os.path.join(target, "index.html"):
+    targets = {a["url"].strip("/") + "/": 0 for a in ARTS}
+    for f in pages():
+        if f in auto:
+            continue
+        here = posixpath.dirname(f.replace("\\", "/"))
+        s = re.sub(r"<!--.*?-->", "", open(f, encoding="utf-8").read(), flags=re.S)
+        seen = set()
+        for href in re.findall(r'href="([^"]+)"', s):
+            if href.startswith(("http", "mailto", "tel", "#", "data:")):
                 continue
-            s = open(f, encoding="utf-8").read()
-            s = re.sub(r"<!--.*?-->", "", s, flags=re.S)
-            if re.search(r'href="[^"]*%s"' % re.escape(target), s):
-                inbound += 1
-        if inbound == 0:
-            fail(f"article orphelin, aucun lien éditorial entrant : {target} "
-                 f"(ajouter un lien depuis un article proche avant de publier)")
+            href = href.split("#")[0].split("?")[0]
+            if not href:
+                continue
+            base = href.lstrip("/") if href.startswith("/") else posixpath.join(here, href)
+            tgt = posixpath.normpath(base).lstrip("./") + "/"
+            if tgt in targets and f != posixpath.join(tgt, "index.html"):
+                seen.add(tgt)
+        for tgt in seen:
+            targets[tgt] += 1
+    for tgt, n in sorted(targets.items()):
+        if n < MIN_INBOUND:
+            fail(f"maillage entrant insuffisant : {tgt} n'a que {n} lien(s) éditorial(aux) "
+                 f"entrant(s), il en faut {MIN_INBOUND} (ajouter un lien contextuel depuis "
+                 f"un article proche avant de publier)")
 
 
 def checks():

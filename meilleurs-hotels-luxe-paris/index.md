@@ -487,6 +487,8 @@ sur dossier. Ils rejoindront l'édition suivante.
 
 - [Les 10 meilleurs hôtels 5 étoiles à Paris en 2026](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-paris/), la sélection resserrée, et ce que la distinction Palace a changé cette année
 
+- [Nouveaux hôtels à Paris en 2026 : 8 ouvertures classées](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-paris-2026/), celles qui entreront dans ce classement l'an prochain
+
 [Lucas Lecoq](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/)
 Rédacteur en chef, Meilleurs.
 
