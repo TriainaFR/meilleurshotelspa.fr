@@ -266,6 +266,46 @@ def recits():
     return recits_all()[:RECITS_HOME]
 
 
+def sync_schema():
+    """Réinjecte l'ItemList du sommaire dans le JSON-LD de articles.html.
+
+    La page se déclarait CollectionPage sans jamais énumérer ce qu'elle collecte :
+    un moteur, ou un modèle qui lit la page sans exécuter le JS, voyait une
+    collection vide. L'ItemList est donc générée depuis le catalogue à chaque
+    build, comme la grille HTML juste au-dessus, pour que les deux ne divergent
+    jamais.
+
+    Seule la clé mainEntity est réécrite : le reste du bloc, rédigé à la main,
+    est relu puis resérialisé tel quel."""
+    page = "articles.html"
+    s = open(page, encoding="utf-8").read()
+    o = s
+    m = re.search(r'(<script type="application/ld\+json">)(.*?)(</script>)', s, re.S)
+    if not m:
+        fail(f"bloc JSON-LD introuvable dans {page}")
+        return
+    try:
+        data = json.loads(m.group(2))
+    except Exception as e:
+        fail(f"JSON-LD illisible dans {page} ({e})")
+        return
+    data["mainEntity"] = {
+        "@type": "ItemList",
+        "name": "Toutes les parutions de Meilleurs.",
+        "numberOfItems": len(ARTS),
+        "itemListOrder": "https://schema.org/ItemListOrderDescending",
+        "itemListElement": [
+            {"@type": "ListItem", "position": i + 1,
+             "url": f'{BASE}/{a["url"]}', "name": a["title"]}
+            for i, a in enumerate(ARTS)
+        ],
+    }
+    block = json.dumps(data, ensure_ascii=False, indent=2)
+    s = s[: m.start(2)] + "\n" + block + "\n" + s[m.end(2):]
+    if write(page, o, s):
+        log(f"ItemList du sommaire régénérée ({len(ARTS)} parutions, {page})")
+
+
 def sync_static_lists():
     fill("latest-grid", "".join(card_html(a) for a in ARTS[:FIL]), "index.html")
     fill("latest-wire", "".join(wire_html(a) for a in ARTS[FIL:]), "index.html")
@@ -831,6 +871,7 @@ def checks():
 if __name__ == "__main__":
     sync_counters()
     sync_static_lists()
+    sync_schema()
     sync_images()
     sync_dates()
     sync_asset_versions()

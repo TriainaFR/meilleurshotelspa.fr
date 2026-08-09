@@ -2,7 +2,7 @@
 
 > Les 19 meilleurs hôtels de luxe à Paris classés par LMHS : 10 palaces et 9 cinq étoiles de caractère, avec scores, Indice Prestige, tarifs relevés et bémols.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-07 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-08 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -494,7 +494,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 25 juillet 2026
 
-Dernière mise à jour : 7 août 2026
+Dernière mise à jour : 8 août 2026
 
 Meilleurs.
 
