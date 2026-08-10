@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-07 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-09 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -16,6 +16,14 @@ Le sommaire
 ⌕
 
 [
+
+Palmarès10 août 2026
+
+### Meilleurs hôtels de luxe à Nice : 8 adresses d'exception en 2026
+
+Nice · 16 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/)[
 
 Palmarès7 août 2026
 

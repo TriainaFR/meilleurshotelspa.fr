@@ -5,9 +5,21 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-08-07",
-  "count": 39,
+  "updated": "2026-08-10",
+  "count": 40,
   "articles": [
+    {
+      "slug": "luxe-nice",
+      "title": "Meilleurs hôtels de luxe à Nice : 8 adresses d'exception en 2026",
+      "category": "Palmarès",
+      "destination": "Nice",
+      "region": "Côte d'Azur",
+      "published": "2026-08-10",
+      "readingMinutes": 16,
+      "url": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/cz-negresco.jpg"
+    },
     {
       "slug": "5-etoiles-paris",
       "title": "Les 10 meilleurs hôtels 5 étoiles à Paris en 2026",

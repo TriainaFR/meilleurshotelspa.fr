@@ -2,7 +2,7 @@
 
 > Notre palmarès 2026 des meilleurs hôtels de luxe à Saint-Tropez : scores LMHS, prix haute/basse saison, points forts et bémols pour 8 établissements 5 étoiles.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-08 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-09 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -247,12 +247,14 @@ Tarifs relevés juillet 2026
 
 - [Hôtels de luxe à Cannes : les 8 meilleures adresses](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/), l'autre capitale du golfe
 
+- [Meilleurs hôtels de luxe à Nice : 8 adresses d'exception](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/), le prestige urbain plutôt que la discrétion
+
 [Lucas Lecoq](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/)
 Rédacteur en chef, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 8 août 2026
+Dernière mise à jour : 9 août 2026
 
 Meilleurs.
 

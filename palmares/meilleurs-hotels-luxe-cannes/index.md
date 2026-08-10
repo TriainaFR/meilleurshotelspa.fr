@@ -282,6 +282,8 @@ Indice Croisette propriétaire
 
 - [Hôtels de charme sur la Côte d'Azur : 12 adresses testées](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/)
 
+- [Meilleurs hôtels de luxe à Nice : 8 adresses d'exception](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/), à trente minutes, et sans aucun palace distingué
+
 - [Meilleurs hôtels 5 étoiles en France : les 10 palaces hors Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/)
 
 - [Les meilleurs hôtels de luxe à Saint-Tropez : palmarès 2026](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/)
