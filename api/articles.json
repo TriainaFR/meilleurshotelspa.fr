@@ -6,7 +6,7 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-08-10",
-  "count": 40,
+  "count": 41,
   "articles": [
     {
       "slug": "luxe-nice",
@@ -19,6 +19,18 @@
       "url": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/",
       "markdown": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/index.md",
       "image": "https://www.lesmeilleurshotelspa.fr/images/cz-negresco.jpg"
+    },
+    {
+      "slug": "aranui-2028",
+      "title": "Croisière en Polynésie 2028 : les 46 départs Aranui, comparés",
+      "category": "Destinations",
+      "destination": "Polynésie française",
+      "region": "Polynésie française",
+      "published": "2026-08-10",
+      "readingMinutes": 16,
+      "url": "https://www.lesmeilleurshotelspa.fr/destinations/croisiere-polynesie-aranui-2028/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/destinations/croisiere-polynesie-aranui-2028/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/pf-aranui5-lagon.jpg"
     },
     {
       "slug": "5-etoiles-paris",

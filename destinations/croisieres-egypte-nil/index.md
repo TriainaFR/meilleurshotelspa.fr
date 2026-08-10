@@ -2,7 +2,7 @@
 
 > Cinq croisières en Égypte classées par l'Indice Dépaysement LMHS : dahabiehs de 14 à 16 passagers, safari-boat du lac Nasser, vapeur Belle Époque, bateau moteur.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/croisieres-egypte-nil/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-07 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/croisieres-egypte-nil/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-10 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -221,6 +221,8 @@ Capacités vérifiées
 
 ### Pour aller plus loin
 
+- [Croisière en Polynésie 2028 : les 46 départs Aranui](https://www.lesmeilleurshotelspa.fr/destinations/croisiere-polynesie-aranui-2028/), l'autre navigation où la capacité fait le voyage
+
 - [Les 8 meilleurs hôtels avec plage à l'île Maurice](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/)
 
 - [Les meilleurs hôtels 5 étoiles en Sardaigne : 7 adresses](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/)
@@ -238,7 +240,7 @@ Rédacteur hôtels et gastronomie, Meilleurs.
 
 Publié le 31 juillet 2026
 
-Dernière mise à jour : 7 août 2026
+Dernière mise à jour : 10 août 2026
 
 Meilleurs.
 

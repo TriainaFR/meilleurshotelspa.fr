@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-09 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-10 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -24,6 +24,14 @@ Palmarès10 août 2026
 Nice · 16 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/)[
+
+Destinations10 août 2026
+
+### Croisière en Polynésie 2028 : les 46 départs Aranui, comparés
+
+Polynésie française · 16 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/destinations/croisiere-polynesie-aranui-2028/)[
 
 Palmarès7 août 2026
 

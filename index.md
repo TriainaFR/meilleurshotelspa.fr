@@ -2,7 +2,7 @@
 
 > Le média français de référence des meilleurs hôtels, spas et destinations. Palmarès indépendants, guides et récits. Testé sur place, sans partenariat commercial.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/ · Dernière mise à jour : 2026-08-07 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/ · Dernière mise à jour : 2026-08-10 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -41,6 +41,14 @@ Palmarès10 août 2026
 Nice · 16 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/)[
+
+Destinations10 août 2026
+
+### Croisière en Polynésie 2028 : les 46 départs Aranui, comparés
+
+Polynésie française · 16 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/destinations/croisiere-polynesie-aranui-2028/)[
 
 Palmarès7 août 2026
 
@@ -136,20 +144,12 @@ Palmarès30 juil. 2026
 
 Lyon · 16 min de lecture
 
-](https://www.lesmeilleurshotelspa.fr/hotel-romantique-lyon/)[
-
-Enquête30 juil. 2026
-
-### Shangri-La The Shard, avis : Londres vu du 52e étage
-
-Londres · 14 min de lecture
-
-](https://www.lesmeilleurshotelspa.fr/avis/shangri-la-the-shard-londres/)
+](https://www.lesmeilleurshotelspa.fr/hotel-romantique-lyon/)
 
 Et aussi
 La suite du fil
 
-[29 juil.PalmarèsMeilleurs hôtels 5 étoiles en France : les 10 palaces hors Paris→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/)[29 juil.PalmarèsLes 8 meilleurs hôtels avec plage à l'île Maurice→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/)[29 juil.EnquêteMonteverdi Tuscany : le village toscan devenu hôtel d'auteur→](https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/)[28 juil.SpasSpas avec bain froid à Paris : 5 adresses testées→](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/)[27 juil.PalmarèsHôtels de charme en Bretagne : 10 maisons d'exception→](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/)[27 juil.PalmarèsLes meilleurs hôtels 5 étoiles en Sardaigne : 7 adresses→](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/)[25 juil.PalmarèsLes meilleurs hôtels de luxe à Paris : 19 adresses classées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/)[25 juil.SpasMeilleure thalasso en Bretagne : 11 adresses testées→](https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/)[22 juil.OuvertureNouveaux hôtels en France : les 10 ouvertures de l'automne 2026→](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-france-automne-2026/)[22 juil.PalmarèsLes meilleurs hôtels de Marseille : 10 adresses testées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-marseille/)[21 juil.PalmarèsLes 50 meilleurs hôtels & spas de France, édition 2026→](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)[21 juil.PalmarèsHôtels de charme en Provence : 12 maisons d'exception testées→](https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/)[21 juil.PalmarèsLes meilleurs hôtels de Lyon : du boutique-hôtel au palace→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-lyon/)[21 juil.SpasHôtel de luxe avec spa à Paris : les 8 meilleures combinaisons→](https://www.lesmeilleurshotelspa.fr/hotel-luxe-avec-spa-paris/)[21 juil.PalmarèsLes meilleurs hôtels de Biarritz : surf, luxe et Atlantique→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-biarritz/)[21 juil.PalmarèsHôtel romantique à Paris : 10 adresses testées→](https://www.lesmeilleurshotelspa.fr/hotel-romantique-paris/)[21 juil.SpasThalasso sud de la France : 14 adresses testées, classées→](https://www.lesmeilleurshotelspa.fr/spas/thalasso-sud-de-la-france/)[21 juil.SpasThalasso Île-de-France : 8 adresses testées près de Paris→](https://www.lesmeilleurshotelspa.fr/spas/thalasso-ile-de-france/)[21 juil.SpasMeilleur hammam à Paris : 8 adresses testées, thermomètre en main→](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/)[21 juil.DestinationsHôtel avec spa privatif : 12 adresses testées, du chalet au château→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-france/)[21 juil.DestinationsSpa privatif en Île-de-France : 6 adresses à moins d'une heure de Paris→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-ile-de-france/)[21 juil.PalmarèsLes meilleurs hôtels de luxe à Saint-Tropez : palmarès 2026→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/)[21 juil.PalmarèsHôtels de charme sur la Côte d'Azur : 12 adresses testées→](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/)[21 juil.PalmarèsLes meilleurs hôtels 4 étoiles de Paris : 12 adresses testées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-paris/)[21 juil.EnquêteCheval Blanc Paris : le palace LVMH tient-il ses promesses ?→](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/)[21 juil.PalmarèsLes plus beaux hôtels de Bordeaux : 10 adresses sélectionnées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-bordeaux/)
+[30 juil.EnquêteShangri-La The Shard, avis : Londres vu du 52e étage→](https://www.lesmeilleurshotelspa.fr/avis/shangri-la-the-shard-londres/)[29 juil.PalmarèsMeilleurs hôtels 5 étoiles en France : les 10 palaces hors Paris→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/)[29 juil.PalmarèsLes 8 meilleurs hôtels avec plage à l'île Maurice→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/)[29 juil.EnquêteMonteverdi Tuscany : le village toscan devenu hôtel d'auteur→](https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/)[28 juil.SpasSpas avec bain froid à Paris : 5 adresses testées→](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/)[27 juil.PalmarèsHôtels de charme en Bretagne : 10 maisons d'exception→](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/)[27 juil.PalmarèsLes meilleurs hôtels 5 étoiles en Sardaigne : 7 adresses→](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/)[25 juil.PalmarèsLes meilleurs hôtels de luxe à Paris : 19 adresses classées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/)[25 juil.SpasMeilleure thalasso en Bretagne : 11 adresses testées→](https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/)[22 juil.OuvertureNouveaux hôtels en France : les 10 ouvertures de l'automne 2026→](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-france-automne-2026/)[22 juil.PalmarèsLes meilleurs hôtels de Marseille : 10 adresses testées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-marseille/)[21 juil.PalmarèsLes 50 meilleurs hôtels & spas de France, édition 2026→](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)[21 juil.PalmarèsHôtels de charme en Provence : 12 maisons d'exception testées→](https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/)[21 juil.PalmarèsLes meilleurs hôtels de Lyon : du boutique-hôtel au palace→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-lyon/)[21 juil.SpasHôtel de luxe avec spa à Paris : les 8 meilleures combinaisons→](https://www.lesmeilleurshotelspa.fr/hotel-luxe-avec-spa-paris/)[21 juil.PalmarèsLes meilleurs hôtels de Biarritz : surf, luxe et Atlantique→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-biarritz/)[21 juil.PalmarèsHôtel romantique à Paris : 10 adresses testées→](https://www.lesmeilleurshotelspa.fr/hotel-romantique-paris/)[21 juil.SpasThalasso sud de la France : 14 adresses testées, classées→](https://www.lesmeilleurshotelspa.fr/spas/thalasso-sud-de-la-france/)[21 juil.SpasThalasso Île-de-France : 8 adresses testées près de Paris→](https://www.lesmeilleurshotelspa.fr/spas/thalasso-ile-de-france/)[21 juil.SpasMeilleur hammam à Paris : 8 adresses testées, thermomètre en main→](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/)[21 juil.DestinationsHôtel avec spa privatif : 12 adresses testées, du chalet au château→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-france/)[21 juil.DestinationsSpa privatif en Île-de-France : 6 adresses à moins d'une heure de Paris→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-ile-de-france/)[21 juil.PalmarèsLes meilleurs hôtels de luxe à Saint-Tropez : palmarès 2026→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/)[21 juil.PalmarèsHôtels de charme sur la Côte d'Azur : 12 adresses testées→](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/)[21 juil.PalmarèsLes meilleurs hôtels 4 étoiles de Paris : 12 adresses testées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-paris/)[21 juil.EnquêteCheval Blanc Paris : le palace LVMH tient-il ses promesses ?→](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/)[21 juil.PalmarèsLes plus beaux hôtels de Bordeaux : 10 adresses sélectionnées→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-bordeaux/)
 
 Nouveaux articles chaque semaine, testés avant d'être écrits.
 [Tous les articles →](https://www.lesmeilleurshotelspa.fr/articles.html)
@@ -277,7 +277,7 @@ Silence : total ✓
 
 Édito
 Longs formats, vraies adresses
-[Voir les 17 récits](https://www.lesmeilleurshotelspa.fr/articles.html#cat=Récits)
+[Voir les 18 récits](https://www.lesmeilleurshotelspa.fr/articles.html#cat=Récits)
 
 [Enquête
 
@@ -321,13 +321,13 @@ Enquête, 17 min de lecture](https://www.lesmeilleurshotelspa.fr/cheval-blanc-pa
 
 Un ancien couvent devance le Negresco, et aucun hôtel niçois n'est vraiment un palace.
 
-Palmarès, 16 min de lecture](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/)[Palmarès
+Palmarès, 16 min de lecture](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/)[Destinations
 
-### Les 10 meilleurs hôtels 5 étoiles à Paris en 2026
+### Croisière en Polynésie 2028 : les 46 départs Aranui, comparés
 
-Deux palaces parisiens viennent de perdre leur distinction, les premiers depuis 2010.
+Deux cargos mixtes, cinq itinéraires, et deux départs par an vers une île sans aéroport.
 
-Palmarès, 18 min de lecture](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-paris/)
+Destinations, 16 min de lecture](https://www.lesmeilleurshotelspa.fr/destinations/croisiere-polynesie-aranui-2028/)
 
 Meilleurs.
 

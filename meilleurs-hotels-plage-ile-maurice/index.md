@@ -2,7 +2,7 @@
 
 > Découvrez les 8 meilleurs hôtels avec plage à l'île Maurice en 2026. Palmarès complet avec scores LMHS, indices plage, prix et avis d'experts.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-07 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-10 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -356,6 +356,8 @@ janvier, comptez le double.
 
 - [Croisières sur le Nil : les 5 plus belles](https://www.lesmeilleurshotelspa.fr/destinations/croisieres-egypte-nil/), quand la chambre flotte au lieu de rester à quai
 
+- [Croisière en Polynésie 2028 : les 46 départs Aranui](https://www.lesmeilleurshotelspa.fr/destinations/croisiere-polynesie-aranui-2028/), des îles que l'on rejoint par la mer faute d'aéroport
+
 - [Les meilleurs hôtels de luxe à Saint-Tropez](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/), la Méditerranée avec plage privée
 
 - [Hôtel de luxe avec spa à Paris](https://www.lesmeilleurshotelspa.fr/hotel-luxe-avec-spa-paris/), les 8 spas de palaces comparés
@@ -367,7 +369,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 29 juillet 2026
 
-Dernière mise à jour : 7 août 2026
+Dernière mise à jour : 10 août 2026
 
 Meilleurs.
 
