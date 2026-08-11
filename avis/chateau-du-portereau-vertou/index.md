@@ -217,6 +217,8 @@ Indice Patrimoine Vivant 4,8/5
 
 - [The Romanos, Costa Navarino : le luxe grec en Messénie](https://www.lesmeilleurshotelspa.fr/avis/the-romanos-costa-navarino/), un autre avis en fiche LMHS
 
+- [Château Saint-Jean, Montluçon : la commanderie templière devenue Relais & Châteaux](https://www.lesmeilleurshotelspa.fr/avis/chateau-saint-jean-montlucon/), autre château documenté sans séjour de contrôle
+
 - [Hôtel avec spa privatif : 12 adresses testées, du chalet au château](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-france/)
 
 - [Meilleurs hôtels 5 étoiles en France : les 10 palaces hors Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/)

@@ -469,6 +469,8 @@ tête, sont alors saturés.
 
 - [Hôtels avec spa privatif](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-france/), 12 adresses du chalet au château
 
+- [Week-end spa en France](https://www.lesmeilleurshotelspa.fr/destinations/week-end-spa-france/), 9 adresses et ce que deux nuits coûtent réellement, Carnac compris
+
 [Swann Bertaud](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/)
 Rédacteur hôtellerie de luxe, Meilleurs.
 

@@ -77,7 +77,7 @@ notre [page méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/).
 | 07 | Airelles Gordes La Bastide | Provence | 8,3/10 | 4,5/5 | Oui | 790 € | 17,6/20 |
 | 08 | Hôtel Martinez Cannes | Côte d'Azur | 8,2/10 | 4/5 | Oui, 2026 | 163 € | non classé |
 | 09 | Four Seasons Resort Megève | Alpes | 8,1/10 | 4,5/5 | Oui, 2026 | 900 € | 16,2/20 |
-| 10 | Les Prés d'Eugénie | Landes | 8,0/10 | 4/5 | Oui | 296 € | non classé |
+| 10 | Les Prés d'Eugénie | Landes | 8,0/10 | 4/5 | Oui | 420 € | 15,0/20 |
 
 **Lecture des tarifs :** prix d'appel pour une chambre double en
 basse saison. Les sept établissements déjà classés reprennent les tarifs publiés dans notre
@@ -282,7 +282,7 @@ Haute-Savoie · Palace Atout France, promu en 2026 · Domaine du Mont d'Arbois �
 ### Les Prés d'Eugénie, Michel Guérard 8,0/10
 
 **Eugénie-les-Bains, Landes**. Palace Atout France · Indice Palace 4/5 ·
-Nuit dès 296 €.
+Nuit dès 420 €.
 
 Le palace thermal et gastronomique français, unique en son genre. C'est ici qu'est née
 la **cuisine minceur**, dans les années 1970, et la maison n'a jamais cessé de
@@ -342,9 +342,9 @@ Courchevel et Les Prés d'Eugénie, les deux tables trois
 étoiles de ce palmarès, ou La Réserve Ramatuelle et
 Les Sources de Caudalie pour leurs deux étoiles.
 
-**Budget maîtrisé :** Les Prés d'Eugénie à
-296 € et Les Sources de Caudalie à 380 €, les deux seuls
-palaces de ce classement sous 400 € la nuit.
+**Budget maîtrisé :** Les Sources de Caudalie
+à 380 €, le seul palace de ce classement sous 400 € la nuit, devant
+Les Prés d'Eugénie à 420 €.
 
 **Séjour bien-être :** Caudalie pour la
 vinothérapie, Royal Champagne pour son spa de 1 500 m², ou
@@ -390,8 +390,8 @@ carte des palaces.
 
 ### Quel est le meilleur rapport qualité-prix parmi les palaces hors Paris ?
 
-Les Prés d'Eugénie, dès 296 € la nuit, et Les Sources de Caudalie, dès 380 €, sont les
-deux seuls palaces de ce classement sous 400 €, avec respectivement trois et deux étoiles au
+Les Sources de Caudalie, dès 380 € la nuit, est le seul palace de ce classement sous 400 €,
+devant Les Prés d'Eugénie à 420 €, avec respectivement deux et trois étoiles au
 Guide Michelin. L'Hôtel Martinez affiche un plancher plus bas encore, 163 €, mais c'est un
 tarif de très basse saison qui n'a rien à voir avec ses prix d'été.
 

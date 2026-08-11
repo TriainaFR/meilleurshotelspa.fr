@@ -61,7 +61,7 @@ Voici le classement complet des adresses testées selon le Protocole LMHS. Les d
 | 08 | Institut Thalasso Banyuls | Banyuls-sur-Mer | Occitanie | 14,9/20 | 220 € | 450 m² | 12 |
 | 09 | Grand Tonic Hôtel & Spa Nuxe | Biarritz | Pays basque | 14,8/20 | 200 € | 900 m² | 24 |
 | 10 | Club Plein Sud | Hyères | PACA | 14,3/20 | 280 € | 500 m² | 15 |
-| 11 | Thalasso Carnac | Carnac | Bretagne | 14,0/20 | 300 € | 650 m² | 17 |
+| 11 | Thalasso Carnac | Carnac | Bretagne | 14,0/20 | 240 € | 650 m² | 17 |
 | 12 | Thalazur La Rochelle | La Rochelle | Nouvelle-Aquitaine | 14,0/20 | 320 € | 580 m² | 16 |
 | 13 | Centre Thalasso Argelès | Argelès-sur-Mer | Occitanie | 13,7/20 | 240 € | 420 m² | 11 |
 | 14 | Thalasso Sète | Sète | Occitanie | 13,4/20 | 210 € | 380 m² | 10 |

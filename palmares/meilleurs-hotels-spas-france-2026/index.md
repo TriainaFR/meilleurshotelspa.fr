@@ -67,7 +67,7 @@ Voici le classement des 10 premiers établissements, avec données propriétaire
 | 01 | Hôtel Royal Evian | Alpes | 19,2/20 | 450 € | 1 700 m² |
 | 02 | Cheval Blanc Paris | Paris | 18,8/20 | 2 050 € | 1 000 m² |
 | 03 | Les Sources de Caudalie | Bordeaux | 18,5/20 | 380 € | 2 200 m² |
-| 04 | Terre Blanche | Provence | 18,1/20 | 520 € | 3 000 m² |
+| 04 | Terre Blanche | Provence | 18,1/20 | 520 € | 3 200 m² |
 | 05 | L'Apogée Courchevel | Alpes | 17,9/20 | 1 200 € | 1 800 m² |
 | 06 | Airelles Gordes | Provence | 17,6/20 | 790 € | 1 500 m² |
 | 07 | La Réserve Ramatuelle | Côte d'Azur | 17,4/20 | 1 100 € | 1 200 m² |
@@ -109,11 +109,11 @@ Bordeaux · 380 € la nuit · Spa 2 200 m² · [Sa fiche dans notre guide des s
 
 ### Terre Blanche 18,1/20
 
-Spa le plus complet de France : 3 000 m² avec 14 cabines, piscines intérieure et extérieure, jardin de relaxation. Golf 18 trous et restaurant étoilé Michelin.
+Spa le plus complet de France : 3 200 m² avec 14 cabines, piscines intérieure et extérieure, jardin de relaxation. Deux parcours de golf 18 trous et restaurant étoilé Michelin.
 
 Point faible : isolement géographique (40 min de la côte).
 
-Provence · 520 € la nuit · Spa 3 000 m²
+Provence · 520 € la nuit · Spa 3 200 m²
 
 05
 
@@ -203,7 +203,7 @@ Paris · 950 € la nuit · Spa 1 500 m² · [Sa fiche dans notre comparatif des
 
 | Rang national | Hôtel | Score LMHS | Prix nuit | Point fort |
 | --- | --- | --- | --- | --- |
-| 04 | Terre Blanche | 18,1/20 | 520 € | Spa le plus complet (3 000 m²) |
+| 04 | Terre Blanche | 18,1/20 | 520 € | Spa le plus complet (3 200 m²) |
 | 06 | Airelles Gordes | 17,6/20 | 790 € | Spa Sisley, vue Luberon |
 | 09 | Baumanière | 17,0/20 | 325 € | Meilleure valeur, 3 étoiles Michelin |
 | 16 | Coquillade Provence | 15,9/20 | 358 € | Hameau viticole, spa 2 000 m² |
@@ -321,7 +321,7 @@ Quel hôtel spa France offre le meilleur rapport qualité-prix ?
 
 Quels sont les meilleurs hôtels spas de France avec piscine intérieure chauffée ?
 
-**Royal Evian** (1 700 m², piscine intérieure avec jets massants), **Terre Blanche** (3 000 m², piscine intérieure et extérieure), **Four Seasons Megève** (piscine intérieure-extérieure chauffée face aux pistes), **Sofitel Thalassa Quiberon** (piscine d'eau de mer chauffée), **Royal Monceau** (piscine de 23 mètres en marbre blanc, la deuxième de Paris).
+**Royal Evian** (1 700 m², piscine intérieure avec jets massants), **Terre Blanche** (3 200 m², piscine intérieure et extérieure), **Four Seasons Megève** (piscine intérieure-extérieure chauffée face aux pistes), **Sofitel Thalassa Quiberon** (piscine d'eau de mer chauffée), **Royal Monceau** (piscine de 23 mètres en marbre blanc, la deuxième de Paris).
 
 Comment fonctionne le Protocole LMHS ?
 
@@ -350,6 +350,10 @@ Données propriétaires
 - [Hôtels de charme en Normandie : 10 maisons classées](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/), la région que ce palmarès national couvre le moins
 
 - [Château du Portereau : l'hôtel 4 étoiles qui réinvente Nantes](https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/), une ouverture de mai 2026 à suivre pour la prochaine édition du palmarès
+
+- [Week-end spa en France : 9 adresses](https://www.lesmeilleurshotelspa.fr/destinations/week-end-spa-france/), ce palmarès relu au format deux nuits, avec le budget correspondant
+
+- [Château Saint-Jean, Montluçon](https://www.lesmeilleurshotelspa.fr/avis/chateau-saint-jean-montlucon/), une commanderie templière étoilée en Auvergne, candidate évidente à la prochaine édition de ce palmarès
 
 [Lucas Lecoq](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/)
 Rédacteur en chef, Meilleurs.

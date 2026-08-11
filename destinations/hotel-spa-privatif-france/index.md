@@ -215,6 +215,13 @@ Ce qui déçoit : 450 €/nuit pour un spa privatisable en sous-sol avec des éq
 
 Pour qui : les passionnés de patrimoine qui placent le cadre avant le spa · Beaujolais · Dès 450 €/nuit, spa privatisable en supplément
 
+**Mise à jour du 11 août 2026 :** cette adresse n'accepte
+plus de réservation à la nuit. Le 15 janvier 2026, Lavorel Hôtels, propriétaire du
+domaine depuis juin 2012, a annoncé l'arrêt de l'hôtellerie classique au profit de la
+privatisation événementielle, le château entier se louant désormais à l'occasion. La
+note et le test de 2026 restent publiés pour mémoire, mais l'établissement sort de nos
+recommandations de séjour tant que cette situation dure.
+
 12
 
 ### Hôtel Le Cep, Beaune 14,2/20
@@ -280,7 +287,7 @@ Combien coûte en moyenne une nuit dans un hôtel avec spa privatif en France ?
 
 ## Méthode et *sources*
 
-12 établissements visités entre février et juillet 2026. Visites anonymes. Aucun partenariat. Score LMHS sur 4 critères (Luxe, Mise en scène, Hospitalité, Soin). Distinction spa permanent / privatisable / collectif vérifiée sur place et auprès des équipes. Photographies : sites officiels des établissements cités. Pour le palmarès complet, voir notre [palmarès des 50 meilleurs hôtels & spas de France](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/).
+12 établissements visités entre février et juillet 2026. Visites anonymes. Aucun partenariat. Score LMHS sur 4 critères (Luxe, Mise en scène, Hospitalité, Soin). Distinction spa permanent / privatisable / collectif vérifiée sur place et auprès des équipes. Photographies : sites officiels des établissements cités. Pour le palmarès complet, voir notre [palmarès des 50 meilleurs hôtels & spas de France](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/). Si c'est le format du séjour qui vous intéresse plutôt que le type de spa, notre sélection [week-end spa en France](https://www.lesmeilleurshotelspa.fr/destinations/week-end-spa-france/) reprend neuf de ces maisons et chiffre ce que deux nuits y coûtent.
 
 12 établissements visités
 4 privatifs permanents

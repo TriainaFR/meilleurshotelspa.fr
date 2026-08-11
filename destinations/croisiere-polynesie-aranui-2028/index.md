@@ -1,12 +1,12 @@
 # Croisière en Polynésie 2028 : les 46 départs Aranui, comparés
 
-> Aranui a ouvert ses ventes 2028 le 5 août 2026 : 23 départs aux Marquises sur l'Aranui 5, 23 sur l'Aranoa. Cinq itinéraires classés par l'Indice Immersion LMHS.
+> Aranui a ouvert ses ventes 2028 le 5 août 2026 : 23 départs aux Marquises sur l'Aranui 5, 23 sur l'Aranoa. Cinq itinéraires classés par l'Indice Desserte LMHS.
 
 URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/croisiere-polynesie-aranui-2028/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-10 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
-Analyse LMHS de la saison 2028 d'Aranui Cruises en Polynésie française, ouverte à la vente le 5 août 2026. 46 départs au total : 23 sur l'Aranui 5, cargo mixte de 126 mètres et 230 passagers en service depuis 2015, sur son itinéraire de 12 jours aux îles Marquises, et 23 sur l'Aranoa, second navire de 116 mètres et 198 passagers dont la première rotation a lieu le 6 mars 2027. Les quatre itinéraires de l'Aranoa en 2028 : Australes et Société avec Huahine, 12 jours, 14 départs ; Australes et Société avec Rapa, 13 jours, 6 départs ; Pitcairn et Gambier, 12 jours, 2 départs ; Tuamotu, 5 jours, 1 départ. Les cinq itinéraires sont classés par l'Indice Immersion LMHS noté sur 5, fondé sur quatre marqueurs vérifiables : escales où le navire livre réellement du fret, nombre d'îles habitées desservies, débarquement en baleinière faute de quai, rareté de la route. Pitcairn et Gambier 5,0/5, Marquises 4,8/5, Australes avec Rapa 4,6/5, Australes avec Huahine 4,2/5, Tuamotu 3,8/5. Offres relevées à la source : early booking jusqu'au 31 décembre 2026, 10 pour cent sur l'Aranui 5 et 15 pour cent sur l'Aranoa, remise back-to-back de 15 pour cent sur deux croisières consécutives, programme de fidélité Tiki Club à quatre niveaux. Les remises portent sur le tarif de base avant taxes et ne se cumulent ni entre elles ni avec le Tiki Club. Sélection documentaire, sans navigation de contrôle, sources relevées en août 2026. Aucun tarif publié.
+Analyse LMHS de la saison 2028 d'Aranui Cruises en Polynésie française, ouverte à la vente le 5 août 2026. 46 départs au total : 23 sur l'Aranui 5, cargo mixte de 126 mètres et 230 passagers en service depuis 2015, sur son itinéraire de 12 jours aux îles Marquises, et 23 sur l'Aranoa, second navire de 116 mètres et 198 passagers dont la première rotation a lieu le 6 mars 2027. Les quatre itinéraires de l'Aranoa en 2028 : Australes et Société avec Huahine, 12 jours, 14 départs ; Australes et Société avec Rapa, 13 jours, 6 départs ; Pitcairn et Gambier, 12 jours, 2 départs ; Tuamotu, 5 jours, 1 départ. Les cinq itinéraires sont classés par l'Indice Desserte LMHS noté sur 5, fondé sur quatre marqueurs vérifiables : escales où le navire livre réellement du fret, nombre d'îles habitées desservies, débarquement en baleinière faute de quai, rareté de la route. Pitcairn et Gambier 5,0/5, Marquises 4,8/5, Australes avec Rapa 4,6/5, Australes avec Huahine 4,2/5, Tuamotu 3,8/5. Offres relevées à la source : early booking jusqu'au 31 décembre 2026, 10 pour cent sur l'Aranui 5 et 15 pour cent sur l'Aranoa, remise back-to-back de 15 pour cent sur deux croisières consécutives, programme de fidélité Tiki Club à quatre niveaux. Les remises portent sur le tarif de base avant taxes et ne se cumulent ni entre elles ni avec le Tiki Club. Sélection documentaire, sans navigation de contrôle, sources relevées en août 2026. Aucun tarif publié.
 
 ---
 Analyse · Données propriétaires LMHS
@@ -45,14 +45,14 @@ départ de Papeete**, 23 fois dans l'année. L'archipel est inscrit au
 vers Pitcairn. L'île des mutins du *Bounty* n'a pas de
 piste d'atterrissage et ne s'atteint que par la mer : sur 46 rotations,
 **deux ouvrent cette porte-là**. C'est exactement ce que mesure notre
-Indice Immersion, et c'est ce qui distingue ces cinq voyages entre eux.
+Indice Desserte, et c'est ce qui distingue ces cinq voyages entre eux.
 
-## L'*Indice Immersion* LMHS, et ce qu'il mesure
+## L'*Indice Desserte* LMHS, et ce qu'il mesure
 
 Comparer ces cinq itinéraires sur le confort n'apprendrait rien : c'est la même
 compagnie, la même cuisine franco-polynésienne, le même vin servi au déjeuner et au
 dîner, la même équipe. Ce qui change d'une route à l'autre, c'est la Polynésie qu'elle
-ouvre. L'**Indice Immersion LMHS**, noté sur 5, repose sur quatre marqueurs
+ouvre. L'**Indice Desserte LMHS**, noté sur 5, repose sur quatre marqueurs
 vérifiables, et rien d'autre :
 
 - **Le fret** : les escales où le navire livre réellement l'île. C'est
@@ -74,7 +74,7 @@ superbe, au bas d'un tableau où rien ne descend sous 3,8 sur 5.
 
 ## Le tableau : cinq *itinéraires*, deux navires, 46 départs
 
-| Rang | Itinéraire 2028 | Navire | Durée | Départs | Archipels | Indice Immersion |
+| Rang | Itinéraire 2028 | Navire | Durée | Départs | Archipels | Indice Desserte |
 | --- | --- | --- | --- | --- | --- | --- |
 | 01 | Pitcairn et Gambier | Aranoa | 12 jours | 2 | Tuamotu, Gambier, Pitcairn | 5,0/5 |
 | 02 | Marquises | Aranui 5 | 12 jours | 23 | Tuamotu, Marquises, Société | 4,8/5 |
@@ -82,7 +82,7 @@ superbe, au bas d'un tableau où rien ne descend sous 3,8 sur 5.
 | 04 | Australes et Société avec Huahine | Aranoa | 12 jours | 14 | Australes, Société | 4,2/5 |
 | 05 | Tuamotu | Aranoa | 5 jours | 1 | Tuamotu | 3,8/5 |
 
-Classement par Indice Immersion LMHS. Durées et nombres de départs
+Classement par Indice Desserte LMHS. Durées et nombres de départs
 relevés en août 2026 à l'ouverture des ventes 2028. Total : 23 départs Aranui 5,
 23 départs Aranoa, 46 départs sur la saison.
 
@@ -173,7 +173,7 @@ intérêt : il assure le ravitaillement des Australes, l'archipel le plus austra
 Polynésie française. Ce n'est pas un décor, c'est un contrat de desserte, et il donne
 au navire une place dans la vie des îles que sa jauge seule ne lui donnerait pas.
 
-## Les cinq itinéraires 2028, classés par l'*Indice Immersion*
+## Les cinq itinéraires 2028, classés par l'*Indice Desserte*
 
 01
 
@@ -467,7 +467,7 @@ telles. Aucun partenariat commercial, aucune affiliation, aucun voyage offert.
 
 5 itinéraires
 46 départs vérifiés
-Indice Immersion propriétaire
+Indice Desserte propriétaire
 0 partenariat
 
 ### Sources utiles

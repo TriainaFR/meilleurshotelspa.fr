@@ -155,6 +155,8 @@ Sans séjour de contrôle
 
 - [Meilleur hammam à Lyon : 7 adresses, ce qu'elles valent](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-lyon/)
 
+- [Château Saint-Jean, avis](https://www.lesmeilleurshotelspa.fr/avis/chateau-saint-jean-montlucon/), l'autre monument reconverti noté au même Indice Prestige Patrimonial
+
 - [Notre méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/), les grilles de notation et les règles d'indépendance
 
 [Emmanuel Laveran](https://www.lesmeilleurshotelspa.fr/redaction/emmanuel-laveran/)

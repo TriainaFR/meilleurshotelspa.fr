@@ -43,6 +43,9 @@ son bouchon intégré. Dès 108 €/nuit en basse saison, c'est le meilleur rapp
 gastronomie/prix du classement. **Et un hors-les-murs :** le
 **Château de Bagnols** (8,8/10), à 30 minutes dans le
 Beaujolais, que nous classons à part parce qu'il n'est pas à Lyon.
+**Mise à jour du 11 août 2026 :** le domaine n'accepte plus de réservation à
+la nuit. Lavorel Hôtels, propriétaire depuis juin 2012, a annoncé le 15 janvier 2026
+l'arrêt de l'hôtellerie classique au profit de la privatisation événementielle.
 
 ## La grille LMHS *Destination* et l'indice gastronomique
 

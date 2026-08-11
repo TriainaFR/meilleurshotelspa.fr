@@ -17,6 +17,22 @@ Le sommaire
 
 [
 
+Destinations11 août 2026
+
+### Week-end spa en France : 9 adresses, et ce qu'un week-end y coûte vraiment
+
+France · 17 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/destinations/week-end-spa-france/)[
+
+Enquête11 août 2026
+
+### Château Saint-Jean, avis : la commanderie templière devenue Relais & Châteaux
+
+Montluçon · 14 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/chateau-saint-jean-montlucon/)[
+
 Palmarès10 août 2026
 
 ### Meilleurs hôtels de luxe à Nice : 8 adresses d'exception en 2026
