@@ -2,7 +2,7 @@
 
 > Avis LMHS sur le Château Saint-Jean à Montluçon : commanderie templière du XIIe, 19 chambres, restaurant étoilé d'Olivier Valade et spa réservé aux résidents. Score 9,2/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/chateau-saint-jean-montlucon/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-11 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/chateau-saint-jean-montlucon/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-11 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -16,7 +16,7 @@ dôme de cuivre. Autour, dix-neuf chambres, trois hectares de parc et un étang 
 Le tout dans une préfecture de l'Allier que personne n'associe au luxe hôtelier, ce qui
 est précisément l'intérêt de l'adresse.
 
-Par [**Emmanuel Laveran**](https://www.lesmeilleurshotelspa.fr/redaction/emmanuel-laveran/), rédacteur hôtels et gastronomie
+Par [**Swann Bertaud**](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/), rédacteur hôtellerie de luxe
 ✺
 Publié le 11 août 2026
 ✺
@@ -202,7 +202,7 @@ même : sur dix-neuf chambres et six services hebdomadaires, c'est la disponibil
 des deux qui commande, pas le prix affiché. Nous publierons la grille dès que
 l'établissement nous la communiquera.
 
-## Le mot d'Emmanuel · Le luxe hôtelier français n'a pas d'obligation d'être sur la côte
+## Le mot de Swann · Le luxe hôtelier français n'a pas d'obligation d'être sur la côte
 
 Montluçon
 n'est pas une destination. C'est une sous-préfecture de l'Allier que l'on traverse en
@@ -215,7 +215,7 @@ que de la déplacer au sous-sol. Une maison qui décide de dîner à côté de s
 du XIIe siècle a compris quelque chose que beaucoup de palaces neufs
 cherchent encore.
 
-Emmanuel Laveran, rédacteur hôtels et gastronomie
+Swann Bertaud, rédacteur hôtellerie de luxe
 
 ## Infos *pratiques* et accès
 
@@ -357,8 +357,8 @@ Sans séjour de contrôle
 
 - [Notre méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/), les grilles de notation et les règles d'indépendance
 
-[Emmanuel Laveran](https://www.lesmeilleurshotelspa.fr/redaction/emmanuel-laveran/)
-Rédacteur hôtels et gastronomie, Meilleurs.
+[Swann Bertaud](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/)
+Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 11 août 2026
 

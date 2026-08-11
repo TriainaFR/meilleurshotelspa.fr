@@ -2,7 +2,7 @@
 
 > 6 hôtels avec spa privatif à moins d'une heure de Paris, testés selon le Protocole LMHS : scores, prix, distances et ambiances.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-ile-de-france/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-10 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-ile-de-france/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-11 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -215,7 +215,7 @@ Rédacteur, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 10 août 2026
+Dernière mise à jour : 11 août 2026
 
 Meilleurs.
 
