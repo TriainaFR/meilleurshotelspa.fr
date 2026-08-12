@@ -401,6 +401,8 @@ seconde le potager et l'intimité.
 
 - [Monteverdi Tuscany : le village toscan devenu hôtel d'auteur](https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/)
 
+- [San Montano Resort & Spa, Ischia](https://www.lesmeilleurshotelspa.fr/avis/san-montano-resort-spa-ischia/), l'autre île italienne de nos avis, et son parc thermal volcanique
+
 - [Les 8 meilleurs hôtels avec plage à l'île Maurice](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/)
 
 - [Croisière en Polynésie 2028 : les 46 départs Aranui](https://www.lesmeilleurshotelspa.fr/destinations/croisiere-polynesie-aranui-2028/), notre troisième sélection hors d'Europe

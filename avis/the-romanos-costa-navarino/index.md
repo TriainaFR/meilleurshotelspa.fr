@@ -180,6 +180,8 @@ Sans séjour de contrôle
 
 - [Monteverdi Tuscany : le village toscan devenu hôtel d'auteur](https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/)
 
+- [San Montano Resort & Spa, Ischia](https://www.lesmeilleurshotelspa.fr/avis/san-montano-resort-spa-ischia/), un resort méditerranéen de même famille, dans le golfe de Naples
+
 - [Les meilleurs hôtels 5 étoiles en Sardaigne : 7 adresses](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/)
 
 - [Les 8 meilleurs hôtels avec plage à l'île Maurice](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/)

@@ -25,6 +25,14 @@ Alsace · 18 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/)[
 
+Enquête12 août 2026
+
+### San Montano, avis : le premier Relais & Châteaux d'Ischia
+
+Ischia · 15 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/san-montano-resort-spa-ischia/)[
+
 Destinations11 août 2026
 
 ### Week-end spa en France : 9 adresses, et ce qu'un week-end y coûte vraiment

@@ -242,6 +242,8 @@ chambre, suite ou maison de village privée.
 
 - [Les meilleurs hôtels 5 étoiles en Sardaigne](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/), l'autre versant italien de nos sélections
 
+- [San Montano Resort & Spa, Ischia](https://www.lesmeilleurshotelspa.fr/avis/san-montano-resort-spa-ischia/), notre troisième avis italien et le premier Relais & Châteaux de l'île
+
 - [The Romanos, Costa Navarino](https://www.lesmeilleurshotelspa.fr/avis/the-romanos-costa-navarino/), le contraire exact de Monteverdi : 321 chambres au lieu de quatorze couverts
 
 - [Les 10 meilleurs hôtels 5 étoiles de France hors Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/), l'échelle de comparaison

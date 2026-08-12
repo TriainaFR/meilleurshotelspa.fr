@@ -6,7 +6,7 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-08-12",
-  "count": 44,
+  "count": 45,
   "articles": [
     {
       "slug": "charme-alsace",
@@ -19,6 +19,18 @@
       "url": "https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/",
       "markdown": "https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/index.md",
       "image": "https://www.lesmeilleurshotelspa.fr/images/al-corbeau.jpg"
+    },
+    {
+      "slug": "san-montano-ischia",
+      "title": "San Montano, avis : le premier Relais & Châteaux d'Ischia",
+      "category": "Enquête",
+      "destination": "Ischia",
+      "region": "Italie",
+      "published": "2026-08-12",
+      "readingMinutes": 15,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/san-montano-resort-spa-ischia/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/san-montano-resort-spa-ischia/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/sm-piscine-inf.jpg"
     },
     {
       "slug": "week-end-spa-france",

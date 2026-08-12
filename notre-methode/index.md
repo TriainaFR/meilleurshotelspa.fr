@@ -114,6 +114,7 @@ avec un article, c'est le tableau ci-dessous qui prime.
 | Indice Accessibilité | /5 | Facilité d'accès réelle à la séance : prix, horaires, réservation | [Bain froid à Paris](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/) |
 | Indice Vue | /5 | Altitude du plancher, amplitude du panorama, nombre de chambres concernées | [Shangri-La The Shard](https://www.lesmeilleurshotelspa.fr/avis/shangri-la-the-shard-londres/) |
 | Indice Immersion | /5 | Degré de fusion entre l'hôtel et son territoire, jusqu'à l'effacement de la frontière | [Monteverdi Tuscany](https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/) |
+| Indice Dolce Vita | /5 | Cinq marqueurs : ancrage insulaire, part du dehors, souplesse du rythme, table régionale, exploitation indépendante | [San Montano, Ischia](https://www.lesmeilleurshotelspa.fr/avis/san-montano-resort-spa-ischia/) |
 | Indice Desserte | /5 | Ce qu'une route maritime dessert réellement : fret, îles habitées, débarquement, rareté | [Aranui 2028](https://www.lesmeilleurshotelspa.fr/destinations/croisiere-polynesie-aranui-2028/) |
 | Indice Dépaysement | /5 | Capacité du bateau, propulsion, itinéraire hors sites majeurs, nuits au mouillage, densité du programme | [Croisières sur le Nil](https://www.lesmeilleurshotelspa.fr/destinations/croisieres-egypte-nil/) |
 | Indice Saisonnalité | ratio | Rapport entre le prix de basse saison et celui de haute saison. Plus il est bas, plus il devient rentable de décaler son séjour | [Charme sur la Côte d'Azur](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/) |
@@ -123,7 +124,7 @@ avec un article, c'est le tableau ci-dessous qui prime.
 | Score Récupération | /10 | Quatre critères à parts égales, dont la température de l'eau relevée au thermomètre à ± 0,5 °C | [Bain froid à Paris](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/) |
 | Score d'anticipation | /10 | Note d'avant-ouverture, remplacée par un vrai score après notre première nuit | [Ouvertures Paris](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-paris-2026/), [Ouvertures France](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-france-automne-2026/) |
 
-Vingt-huit indicateurs, dont vingt-trois sur 5. Les cinq exceptions notées
+Vingt-neuf indicateurs, dont vingt-quatre sur 5. Les cinq exceptions notées
 sur 10, en Sardaigne, sur le bain froid et sur les ouvertures, sont antérieures à la règle
 et seront ramenées sur 5 à leur prochaine mise à jour. **Deux renommages ont été
 opérés le 12 août 2026** pour respecter la règle du nom unique : l'« indice charme »
