@@ -2,7 +2,7 @@
 
 > Les 10 meilleurs hôtels de charme de Bretagne classés par LMHS : Castelbrac, Rochevilaine, Le Brittany. Scores sur 10, indice breton, prix et bémols.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-11 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-12 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -429,7 +429,7 @@ réserver.
 
 - [Hôtels de charme en Normandie : 10 maisons classées](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/), l'autre côte du nord-ouest
 
-- [Hôtels de charme en Alsace : 11 adresses classées](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/), la région où le charme tient au bâti plutôt qu'au littoral
+- [Hôtels de charme en Alsace : 14 adresses classées](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/), la région où le charme tient au bâti plutôt qu'au littoral
 
 - [Château du Portereau : l'hôtel 4 étoiles qui réinvente Nantes](https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/), juste au sud de la frontière bretonne historique
 
@@ -448,7 +448,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 27 juillet 2026
 
-Dernière mise à jour : 11 août 2026
+Dernière mise à jour : 12 août 2026
 
 Meilleurs.
 

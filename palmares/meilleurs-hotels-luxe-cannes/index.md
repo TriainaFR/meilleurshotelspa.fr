@@ -2,7 +2,7 @@
 
 > Les 8 meilleurs hôtels de luxe de Cannes classés par le score LMHS : Carlton, Martinez, Majestic, Belle Plage. Indice Croisette, spas, plages privées.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-11 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-12 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -299,7 +299,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 31 juillet 2026
 
-Dernière mise à jour : 11 août 2026
+Dernière mise à jour : 12 août 2026
 
 Meilleurs.
 

@@ -1,20 +1,20 @@
-# Hôtel de charme en Alsace : 11 adresses classées en 2026
+# Hôtel de charme en Alsace : 14 adresses classées en 2026
 
-> Onze hôtels de charme en Alsace classés par la grille LMHS Destination et l'Indice Charme Alsacien, de la Route des Vins aux Vosges. Prix, spas, tables étoilées.
+> Quatorze hôtels de charme en Alsace classés par le Protocole LMHS et la grille Destination, de la Route des Vins à Strasbourg. Prix, spas, tables étoilées.
 
 URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-12 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
-Sélection LMHS de onze hôtels de charme en Alsace, publiée le 12 août 2026. Deux échelles cohabitent et ne se convertissent pas. Deux maisons déjà visitées par la rédaction gardent leur note au Protocole LMHS sur 20, reprise à l'identique : La Cheneaudière et Spa à Colroy-la-Roche 18,6 sur 20, premier hôtel avec spa privatif de notre classement national, et 48° Nord à Breitenbach 16,2 sur 20. Les neuf autres, non visitées, sont notées à la grille LMHS Destination sur 10 sur données publiques : Le Chambard à Kaysersberg 9,4, Villa René Lalique à Wingen-sur-Moder 9,2, L'Esquisse MGallery à Colmar 8,9, Hôtel des Berges à Illhaeusern 8,7, La Source des Sens à Morsbronn-les-Bains 8,4, Cour du Corbeau MGallery à Strasbourg 8,2, YONA à Obernai 8,0, Maison Rouge Autograph Collection à Strasbourg 7,6, Le Moulin de l'Illwald à Sélestat 7,4. Chaque adresse porte un Indice Charme Alsacien sur 5 fondé sur cinq marqueurs vérifiables : le bâti, l'ancrage territorial, la table régionale, l'échelle de la maison et l'inscription du spa dans le registre local. Faits vérifiés au guide MICHELIN 2026 : l'Alsace compte 34 restaurants étoilés et six tables à deux étoiles, dont La Table d'Olivier Nasti au Chambard, la Villa René Lalique de Paul Stradner, JY'S de Jean-Yves Schillinger à L'Esquisse et l'Auberge de l'Ill de Marc Haeberlin. Aucune nouvelle étoile en 2026, et aucune table alsacienne à trois étoiles depuis 2019, quand l'Auberge de l'Ill a perdu la sienne après 51 ans. Prix d'appel de 139 à 1 320 euros la nuit.
+Sélection LMHS de quatorze hôtels de charme en Alsace, publiée le 12 août 2026 et complétée le même jour. Deux échelles cohabitent et ne se convertissent pas. Cinq maisons déjà visitées par la rédaction gardent leur note au Protocole LMHS sur 20, reprise à l'identique : La Cheneaudière et Spa à Colroy-la-Roche 18,6 sur 20, premier hôtel avec spa privatif du classement national, 48° Nord à Breitenbach 16,2 sur 20, l'Hôtel et Spa Le Bouclier d'Or à Strasbourg 13,6 sur 20 et son spa traditionnel alsacien en Petite France, le Château de l'Île à Ostwald 13,4 sur 20 sur un bras de l'Ill, et Les Haras à Strasbourg 13,1 sur 20 dans l'ancien haras royal du XVIIIe siècle. Toutes les adresses alsaciennes déjà notées par le média figurent donc dans ce classement régional. Les neuf autres, non visitées, sont notées à la grille LMHS Destination sur 10 sur données publiques : Le Chambard à Kaysersberg 9,4, Villa René Lalique à Wingen-sur-Moder 9,2, L'Esquisse MGallery à Colmar 8,9, Hôtel des Berges à Illhaeusern 8,7, La Source des Sens à Morsbronn-les-Bains 8,4, Cour du Corbeau MGallery à Strasbourg 8,2, YONA à Obernai 8,0, Maison Rouge Autograph Collection à Strasbourg 7,6, Le Moulin de l'Illwald à Sélestat 7,4. Chaque adresse porte un Indice Charme Alsacien sur 5 fondé sur cinq marqueurs vérifiables : le bâti, l'ancrage territorial, la table régionale, l'échelle de la maison et l'inscription du spa dans le registre local. Faits vérifiés au guide MICHELIN 2026 : l'Alsace compte 34 restaurants étoilés et six tables à deux étoiles, dont La Table d'Olivier Nasti au Chambard, la Villa René Lalique de Paul Stradner, JY'S de Jean-Yves Schillinger à L'Esquisse et l'Auberge de l'Ill de Marc Haeberlin. Aucune nouvelle étoile en 2026, et aucune table alsacienne à trois étoiles depuis 2019, quand l'Auberge de l'Ill a perdu la sienne après 51 ans. Prix d'appel de 139 à 1 320 euros la nuit.
 
 ---
 Palmarès régional · Données propriétaires LMHS
 
 Une cour Renaissance de 1528 à Strasbourg, une villa de maître verrier à six suites, un
-ancien moulin à grains, quatorze cabanes scandinaves sur un versant vosgien. Onze maisons
+ancien moulin à grains, quatorze cabanes scandinaves sur un versant vosgien. Quatorze maisons
 classées sur ce qui fait réellement le charme alsacien, et non sur le nombre d'étoiles
-de leur enseigne.
+de leur enseigne. Toutes celles que nous avons déjà notées en Alsace y figurent.
 
 Par [**Lucas Lecoq**](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/), rédacteur en chef
 ✺
@@ -26,7 +26,7 @@ La cour de l'hôtel Cour du Corbeau à Strasbourg, hostellerie de 1528. Les
 poteaux sculptés, les coursives de bois et les pavés sont d'origine : c'est cela, l'Indice
 Charme Alsacien à 4,6/5. Photo : Cour du Corbeau, site officiel.
 
-## TL;DR : l'essentiel · Deux maisons visitées, neuf documentées, une seule région
+## TL;DR : l'essentiel · Cinq maisons visitées, neuf documentées, une seule région
 
 1. **La Cheneaudière & Spa**, Colroy-la-Roche, **18,6/20** au Protocole LMHS :
 c'est **le premier hôtel avec spa privatif de notre classement national**,
@@ -39,6 +39,11 @@ MICHELIN 2026**.
 3. **Le Moulin de l'Illwald**, Sélestat, **7,4/10** : **139 € la nuit**
 pour un moulin à grains du XVIIIe en lisière de forêt. Le meilleur ticket
 d'entrée de cette page.
+
+4. **Trois strasbourgeoises déjà visitées** complètent le tableau, reprises de notre
+palmarès national : **Le Bouclier d'Or 13,6/20** et son spa traditionnel
+alsacien en Petite France, le **Château de l'Île 13,4/20** sur son bras de
+rivière, et **Les Haras 13,1/20** dans l'ancien haras royal.
 
 **Le fait qui cadre toute la page :** l'Alsace compte
 **34 restaurants étoilés** au guide MICHELIN 2026, dont **six tables à
@@ -72,21 +77,25 @@ de cent trente et une, quelle que soit sa décoration.
 régionaux. Un spa générique ne compte pas comme du charme.
 
 **Deux échelles cohabitent dans le tableau, et elles ne se convertissent pas.**
-Deux de ces maisons ont été visitées anonymement par la rédaction et gardent la note publiée
-dans notre sélection nationale des hôtels avec spa privatif, au
+Cinq de ces maisons ont été visitées anonymement par la rédaction et gardent la note publiée
+dans notre sélection nationale des hôtels avec spa privatif ou dans notre palmarès des
+cinquante meilleurs hôtels et spas de France, au
 **Protocole LMHS sur 20**, qui suppose une nuit payée. Les neuf autres n'ont pas
 été visitées et relèvent de la **grille Destination sur 10**, établie sur
 données publiques. Nous ne recalculons rien et nous ne mélangeons pas les deux dans un
 classement unique. Le détail des grilles est dans [notre méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/).
 
-## Le tableau : onze adresses, deux *échelles*, de 139 à 1 320 €
+## Le tableau : quatorze adresses, deux *échelles*, de 139 à 1 320 €
 
-### Les deux maisons visitées, au Protocole LMHS sur 20
+### Les cinq maisons visitées, au Protocole LMHS sur 20
 
 | Établissement | Commune | Protocole LMHS | Indice Charme | Nuit dès | Le signe distinctif |
 | --- | --- | --- | --- | --- | --- |
 | La Cheneaudière & Spa | Colroy-la-Roche | 18,6/20 | 4,7/5 | 420 € | Bain nordique privatif en suite, face aux Vosges |
 | 48° Nord | Breitenbach | 16,2/20 | 3,9/5 | 350 € | 14 hyttes scandinaves en site Natura 2000 |
+| Hôtel & Spa Le Bouclier d'Or | Strasbourg | 13,6/20 | 4,7/5 | 240 € | Spa traditionnel alsacien, en Petite France |
+| Château de l'Île | Ostwald | 13,4/20 | 4,4/5 | 280 € | Château privatif sur une île de l'Ill |
+| Les Haras | Strasbourg | 13,1/20 | 4,3/5 | 220 € | Haras royal du XVIIIe, spa design |
 
 ### Les neuf autres, à la grille LMHS Destination sur 10
 
@@ -102,10 +111,12 @@ classement unique. Le détail des grilles est dans [notre méthode](https://www.
 | 08 | Maison Rouge Autograph Collection | Strasbourg | 5 étoiles | 7,6/10 | 3,6/5 | 187 à 450 € |
 | 09 | Le Moulin de l'Illwald | Sélestat | 3 étoiles | 7,4/10 | 4,2/5 | 139 à 280 € |
 
-Notes de La Cheneaudière et de 48° Nord reprises à l'identique de notre
-sélection nationale des hôtels avec spa privatif, sans recalcul, avec leurs tarifs publiés.
-Les neuf autres notes relèvent de la grille Destination, sur données publiques, sans visite,
-et ne se comparent pas aux notes sur 20. Fourchettes de prix relevées en août 2026.
+Les cinq notes sur 20 sont reprises à l'identique, sans recalcul, avec
+leurs tarifs publiés : La Cheneaudière et 48° Nord de notre sélection nationale des hôtels
+avec spa privatif, Le Bouclier d'Or, le Château de l'Île et Les Haras de notre palmarès des
+50 meilleurs hôtels et spas de France, où ils occupent les rangs 37, 39 et 42. Les neuf
+autres notes relèvent de la grille Destination, sur données publiques, sans visite, et ne se
+comparent pas aux notes sur 20. Fourchettes de prix relevées en août 2026.
 
 ## Route des Vins : les maisons qui portent la *gastronomie*
 
@@ -281,6 +292,8 @@ Morsbronn-les-Bains, à 30 min de Strasbourg ·
 
 ## Strasbourg, Colmar, Obernai : le charme en *ville*
 
+Strasbourg concentre à elle seule quatre adresses de cette page, dont trois que nous avons visitées. C'est la densité la plus forte de la région, et elle s'explique : le bâti y est ancien, dense et protégé, ce que l'Indice Charme Alsacien récompense mécaniquement.
+
 06
 
 ### Cour du Corbeau MGallery, Strasbourg 8,2/10
@@ -373,6 +386,74 @@ On paie ici une localisation et une enseigne, pas une maison de charme.
 150 m² · Autograph Collection · Place Kléber ·
 [Site officiel →](https://www.maison-rouge.com/)
 
+12
+
+### Hôtel & Spa Le Bouclier d'Or, Strasbourg 13,6/20
+
+**Pour qui :** la seule maison de cette page dont le spa est lui-même
+alsacien de registre. Indice Charme 4,7/5, le meilleur du trio strasbourgeois.
+
+En pleine **Petite France**, dans une maison du XVIe siècle,
+Le Bouclier d'Or est classé **37e de notre palmarès des cinquante
+meilleurs hôtels et spas de France**, à 13,6/20 après visite. Son argument tient
+en une ligne que peu d'établissements peuvent écrire : le spa n'y est pas un module
+importé, c'est un **spa traditionnel alsacien**, cohérent avec les pierres
+qui l'abritent. À 240 € la nuit, c'est aussi l'un des meilleurs rapports de cette
+sélection en centre-ville.
+
+Le bémol LMHS : 13,6/20 au Protocole reste une note moyenne à
+l'échelle nationale, et la maison est petite, en plein secteur le plus fréquenté de
+Strasbourg. L'été et pendant le marché de Noël, la Petite France est un couloir.
+
+Protocole LMHS 13,6/20, visite anonyme · Dès 240 € · Maison du
+XVIe · Spa traditionnel alsacien · Petite France ·
+[Site officiel →](https://www.lebouclierdor.com/)
+
+13
+
+### Château de l'Île, Ostwald 13,4/20
+
+**Pour qui :** Strasbourg sans Strasbourg. Un parc, une rivière, et le
+centre à un quart d'heure.
+
+À Ostwald, aux portes de la ville, le château occupe une
+**île sur un bras de l'Ill**, dans un parc que la rivière ferme de tous
+côtés. C'est ce qui lui vaut son point fort dans notre palmarès national, où il est
+classé **39e avec 13,4/20** : un
+**château réellement privatif**, avec son spa, à une distance du centre qui
+se fait en tram. Colombages, toitures pentues et vastes pelouses composent un décor
+alsacien de manuel, à 280 € la nuit.
+
+Le bémol LMHS : la maison vit beaucoup du séminaire et de
+l'événementiel, ce qui se sent en semaine. Et à Ostwald, on dépend de la voiture ou du
+tram pour tout ce qui n'est pas sur place.
+
+Protocole LMHS 13,4/20, visite anonyme · Dès 280 € · Château sur une île
+de l'Ill · Spa · Ostwald, aux portes de Strasbourg ·
+[Site officiel →](https://www.chateau-ile.com/)
+
+14
+
+### Les Haras, Strasbourg 13,1/20
+
+**Pour qui :** le bâtiment le plus inattendu de cette page, et le tarif
+d'entrée le plus bas des adresses visitées.
+
+C'est l'**ancien haras royal de Strasbourg, fondé au XVIIIe
+siècle**, reconverti en hôtel sans que la fonction d'origine soit effacée : les
+volumes d'écurie, la charpente et la cour restent lisibles, et le spa y a été installé
+dans un vocabulaire résolument contemporain. Classé **42e de notre
+palmarès national avec 13,1/20**, à **220 € la nuit**, c'est
+l'adresse visitée la plus abordable de cette sélection.
+
+Le bémol LMHS : l'Indice Charme s'arrête à 4,3/5 parce que le
+traitement intérieur, très design, prend le pas sur le bâti. Le spa est petit au regard
+de l'ampleur du lieu, et l'établissement accueille beaucoup de clientèle d'affaires.
+
+Protocole LMHS 13,1/20, visite anonyme · Dès 220 € · Ancien haras royal
+du XVIIIe · Spa design · Strasbourg ·
+[Site officiel →](https://www.les-haras-hotel.com/)
+
 ## Le mot de Lucas · La meilleure adresse alsacienne n'est pas sur la Route des Vins
 
 Toutes les
@@ -411,8 +492,8 @@ format du séjour qui vous intéresse, notre page
 [week-end spa en France](https://www.lesmeilleurshotelspa.fr/destinations/week-end-spa-france/) chiffre ce que deux nuits
 coûtent réellement.
 
-**Pour le charme, au sens strict.** Trois adresses passent 4,6/5 :
-la Villa René Lalique, Le Chambard et la Cour du Corbeau. Elles n'ont ni le même prix ni le
+**Pour le charme, au sens strict.** Quatre adresses passent 4,6/5 :
+la Villa René Lalique, Le Chambard, la Cour du Corbeau et Le Bouclier d'Or. Elles n'ont ni le même prix ni le
 même format, mais elles partagent la seule chose que l'indice mesure vraiment, un bâtiment
 qui existait avant l'hôtel.
 
@@ -502,11 +583,14 @@ correspondent à la réalité et que les tables se réservent à quinze jours.
 
 ## Méthode et *sources*
 
-Onze maisons alsaciennes, classées selon deux instruments distincts qui ne se
-convertissent pas. **Deux d'entre elles ont été visitées anonymement**, nuit et
-prestations payées par la rédaction, et conservent la note publiée dans notre sélection
-nationale des hôtels avec spa privatif, au Protocole LMHS sur 20 : La Cheneaudière 18,6/20
-et 48° Nord 16,2/20. **Les neuf autres n'ont pas été visitées** et relèvent de
+Quatorze maisons alsaciennes, classées selon deux instruments distincts qui ne se
+convertissent pas. **Cinq d'entre elles ont été visitées anonymement**, nuit et
+prestations payées par la rédaction, et conservent leur note au Protocole LMHS sur 20 :
+La Cheneaudière 18,6/20 et 48° Nord 16,2/20, reprises de notre sélection nationale des
+hôtels avec spa privatif, ainsi que Le Bouclier d'Or 13,6/20, le Château de l'Île 13,4/20
+et Les Haras 13,1/20, repris de notre palmarès des cinquante meilleurs hôtels et spas de
+France. Toutes les adresses alsaciennes déjà notées par Meilleurs. figurent désormais dans
+ce classement régional. **Les neuf autres n'ont pas été visitées** et relèvent de
 la grille LMHS Destination sur 10, établie sur données publiques, doublée de l'Indice Charme
 Alsacien sur 5 et de ses cinq marqueurs. Aucune note antérieure n'a été recalculée. Les
 distinctions du guide MICHELIN, le nombre de tables étoilées d'Alsace et la perte de la
@@ -517,8 +601,8 @@ relevées en août 2026 sur les sites officiels des établissements.
 même date, hors haute saison et hors marchés de Noël. Aucun partenariat commercial, aucune
 affiliation, aucun séjour offert.
 
-11 adresses
-2 visitées, 9 documentées
+14 adresses
+5 visitées, 9 documentées
 0 note recalculée
 0 partenariat
 

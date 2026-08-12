@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-11 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-12 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -19,7 +19,7 @@ Le sommaire
 
 Palmarès12 août 2026
 
-### Hôtel de charme en Alsace : 11 adresses classées, du colombage à la hytte
+### Hôtel de charme en Alsace : 14 adresses classées, du colombage à la hytte
 
 Alsace · 18 min de lecture
 

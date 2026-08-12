@@ -16,7 +16,7 @@ Conformément à la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'�
 
 La rédaction de **Meilleurs.**
 ✺
-Mise à jour le 11 août 2026
+Mise à jour le 12 août 2026
 
 ## Éditeur du *site*
 

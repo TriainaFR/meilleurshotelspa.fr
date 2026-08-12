@@ -2,7 +2,7 @@
 
 > Comment Meilleurs. note les hôtels et les spas : le Protocole LMHS sur 20, la grille Destination sur 10, critères, pondérations et indépendance.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/notre-methode/ · Dernière mise à jour : 2026-08-11 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/notre-methode/ · Dernière mise à jour : 2026-08-12 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -17,7 +17,7 @@ comment nos scores sont fabriqués.
 
 La rédaction de **Meilleurs.**
 ✺
-Mise à jour le 11 août 2026
+Mise à jour le 12 août 2026
 
 ## TL;DR : l'essentiel · Trois instruments, jamais interchangeables
 
@@ -70,13 +70,67 @@ Quand nous consacrons un article entier à un établissement, la logique du clas
 
 Un axe revient toujours : le **rapport prix-expérience**. C'est celui qui fait le plus souvent baisser la note globale, et c'est volontaire, une adresse exceptionnelle vendue trop cher reste une adresse vendue trop cher. Voir notre [avis sur le Cheval Blanc Paris](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/), où cet axe pèse quatre points de moins que les autres.
 
-### Nos indices propriétaires
+## Le catalogue de nos *indices* thématiques
 
-Deux indicateurs complètent la grille Destination lorsque le sujet s'y prête :
+Un score seul ne dit pas pourquoi une adresse arrive en tête. C'est le rôle de l'indice
+thématique : **un indicateur par classement, noté sur 5, qui mesure une seule chose,
+celle qui fait le sujet de la page**. Il ne se substitue jamais à la note principale,
+il l'explique. Trois règles le gouvernent :
 
-- **L'indice charme**, le rapport entre le prix de la basse saison et celui de la haute saison. Plus il est bas, plus l'écart est brutal, et plus il devient rentable de décaler son séjour. Employé dans notre [palmarès des hôtels de charme de la Côte d'Azur](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/).
+- **Il est défini là où il est employé.** Chaque article qui publie un
+indice en donne les marqueurs, dans le corps du texte, avant le tableau.
 
-- **L'indice accessibilité**, le prix plancher constaté en basse saison, qui sert à départager les adresses à score voisin. Employé dans notre [sélection des hôtels 4 étoiles à Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-paris/).
+- **Un nom, un instrument.** Deux indices ne peuvent pas porter le même nom
+pour mesurer deux choses différentes, et une même mesure ne prend pas deux noms selon
+l'article.
+
+- **Il ne se convertit pas.** Un 4,8/5 d'ancrage territorial et un 4,8/5 de
+prestige patrimonial ne se comparent pas entre eux, et aucun ne se convertit dans une note
+sur 10 ou sur 20.
+
+Voici l'état complet du catalogue au 12 août 2026. Cette page fait foi : en cas d'écart
+avec un article, c'est le tableau ci-dessous qui prime.
+
+| Indice | Échelle | Ce qu'il mesure | Employé dans |
+| --- | --- | --- | --- |
+| Indice Palace | /5 | La distinction Palace en vigueur et ce qui la fonde | [5 étoiles en France](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/) |
+| Indice Prestige Paris | /5 | Prestige réel indépendant du confort : distinction, ancienneté, emplacement, rayonnement | [Luxe à Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/) |
+| Indice Prestige Patrimonial | /5 | Qualité de la reconversion d'un monument en hôtel : cohérence, authenticité, lisibilité de l'histoire | [Villa Florentine](https://www.lesmeilleurshotelspa.fr/avis/villa-florentine-lyon/), [Château Saint-Jean](https://www.lesmeilleurshotelspa.fr/avis/chateau-saint-jean-montlucon/), [Château du Portereau](https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/) |
+| Indice Azur | /5 | Ce que l'adresse doit réellement à la Riviera | [Luxe à Nice](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/) |
+| Indice Croisette | /5 | Position et accès réels sur le front de mer cannois | [Luxe à Cannes](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/) |
+| Indice provençal | /5 | Ancrage territorial réel : bâti, produits, savoir-faire locaux | [Charme en Provence](https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/) |
+| Indice basque | /5 | Marqueurs basques vérifiables : colombage, rouge signature, table, partenariats locaux | [Biarritz](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-biarritz/) |
+| Indice marseillais | /5 | Ancrage phocéen du lieu et de sa table | [Marseille](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-marseille/) |
+| Indice breton | /5 | Singularité bretonne d'une maison : architecture, ancrage, récit | [Charme en Bretagne](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/) |
+| Indice Héritage Normand | /5 | Continuité entre le bâti normand et l'usage hôtelier actuel | [Charme en Normandie](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/) |
+| Indice Charme Alsacien | /5 | Cinq marqueurs : le bâti, l'ancrage, la table régionale, l'échelle de la maison, le spa en registre local | [Charme en Alsace](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/) |
+| Indice gastronomique | /5 | Ancrage culinaire lyonnais, bouchon ou table intégrée | [Lyon](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-lyon/) |
+| Indice vin | /5 | Ancrage viticole réel : cave, vignoble, dégustation, personnel formé | [Bordeaux](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-bordeaux/) |
+| Indice Romantisme | /5 | Intimité, calme, vue, dispositifs pensés pour deux | [Paris](https://www.lesmeilleurshotelspa.fr/hotel-romantique-paris/), [Lyon](https://www.lesmeilleurshotelspa.fr/hotel-romantique-lyon/), [Bordeaux](https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-bordeaux/) |
+| Indice Plage | /5 | Longueur et largeur de sable, qualité du lagon, exposition au vent, accès privatif, densité de transats | [Île Maurice](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/) |
+| Indice Atlantique | /5 | Rapport réel du centre à l'océan : accès, eau de mer, exposition | [Thalasso en Bretagne](https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/) |
+| Indice Hammam | /5 | Cinq marqueurs publics : métier de la maison, rituel complet, parcours d'eau, température, accès | [Hammam à Lyon](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-lyon/) |
+| Indice accessibilité spa | /5 | Ouverture réelle du spa aux non-résidents : tarif, périmètre, horaires, réservation | [Spas de palaces à Paris](https://www.lesmeilleurshotelspa.fr/hotel-luxe-avec-spa-paris/) |
+| Indice Accessibilité | /5 | Facilité d'accès réelle à la séance : prix, horaires, réservation | [Bain froid à Paris](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/) |
+| Indice Vue | /5 | Altitude du plancher, amplitude du panorama, nombre de chambres concernées | [Shangri-La The Shard](https://www.lesmeilleurshotelspa.fr/avis/shangri-la-the-shard-londres/) |
+| Indice Immersion | /5 | Degré de fusion entre l'hôtel et son territoire, jusqu'à l'effacement de la frontière | [Monteverdi Tuscany](https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/) |
+| Indice Desserte | /5 | Ce qu'une route maritime dessert réellement : fret, îles habitées, débarquement, rareté | [Aranui 2028](https://www.lesmeilleurshotelspa.fr/destinations/croisiere-polynesie-aranui-2028/) |
+| Indice Dépaysement | /5 | Capacité du bateau, propulsion, itinéraire hors sites majeurs, nuits au mouillage, densité du programme | [Croisières sur le Nil](https://www.lesmeilleurshotelspa.fr/destinations/croisieres-egypte-nil/) |
+| Indice Saisonnalité | ratio | Rapport entre le prix de basse saison et celui de haute saison. Plus il est bas, plus il devient rentable de décaler son séjour | [Charme sur la Côte d'Azur](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/) |
+| Indice buzz | /5 | Traction médiatique et rareté de la proposition, avant ouverture. Mesure un potentiel, pas une prestation | [Ouvertures Paris](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-paris-2026/), [Ouvertures France](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-france-automne-2026/) |
+| Indice Exclusivité | /10 | Rareté de l'expérience : nombre de clés, accès privatifs, degré de sélection | [Sardaigne](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/) |
+| Score Authenticité sarde | /10 | Ancrage sarde du bâti, de la table et du personnel | [Sardaigne](https://www.lesmeilleurshotelspa.fr/sardaigne/meilleurs-hotels-5-etoiles/) |
+| Score Récupération | /10 | Quatre critères à parts égales, dont la température de l'eau relevée au thermomètre à ± 0,5 °C | [Bain froid à Paris](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/) |
+| Score d'anticipation | /10 | Note d'avant-ouverture, remplacée par un vrai score après notre première nuit | [Ouvertures Paris](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-paris-2026/), [Ouvertures France](https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-france-automne-2026/) |
+
+Vingt-huit indicateurs, dont vingt-trois sur 5. Les cinq exceptions notées
+sur 10, en Sardaigne, sur le bain froid et sur les ouvertures, sont antérieures à la règle
+et seront ramenées sur 5 à leur prochaine mise à jour. **Deux renommages ont été
+opérés le 12 août 2026** pour respecter la règle du nom unique : l'« indice charme »
+de la Côte d'Azur, qui mesurait un écart de prix saisonnier et non du charme, devient
+l'**Indice Saisonnalité** ; l'« Indice Patrimoine Vivant » du Château du
+Portereau rejoint l'**Indice Prestige Patrimonial**, qui mesure exactement la
+même chose sur deux autres avis. Les valeurs n'ont pas bougé.
 
 ## Ce que nous nous *interdisons*
 

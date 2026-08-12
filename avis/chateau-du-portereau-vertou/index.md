@@ -2,11 +2,11 @@
 
 > À Vertou, aux portes de Nantes, le Château du Portereau conjugue cinq siècles d'histoire, gastronomie de chef et spa dans un domaine de 3 hectares. Notre avis LMHS.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-11 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-12 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
-Avis expert LMHS sur le Château du Portereau, hôtel 4 étoiles à Vertou (Nantes) : 26 chambres, restaurant L'Attilio (chef formé chez Robuchon), Shaman Spa, domaine 3 hectares. Score LMHS 9,1/10, Indice Patrimoine Vivant 4,8/5. Ouvert le 12 mai 2026 au Portereau, 44120 Vertou, à quinze minutes du centre de Nantes, en Loire-Atlantique, après une transformation de près de 10 millions d'euros par le groupe angevin Ben Touch. Cinq siècles d'histoire : rendez-vous de chasse de la famille Lefèvre-Utile, créatrice des biscuits LU, puis propriété des missionnaires montfortains, puis siège social de Maisons du Monde jusqu'en 2024. 26 chambres en cinq catégories de 16 à 37 m², dont 12 dans le château et 14 dans Le Pavillon, ancienne écurie, plus un cottage pour dix personnes, décoration du studio parisien Kraft Places. Restaurant L'Attilio Vertou dirigé par Attilio Marrazzo, formé au Four Seasons Milan puis chez Joël Robuchon, avec Giulio Ierace comme chef exécutif, dans l'ancienne chapelle des montfortains dont le plafond est signé Olivia de Bona. Shaman Spa ouvert tous les jours de 10h à 19h : jacuzzi extérieur, hammam, sauna, tisanerie, solarium, deux cabines réunissables en cabine double, produits Omnisens, espace détente limité à 6 personnes sur réservation par créneaux de 60 minutes, 40 euros pour les clients extérieurs, soins de 55 à 165 euros. Orangerie de 200 m² jusqu'à 400 personnes, guinguette saisonnière au bord de la Sèvre, piscine extérieure chauffée. Avis documentaire établi sans séjour de contrôle.
+Avis expert LMHS sur le Château du Portereau, hôtel 4 étoiles à Vertou (Nantes) : 26 chambres, restaurant L'Attilio (chef formé chez Robuchon), Shaman Spa, domaine 3 hectares. Score LMHS 9,1/10, Indice Prestige Patrimonial 4,8/5. Ouvert le 12 mai 2026 au Portereau, 44120 Vertou, à quinze minutes du centre de Nantes, en Loire-Atlantique, après une transformation de près de 10 millions d'euros par le groupe angevin Ben Touch. Cinq siècles d'histoire : rendez-vous de chasse de la famille Lefèvre-Utile, créatrice des biscuits LU, puis propriété des missionnaires montfortains, puis siège social de Maisons du Monde jusqu'en 2024. 26 chambres en cinq catégories de 16 à 37 m², dont 12 dans le château et 14 dans Le Pavillon, ancienne écurie, plus un cottage pour dix personnes, décoration du studio parisien Kraft Places. Restaurant L'Attilio Vertou dirigé par Attilio Marrazzo, formé au Four Seasons Milan puis chez Joël Robuchon, avec Giulio Ierace comme chef exécutif, dans l'ancienne chapelle des montfortains dont le plafond est signé Olivia de Bona. Shaman Spa ouvert tous les jours de 10h à 19h : jacuzzi extérieur, hammam, sauna, tisanerie, solarium, deux cabines réunissables en cabine double, produits Omnisens, espace détente limité à 6 personnes sur réservation par créneaux de 60 minutes, 40 euros pour les clients extérieurs, soins de 55 à 165 euros. Orangerie de 200 m² jusqu'à 400 personnes, guinguette saisonnière au bord de la Sèvre, piscine extérieure chauffée. Avis documentaire établi sans séjour de contrôle.
 
 ---
 Avis d'établissement · Fiche LMHS
@@ -44,7 +44,7 @@ sauna, tisanerie et deux cabines réunissables en cabine double, avec une piscin
 extérieure chauffée dans le parc.
 
 **Score LMHS : 9,1/10**, moyenne de cinq axes de poids égal détaillée
-dans notre verdict. **Indice Patrimoine Vivant : 4,8/5.**
+dans notre verdict. **Indice Prestige Patrimonial : 4,8/5.**
 
 ## Cinq siècles d'histoire pour un hôtel *d'exception*
 
@@ -66,7 +66,7 @@ Photo : Château du Portereau, site officiel.
 
 La verrière monumentale posée sur la façade, monogramme « C » et « P » entrelacés, abrite la réception et le grand escalier. Depuis l'étage, la vue embrasse l'ensemble du domaine : jardins soignés, fontaine, piscine, espaces de détente. Un **cottage pour dix personnes** complète l'offre d'hébergement pour les groupes souhaitant une formule gîte.
 
-**Indice Patrimoine Vivant LMHS : 4,8/5.** Indice thématique propre à cette page, comme l'Indice Vue de notre avis londonien. Justification : authenticité architecturale préservée sur cinq siècles, cohérence décorative avec l'histoire LU et montfortaine, intégration paysagère dans le vignoble nantais, continuité historique assumée et lisible à chaque étape du domaine.
+**Indice Prestige Patrimonial LMHS : 4,8/5.** Indice thématique propre à cette page, comme l'Indice Vue de notre avis londonien. Justification : authenticité architecturale préservée sur cinq siècles, cohérence décorative avec l'histoire LU et montfortaine, intégration paysagère dans le vignoble nantais, continuité historique assumée et lisible à chaque étape du domaine.
 
 ## 26 chambres et suites : du cocon classique à la suite *prestige*
 
@@ -131,7 +131,7 @@ Carte des soins de l'établissement, relevée le 6 août 2026. À partir de
 
 ## Notre verdict *LMHS*
 
-**Score LMHS : 9,1/10. Indice Patrimoine Vivant LMHS : 4,8/5.** Le Château du Portereau réunit ce que peu d'hôtels de la région nantaise offrent simultanément : une excellence patrimoniale sur cinq siècles lisible dans l'architecture, une gastronomie de chef formé chez Robuchon, un spa complet avec piscine chauffée, et un domaine remarquable à un quart d'heure d'une métropole. **Pour qui ?** Les couples en week-end, les familles, les amateurs de patrimoine et de vignoble nantais, les gastronomes, les professionnels en séminaire.
+**Score LMHS : 9,1/10. Indice Prestige Patrimonial LMHS : 4,8/5.** Le Château du Portereau réunit ce que peu d'hôtels de la région nantaise offrent simultanément : une excellence patrimoniale sur cinq siècles lisible dans l'architecture, une gastronomie de chef formé chez Robuchon, un spa complet avec piscine chauffée, et un domaine remarquable à un quart d'heure d'une métropole. **Pour qui ?** Les couples en week-end, les familles, les amateurs de patrimoine et de vignoble nantais, les gastronomes, les professionnels en séminaire.
 
 Conformément à [notre méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/), la note d'un avis consacré à un seul établissement est la **moyenne simple de cinq axes de poids égal**. Vous pouvez la recalculer.
 
@@ -184,11 +184,11 @@ Avez-vous séjourné au Château du Portereau ?
 
 ## Méthode et *sources*
 
-Avis établi selon la fiche LMHS : cinq axes de poids égal (patrimoine et décor, chambres, restauration, spa et piscine, rapport prix-expérience), notés sur 10, dont la moyenne simple donne le score global. L'Indice Patrimoine Vivant, noté sur 5, est un indice thématique propre à cette page : authenticité architecturale, cohérence décorative avec l'histoire du lieu, intégration paysagère et continuité historique lisible. **Aucun séjour de contrôle n'a été effectué pour cet avis**, et nous ne prétendons pas le contraire : l'analyse repose sur les pages officielles de l'établissement, sur sa carte des soins, sur la fiche publiée par le groupe propriétaire Ben Touch et sur la presse économique régionale, relevées le 6 août 2026. Sont vérifiés et publiés : la superficie du domaine, la répartition 12 chambres au château et 14 au Pavillon, le cottage pour dix personnes, les cinq catégories de 16 à 37 m², l'ouverture le 12 mai 2026, l'investissement de près de 10 millions d'euros, les 200 m² et 400 personnes de l'Orangerie, l'intégralité de la grille tarifaire du Shaman Spa et ses conditions d'accès. **Aucun tarif d'hébergement n'est publié** par l'établissement, aucun n'est donc cité ici. Aucun partenariat commercial, aucune affiliation, aucun séjour offert. Photographies : Château du Portereau, site officiel.
+Avis établi selon la fiche LMHS : cinq axes de poids égal (patrimoine et décor, chambres, restauration, spa et piscine, rapport prix-expérience), notés sur 10, dont la moyenne simple donne le score global. L'Indice Prestige Patrimonial, noté sur 5, est un indice thématique propre à cette page : authenticité architecturale, cohérence décorative avec l'histoire du lieu, intégration paysagère et continuité historique lisible. **Aucun séjour de contrôle n'a été effectué pour cet avis**, et nous ne prétendons pas le contraire : l'analyse repose sur les pages officielles de l'établissement, sur sa carte des soins, sur la fiche publiée par le groupe propriétaire Ben Touch et sur la presse économique régionale, relevées le 6 août 2026. Sont vérifiés et publiés : la superficie du domaine, la répartition 12 chambres au château et 14 au Pavillon, le cottage pour dix personnes, les cinq catégories de 16 à 37 m², l'ouverture le 12 mai 2026, l'investissement de près de 10 millions d'euros, les 200 m² et 400 personnes de l'Orangerie, l'intégralité de la grille tarifaire du Shaman Spa et ses conditions d'accès. **Aucun tarif d'hébergement n'est publié** par l'établissement, aucun n'est donc cité ici. Aucun partenariat commercial, aucune affiliation, aucun séjour offert. Photographies : Château du Portereau, site officiel.
 
 Fiche LMHS · 5 axes égaux
 Score 9,1/10
-Indice Patrimoine Vivant 4,8/5
+Indice Prestige Patrimonial 4,8/5
 0 partenariat
 
 ### Sources utiles
@@ -230,7 +230,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 6 août 2026
 
-Dernière mise à jour : 11 août 2026
+Dernière mise à jour : 12 août 2026
 
 Meilleurs.
 

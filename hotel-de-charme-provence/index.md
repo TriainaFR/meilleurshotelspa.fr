@@ -2,7 +2,7 @@
 
 > Les 12 meilleurs hôtels de charme en Provence classés par LMHS : bastides, mas, couvents. Scores LMHS/10 + Indice provençal /5 pour chaque adresse.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-11 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-12 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -348,7 +348,7 @@ Indice provençal propriétaire
 
 - [Hôtels de charme en Bretagne : 10 maisons d'exception](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/)
 
-- [Hôtels de charme en Alsace : 11 adresses classées](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/), du colombage de Kaysersberg aux hyttes de Breitenbach
+- [Hôtels de charme en Alsace : 14 adresses classées](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/), du colombage de Kaysersberg aux hyttes de Breitenbach
 
 - [Hôtels de charme en Normandie : 10 maisons classées](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/), le même instrument appliqué de Honfleur au pays d'Auge
 
@@ -369,7 +369,7 @@ Rédacteur, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 11 août 2026
+Dernière mise à jour : 12 août 2026
 
 Meilleurs.
 

@@ -2,7 +2,7 @@
 
 > Le média français de référence des meilleurs hôtels, spas et destinations. Palmarès indépendants, guides et récits. Testé sur place, sans partenariat commercial.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/ · Dernière mise à jour : 2026-08-11 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/ · Dernière mise à jour : 2026-08-12 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -36,7 +36,7 @@ Les 14 dernières unes + dépêches
 
 Palmarès12 août 2026
 
-### Hôtel de charme en Alsace : 11 adresses classées, du colombage à la hytte
+### Hôtel de charme en Alsace : 14 adresses classées, du colombage à la hytte
 
 Alsace · 18 min de lecture
 
@@ -323,7 +323,7 @@ Nuit sur place, spa Dior à l'épreuve, addition décortiquée.
 
 Enquête, 17 min de lecture](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/)[Palmarès
 
-### Hôtel de charme en Alsace : 11 adresses classées, du colombage à la hytte
+### Hôtel de charme en Alsace : 14 adresses classées, du colombage à la hytte
 
 La meilleure adresse alsacienne n'est pas sur la Route des Vins, et presque aucun palmarès ne la cite.
 

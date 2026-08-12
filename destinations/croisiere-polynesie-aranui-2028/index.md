@@ -2,7 +2,7 @@
 
 > Aranui a ouvert ses ventes 2028 le 5 août 2026 : 23 départs aux Marquises sur l'Aranui 5, 23 sur l'Aranoa. Cinq itinéraires classés par l'Indice Desserte LMHS.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/croisiere-polynesie-aranui-2028/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-11 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/croisiere-polynesie-aranui-2028/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-12 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -501,7 +501,7 @@ Rédacteur hôtels et gastronomie, Meilleurs.
 
 Publié le 10 août 2026
 
-Dernière mise à jour : 11 août 2026
+Dernière mise à jour : 12 août 2026
 
 Meilleurs.
 
