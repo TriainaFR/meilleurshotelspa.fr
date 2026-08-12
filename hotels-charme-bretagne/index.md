@@ -429,6 +429,8 @@ réserver.
 
 - [Hôtels de charme en Normandie : 10 maisons classées](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/), l'autre côte du nord-ouest
 
+- [Hôtels de charme en Alsace : 11 adresses classées](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/), la région où le charme tient au bâti plutôt qu'au littoral
+
 - [Château du Portereau : l'hôtel 4 étoiles qui réinvente Nantes](https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/), juste au sud de la frontière bretonne historique
 
 - [Meilleure thalasso en Bretagne](https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/), 11 centres testés, l'autre facette de la côte
