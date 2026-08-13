@@ -2,7 +2,7 @@
 
 > Avis LMHS sur le Château Saint-Jean à Montluçon : commanderie templière du XIIe, 19 chambres, restaurant étoilé d'Olivier Valade et spa réservé aux résidents. Score 9,2/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/chateau-saint-jean-montlucon/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-12 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/chateau-saint-jean-montlucon/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-13 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -349,6 +349,8 @@ Sans séjour de contrôle
 
 - [Château du Portereau, avis](https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/), cinq siècles et un spa à quinze minutes de Nantes
 
+- [La Ferme Saint-Siméon, Honfleur](https://www.lesmeilleurshotelspa.fr/avis/ferme-saint-simeon-honfleur/), l'auberge où l'impressionnisme a commencé, au même exercice documentaire
+
 - [Week-end spa en France](https://www.lesmeilleurshotelspa.fr/destinations/week-end-spa-france/), 9 adresses et ce que deux nuits coûtent réellement
 
 - [Les 50 meilleurs hôtels & spas de France 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/), le palmarès national au Protocole LMHS
@@ -362,7 +364,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 11 août 2026
 
-Dernière mise à jour : 12 août 2026
+Dernière mise à jour : 13 août 2026
 
 Meilleurs.
 

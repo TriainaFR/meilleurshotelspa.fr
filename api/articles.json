@@ -6,7 +6,7 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-08-13",
-  "count": 46,
+  "count": 47,
   "articles": [
     {
       "slug": "thalasso-normandie",
@@ -19,6 +19,18 @@
       "url": "https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/",
       "markdown": "https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/index.md",
       "image": "https://www.lesmeilleurshotelspa.fr/images/nm-thalazur-cabourg.jpg"
+    },
+    {
+      "slug": "ferme-saint-simeon",
+      "title": "Ferme Saint-Siméon, avis : l'auberge où l'impressionnisme a commencé",
+      "category": "Enquête",
+      "destination": "Honfleur",
+      "region": "Normandie",
+      "published": "2026-08-13",
+      "readingMinutes": 15,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/ferme-saint-simeon-honfleur/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/ferme-saint-simeon-honfleur/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/ss-vue-ciel.jpg"
     },
     {
       "slug": "charme-alsace",

@@ -66,7 +66,7 @@ figurer dans un classement de thalasso reviendrait à noter un spa urbain sur un
 qu'il ne prétend pas remplir. La Ferme Saint-Siméon a d'ailleurs sa place ailleurs, et une
 bien meilleure : elle est classée **9,0/10 avec un Indice Héritage Normand de 5/5**,
 le seul maximum de la page, dans notre palmarès des
-[hôtels de charme en Normandie](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/).
+[hôtels de charme en Normandie](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/), et nous lui consacrons un [avis détaillé](https://www.lesmeilleurshotelspa.fr/avis/ferme-saint-simeon-honfleur/).
 
 ## Le tableau : dix adresses, de *Deauville* au pays de Bray
 

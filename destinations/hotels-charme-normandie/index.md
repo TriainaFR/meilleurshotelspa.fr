@@ -2,7 +2,7 @@
 
 > Dix hôtels de charme normands classés par le score LMHS et l'Indice Héritage Normand : Honfleur, Étretat, Cabourg, Giverny. Capacités et étoiles vérifiées.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-12 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-13 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -109,6 +109,8 @@ Le Botaniste, chef Didier Robin · Potager en permaculture · Indice Héritage N
 C'est la seule maison de cette page à obtenir **l'Indice Héritage Normand maximal, 5/5**, et ce n'est pas discutable : cette ferme du XVIIe siècle sur les hauteurs d'Honfleur est l'auberge où se retrouvaient **Boudin, Corot et Monet**, au moment où l'impressionnisme se cherchait un nom. Colombages, toit de chaume, vue sur l'estuaire de la Seine et sur les pommiers du jardin. **35 chambres**, 5 étoiles, Relais & Châteaux. Le **Spa Potager** est installé dans un ancien atelier d'artiste, et la maison tient deux tables : **Les Impressionnistes**, gastronomique, et le bistrot **La Boucane**.
 
 Le bémol LMHS : Honfleur en août est une ville saturée, et la montée vers la Ferme ne l'isole qu'en partie du flux. Le tarif d'entrée place la maison dans le haut du marché normand, et le petit-déjeuner est facturé en supplément, ce qui surprend à ce niveau de gamme.
+
+Nous consacrons désormais un [avis détaillé à La Ferme Saint-Siméon](https://www.lesmeilleurshotelspa.fr/avis/ferme-saint-simeon-honfleur/), avec le détail de ses six catégories de chambres et de sa table.
 
 Honfleur, Calvados · 35 chambres · 5 étoiles, Relais & Châteaux · XVIIe siècle ·
 Spa Potager · Les Impressionnistes et La Boucane · Indice Héritage Normand 5/5 ·
@@ -336,7 +338,7 @@ Rédacteur hôtels et gastronomie, Meilleurs.
 
 Publié le 4 août 2026
 
-Dernière mise à jour : 12 août 2026
+Dernière mise à jour : 13 août 2026
 
 Meilleurs.
 

@@ -2,7 +2,7 @@
 
 > Neuf hôtels spa en France, avec les notes LMHS déjà publiées, le prix d'appel de la nuit et le coût réel de deux nuits. Plus une adresse retirée de la sélection.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/week-end-spa-france/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-12 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/week-end-spa-france/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-13 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -541,7 +541,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 11 août 2026
 
-Dernière mise à jour : 12 août 2026
+Dernière mise à jour : 13 août 2026
 
 Meilleurs.
 

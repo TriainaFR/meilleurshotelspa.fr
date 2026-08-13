@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-12 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-13 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -24,6 +24,14 @@ Spas13 août 2026
 Normandie · 17 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/)[
+
+Enquête13 août 2026
+
+### Ferme Saint-Siméon, avis : l'auberge où l'impressionnisme a commencé
+
+Honfleur · 15 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/ferme-saint-simeon-honfleur/)[
 
 Palmarès12 août 2026
 
