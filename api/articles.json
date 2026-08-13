@@ -5,9 +5,21 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-08-12",
-  "count": 45,
+  "updated": "2026-08-13",
+  "count": 46,
   "articles": [
+    {
+      "slug": "thalasso-normandie",
+      "title": "Thalasso en Normandie : 10 adresses classées, et une qui ferme dans quinze jours",
+      "category": "Spas",
+      "destination": "Normandie",
+      "region": "Normandie",
+      "published": "2026-08-13",
+      "readingMinutes": 17,
+      "url": "https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/nm-thalazur-cabourg.jpg"
+    },
     {
       "slug": "charme-alsace",
       "title": "Hôtel de charme en Alsace : 14 adresses classées, du colombage à la hytte",

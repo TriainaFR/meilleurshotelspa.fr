@@ -317,6 +317,8 @@ Indice Héritage Normand propriétaire
 
 - [Hôtels de charme en Bretagne : 10 maisons d'exception](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/)
 
+- [Thalasso en Normandie : 10 adresses classées](https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/), la même région lue au prisme de la cure marine
+
 - [Château du Portereau, aux portes de Nantes](https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/), l'autre ouverture marquante du grand Ouest en 2026
 
 - [Hôtels de charme en Provence : 12 maisons d'exception testées](https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/)

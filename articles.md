@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Spas13 août 2026
+
+### Thalasso en Normandie : 10 adresses classées, et une qui ferme dans quinze jours
+
+Normandie · 17 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/)[
+
 Palmarès12 août 2026
 
 ### Hôtel de charme en Alsace : 14 adresses classées, du colombage à la hytte

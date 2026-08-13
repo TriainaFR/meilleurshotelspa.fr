@@ -461,6 +461,8 @@ tête, sont alors saturés.
 
 - [Thalasso dans le sud de la France](https://www.lesmeilleurshotelspa.fr/spas/thalasso-sud-de-la-france/), 14 adresses testées, l'autre école de la cure marine
 
+- [Thalasso en Normandie](https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/), 10 adresses sur le même instrument, la seule comparaison honnête avec la Bretagne
+
 - [Thalasso en Île-de-France](https://www.lesmeilleurshotelspa.fr/spas/thalasso-ile-de-france/), 8 adresses, et pourquoi la vraie thalasso francilienne n'existe presque pas
 
 - [Les 50 meilleurs hôtels & spas de France 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/), le palmarès national

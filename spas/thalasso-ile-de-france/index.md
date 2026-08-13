@@ -196,6 +196,8 @@ Données propriétaires
 
 - [Spas avec bain froid à Paris : 5 adresses testées, toutes sous 100 €](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/)
 
+- [Thalasso en Normandie : 10 adresses classées](https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/), où trois des notes de cette page sont reprises
+
 - [Meilleur spa avec hammam à Paris : 8 adresses, 5 testées](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-avec-hammam-paris/), et lesquelles acceptent les non-résidents
 
 - [Spa privatif en Île-de-France : 6 adresses à moins d'une heure de Paris](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-ile-de-france/)
