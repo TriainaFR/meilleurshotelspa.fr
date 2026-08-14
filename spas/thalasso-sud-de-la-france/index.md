@@ -199,6 +199,8 @@ Données propriétaires
 
 ### Pour aller plus loin
 
+- [Grand Hôtel Roi René Aix-en-Provence, avis](https://www.lesmeilleurshotelspa.fr/avis/grand-hotel-roi-rene-aix-en-provence/), une piscine chauffée en centre-ville, mais aucun spa
+
 - [Meilleure thalasso en Bretagne : 11 adresses testées](https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/)
 
 [Swann Bertaud](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/)

@@ -317,6 +317,8 @@ Indice Héritage Normand propriétaire
 
 ### Pour aller plus loin
 
+- [Meilleurs hôtels de luxe en Normandie : les 8 adresses 5 étoiles](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-normandie/), le versant palace de cette sélection, avec les mêmes notes
+
 - [Hôtels de charme en Bretagne : 10 maisons d'exception](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/)
 
 - [Thalasso en Normandie : 10 adresses classées](https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/), la même région lue au prisme de la cure marine

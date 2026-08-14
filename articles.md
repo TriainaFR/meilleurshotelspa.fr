@@ -17,6 +17,22 @@ Le sommaire
 
 [
 
+Palmarès14 août 2026
+
+### Meilleurs hôtels de luxe en Normandie : les 8 adresses 5 étoiles de 2026
+
+Normandie · 17 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-normandie/)[
+
+Enquête14 août 2026
+
+### Grand Hôtel Roi René Aix-en-Provence, avis : le MGallery rouvert en 2026
+
+Aix-en-Provence · 14 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/grand-hotel-roi-rene-aix-en-provence/)[
+
 Spas13 août 2026
 
 ### Thalasso en Normandie : 10 adresses classées, et une qui ferme dans quinze jours

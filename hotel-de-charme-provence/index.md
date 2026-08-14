@@ -344,6 +344,8 @@ Indice provençal propriétaire
 
 ### Pour aller plus loin
 
+- [Grand Hôtel Roi René Aix-en-Provence, avis](https://www.lesmeilleurshotelspa.fr/avis/grand-hotel-roi-rene-aix-en-provence/), le MGallery rouvert en avril 2026, meilleur 4 étoiles d'Aix derrière la Villa Gallici
+
 - [Meilleurs hôtels 5 étoiles en France : les 10 palaces hors Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/)
 
 - [Hôtels de charme en Bretagne : 10 maisons d'exception](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/)

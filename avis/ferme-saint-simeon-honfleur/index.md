@@ -303,6 +303,8 @@ Sans séjour de contrôle
 
 - [Hôtels de charme en Normandie : 10 maisons classées](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/), d'où cette note est reprise
 
+- [Meilleurs hôtels de luxe en Normandie : les 8 adresses 5 étoiles](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-normandie/), où la maison est deuxième
+
 - [Thalasso en Normandie : 10 adresses classées](https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/), et pourquoi cette maison n'y figure pas
 
 - [Château du Portereau, Vertou](https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/), un autre avis documentaire du grand Ouest

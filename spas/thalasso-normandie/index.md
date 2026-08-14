@@ -492,6 +492,8 @@ partenariat commercial, aucune affiliation, aucun séjour offert.
 
 ### Pour aller plus loin
 
+- [Meilleurs hôtels de luxe en Normandie : les 8 adresses 5 étoiles](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-normandie/), où Le Normandy et les Cures Marines sont notés sur la grille Destination
+
 - [Meilleure thalasso en Bretagne](https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/), 11 adresses sur le même instrument, la seule comparaison honnête avec la Normandie
 
 - [Thalasso en Île-de-France](https://www.lesmeilleurshotelspa.fr/spas/thalasso-ile-de-france/), d'où sont reprises trois des notes de cette page

@@ -5,9 +5,33 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-08-13",
-  "count": 47,
+  "updated": "2026-08-14",
+  "count": 49,
   "articles": [
+    {
+      "slug": "luxe-normandie",
+      "title": "Meilleurs hôtels de luxe en Normandie : les 8 adresses 5 étoiles de 2026",
+      "category": "Palmarès",
+      "destination": "Normandie",
+      "region": "Normandie",
+      "published": "2026-08-14",
+      "readingMinutes": 17,
+      "url": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-normandie/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-normandie/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/nm-cheneviere.jpg"
+    },
+    {
+      "slug": "roi-rene-aix",
+      "title": "Grand Hôtel Roi René Aix-en-Provence, avis : le MGallery rouvert en 2026",
+      "category": "Enquête",
+      "destination": "Aix-en-Provence",
+      "region": "Provence",
+      "published": "2026-08-14",
+      "readingMinutes": 14,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/grand-hotel-roi-rene-aix-en-provence/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/grand-hotel-roi-rene-aix-en-provence/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/ax-roirene-lobby.jpg"
+    },
     {
       "slug": "thalasso-normandie",
       "title": "Thalasso en Normandie : 10 adresses classées, et une qui ferme dans quinze jours",
