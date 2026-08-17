@@ -5,9 +5,33 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-08-14",
-  "count": 49,
+  "updated": "2026-08-17",
+  "count": 51,
   "articles": [
+    {
+      "slug": "romantique-normandie",
+      "title": "Hôtel romantique en Normandie : 8 adresses classées pour un week-end à deux",
+      "category": "Destinations",
+      "destination": "Normandie",
+      "region": "Normandie",
+      "published": "2026-08-17",
+      "readingMinutes": 16,
+      "url": "https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-normandie/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-normandie/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/nm-saintsimeon.jpg"
+    },
+    {
+      "slug": "toiras-ile-de-re",
+      "title": "Hôtel de Toiras, avis : le Relais &amp; Châteaux du port de Saint-Martin",
+      "category": "Enquête",
+      "destination": "Île de Ré",
+      "region": "Nouvelle-Aquitaine",
+      "published": "2026-08-17",
+      "readingMinutes": 14,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/re-toiras-port.jpg"
+    },
     {
       "slug": "luxe-normandie",
       "title": "Meilleurs hôtels de luxe en Normandie : les 8 adresses 5 étoiles de 2026",

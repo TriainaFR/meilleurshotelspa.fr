@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-13 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-14 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -16,6 +16,22 @@ Le sommaire
 ⌕
 
 [
+
+Destinations17 août 2026
+
+### Hôtel romantique en Normandie : 8 adresses classées pour un week-end à deux
+
+Normandie · 16 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-normandie/)[
+
+Enquête17 août 2026
+
+### Hôtel de Toiras, avis : le Relais & Châteaux du port de Saint-Martin
+
+Île de Ré · 14 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/)[
 
 Palmarès14 août 2026
 

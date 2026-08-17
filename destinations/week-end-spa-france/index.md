@@ -2,7 +2,7 @@
 
 > Neuf hôtels spa en France, avec les notes LMHS déjà publiées, le prix d'appel de la nuit et le coût réel de deux nuits. Plus une adresse retirée de la sélection.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/week-end-spa-france/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-13 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/week-end-spa-france/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-14 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -524,6 +524,8 @@ affiliation, aucun voyage offert.
 
 - [Les 50 meilleurs hôtels & spas de France 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/), le palmarès national au Protocole LMHS
 
+- [Hôtel de Toiras, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/), le cas inverse : un Relais & Châteaux dont la piscine est chez la maison voisine
+
 - [Hôtel avec spa privatif : 12 adresses testées](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-france/), du chalet au château
 
 - [Meilleurs hôtels 5 étoiles en France](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/), les 10 palaces hors Paris
@@ -541,7 +543,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 11 août 2026
 
-Dernière mise à jour : 13 août 2026
+Dernière mise à jour : 14 août 2026
 
 Meilleurs.
 

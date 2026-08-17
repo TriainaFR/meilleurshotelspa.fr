@@ -332,6 +332,8 @@ Sans séjour de contrôle
 
 - [Hôtels de charme en Normandie : 10 maisons classées](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/), dont sont issues cinq des notes de cette page
 
+- [Hôtel romantique en Normandie : 8 adresses pour un week-end à deux](https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-normandie/), où le classement change parce que l'indice change
+
 - [Ferme Saint-Siméon, avis : l'auberge où l'impressionnisme a commencé](https://www.lesmeilleurshotelspa.fr/avis/ferme-saint-simeon-honfleur/)
 
 - [Thalasso en Normandie : 10 adresses classées](https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/), sur la grille Protocole

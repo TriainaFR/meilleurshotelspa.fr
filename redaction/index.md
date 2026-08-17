@@ -2,7 +2,7 @@
 
 > La rédaction de Meilleurs. : Lucas Lecoq, Swann Bertaud et Emmanuel Laveran. Média indépendant édité par Triaina SAS, aucun partenariat rémunéré.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/redaction/ · Dernière mise à jour : 2026-08-13 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/redaction/ · Dernière mise à jour : 2026-08-14 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -16,7 +16,7 @@ qui dort dans les chambres que nous notons, et qui répond quand vous nous écri
 
 Édité par **Triaina**, Paris
 ✺
-Mise à jour le 13 août 2026
+Mise à jour le 14 août 2026
 
 **Meilleurs.** est un média en ligne français consacré aux hôtels, spas et
 destinations d'exception, lancé en 2026 et édité par **Triaina**, société par

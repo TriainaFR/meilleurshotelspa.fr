@@ -2,7 +2,7 @@
 
 > Palmarès LMHS 2026 : les 8 meilleurs hôtels de Biarritz classés par score et indice basque. Du palace Belle Époque au boutique surf, trouvez votre adresse idéale.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-biarritz/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-13 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-biarritz/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-14 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -261,6 +261,8 @@ Indice basque propriétaire
 
 ### Pour aller plus loin
 
+- [Hôtel de Toiras, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/), l'autre adresse atlantique de notre sélection, sur l'Île de Ré
+
 - [Les 50 meilleurs hôtels & spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)
 
 - [Thalasso sud de la France : 14 adresses testées, classées](https://www.lesmeilleurshotelspa.fr/spas/thalasso-sud-de-la-france/)
@@ -276,7 +278,7 @@ Rédacteur, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 13 août 2026
+Dernière mise à jour : 14 août 2026
 
 Meilleurs.
 
