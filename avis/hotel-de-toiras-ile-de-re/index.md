@@ -2,7 +2,7 @@
 
 > Avis LMHS sur l'Hôtel de Toiras, à Saint-Martin-de-Ré : maison d'armateur du XVIIe, 18 chambres nommées, restaurant George's du chef Ronan Fillatre. Score 9,0/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-17 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-17 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -15,7 +15,7 @@ Une maison d'armateur du XVIIe siècle, dix-huit chambres qui portent chacune le
 d'un personnage de l'île, et une terrasse ouverte sur un port classé à l'UNESCO. La seule
 chose que cet hôtel n'a pas sur place, c'est sa piscine.
 
-Par [**Emmanuel Laveran**](https://www.lesmeilleurshotelspa.fr/redaction/emmanuel-laveran/), rédacteur hôtels et gastronomie
+Par [**Swann Bertaud**](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/), rédacteur hôtellerie de luxe
 ✺
 Publié le 17 août 2026
 ✺
@@ -129,11 +129,11 @@ XVIIe siècle dans un port fortifié par Vauban et classé par l'UNESCO, avec de
 chambres qui nomment les personnages de cette histoire, se situe très haut sur cette échelle,
 au niveau de nos châteaux les mieux notés.
 
-## Le mot d'Emmanuel · Un hôtel qui regarde le port, et non l'inverse
+## Le mot de Swann · Un hôtel qui regarde le port, et non l'inverse
 
 La plupart des hôtels de luxe insulaires font le même choix : s'éloigner du bourg, se clore, fabriquer une bulle. Le Toiras fait exactement l'inverse, et c'est ce qui le rend intéressant. Il est sur le quai, ses parasols sont mêlés à ceux des brasseries voisines, et sa tourelle appartient au paysage du port autant qu'à l'hôtel. On ne loge pas à côté de Saint-Martin-de-Ré, on loge dedans. Le prix de ce parti pris est double : il n'y a pas la place pour un vrai spa, et la piscine est chez la voisine. Cela s'entend, et cela se paie de quelques dixièmes sur notre grille. Une réserve que je dois écrire clairement : nous n'avons pas dormi dans cette maison. Ce qui est décrit ici est vérifiable sur pièces, l'architecture, les capacités, le parcours du chef, la distinction du restaurant. Le service, lui, ne se juge pas depuis un bureau, et nous ne le jugeons pas.
 
-Emmanuel Laveran, rédacteur hôtels et gastronomie
+Swann Bertaud, rédacteur hôtellerie de luxe
 
 ## Infos pratiques et *accès*
 
@@ -232,8 +232,8 @@ Sans séjour de contrôle
 
 - [Notre méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/), les grilles de notation et les règles d'indépendance
 
-[Emmanuel Laveran](https://www.lesmeilleurshotelspa.fr/redaction/emmanuel-laveran/)
-Rédacteur hôtels et gastronomie, Meilleurs.
+[Swann Bertaud](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/)
+Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 17 août 2026
 

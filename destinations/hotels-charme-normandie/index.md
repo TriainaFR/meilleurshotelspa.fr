@@ -2,7 +2,7 @@
 
 > Dix hôtels de charme normands classés par le score LMHS et l'Indice Héritage Normand : Honfleur, Étretat, Cabourg, Giverny. Capacités et étoiles vérifiées.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-14 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-17 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -342,7 +342,7 @@ Rédacteur hôtels et gastronomie, Meilleurs.
 
 Publié le 4 août 2026
 
-Dernière mise à jour : 14 août 2026
+Dernière mise à jour : 17 août 2026
 
 Meilleurs.
 

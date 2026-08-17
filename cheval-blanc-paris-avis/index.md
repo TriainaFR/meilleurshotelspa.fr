@@ -2,7 +2,7 @@
 
 > Avis complet sur le Cheval Blanc Paris en 2026 : score LMHS, prix, spa Dior, restaurants étoilés, comparatif palaces. Le palace LVMH vaut-il vraiment 2 050 €/nuit ?
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-14 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-17 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -287,7 +287,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 14 août 2026
+Dernière mise à jour : 17 août 2026
 
 Meilleurs.
 
