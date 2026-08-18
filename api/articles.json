@@ -5,9 +5,21 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-08-17",
-  "count": 51,
+  "updated": "2026-08-18",
+  "count": 52,
   "articles": [
+    {
+      "slug": "hammam-marseille",
+      "title": "Meilleur hammam à Marseille : 7 adresses, et la plus réputée est fermée",
+      "category": "Spas",
+      "destination": "Marseille",
+      "region": "Provence",
+      "published": "2026-08-18",
+      "readingMinutes": 15,
+      "url": "https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-marseille/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-marseille/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/hm-eden-marseille.jpg"
+    },
     {
       "slug": "romantique-normandie",
       "title": "Hôtel romantique en Normandie : 8 adresses classées pour un week-end à deux",

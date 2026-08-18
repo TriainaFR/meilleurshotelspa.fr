@@ -264,6 +264,8 @@ Indice Hammam propriétaire
 
 - [Meilleur hammam à Paris : 8 adresses testées, thermomètre en main](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/)
 
+- [Meilleur hammam à Marseille : 7 adresses classées](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-marseille/), sur le même Indice Hammam
+
 - [Les meilleurs hôtels de Lyon : du boutique-hôtel au palace](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-lyon/)
 
 - [Hôtel romantique à Lyon : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/hotel-romantique-lyon/)

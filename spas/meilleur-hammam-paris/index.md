@@ -268,6 +268,8 @@ Thermomètre ±0,5 °C
 
 - [Meilleur spa avec hammam à Paris : 8 adresses, 5 testées](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-avec-hammam-paris/), qui élargit ce palmarès aux spas de palace et détaille le droit d'entrée réel de chaque adresse
 
+- [Meilleur hammam à Marseille : 7 adresses, et la plus réputée est fermée](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-marseille/)
+
 - [Meilleur hammam à Lyon : 7 adresses, ce qu'elles valent](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-lyon/), le pendant lyonnais
 
 - [Spas avec bain froid à Paris : 5 adresses testées, toutes sous 100 €](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/)
