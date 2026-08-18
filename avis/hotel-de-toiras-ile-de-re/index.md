@@ -2,7 +2,7 @@
 
 > Avis LMHS sur l'Hôtel de Toiras, à Saint-Martin-de-Ré : maison d'armateur du XVIIe, 18 chambres nommées, restaurant George's du chef Ronan Fillatre. Score 9,0/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-17 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-18 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -237,7 +237,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 17 août 2026
 
-Dernière mise à jour : 17 août 2026
+Dernière mise à jour : 18 août 2026
 
 Meilleurs.
 

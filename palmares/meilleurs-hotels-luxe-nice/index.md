@@ -2,7 +2,7 @@
 
 > Découvrez les 8 meilleurs hôtels de luxe à Nice en 2026. Palaces 5 étoiles, spas, vue mer, Promenade des Anglais. Sélection LMHS avec scores propriétaires.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-17 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-18 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -228,6 +228,8 @@ Sans séjour de contrôle
 
 - [Hôtels de charme sur la Côte d'Azur : 12 adresses testées](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/), dont sont issues les notes du Negresco et de La Pérouse
 
+- [Hôtel Sezz Saint-Tropez, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/), noté sur le même Indice Azur
+
 - [Hôtels de luxe à Cannes : les 8 meilleures adresses](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/), à trente minutes
 
 - [Les meilleurs hôtels de luxe à Saint-Tropez](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/)
@@ -243,7 +245,7 @@ Rédacteur hôtels et gastronomie, Meilleurs.
 
 Publié le 10 août 2026
 
-Dernière mise à jour : 17 août 2026
+Dernière mise à jour : 18 août 2026
 
 Meilleurs.
 

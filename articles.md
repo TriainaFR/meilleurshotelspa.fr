@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-17 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-18 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -24,6 +24,14 @@ Spas18 août 2026
 Marseille · 15 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-marseille/)[
+
+Enquête18 août 2026
+
+### Hôtel Sezz Saint-Tropez, avis : le 5 étoiles design de la route des Salins
+
+Saint-Tropez · 13 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/)[
 
 Destinations17 août 2026
 

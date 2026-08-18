@@ -2,7 +2,7 @@
 
 > Notre palmarès 2026 des meilleurs hôtels de luxe à Saint-Tropez : scores LMHS, prix haute/basse saison, points forts et bémols pour 8 établissements 5 étoiles.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-17 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-18 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -239,6 +239,8 @@ Tarifs relevés juillet 2026
 
 ### Pour aller plus loin
 
+- [Hôtel Sezz Saint-Tropez, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/), notre fiche détaillée de la troisième adresse de ce palmarès
+
 - [Les 8 meilleurs hôtels avec plage à l'île Maurice](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/)
 
 - [Meilleurs hôtels 5 étoiles en France : les 10 palaces hors Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/)
@@ -254,7 +256,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 17 août 2026
+Dernière mise à jour : 18 août 2026
 
 Meilleurs.
 

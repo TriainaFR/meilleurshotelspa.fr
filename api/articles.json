@@ -6,7 +6,7 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-08-18",
-  "count": 52,
+  "count": 53,
   "articles": [
     {
       "slug": "hammam-marseille",
@@ -19,6 +19,18 @@
       "url": "https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-marseille/",
       "markdown": "https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-marseille/index.md",
       "image": "https://www.lesmeilleurshotelspa.fr/images/hm-eden-marseille.jpg"
+    },
+    {
+      "slug": "sezz-saint-tropez",
+      "title": "Hôtel Sezz Saint-Tropez, avis : le 5 étoiles design de la route des Salins",
+      "category": "Enquête",
+      "destination": "Saint-Tropez",
+      "region": "Côte d'Azur",
+      "published": "2026-08-18",
+      "readingMinutes": 13,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/st-sezz.jpg"
     },
     {
       "slug": "romantique-normandie",
