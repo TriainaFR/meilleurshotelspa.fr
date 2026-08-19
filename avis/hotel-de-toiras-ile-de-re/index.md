@@ -188,26 +188,6 @@ L'île se parcourt à vélo, et c'est le meilleur moyen de rejoindre les village
 Saint-Martin. La maison dispose d'un service de conciergerie pour l'organisation des locations
 et des activités nautiques.
 
-## Ce que nous n'avons *pas* pu vérifier
-
-Par principe, nous listons ce qui reste ouvert plutôt que de l'arrondir :
-
-- **Les tarifs.** Ils varient selon la saison et la catégorie de chambre, et
-les grilles qui circulent en ligne sont fausses. Nous n'en publions aucun : demandez-les
-directement à la maison pour vos dates.
-
-- Le **détail complet des catégories**, junior suites et suites, avec leurs
-surfaces.
-
-- Les **conditions exactes d'accès au spa de la Villa Clarisse** pour les
-clients du Toiras.
-
-- L'**année d'ouverture après restauration**, souvent donnée pour 2005.
-
-- La distinction **Gault & Millau** exacte et son millésime.
-
-- **Le service**, faute de séjour de contrôle. C'est la réserve principale.
-
 ## FAQ : Hôtel de *Toiras*
 
 L'Hôtel de Toiras a-t-il une piscine et un spa ?
