@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Palmarès19 août 2026
+
+### Meilleurs hôtels 4 étoiles à Lyon : 8 adresses classées en 2026
+
+Lyon · 15 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-lyon/)[
+
 Spas18 août 2026
 
 ### Meilleur hammam à Marseille : 7 adresses, et la plus réputée est fermée

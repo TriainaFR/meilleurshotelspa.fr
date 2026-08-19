@@ -270,6 +270,8 @@ Indice gastronomique propriétaire
 
 ### Pour aller plus loin
 
+- [Meilleurs hôtels 4 étoiles à Lyon : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-lyon/), la sélection restreinte à cette catégorie, avec les mêmes notes
+
 - [Villa Florentine, avis : l'unique Relais & Châteaux de Lyon](https://www.lesmeilleurshotelspa.fr/avis/villa-florentine-lyon/), notre avis détaillé sur la première adresse de ce palmarès, rouverte en avril 2026
 
 - [Hôtel romantique à Lyon : 8 adresses classées à l'indice romantisme](https://www.lesmeilleurshotelspa.fr/hotel-romantique-lyon/)

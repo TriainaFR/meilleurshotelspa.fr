@@ -292,6 +292,8 @@ Indice romantisme propriétaire
 
 ### Pour aller plus loin
 
+- [Meilleurs hôtels 4 étoiles à Lyon : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-lyon/), où l'Hôtel de l'Abbaye reçoit enfin son score
+
 - [Les meilleurs hôtels de Lyon : du boutique-hôtel au palace](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-lyon/)
 
 - [Hôtel romantique à Bordeaux : 8 adresses](https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-bordeaux/), le même indice romantisme appliqué au vignoble

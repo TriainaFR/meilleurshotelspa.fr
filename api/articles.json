@@ -5,9 +5,21 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-08-18",
-  "count": 53,
+  "updated": "2026-08-19",
+  "count": 54,
   "articles": [
+    {
+      "slug": "4-etoiles-lyon",
+      "title": "Meilleurs hôtels 4 étoiles à Lyon : 8 adresses classées en 2026",
+      "category": "Palmarès",
+      "destination": "Lyon",
+      "region": "Auvergne-Rhône-Alpes",
+      "published": "2026-08-19",
+      "readingMinutes": 15,
+      "url": "https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-lyon/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-lyon/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/ly-fourviere.jpg"
+    },
     {
       "slug": "hammam-marseille",
       "title": "Meilleur hammam à Marseille : 7 adresses, et la plus réputée est fermée",

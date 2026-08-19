@@ -315,6 +315,8 @@ Indice accessibilité
 
 ### Pour aller plus loin
 
+- [Meilleurs hôtels 4 étoiles à Lyon : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-lyon/), le même exercice à Lyon
+
 - [Les meilleurs hôtels de luxe à Paris : 19 adresses classées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-paris/)
 
 - [Les 10 meilleurs hôtels 5 étoiles à Paris en 2026](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-paris/), l'étage au-dessus, et les deux palaces rétrogradés cette année
