@@ -6,7 +6,7 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-08-19",
-  "count": 54,
+  "count": 55,
   "articles": [
     {
       "slug": "4-etoiles-lyon",
@@ -19,6 +19,18 @@
       "url": "https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-lyon/",
       "markdown": "https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-lyon/index.md",
       "image": "https://www.lesmeilleurshotelspa.fr/images/ly-fourviere.jpg"
+    },
+    {
+      "slug": "casarose-mandelieu",
+      "title": "Hôtel Casarose, avis : le 4 étoiles West Coast qui ne ferme jamais",
+      "category": "Enquête",
+      "destination": "Mandelieu-la-Napoule",
+      "region": "Côte d'Azur",
+      "published": "2026-08-19",
+      "readingMinutes": 13,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/cz-casarose-bateau.jpg"
     },
     {
       "slug": "hammam-marseille",

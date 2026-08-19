@@ -233,6 +233,8 @@ Sans séjour de contrôle
 
 - [Hôtels de charme sur la Côte d'Azur : 12 adresses testées](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/)
 
+- [Hôtel Casarose, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/), l'autre parti pris design de la côte, à Mandelieu
+
 - [Les 50 meilleurs hôtels et spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)
 
 - [Notre méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/), les grilles de notation et les règles d'indépendance

@@ -25,6 +25,14 @@ Lyon · 15 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-lyon/)[
 
+Enquête19 août 2026
+
+### Hôtel Casarose, avis : le 4 étoiles West Coast qui ne ferme jamais
+
+Mandelieu-la-Napoule · 13 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/)[
+
 Spas18 août 2026
 
 ### Meilleur hammam à Marseille : 7 adresses, et la plus réputée est fermée

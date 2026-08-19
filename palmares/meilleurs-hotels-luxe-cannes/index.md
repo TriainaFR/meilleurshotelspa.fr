@@ -280,6 +280,8 @@ Indice Croisette propriétaire
 
 ### Pour aller plus loin
 
+- [Hôtel Casarose, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/), à huit kilomètres de Cannes, et ouvert quand les autres ferment
+
 - [Hôtels de charme sur la Côte d'Azur : 12 adresses testées](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/)
 
 - [Meilleurs hôtels de luxe à Nice : 8 adresses d'exception](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/), à trente minutes, et sans aucun palace distingué

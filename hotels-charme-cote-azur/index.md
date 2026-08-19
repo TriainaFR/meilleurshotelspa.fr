@@ -311,6 +311,8 @@ Indice Saisonnalité propriétaire
 
 - [Hôtel Sezz Saint-Tropez, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/), le 5 étoiles design de la route des Salins
 
+- [Hôtel Casarose, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/), le 4 étoiles de Mandelieu ouvert toute l'année
+
 - [Hôtels de luxe à Cannes : les 8 meilleures adresses, classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/)
 
 - [Meilleurs hôtels de luxe à Nice : 8 adresses d'exception](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/), dont sont repris ici le Negresco et La Pérouse
