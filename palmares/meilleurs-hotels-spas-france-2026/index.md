@@ -343,7 +343,7 @@ Données propriétaires
 
 ### Pour aller plus loin
 
-- [Hôtel de Toiras, avis : le Relais & Châteaux du port de Saint-Martin](https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/), sur l'Île de Ré
+- [Hôtel de Toiras, avis : le premier 5 étoiles de Poitou-Charentes](https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/), sur l'Île de Ré
 
 - [Les 8 meilleurs hôtels avec plage à l'île Maurice](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/)
 

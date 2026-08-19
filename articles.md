@@ -43,7 +43,7 @@ Normandie · 16 min de lecture
 
 Enquête17 août 2026
 
-### Hôtel de Toiras, avis : le Relais & Châteaux du port de Saint-Martin
+### Hôtel de Toiras, avis : le premier 5 étoiles de Poitou-Charentes
 
 Île de Ré · 14 min de lecture
 

@@ -60,7 +60,7 @@ Normandie · 16 min de lecture
 
 Enquête17 août 2026
 
-### Hôtel de Toiras, avis : le Relais & Châteaux du port de Saint-Martin
+### Hôtel de Toiras, avis : le premier 5 étoiles de Poitou-Charentes
 
 Île de Ré · 14 min de lecture
 
@@ -287,9 +287,9 @@ Trente-sept clés de plain-pied, une table étoilée, et deux kilomètres qui d�
 
 Enquête, 13 min de lecture](https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/)[Enquête
 
-### Hôtel de Toiras, avis : le Relais & Châteaux du port de Saint-Martin
+### Hôtel de Toiras, avis : le premier 5 étoiles de Poitou-Charentes
 
-Dix-huit chambres sur un quai classé à l'UNESCO, et une piscine qui se trouve chez la voisine.
+Dix-huit chambres sur un quai classé à l'UNESCO, et tout le bien-être chez la voisine.
 
 Enquête, 14 min de lecture](https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/)[Enquête
 
