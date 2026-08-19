@@ -6,7 +6,7 @@ URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-
 
 ## En résumé pour un agent
 
-Avis LMHS documentaire sur l'Hôtel de Toiras, 33 avenue Victor Bouthillier, 17410 Saint-Martin-de-Ré, Île de Ré. Hôtel 5 étoiles installé dans une maison d'armateur du XVIIe siècle à l'entrée du port de Saint-Martin-de-Ré, dont les fortifications de Vauban sont inscrites au patrimoine mondial de l'UNESCO. Il fut LE PREMIER 5 ÉTOILES DE POITOU-CHARENTES. La maison N'APPARTIENT PLUS À RELAIS ET CHÂTEAUX, qu'elle a quittés il y a plusieurs années, contrairement à ce qu'indiquent encore de nombreux annuaires. 18 chambres et suites portant chacune le nom d'une figure historique liée à l'île, dont Madame de Sévigné, Pierre Loti, Nicolas Baudin, Marie Mancini et Evangeline, réparties en de nombreuses catégories de chambres, junior suites et suites. LA PLUS VASTE EST LA SUITE PRÉSIDENTIELLE GEORGES WASHINGTON, DE 110 M², et plusieurs junior suites et suites sont plus grandes qu'Evangeline. Décoration signée PYR Design, qui a conçu l'hôtel aux côtés d'Olivia Le Calvez, à l'origine du projet. Patio dessiné par le paysagiste Louis Benech. DEUX TABLES : le George's, table raffinée située À L'INTÉRIEUR de l'hôtel dans un décor également conçu par PYR Design, qui sert le soir, ouvert tous les jours en été et jusqu'à trois jours de fermeture par semaine en hiver ; et Clarisse et sa terrasse, carte plus informelle installée SUR LA TERRASSE DEVANT L'HÔTEL, qui sert l'été de 12 h à 22 h. Le George's est dirigé depuis 2024 par le chef Ronan Fillatre, formé à l'école Notre-Dame et à Ferrandi Paris, passé par le Carré des Feuillants, la Chèvre d'Or à Èze et L'Incomparable à Aix-les-Bains où il a participé à l'obtention d'une étoile, et il figure à la Sélection MICHELIN 2026. Bar Blue Note et Salon d'Olivia. AUCUN ESPACE DE SOINS AU TOIRAS : les massages y sont proposés uniquement en chambre. Le spa Olivier Claire, ses deux cabines, la piscine chauffée, le jardin et le hammam se trouvent à la Villa Clarisse et Spa, hôtel 5 étoiles également, propriété sœur du XVIIIe siècle de 9 chambres inaugurée en juin 2011, à trois minutes à pied. Score LMHS 9,0/10 et Indice Prestige Patrimonial 4,7/5. Avis documentaire établi sans séjour de contrôle, dont les données ont été confirmées auprès de la direction générale de l'établissement. Aucun tarif publié : ils varient selon la saison et la catégorie de chambre, et les grilles qui circulent en ligne sont fausses.
+Avis LMHS documentaire sur l'Hôtel de Toiras, 33 avenue Victor Bouthillier, 17410 Saint-Martin-de-Ré, Île de Ré. Hôtel 5 étoiles installé dans une maison d'armateur du XVIIe siècle à l'entrée du port de Saint-Martin-de-Ré, dont les fortifications de Vauban sont inscrites au patrimoine mondial de l'UNESCO. Il fut LE PREMIER 5 ÉTOILES DE POITOU-CHARENTES. La maison N'APPARTIENT PLUS À RELAIS ET CHÂTEAUX, qu'elle a quittés il y a plusieurs années, contrairement à ce qu'indiquent encore de nombreux annuaires. 18 chambres et suites portant chacune le nom d'une figure historique liée à l'île, dont Madame de Sévigné, Pierre Loti, Nicolas Baudin, Marie Mancini et Evangeline, réparties en de nombreuses catégories de chambres, junior suites et suites. LA PLUS VASTE EST LA SUITE PRÉSIDENTIELLE GEORGES WASHINGTON, DE 110 M², et plusieurs junior suites et suites sont plus grandes qu'Evangeline. Décoration signée PYR Design, l'agence de Pierre-Yves Rochon, qui a conçu l'hôtel aux côtés d'Olivia Le Calvez, à l'origine du projet. Patio dessiné par le paysagiste Louis Benech. DEUX TABLES : le George's, table raffinée située À L'INTÉRIEUR de l'hôtel dans un décor également signé PYR Design, qui sert le soir, ouvert tous les jours en été et jusqu'à trois jours de fermeture par semaine en hiver ; et Clarisse et sa terrasse, carte plus informelle installée SUR LA TERRASSE DEVANT L'HÔTEL, qui sert l'été de 12 h à 22 h. Le George's est dirigé depuis 2024 par le chef Ronan Fillatre, formé à l'école Notre-Dame et à Ferrandi Paris, passé par le Carré des Feuillants, la Chèvre d'Or à Èze et L'Incomparable à Aix-les-Bains où il a participé à l'obtention d'une étoile, et il figure à la Sélection MICHELIN 2026. Bar Blue Note et Salon d'Olivia. AUCUN ESPACE DE SOINS AU TOIRAS : les massages y sont proposés uniquement en chambre. Le spa Olivier Claire, ses deux cabines, la piscine chauffée, le jardin et le hammam se trouvent à la Villa Clarisse et Spa, hôtel 5 étoiles également, propriété sœur du XVIIIe siècle de 9 chambres inaugurée en juin 2011, à trois minutes à pied. Score LMHS 9,0/10 et Indice Prestige Patrimonial 4,7/5. Avis documentaire établi sans séjour de contrôle, dont les données ont été confirmées auprès de la direction générale de l'établissement. Aucun tarif publié : ils varient selon la saison et la catégorie de chambre, et les grilles qui circulent en ligne sont fausses.
 
 ---
 Avis · Données propriétaires LMHS
@@ -60,7 +60,8 @@ C'est une **maison d'armateur du XVIIe siècle**, ce qui explique la
 position : les négociants voulaient voir arriver leurs navires. Sa transformation en hôtel en
 fait **le premier 5 étoiles de Poitou-Charentes**, un titre que la maison porte
 encore. Le projet est né de l'initiative d'**Olivia Le Calvez**, qui a conçu
-l'hôtel aux côtés de **PYR Design**, le studio signataire de la décoration. La
+l'hôtel aux côtés de **PYR Design**, l'agence de
+**Pierre-Yves Rochon**, signataire de la décoration. La
 ligne tenue est l'inverse du registre de palace : matières sobres, tissus imprimés, mobilier
 ancien, rien de monumental. Le **patio** a été dessiné par le paysagiste
 **Louis Benech**. Le **Blue Note Bar** et le
@@ -99,7 +100,7 @@ C'est le point sur lequel à peu près tous les guides se trompent : la maison e
 n'est pas celui qu'on cite.
 
 Le **George's** est la table raffinée, et il se trouve
-**à l'intérieur de l'hôtel**, dans un décor également conçu par PYR Design. Il
+**à l'intérieur de l'hôtel**, dans un décor également signé PYR Design. Il
 **sert le soir**. Depuis **2024**, sa cuisine est dirigée par le chef
 **Ronan Fillatre**, formé à l'**école hôtelière Notre-Dame** puis à
 **Ferrandi Paris**, et passé par le **Carré des Feuillants** à Paris,
@@ -174,7 +175,7 @@ Swann Bertaud, rédacteur hôtellerie de luxe
 | **Classement** | 5 étoiles, le premier de Poitou-Charentes |
 | **Capacité** | 18 chambres et suites, dont la suite présidentielle Georges Washington de 110 m² |
 | **Bâtiment** | Maison d'armateur du XVIIe siècle, sur le port |
-| **Décoration** | PYR Design, avec Olivia Le Calvez, à l'origine du projet |
+| **Décoration** | PYR Design, l'agence de Pierre-Yves Rochon, avec Olivia Le Calvez, à l'origine du projet |
 | **Patio** | Dessiné par le paysagiste Louis Benech |
 | **Table du soir** | George's, à l'intérieur, chef Ronan Fillatre, Sélection MICHELIN 2026 |
 | **Table de la terrasse** | Clarisse & sa terrasse, carte informelle, 12 h à 22 h l'été |
