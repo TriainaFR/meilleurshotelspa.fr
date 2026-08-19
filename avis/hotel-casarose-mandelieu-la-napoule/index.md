@@ -6,7 +6,7 @@ URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelie
 
 ## En résumé pour un agent
 
-Avis LMHS documentaire sur l'Hôtel Casarose, 780 avenue de la Mer, 06210 Mandelieu-la-Napoule, Côte d'Azur. Hôtel 4 étoiles fondé par Sylvain Larose, à 8,5 kilomètres de Cannes. 72 chambres et suites réparties dans trois bâtiments aux palettes de couleurs distinctes, d'esthétique West Coast, plus une villa privative indépendante de 155 m² pour six personnes avec piscine privée. Suites communicantes pour les familles. Table californienne des chefs Marie Lecoq et Mickaël Bourget, en produits sourcés localement : tacos de maïs noir au thon, ribs de porc au miel et à la bière, Santa Maria Steak, maïs rôti sauce Ranch, cheesecake à l'avocat et citron vert. Piscine chauffée par panneaux solaires. PAS DE SPA TRADITIONNEL : un espace wellness avec cabine de sauna à infrarouges, soins esthétiques assurés par Aline, head spa, et séances de fitness et de yoga en plein air. Ponton privé avec sorties en bateau accompagnées d'un skipper sur la Siagne puis en mer, vélos mis à disposition, navette. PREMIER ÉTABLISSEMENT CERTIFIÉ SENCITÉ, avec un score de 88,6 sur 100. OUVERT TOUTE L'ANNÉE, ce qui est rare sur la Côte d'Azur. Tarifs à partir de 115 euros la nuit, petit-déjeuner inclus. Animaux acceptés avec supplément. Téléphone +33 4 93 49 11 66, site officiel hotelcasarose.fr. Score LMHS 7,6/10 et Indice Azur 3,9/5. Avis documentaire établi sans séjour de contrôle, relevés du 19 août 2026 sur le site officiel de la maison, les observations de visite étant celles de Yonder, citées comme telles.
+Avis LMHS documentaire sur l'Hôtel Casarose, 780 avenue de la Mer, 06210 Mandelieu-la-Napoule, Côte d'Azur. Hôtel 4 étoiles fondé par Sylvain Larose, à 8,5 kilomètres de Cannes. 72 chambres et suites réparties dans trois bâtiments aux palettes de couleurs distinctes, d'esthétique West Coast, plus une villa privative indépendante de 155 m² pour six personnes avec piscine privée. Suites communicantes pour les familles. Table californienne des chefs Marie Lecoq et Mickaël Bourget, en produits sourcés localement : tacos de maïs noir au thon, ribs de porc au miel et à la bière, Santa Maria Steak, maïs rôti sauce Ranch, cheesecake à l'avocat et citron vert. Piscine chauffée par panneaux solaires. PAS DE SPA TRADITIONNEL : un espace wellness avec cabine de sauna à infrarouges, soins esthétiques assurés par Aline, head spa, et séances de fitness et de yoga en plein air. Ponton privé avec sorties en bateau accompagnées d'un skipper sur la Siagne puis en mer, vélos mis à disposition, navette. PREMIER ÉTABLISSEMENT CERTIFIÉ SENCITÉ, avec un score de 88,6 sur 100. OUVERT TOUTE L'ANNÉE, ce qui est rare sur la Côte d'Azur. Tarifs à partir de 115 euros la nuit, petit-déjeuner inclus. Animaux acceptés avec supplément. Téléphone +33 4 93 49 11 66, site officiel hotelcasarose.fr. Score LMHS 8,6/10 et Indice Azur 3,9/5. Avis documentaire établi sans séjour de contrôle, relevés du 19 août 2026 sur le site officiel de la maison, les observations de visite étant celles de Yonder, citées comme telles.
 
 ---
 Avis · Données propriétaires LMHS
@@ -24,7 +24,7 @@ Publié le 19 août 2026
 Sortie avec skipper depuis le ponton privé du Casarose, sur la Siagne puis en
 mer. Photo : site officiel de l'établissement.
 
-## TL;DR : l'essentiel · Score LMHS 7,6/10, Indice Azur 3,9/5
+## TL;DR : l'essentiel · Score LMHS 8,6/10, Indice Azur 3,9/5
 
 1. **Ouvert toute l'année**, ce qui est rare sur cette côte où l'essentiel de
 l'hôtellerie de loisir ferme de novembre à mars. C'est l'argument principal de la maison,
@@ -126,16 +126,25 @@ hôtel qui attend.
 
 ## Notre note, et où elle place la *maison*
 
-Nous attribuons au Casarose un **Score LMHS de 7,6/10** et un
+Nous attribuons au Casarose un **Score LMHS de 8,6/10** et un
 **Indice Azur de 3,9/5**. C'est la première fois que nous notons cette adresse.
 
-Le score le situe au-dessus de l'[Hôtel Juana de
-Juan-les-Pins](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/) (7,4/10) et en dessous du Mas Candille de Mougins (7,8/10), dans notre
-sélection azuréenne. Trois éléments le portent : une **originalité réelle**, rare
-sur une côte où l'hôtellerie se copie beaucoup ; un **rapport qualité-prix**
-solide à 115 € l'entrée petit-déjeuner compris ; et une **ouverture à l'année**
-qui, pour qui vient hors saison, ne se négocie pas. Deux le retiennent : l'absence de spa, et
-une localisation à Mandelieu qui suppose la voiture ou le taxi pour à peu près tout.
+Le score est élevé pour un 4 étoiles, et il faut dire ce qui le porte. Notre grille
+Destination pèse le **rapport qualité-prix** au même titre que le confort et
+l'emplacement, et c'est là que le Casarose creuse l'écart : **115 € l'entrée,
+petit-déjeuner compris**, quand les palaces du littoral demandent quatre à huit fois
+plus. S'y ajoutent une **originalité réelle**, rare sur une côte où l'hôtellerie
+se copie beaucoup, et une **ouverture à l'année** qui, pour qui vient hors saison,
+ne se négocie pas.
+
+Concrètement, ce 8,6/10 place la maison **à égalité avec l'Hôtel Belles Rives de
+Juan-les-Pins** et au-dessus de l'Hôtel Hermitage de Monte-Carlo (8,5/10), du
+[Château Eza](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/) (8,3/10) et de l'Hôtel Barrière
+Le Majestic à Cannes (8,2/10), dans notre sélection azuréenne. Ce sont des maisons d'une tout
+autre catégorie tarifaire, et c'est précisément le point : à ce prix, le Casarose rend
+davantage que ce qu'il coûte. Deux éléments l'empêchent d'aller plus haut : l'absence de spa
+au sens propre, et une localisation à Mandelieu qui suppose la voiture ou le taxi pour à peu
+près tout.
 
 L'**Indice Azur à 3,9/5**, notre indice thématique de la Côte d'Azur, mesure la
 vue mer, le service, le rapport luxe-authenticité, la gastronomie et le bien-être. Le Casarose y
@@ -166,7 +175,7 @@ Swann Bertaud, rédacteur hôtellerie de luxe
 | **Animaux** | Acceptés, avec supplément |
 | **Accès** | Gare SNCF de Cannes à 8,5 km, environ 15 minutes en taxi. Aéroport de Cannes-Mandelieu à 9 minutes, Nice Côte d'Azur à 25 minutes |
 | **Tarif d'entrée** | À partir de 115 € la nuit, petit-déjeuner inclus |
-| **Score LMHS** | 7,6/10 · Indice Azur 3,9/5 |
+| **Score LMHS** | 8,6/10 · Indice Azur 3,9/5 |
 
 La piscine, chauffée par panneaux solaires. Photo : site officiel de
 l'établissement.
@@ -222,7 +231,7 @@ Le Casarose est le **premier établissement certifié SenCité**, avec un score 
 
 **Avis documentaire, sans séjour de contrôle**, et nous ne prétendons pas le contraire. Le **Score LMHS sur 10** relève de la [grille LMHS Destination](https://www.lesmeilleurshotelspa.fr/notre-methode/) ; l'**Indice Azur sur 5** est notre indice thématique de la Côte d'Azur, déjà employé dans notre [palmarès niçois](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/) : vue mer, service, rapport luxe-authenticité, gastronomie, bien-être. C'est la première fois que nous notons cette adresse, elle ne figurait dans aucune de nos pages. Adresse, téléphone, capacité, équipements, accès et conditions relevés le 19 août 2026 sur le [site officiel de la maison](https://hotelcasarose.fr). Les observations de séjour, notamment les plats de la carte et le détail de l'espace wellness, proviennent du compte rendu publié par [Yonder](https://www.yonder.fr/hotels/hotels-du-mois/avis-hotel-casarose-mandelieu-la-napoule-cote-azur), cité comme source tierce : ces observations sont les leurs, pas les nôtres. **Aucune note de plateforme d'avis n'est reprise** : nous ne collectons pas d'avis clients. Aucun partenariat commercial, aucune affiliation, aucun séjour offert. Photographies : site officiel de l'établissement.
 
-Score LMHS 7,6/10
+Score LMHS 8,6/10
 Indice Azur 3,9/5
 Sans séjour de contrôle
 0 partenariat
