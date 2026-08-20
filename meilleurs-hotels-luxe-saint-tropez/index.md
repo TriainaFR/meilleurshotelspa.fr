@@ -239,6 +239,8 @@ Tarifs relevés juillet 2026
 
 ### Pour aller plus loin
 
+- [Meilleur spa sur la Côte d'Azur : 10 adresses classées](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-cote-dazur/), où La Réserve Ramatuelle est deuxième
+
 - [Hôtel Sezz Saint-Tropez, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/), notre fiche détaillée de la troisième adresse de ce palmarès
 
 - [Les 8 meilleurs hôtels avec plage à l'île Maurice](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/)

@@ -309,6 +309,8 @@ Indice Saisonnalité propriétaire
 
 ### Pour aller plus loin
 
+- [Meilleur spa sur la Côte d'Azur : 10 adresses classées](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-cote-dazur/), les mêmes maisons mesurées sur la grille spa
+
 - [Hôtel Sezz Saint-Tropez, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/), le 5 étoiles design de la route des Salins
 
 - [Hôtel Casarose, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/), le 4 étoiles de Mandelieu ouvert toute l'année

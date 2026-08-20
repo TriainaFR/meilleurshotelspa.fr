@@ -343,6 +343,8 @@ Données propriétaires
 
 ### Pour aller plus loin
 
+- [Meilleur spa sur la Côte d'Azur : 10 adresses classées](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-cote-dazur/), l'extrait régional de ce palmarès
+
 - [Hôtel de Toiras, avis : le premier 5 étoiles de Poitou-Charentes](https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/), sur l'Île de Ré
 
 - [Les 8 meilleurs hôtels avec plage à l'île Maurice](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/)

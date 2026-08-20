@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Spas20 août 2026
+
+### Meilleur spa sur la Côte d'Azur : 10 adresses classées en 2026
+
+Côte d'Azur · 16 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-cote-dazur/)[
+
 Palmarès19 août 2026
 
 ### Meilleurs hôtels 4 étoiles à Lyon : 8 adresses classées en 2026

@@ -5,9 +5,21 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-08-19",
-  "count": 55,
+  "updated": "2026-08-20",
+  "count": 56,
   "articles": [
+    {
+      "slug": "spa-cote-dazur",
+      "title": "Meilleur spa sur la Côte d'Azur : 10 adresses classées en 2026",
+      "category": "Spas",
+      "destination": "Côte d'Azur",
+      "region": "Côte d'Azur",
+      "published": "2026-08-20",
+      "readingMinutes": 16,
+      "url": "https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-cote-dazur/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-cote-dazur/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/terre-blanche.jpg"
+    },
     {
       "slug": "4-etoiles-lyon",
       "title": "Meilleurs hôtels 4 étoiles à Lyon : 8 adresses classées en 2026",
