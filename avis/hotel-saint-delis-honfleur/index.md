@@ -1,12 +1,12 @@
 # Hôtel Saint-Delis Honfleur, avis : neuf chambres dans la maison du peintre
 
-> Avis LMHS sur le Saint-Delis, Honfleur : trois bâtiments, 9 chambres à douche-hammam, Spa du Verger, petit-déjeuner de Matthieu Pouleur. Score 8,6/10, dès 218 €.
+> Avis LMHS sur le Saint-Delis, Honfleur : trois bâtiments, 9 chambres à douche-hammam, Spa du Verger, petit-déjeuner de Matthieu Pouleur. Score LMHS 8,6/10, Indice Héritage Normand 4,7/5.
 
 URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-saint-delis-honfleur/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-20 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
-Avis LMHS documentaire sur le Saint-Delis Hôtel et Spa, 43 rue du Puits, 14600 Honfleur, Calvados, Normandie. Hôtel 5 étoiles, membre de Relais et Châteaux et de la Collection Saint-Siméon, installé dans l'ancienne demeure du peintre Henri de Saint-Delis. Ensemble de TROIS MAISONS autour d'un jardin clos, datées par le dossier de presse de la maison du XVIIIe siècle pour la première, du XIXe pour la deuxième qui lui est rattachée, et du XVIIe pour la troisième. La façade sur rue, du XVIIIe, est en colombage et pierres d'origine, de couleur rouge. Rénovation en 2019, ouverture du boutique-hôtel en janvier 2020, restauration conduite par les architectes belges Jessy Klönhammer et Marc Vander Elst sous le suivi des architectes des bâtiments de France, escalier de chêne d'origine conservé. La maison N'EST PAS CLASSÉE MONUMENT HISTORIQUE : elle fait partie du secteur sauvegardé de Honfleur, devenu site patrimonial remarquable, le seul bien protégé de la rue du Puits étant le puits d'angle avec la rue Bucaille, inscrit le 11 octobre 1930. NEUF CHAMBRES SEULEMENT, toutes équipées d'une douche-hammam : six dans la maison principale, trois au jardin dont une de plain-pied avec terrasse privative. Quatre catégories, tarifs d'appel relevés sur la fiche Relais et Châteaux : Chambre Classique 23 à 30 m² dès 218 euros, Chambre Supérieure 23 à 29 m² dès 274 euros, Chambre Deluxe 31 à 37 m² avec baignoire balnéo dès 387 euros, Junior Suite 40 à 46 m² avec baignoire balnéo dès 510 euros. La chambre du peintre est la numéro 3, au premier étage, sur la rue du Puits. Peintures sur plaques d'acier de l'artiste belge Adrien Roubens dans les chambres. Toutes les chambres sont annoncées pour deux personnes, la disposition historique du bâtiment ne permettant pas d'ajouter de lit. IL N'Y A AUCUNE CABINE DE SOINS SUR PLACE : les praticiennes reçoivent à la Ferme Saint-Siméon. Le bien-être de la maison tient à la douche-hammam de chaque chambre et au SPA DU VERGER, ouvert au printemps 2026 dans le jardin avec le concours de la Région Normandie, un bain à remous et une douche extérieure privatisés par créneau d'une heure entre 10 h et 23 h pour deux personnes, inclus avec une Junior Suite et facturés 50 euros le créneau pour les autres catégories, réservés à la clientèle hébergée. AUCUN RESTAURANT SUR PLACE, mais un room service à la carte courte et entièrement normande et un salon qui devient bar à partir de 18 h, ouvert aux non-résidents. Minibar et produits d'accueil offerts, tablette en chambre pour réserver toute la Collection. Petit-déjeuner entièrement fait maison en collaboration avec Matthieu Pouleur, chef des cuisines de la Ferme Saint-Siméon et chef de la Collection Saint-Siméon, servi au buffet à 34 euros de 8 h à 10 h 30 ou en chambre à 40 euros de 8 h à 11 h, ouvert aux non-résidents sur réservation. Les tables de la Collection sont à quelques minutes : Les Impressionnistes, La Boucane, l'Auberge de la Source, Le Vieux Honfleur. Concierge Clefs d'Or Steven Vastra. Distinction Hotel and Lodge Awards 2023, plus beau boutique-hôtel du monde. Téléphone +33 2 31 81 78 10, courriel contact@hotel-saint-delis.fr. Score LMHS 8,6/10 et Indice Héritage Normand 4,7/5, repris à l'identique de nos palmarès normands. Avis documentaire établi sans séjour de contrôle, relevés du 20 août 2026 sur le site officiel de la maison et sa fiche Relais et Châteaux, les observations de visite étant celles de Yonder, citées comme telles.
+Avis LMHS documentaire sur le Saint-Delis Hôtel et Spa, 43 rue du Puits, 14600 Honfleur, Calvados, Normandie. Hôtel 5 étoiles, membre de Relais et Châteaux et de la Collection Saint-Siméon, installé dans l'ancienne demeure du peintre Henri de Saint-Delis. Ensemble de TROIS MAISONS autour d'un jardin clos, datées par le dossier de presse de la maison du XVIIIe siècle pour la première, du XIXe pour la deuxième qui lui est rattachée, et du XVIIe pour la troisième. La façade sur rue, du XVIIIe, est en colombage et pierres d'origine, de couleur rouge. Rénovation en 2019, ouverture du boutique-hôtel en janvier 2020, restauration conduite par les architectes belges Jessy Klönhammer et Marc Vander Elst sous le suivi des architectes des bâtiments de France, escalier de chêne d'origine conservé. La maison N'EST PAS CLASSÉE MONUMENT HISTORIQUE : elle fait partie du secteur sauvegardé de Honfleur, devenu site patrimonial remarquable, le seul bien protégé de la rue du Puits étant le puits d'angle avec la rue Bucaille, inscrit le 11 octobre 1930. NEUF CHAMBRES SEULEMENT, toutes équipées d'une douche-hammam : six dans la maison principale, trois au jardin dont une de plain-pied avec terrasse privative. Quatre catégories : Chambre Classique 23 à 30 m², Chambre Supérieure 23 à 29 m², Chambre Deluxe 31 à 37 m² avec baignoire balnéo, Junior Suite 40 à 46 m² avec baignoire balnéo. AUCUNE GRILLE TARIFAIRE N'EST PUBLIÉE sur cette page : les prix varient selon la saison et la catégorie, et les fourchettes qui circulent en ligne se contredisent. Le seul repère repris est celui de Yonder, qui situe l'entrée de gamme à partir de 250 euros la nuit et la Junior Suite à partir de 800 euros en basse saison. La chambre du peintre est la numéro 3, au premier étage, sur la rue du Puits. Peintures sur plaques d'acier de l'artiste belge Adrien Roubens dans les chambres. Toutes les chambres sont annoncées pour deux personnes, la disposition historique du bâtiment ne permettant pas d'ajouter de lit. IL N'Y A AUCUNE CABINE DE SOINS SUR PLACE : les praticiennes reçoivent à la Ferme Saint-Siméon. Le bien-être de la maison tient à la douche-hammam de chaque chambre et au SPA DU VERGER, ouvert au printemps 2026 dans le jardin avec le concours de la Région Normandie, un bain à remous et une douche extérieure privatisés par créneau d'une heure entre 10 h et 23 h pour deux personnes, inclus avec une Junior Suite et proposés en supplément pour les autres catégories, réservés à la clientèle hébergée. AUCUN RESTAURANT SUR PLACE, mais un room service à la carte courte et entièrement normande et un salon qui devient bar à partir de 18 h, ouvert aux non-résidents. Minibar et produits d'accueil offerts, tablette en chambre pour réserver toute la Collection. Petit-déjeuner entièrement fait maison en collaboration avec Matthieu Pouleur, chef des cuisines de la Ferme Saint-Siméon et chef de la Collection Saint-Siméon, non compris dans la nuit, servi au buffet de 8 h à 10 h 30 ou en chambre de 8 h à 11 h, ouvert aux non-résidents sur réservation. Les tables de la Collection sont à quelques minutes : Les Impressionnistes, La Boucane, l'Auberge de la Source, Le Vieux Honfleur. Concierge Clefs d'Or Steven Vastra. Distinction Hotel and Lodge Awards 2023, plus beau boutique-hôtel du monde. Téléphone +33 2 31 81 78 10, courriel contact@hotel-saint-delis.fr. Score LMHS 8,6/10 et Indice Héritage Normand 4,7/5, repris à l'identique de nos palmarès normands. Avis documentaire établi sans séjour de contrôle, relevés du 20 août 2026 sur le site officiel de la maison et sa fiche Relais et Châteaux, les observations de visite étant celles de Yonder, citées comme telles.
 
 ---
 Avis · Données propriétaires LMHS
@@ -38,11 +38,10 @@ seulement un bar et un room service. Les praticiennes reçoivent à la
 hammam. Le bien-être du Saint-Delis tient à la douche-hammam de chaque chambre et au
 **Spa du Verger**, ouvert au printemps 2026 dans le jardin.
 
-3. **Quatre catégories**, de la Chambre Classique de 23 m² **dès 218 €** à la
-Junior Suite de 46 m² **dès 510 €**, tarifs relevés sur la fiche
-Relais & Châteaux de la maison. Attention au piège :
-**la Supérieure n'est pas plus grande que la Classique**, ce qui les sépare est la
-position, pas la surface.
+3. **Quatre catégories**, de la Chambre Classique de 23 m² à la Junior Suite de
+46 m². Attention au piège : **la Supérieure n'est pas plus grande que la Classique**,
+ce qui les sépare est la position, pas la surface. Seule la Junior Suite donne accès au
+Spa du Verger sans supplément.
 
 **Avis documentaire.** Nous n'avons pas dormi au Saint-Delis. Les éléments
 de cette page ont été relevés le 20 août 2026 sur le site officiel de la maison, sur sa
@@ -153,16 +152,16 @@ position et l'ouverture sur le jardin. Le vrai saut se produit à la
 chambre n'est identique à une autre, et les photographies ne montrent qu'un niveau de confort,
 pas une pièce précise.
 
-| Catégorie | Surface | Salle de bain | Spa du Verger | À partir de |
-| --- | --- | --- | --- | --- |
-| Chambre Classique | 23 à 30 m² | Douche-hammam | 50 € le créneau | 218 € |
-| Chambre Supérieure | 23 à 29 m² | Douche-hammam | 50 € le créneau | 274 € |
-| Chambre Deluxe | 31 à 37 m² | Douche-hammam et baignoire balnéo | 50 € le créneau | 387 € |
-| Junior Suite | 40 à 46 m² | Douche-hammam et baignoire balnéo | Une heure incluse | 510 € |
+| Catégorie | Surface | Salle de bain | Spa du Verger |
+| --- | --- | --- | --- |
+| Chambre Classique | 23 à 30 m² | Douche-hammam | En supplément |
+| Chambre Supérieure | 23 à 29 m² | Douche-hammam | En supplément |
+| Chambre Deluxe | 31 à 37 m² | Douche-hammam et baignoire balnéo | En supplément |
+| Junior Suite | 40 à 46 m² | Douche-hammam et baignoire balnéo | Une heure incluse |
 
-Tarifs d'appel relevés le 20 août 2026 sur la fiche Relais & Châteaux de la
-maison. Ils varient fortement selon la saison : le moteur de réservation officiel affichait
-621 € pour une nuit du 20 au 21 août.
+Surfaces et équipements relevés le 20 août 2026 sur le site officiel de la
+maison. Nous ne publions pas de grille tarifaire : les prix varient selon la saison et la
+catégorie, et les fourchettes qui circulent en ligne se contredisent.
 
 Une précision de capacité, à connaître avant de composer un séjour :
 **toutes les chambres sont annoncées pour deux personnes**, et la maison indique
@@ -203,7 +202,7 @@ charpente d'acier corten, entre une haie taillée et un mur de silex. Le fonctio
 limpide et mérite d'être connu avant de réserver :
 **privatisation par créneau d'une heure, pour deux personnes, entre 10 h et 23 h**,
 **réservé à la clientèle hébergée**. L'accès est
-**inclus pour une Junior Suite**, et facturé **50 € le créneau** pour
+**inclus pour une Junior Suite**, et proposé **en supplément** pour
 les autres catégories.
 
 Le Spa du Verger, ouvert au printemps 2026 : un bain à remous et une douche
@@ -233,8 +232,9 @@ avec **Matthieu Pouleur**, chef des cuisines de la Ferme Saint-Siméon et chef d
 Collection. Yonder, qui a séjourné dans la maison, cite le **miel** et le
 **jus de pomme de la propriété** et le pain préparé par le chef.
 
-Deux formules : **34 € au buffet, de 8 h à 10 h 30**, ou
-**40 € en chambre, de 8 h à 11 h**. Détail rare et qui vaut d'être signalé : il est
+Deux formules, et il n'est pas compris dans la nuit :
+**au buffet, de 8 h à 10 h 30**, ou **en chambre, de 8 h à 11 h**.
+Détail rare et qui vaut d'être signalé : il est
 **ouvert aux personnes extérieures à l'hôtel, sur réservation**. Le chef prépare
 également, sur demande, un **panier pique-nique**.
 
@@ -295,13 +295,13 @@ Swann Bertaud, rédacteur hôtellerie de luxe
 | **Inclus** | Minibar et produits d'accueil offerts, tablette en chambre pour réserver toute la Collection |
 | **Occupation** | Toutes les chambres sont annoncées pour deux personnes, aucun lit d'appoint possible |
 | **Bien-être en chambre** | Douche-hammam dans les 9 chambres, baignoire balnéo en Deluxe et Junior Suite |
-| **Spa du Verger** | Bain à remous et douche extérieure au jardin, créneau d'une heure pour deux, 10 h à 23 h, clientèle hébergée uniquement, inclus en Junior Suite, 50 € sinon |
+| **Spa du Verger** | Bain à remous et douche extérieure au jardin, créneau d'une heure pour deux, 10 h à 23 h, clientèle hébergée uniquement, inclus en Junior Suite, en supplément sinon |
 | **Soins et massages** | Aucune cabine sur place, les praticiennes reçoivent à la Ferme Saint-Siméon |
 | **Table** | Aucun restaurant. Bar ouvert aux non-résidents à partir de 18 h, salon à cheminée, terrasse, room service à la carte normande |
-| **Petit-déjeuner** | 34 € au buffet de 8 h à 10 h 30, 40 € en chambre de 8 h à 11 h, ouvert aux non-résidents sur réservation |
+| **Petit-déjeuner** | Non compris. Au buffet de 8 h à 10 h 30 ou en chambre de 8 h à 11 h, ouvert aux non-résidents sur réservation |
 | **Conciergerie** | Steven Vastra, concierge Clefs d'Or |
-| **Animaux** | Acceptés, 40 € par nuit et par animal |
-| **Stationnement** | Parking privé extérieur à proximité, 30 € par nuit, selon disponibilité |
+| **Animaux** | Acceptés, avec supplément |
+| **Stationnement** | Parking privé extérieur à proximité, avec supplément, selon disponibilité |
 | **Langues** | Français, anglais, espagnol, allemand |
 | **Accès** | Deux heures de Paris par la route, aéroport de Deauville à 9 km |
 | **Score LMHS** | 8,6/10 · Indice Héritage Normand 4,7/5 |
@@ -315,7 +315,7 @@ kitesurf pour pratiquants confirmés.
 
 L'Hôtel Saint-Delis a-t-il un spa ?
 
-Pas au sens d'un spa d'hôtel avec cabines et bassin. **Il n'y a aucune cabine de soins sur place** : les praticiennes de la maison reçoivent à la **Ferme Saint-Siméon**, à quelques minutes. Le bien-être du Saint-Delis tient à deux choses : une **douche-hammam dans chacune des neuf chambres**, doublée d'une baignoire balnéo en Deluxe et en Junior Suite, et le **Spa du Verger**, ouvert au printemps 2026 dans le jardin, un bain à remous et une douche extérieure privatisés par créneau d'une heure pour deux personnes, entre 10 h et 23 h. L'accès est inclus avec une Junior Suite et facturé 50 € le créneau pour les autres catégories, pour la clientèle hébergée uniquement.
+Pas au sens d'un spa d'hôtel avec cabines et bassin. **Il n'y a aucune cabine de soins sur place** : les praticiennes de la maison reçoivent à la **Ferme Saint-Siméon**, à quelques minutes. Le bien-être du Saint-Delis tient à deux choses : une **douche-hammam dans chacune des neuf chambres**, doublée d'une baignoire balnéo en Deluxe et en Junior Suite, et le **Spa du Verger**, ouvert au printemps 2026 dans le jardin, un bain à remous et une douche extérieure privatisés par créneau d'une heure pour deux personnes, entre 10 h et 23 h. L'accès est inclus avec une Junior Suite et proposé en supplément pour les autres catégories, pour la clientèle hébergée uniquement.
 
 Combien de chambres compte l'Hôtel Saint-Delis ?
 
@@ -323,7 +323,7 @@ Combien de chambres compte l'Hôtel Saint-Delis ?
 
 Quel est le prix d'une nuit à l'Hôtel Saint-Delis ?
 
-Les tarifs d'appel relevés sur la fiche Relais & Châteaux de la maison sont de **218 €** pour une Chambre Classique, **274 €** pour une Supérieure, **387 €** pour une Deluxe et **510 €** pour une Junior Suite. Ce sont des prix planchers : en plein mois d'août, le moteur de réservation officiel affichait 621 € pour une nuit. Le petit-déjeuner n'est pas compris, comptez 34 € au buffet ou 40 € en chambre.
+Nous ne publions pas de grille tarifaire pour cette maison : les prix varient selon la saison et la catégorie, et les fourchettes qui circulent en ligne se contredisent. Le seul repère que nous reprenons est celui de **Yonder**, qui a séjourné sur place et situe l'entrée de gamme **à partir de 250 €** la nuit, et la **Junior Suite à partir de 800 € en basse saison**. Le petit-déjeuner n'est pas compris. Pour un tarif ferme à vos dates, passez par le site officiel de la maison.
 
 L'Hôtel Saint-Delis a-t-il un restaurant ?
 
@@ -335,11 +335,11 @@ Qui était Henri de Saint-Delis ?
 
 Quelle chambre réserver à l'Hôtel Saint-Delis ?
 
-Cela dépend de ce que vous venez chercher, et le critère n'est pas la surface. Entre la **Classique** (23 à 30 m²) et la **Supérieure** (23 à 29 m²), il n'y a pas de gain de volume : ce qui change est la position et l'ouverture sur le jardin. Le premier vrai saut est la **Deluxe**, qui ajoute 8 m² et une **baignoire balnéo** à la douche-hammam. Le second est la **Junior Suite**, qui monte à 40 à 46 m² et inclut **une heure de Spa du Verger** : à 510 € contre 387 €, c'est la seule catégorie qui donne accès au bain à remous sans supplément. Pour un séjour au calme absolu, demandez l'une des trois clés du jardin, dont une de plain-pied avec terrasse privative.
+Cela dépend de ce que vous venez chercher, et le critère n'est pas la surface. Entre la **Classique** (23 à 30 m²) et la **Supérieure** (23 à 29 m²), il n'y a pas de gain de volume : ce qui change est la position et l'ouverture sur le jardin. Le premier vrai saut est la **Deluxe**, qui ajoute 8 m² et une **baignoire balnéo** à la douche-hammam. Le second est la **Junior Suite**, qui monte à 40 à 46 m² et inclut **une heure de Spa du Verger** : c'est la seule catégorie qui donne accès au bain à remous sans supplément. Pour un séjour au calme absolu, demandez l'une des trois clés du jardin, dont une de plain-pied avec terrasse privative.
 
 ## Méthode et *sources*
 
-**Avis documentaire, sans séjour de contrôle**, et nous ne prétendons pas le contraire. Le **Score LMHS sur 10** relève de la [grille LMHS Destination](https://www.lesmeilleurshotelspa.fr/notre-methode/) ; l'**Indice Héritage Normand sur 5** est celui de nos deux palmarès normands. Les deux valeurs sont **reprises à l'identique** de notre [sélection du 4 août 2026](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/) et de notre [palmarès 5 étoiles du 14 août 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-normandie/), afin qu'une même adresse ne porte jamais deux notes différentes sur ce site. Adresse, téléphone, capacité, catégories, surfaces, équipements, horaires et tarifs du petit-déjeuner relevés le **20 août 2026** sur le [site officiel de la maison](https://www.hotel-saint-delis.fr/) ; tarifs d'appel par catégorie relevés le même jour sur sa [fiche Relais & Châteaux](https://www.relaischateaux.com/fr/hotel/le-saint-delis). La datation des trois maisons, l'appartenance au secteur sauvegardé, le suivi par les architectes des bâtiments de France, le room service, les horaires du bar, la gratuité du minibar et l'œuvre originale posée sur son chevalet proviennent du **dossier de presse de l'établissement**, publié en téléchargement libre dans la rubrique Presse & Médias de la Collection Saint-Siméon ; les tarifs qu'il porte encore, 170 € et 450 €, datent de l'ouverture et n'ont pas été repris. La répartition des neuf clés entre les bâtiments, le nom des architectes de la restauration et les observations de séjour proviennent de l'article de [Yonder](https://www.yonder.fr/hotels/hotels-du-mois/honfleur-normandie-hotel-saint-delis), cité comme tel. La biographie du peintre a été recoupée sur les notices publiques et les catalogues de vente. La protection du bâti a été vérifiée dans la **base Mérimée du ministère de la Culture** : le seul bien protégé de la rue du Puits est le puits d'angle avec la rue Bucaille, inscrit le 11 octobre 1930 ; la maison relève du **site patrimonial remarquable de Honfleur**, créé en 1974. **Aucune note de plateforme d'avis n'est reprise** : nous ne collectons pas d'avis clients, et un média ne publie pas en données structurées une moyenne qu'il n'a pas produite. Aucun partenariat commercial, aucune affiliation, aucun séjour offert. Photographies : site officiel de la maison.
+**Avis documentaire, sans séjour de contrôle**, et nous ne prétendons pas le contraire. Le **Score LMHS sur 10** relève de la [grille LMHS Destination](https://www.lesmeilleurshotelspa.fr/notre-methode/) ; l'**Indice Héritage Normand sur 5** est celui de nos deux palmarès normands. Les deux valeurs sont **reprises à l'identique** de notre [sélection du 4 août 2026](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/) et de notre [palmarès 5 étoiles du 14 août 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-normandie/), afin qu'une même adresse ne porte jamais deux notes différentes sur ce site. Adresse, téléphone, capacité, catégories, surfaces, équipements, horaires et tarifs du petit-déjeuner relevés le **20 août 2026** sur le [site officiel de la maison](https://www.hotel-saint-delis.fr/) ; catégories et affiliation recoupées le même jour sur sa [fiche Relais & Châteaux](https://www.relaischateaux.com/fr/hotel/le-saint-delis). **Aucune grille tarifaire n'est publiée** : les prix varient selon la saison et la catégorie, et les fourchettes disponibles se contredisent, celles du site officiel, de la fiche Relais & Châteaux et du dossier de presse ne coïncidant pas entre elles. Le seul repère repris est celui de Yonder, seule source de cette page à avoir séjourné sur place, qui situe l'entrée de gamme à partir de 250 € et la Junior Suite à partir de 800 € en basse saison. La datation des trois maisons, l'appartenance au secteur sauvegardé, le suivi par les architectes des bâtiments de France, le room service, les horaires du bar, la gratuité du minibar et l'œuvre originale posée sur son chevalet proviennent du **dossier de presse de l'établissement**, publié en téléchargement libre dans la rubrique Presse & Médias de la Collection Saint-Siméon. La répartition des neuf clés entre les bâtiments, le nom des architectes de la restauration et les observations de séjour proviennent de l'article de [Yonder](https://www.yonder.fr/hotels/hotels-du-mois/honfleur-normandie-hotel-saint-delis), cité comme tel. La biographie du peintre a été recoupée sur les notices publiques et les catalogues de vente. La protection du bâti a été vérifiée dans la **base Mérimée du ministère de la Culture** : le seul bien protégé de la rue du Puits est le puits d'angle avec la rue Bucaille, inscrit le 11 octobre 1930 ; la maison relève du **site patrimonial remarquable de Honfleur**, créé en 1974. **Aucune note de plateforme d'avis n'est reprise** : nous ne collectons pas d'avis clients, et un média ne publie pas en données structurées une moyenne qu'il n'a pas produite. Aucun partenariat commercial, aucune affiliation, aucun séjour offert. Photographies : site officiel de la maison.
 
 Score LMHS 8,6/10
 Héritage Normand 4,7/5
