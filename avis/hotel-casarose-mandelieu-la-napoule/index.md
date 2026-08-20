@@ -2,7 +2,7 @@
 
 > Avis LMHS sur l'Hôtel Casarose, Mandelieu-la-Napoule : 72 clés West Coast, villa de 155 m², ponton privé, table californienne. Ouvert toute l'année, dès 115 €.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-19 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-20 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -253,7 +253,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 19 août 2026
 
-Dernière mise à jour : 19 août 2026
+Dernière mise à jour : 20 août 2026
 
 Meilleurs.
 

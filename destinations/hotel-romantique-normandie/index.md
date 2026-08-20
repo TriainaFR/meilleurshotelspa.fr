@@ -2,7 +2,7 @@
 
 > 8 hôtels romantiques en Normandie classés par l'Indice Romantisme LMHS, de Honfleur à Étretat. Scores propriétaires, intimité, vue et spa. Sélection documentaire.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-normandie/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-19 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-normandie/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-20 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -77,7 +77,8 @@ mère classée deuxième ici. Le bémol : neuf clés, donc une disponibilité qu
 printemps à l'automne, et pas de restaurant sur place, ce qui oblige à réserver en ville.
 C'est aussi, pour un week-end à deux, plutôt un avantage.
 
-9 chambres · Douche vapeur dans chaque chambre · Maison du peintre Henri de Saint-Delis · Collection Saint-Siméon
+9 chambres · Douche vapeur dans chaque chambre · Maison du peintre Henri de Saint-Delis · Collection Saint-Siméon ·
+[Notre avis complet →](https://www.lesmeilleurshotelspa.fr/avis/hotel-saint-delis-honfleur/)
 
 02
 
@@ -342,7 +343,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 17 août 2026
 
-Dernière mise à jour : 19 août 2026
+Dernière mise à jour : 20 août 2026
 
 Meilleurs.
 

@@ -2,7 +2,7 @@
 
 > Les 8 meilleurs hôtels de luxe en Normandie en 2026, tous classés 5 étoiles. Scores LMHS, Indice Héritage Normand, spas et tables. Sélection documentaire.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-normandie/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-19 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-normandie/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-20 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -159,7 +159,8 @@ parenté de style avec la maison classée deuxième de ce palmarès, et donne ac
 installations. Le bémol : neuf clés, donc une disponibilité quasi nulle en saison, et pas de
 restaurant sur place. Pour les couples qui veulent Honfleur à pied, sans la voiture.
 
-9 chambres · Douche vapeur dans chaque chambre · Collection Saint-Siméon · Maison du peintre Henri de Saint-Delis
+9 chambres · Douche vapeur dans chaque chambre · Collection Saint-Siméon · Maison du peintre Henri de Saint-Delis ·
+[Notre avis complet →](https://www.lesmeilleurshotelspa.fr/avis/hotel-saint-delis-honfleur/)
 
 06
 
@@ -349,7 +350,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 14 août 2026
 
-Dernière mise à jour : 19 août 2026
+Dernière mise à jour : 20 août 2026
 
 Meilleurs.
 

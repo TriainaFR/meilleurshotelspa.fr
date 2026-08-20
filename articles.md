@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-19 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-20 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -24,6 +24,14 @@ Spas20 août 2026
 Côte d'Azur · 16 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-cote-dazur/)[
+
+Enquête20 août 2026
+
+### Hôtel Saint-Delis Honfleur, avis : neuf chambres dans la maison du peintre
+
+Honfleur · 15 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/hotel-saint-delis-honfleur/)[
 
 Palmarès19 août 2026
 

@@ -2,7 +2,7 @@
 
 > Quatorze hôtels de charme en Alsace classés par le Protocole LMHS et la grille Destination, de la Route des Vins à Strasbourg. Prix, spas, tables étoilées.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-19 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-20 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -645,7 +645,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 12 août 2026
 
-Dernière mise à jour : 19 août 2026
+Dernière mise à jour : 20 août 2026
 
 Meilleurs.
 

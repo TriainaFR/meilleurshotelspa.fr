@@ -2,7 +2,7 @@
 
 > 7 hammams marseillais classés par l'Indice Hammam LMHS, du 1er au 6e arrondissement. Rituels, surfaces, créneaux mixtes. Et une adresse de référence fermée en 2026.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-marseille/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-19 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-marseille/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-20 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -312,7 +312,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 18 août 2026
 
-Dernière mise à jour : 19 août 2026
+Dernière mise à jour : 20 août 2026
 
 Meilleurs.
 
