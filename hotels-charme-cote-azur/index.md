@@ -2,7 +2,7 @@
 
 > Notre palmarès 2026 des 12 meilleurs hôtels de charme sur la Côte d'Azur : scores LMHS/10, Indice Saisonnalité prix haute/basse saison, bémols honnêtes et guide par zone.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-20 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-21 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -96,7 +96,7 @@ Depuis 1953, la Chèvre d'Or s'est forgée dans les remparts médiévaux d'Eze u
 Le bémol LMHS : l'infinity pool n'est pas chauffée, inutilisable en dehors de l'été. Certains clients signalent un fort turnover du personnel en saison, avec des lacunes de service qui contrastent avec la réputation de la maison.
 
 Eze village · Dès 982 €/nuit en basse saison · Dès 2 610 € en haute saison ·
-[Site officiel →](https://www.chevredor.fr)
+[Notre avis complet sur la Chèvre d'Or →](https://www.lesmeilleurshotelspa.fr/avis/chateau-chevre-or-eze/)
 
 03
 
@@ -332,7 +332,7 @@ Rédacteur, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 20 août 2026
+Dernière mise à jour : 21 août 2026
 
 Meilleurs.
 

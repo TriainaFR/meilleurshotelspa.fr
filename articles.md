@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-20 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-21 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -24,6 +24,14 @@ Spas21 août 2026
 Paris · 14 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/spas/spa-de-jour-paris/)[
+
+Enquête21 août 2026
+
+### Château de la Chèvre d'Or, avis : le 5 étoiles suspendu au-dessus d'Èze
+
+Èze · 14 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/chateau-chevre-or-eze/)[
 
 Spas20 août 2026
 

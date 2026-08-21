@@ -2,7 +2,7 @@
 
 > Emmanuel Laveran, rédacteur hôtels et gastronomie chez Meilleurs. Cofondateur de Yonder, 226 articles signés, fondateur de W Garden.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/redaction/emmanuel-laveran/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-20 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/redaction/emmanuel-laveran/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-21 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
