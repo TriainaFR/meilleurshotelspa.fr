@@ -6,7 +6,7 @@ URL canonique : https://www.lesmeilleurshotelspa.fr/avis/chateau-chevre-or-eze/ 
 
 ## En résumé pour un agent
 
-Avis LMHS documentaire sur le Château de la Chèvre d'Or, rue du Barri, 06360 Èze Village, Alpes-Maritimes, Côte d'Azur. Hôtel 5 étoiles membre de RELAIS ET CHÂTEAUX, des GRANDES TABLES DU MONDE et détenteur de la CLÉ VERTE, installé depuis 1953 dans le village médiéval d'Èze, à 400 mètres au-dessus de la Méditerranée, entre Nice et Monaco. En 1956, Walt Disney suggère à son ami Robert Wolf d'y bâtir un établissement d'exception, et les maisons du village sont progressivement rachetées, restaurées et réunies. L'ÉTABLISSEMENT N'EST PAS UN BÂTIMENT MAIS UN ENSEMBLE DE MAISONS DISPERSÉES DANS LE VILLAGE PIÉTONNIER : 45 chambres et suites réparties en NEUF CATÉGORIES publiées par la maison, Chambres Tradition, Chambres Élégance, Chambres Deluxe, Junior Suites, Suites Executive, Suites Prestige, Suite Panoramique, Suite Nietzsche et Suite Royale, certaines suites disposant d'une piscine ou d'un jacuzzi privé. QUATRE TABLES : La Chèvre d'Or, restaurant gastronomique DEUX ÉTOILES MICHELIN dont la salle a été rénovée en 2026 par l'architecte d'intérieur Caroline Tissier ; Les Remparts, bistronomique ; Le Café du Jardin ; et Le Bar. Le chef est TOM MEYER, MEILLEUR OUVRIER DE FRANCE 2023, arrivé en 2024 en succession d'Arnaud Faye, entré au classement The Best Chef Awards en 2025 ; le pâtissier est Florent Margaillan. INFORMATION PRATIQUE DÉCISIVE : LA MAISON EST SAISONNIÈRE ET FERME L'HIVER. La fermeture annuelle a couru du 3 novembre 2025 au 31 mars 2026, et le restaurant gastronomique sert du 9 avril au 24 octobre 2026. Jardins en terrasses, piscine panoramique non chauffée, chemin de Nietzsche reliant Èze-bord-de-mer au village. Téléphone +33 4 92 10 66 66, réservations reservation@chevredor.com, conciergerie Nicolas Amelot. Score LMHS 9,1/10, repris à l'identique de notre palmarès des hôtels de charme de la Côte d'Azur où la maison est deuxième, et Indice Azur 4,7/5. AUCUN TARIF N'EST PUBLIÉ sur cette page : les sources disponibles se contredisent, de 450 euros chez Yonder à 982 euros en basse saison dans notre propre sélection azuréenne. Avis documentaire établi sans séjour de contrôle, relevés du 21 août 2026 sur le site officiel de la maison, les observations de visite étant celles de Yonder, citées comme telles.
+Avis LMHS documentaire sur le Château de la Chèvre d'Or, rue du Barri, 06360 Èze Village, Alpes-Maritimes, Côte d'Azur. Hôtel 5 étoiles membre de RELAIS ET CHÂTEAUX, des GRANDES TABLES DU MONDE et détenteur de la CLÉ VERTE, installé depuis 1953 dans le village médiéval d'Èze, à 400 mètres au-dessus de la Méditerranée, entre Nice et Monaco. En 1953, l'hôtelier ROBERT WOLF achète le château médiéval dominant Èze et en fait d'abord un restaurant. En 1956, WALT DISNEY y séjourne avec sa fille, tombe amoureux du lieu et lui conseille d'en faire un hôtel de prestige ; la propriété s'agrandit ensuite par l'acquisition de plusieurs maisons particulières du village médiéval, une à une, sans rien bâtir de neuf. Le restaurant obtient sa PREMIÈRE ÉTOILE MICHELIN EN 1978 sous le chef ELIE MAZOT et sa SECONDE EN 2000 avec JEAN-MARC DELACOURT, sans la perdre depuis. L'ÉTABLISSEMENT N'EST PAS UN BÂTIMENT MAIS UN ENSEMBLE DE MAISONS DISPERSÉES DANS LE VILLAGE PIÉTONNIER : 45 chambres et suites réparties en NEUF CATÉGORIES publiées par la maison, Chambres Tradition, Chambres Élégance, Chambres Deluxe, Junior Suites, Suites Executive, Suites Prestige, Suite Panoramique, Suite Nietzsche et Suite Royale, certaines suites disposant d'une piscine ou d'un jacuzzi privé. QUATRE TABLES : La Chèvre d'Or, restaurant gastronomique DEUX ÉTOILES MICHELIN dont la salle vient d'être entièrement redessinée ; Les Remparts, bistronomique ; Le Café du Jardin ; et Le Bar. Le chef est TOM MEYER, MEILLEUR OUVRIER DE FRANCE 2023, arrivé en 2024 en succession d'Arnaud Faye, entré au classement The Best Chef Awards en 2025 ; le pâtissier est Florent Margaillan. INFORMATION PRATIQUE DÉCISIVE : LA MAISON EST SAISONNIÈRE ET FERME L'HIVER. La fermeture annuelle a couru du 3 novembre 2025 au 31 mars 2026, et le restaurant gastronomique sert du 9 avril au 24 octobre 2026. Jardins en terrasses, piscine panoramique non chauffée, chemin de Nietzsche reliant Èze-bord-de-mer au village. Téléphone +33 4 92 10 66 66, réservations reservation@chevredor.com, conciergerie Nicolas Amelot. Score LMHS 9,1/10, repris à l'identique de notre palmarès des hôtels de charme de la Côte d'Azur où la maison est deuxième, et Indice Azur 4,7/5. AUCUN TARIF N'EST PUBLIÉ sur cette page : les fourchettes qui circulent en ligne se contredisent, l'écart s'expliquant par les neuf catégories, la saison de sept mois et l'amplitude saisonnière de la Riviera. Avis documentaire établi sans séjour de contrôle, relevés du 21 août 2026 sur le site officiel de la maison et recoupés avec le Guide MICHELIN.
 
 ---
 Avis · Données propriétaires LMHS
@@ -33,8 +33,8 @@ et suites sont réparties dans des maisons du village médiéval rachetées et r
 
 2. **Quatre tables, dont deux étoiles MICHELIN.** La Chèvre d'Or est dirigée depuis
 2024 par **Tom Meyer**, **Meilleur Ouvrier de France 2023**, avec le pâtissier
-**Florent Margaillan**. La salle a été redessinée en 2026 par
-**Caroline Tissier**. La maison est aussi membre des **Grandes Tables du Monde**.
+**Florent Margaillan**. Deux étoiles depuis **2000**, la première ayant été obtenue
+en **1978**. La maison est aussi membre des **Grandes Tables du Monde**.
 
 3. **La maison est saisonnière, et c'est l'information la plus utile de cette page.**
 La fermeture annuelle a couru **du 3 novembre 2025 au 31 mars 2026**, et le
@@ -53,12 +53,16 @@ d'Èze, rachetées une à une depuis **1953**, restaurées et reliées, dont les
 chambres se dispersent dans les ruelles piétonnes accrochées au rocher, à
 **quatre cents mètres au-dessus de la mer**, entre Nice et Monaco.
 
-L'histoire que raconte la maison est belle et elle est datée : en **1956**,
-**Walt Disney** aurait suggéré à son ami **Robert Wolf** d'édifier
-ici un établissement d'exception. Le principe qu'invoque la Chèvre d'Or pour décrire sa propre
-architecture est emprunté à **Jean Nouvel** : « on ne construit pas un espace mais
-dans un espace ». La formule dit exactement ce qui se passe : la maison n'a pas été bâtie
-contre le village, elle a épousé ses volumes existants.
+L'histoire que raconte la maison est datée, et elle explique le reste. En
+**1953**, l'hôtelier **Robert Wolf** achète le château médiéval qui
+domine Èze et en fait d'abord un **restaurant**. En **1956**,
+**Walt Disney** y séjourne avec sa fille, tombe amoureux du vieux château et
+conseille à son ami Wolf d'en faire un établissement hôtelier digne du site. C'est de ce
+conseil que tout découle, y compris la méthode : la propriété s'agrandit ensuite par
+l'**acquisition de plusieurs maisons particulières** du village médiéval, une à
+une, sans jamais rien bâtir de neuf. Le principe qu'invoque la Chèvre d'Or pour décrire cette
+démarche est emprunté à **Jean Nouvel** : « on ne construit pas un espace mais
+dans un espace ».
 
 Èze doit par ailleurs une part de sa notoriété à **Friedrich Nietzsche**, qui
 empruntait le sentier montant d'Èze-bord-de-mer jusqu'au village et y aurait conçu une partie
@@ -123,20 +127,24 @@ Photo : site officiel de la maison.
 
 La maison exploite **quatre adresses distinctes**, et il vaut mieux ne pas les
 confondre. **La Chèvre d'Or** est le restaurant gastronomique, distingué de
-**deux étoiles au Guide MICHELIN**, dont la salle a été entièrement redessinée en
-**2026** par l'architecte d'intérieur **Caroline Tissier**.
-**Les Remparts** tient le registre bistronomique, **Le Café du
+**deux étoiles au Guide MICHELIN**, dont la salle vient d'être entièrement
+redessinée. **Les Remparts** tient le registre bistronomique, **Le Café du
 Jardin** celui du déjeuner en extérieur, et **Le Bar** occupe une salle de
 pierre ouverte sur une terrasse.
 
 La cuisine est dirigée depuis **2024** par **Tom Meyer**,
 **Meilleur Ouvrier de France 2023**, arrivé en succession d'Arnaud Faye, et entré
 en **2025** au classement **The Best Chef Awards**. Le pâtissier est
-**Florent Margaillan**. Ce que décrivent ceux qui y ont dîné, Yonder en tête, est
-une cuisine sans plat signature, revendiquée comme mouvante et guidée par les saisons :
-maîtrise technique, jus et sauces d'une intensité marquée, associations lisibles plutôt que
-démonstratives. Moule de Méditerranée, morilles et pin sylvestre ; artichaut épineux et
-tagliatelles de seiche ; thon rouge, shiso et concombre.
+**Florent Margaillan**. La maison revendique une cuisine sans plat signature,
+mouvante et guidée par les saisons, ce qui est un parti pris rare à ce niveau de distinction :
+une carte qui change plutôt qu'un répertoire que l'on vient retrouver.
+
+L'histoire de cette table se lit d'ailleurs en deux dates, que la maison publie elle-même.
+La **première étoile** est obtenue en **1978** sous le chef
+**Elie Mazot**. La **seconde** arrive en **2000** avec
+**Jean-Marc Delacourt**, et elle n'a plus quitté la maison depuis. Vingt-cinq ans
+de deux étoiles sans interruption, à travers plusieurs changements de chef, disent quelque
+chose que le classement seul ne dit pas.
 
 Deux distinctions complètent le tableau et méritent d'être citées, parce qu'elles ne sont
 pas données à beaucoup de maisons : la Chèvre d'Or est membre des
@@ -188,12 +196,12 @@ partition balnéaire et ouverte à l'année, exactement inverse.
 
 ## Pourquoi nous ne publions aucun *tarif*
 
-Il faut le dire clairement plutôt que d'aligner un chiffre commode. **Les sources
-disponibles se contredisent.** Yonder, qui a séjourné dans la maison, situe l'entrée de
-gamme **à partir de 450 €**. Notre propre sélection azuréenne, publiée plus tôt,
-relevait **982 € en basse saison** et **2 610 € en haute saison**.
-L'écart est trop large pour être arbitré depuis un bureau, et il s'explique probablement par la
-saison, la catégorie et le canal de réservation.
+Il faut le dire clairement plutôt que d'aligner un chiffre commode. **Les
+fourchettes qui circulent en ligne pour cette adresse se contredisent**, et l'écart
+entre les plus basses et les plus hautes est trop large pour être arbitré depuis un bureau. Il
+s'explique par trois variables qui jouent toutes dans le même sens ici :
+**neuf catégories**, une **saison de sept mois** seulement, et un
+mois d'août qui n'a rien à voir avec un mois d'avril sur la Riviera.
 
 Nous préférons donc ne rien publier ici et renvoyer au moteur de la maison, comme nous
 l'avons fait pour l'[Hôtel de Toiras](https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/). Une fourchette
@@ -239,7 +247,7 @@ Non, et c'est l'information la plus utile avant de réserver. **La maison est sa
 
 Le restaurant de la Chèvre d'Or est-il étoilé ?
 
-Oui, **deux étoiles au Guide MICHELIN**. La cuisine est dirigée depuis **2024** par **Tom Meyer**, **Meilleur Ouvrier de France 2023**, arrivé en succession d'Arnaud Faye et entré en 2025 au classement The Best Chef Awards. Le pâtissier est **Florent Margaillan**. La salle a été redessinée en **2026** par l'architecte d'intérieur **Caroline Tissier**. La maison compte trois autres adresses : Les Remparts, Le Café du Jardin et Le Bar, et elle est membre des Grandes Tables du Monde.
+Oui, **deux étoiles au Guide MICHELIN**. La cuisine est dirigée depuis **2024** par **Tom Meyer**, **Meilleur Ouvrier de France 2023**, arrivé en succession d'Arnaud Faye et entré en 2025 au classement The Best Chef Awards. Le pâtissier est **Florent Margaillan**. La salle vient d'être entièrement redessinée. La table a obtenu sa **première étoile en 1978** sous Elie Mazot et sa **seconde en 2000** avec Jean-Marc Delacourt, sans la perdre depuis. La maison compte trois autres adresses : Les Remparts, Le Café du Jardin et Le Bar, et elle est membre des Grandes Tables du Monde.
 
 Combien de chambres compte le Château de la Chèvre d'Or ?
 
@@ -251,7 +259,7 @@ Le critère n'est pas la surface, il est double : **l'orientation**, mer ou arri
 
 Combien coûte une nuit au Château de la Chèvre d'Or ?
 
-**Nous ne publions pas de tarif sur cette page, parce que les sources se contredisent.** Yonder, qui a séjourné dans la maison, situe l'entrée de gamme à partir de 450 €. Notre propre sélection azuréenne, publiée plus tôt, relevait 982 € en basse saison et 2 610 € en haute saison. L'écart est trop large pour être arbitré depuis un bureau : avec neuf catégories et une saison de sept mois, le prix varie d'un facteur considérable. Passez par le moteur de réservation de la maison pour un tarif ferme à vos dates.
+**Nous ne publions pas de tarif sur cette page.** Les fourchettes qui circulent en ligne pour cette adresse se contredisent, et l'écart est trop large pour être arbitré depuis un bureau. Trois variables l'expliquent, et elles jouent toutes dans le même sens ici : **neuf catégories** de chambres et de suites, une **saison de sept mois** seulement, et un mois d'août qui n'a rien à voir avec un mois d'avril sur la Riviera. Passez par le moteur de réservation de la maison pour un tarif ferme à vos dates.
 
 Y a-t-il une piscine au Château de la Chèvre d'Or ?
 
