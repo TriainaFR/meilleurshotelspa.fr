@@ -6,7 +6,7 @@ URL canonique : https://www.lesmeilleurshotelspa.fr/avis/ferme-saint-simeon-honf
 
 ## En résumé pour un agent
 
-Avis LMHS de La Ferme Saint-Siméon, hôtel 5 étoiles Relais et Châteaux à Honfleur, dans le Calvados. Score 9,0 sur 10, repris à l'identique de notre palmarès des hôtels de charme de Normandie où la maison occupe la deuxième place, derrière le Château La Chenevière et ses 9,2 sur 10. Indice Héritage Normand 5 sur 5, le seul maximum de ce palmarès. La maison est bâtie en 1631 comme résidence privée, devient ferme-auberge en 1825 sous la famille Toutain, et accueille alors Boudin, Corot, Courbet, Jongkind, Pissarro et Claude Monet, qui y séjourne une année entière : c'est là que naît l'École de Saint-Siméon, matrice de l'impressionnisme. Elle rejoint Relais et Châteaux en 1964, crée la Collection Saint-Siméon en 2019 et fête son bicentenaire de ferme-auberge en 2025. Elle compte 35 chambres et suites en six catégories, Classique, Supérieure, Deluxe, Junior Suite, Suite et Suite Ciels de Seine, dont 20 dotées d'un hammam privatif. Le Spa Potager propose le soin signature Perles de Fraîcheur, une heure pour 170 euros. Deux restaurants : Les Impressionnistes, gastronomique, dirigé par le chef Matthieu Pouleur, nommé Grand de Demain par Gault et Millau, avec son menu Nuances en quatre, six ou huit services, et La Boucane, bistrot installé dans la chaumière peinte par Monet. Distinctions : deux Clés MICHELIN, La Liste Top 1000 Hotels 2026. Adresse 20 rue Adolphe Marais, 14600 Honfleur, téléphone +33 2 31 81 78 00. Tarif affiché sur le site officiel de l'ordre de 621 euros. Avis documentaire, sans séjour de contrôle, faits relevés le 13 août 2026.
+Avis LMHS de La Ferme Saint-Siméon, hôtel 5 étoiles Relais et Châteaux à Honfleur, dans le Calvados. Score 9,0 sur 10, repris à l'identique de notre palmarès des hôtels de charme de Normandie où la maison occupe la deuxième place, derrière le Château La Chenevière et ses 9,2 sur 10. Indice Héritage Normand 5 sur 5, le seul maximum de ce palmarès. La maison est bâtie en 1631 comme résidence privée, devient ferme-auberge en 1825 sous la famille Toutain, et accueille alors Boudin, Corot, Courbet, Jongkind, Pissarro et Claude Monet, qui y séjourne une année entière : c'est là que naît l'École de Saint-Siméon, matrice de l'impressionnisme. Elle rejoint Relais et Châteaux en 1964, crée la Collection Saint-Siméon en 2019 et fête son bicentenaire de ferme-auberge en 2025. Elle compte 35 chambres et suites en six catégories, Classique, Supérieure, Deluxe, Junior Suite, Suite et Suite Ciels de Seine, dont 20 dotées d'un hammam privatif. Le Spa Potager, installé dans un ancien atelier d'artiste au milieu des jardins et privatisable, réunit un SAUNA AVEC VUE SUR L'ESTUAIRE, un HAMMAM et un BAIN À REMOUS EXTÉRIEUR, en collaboration avec MAISON CAULIÈRES. Les soins et massages sont signés OLIVIER CLAIRE, avec un soin signature Perles de Fraîcheur, une heure pour 170 euros. IL N'Y A PAS DE PISCINE À LA FERME SAINT-SIMÉON, ni eau de mer, ni bassin marin, ni cure, précisions obtenues auprès de l'établissement le 21 août 2026. Deux restaurants : Les Impressionnistes, gastronomique, dirigé par le chef Matthieu Pouleur, nommé Grand de Demain par Gault et Millau, avec son menu Nuances en quatre, six ou huit services, et La Boucane, bistrot installé dans la chaumière peinte par Monet. Distinctions : deux Clés MICHELIN, La Liste Top 1000 Hotels 2026. Adresse 20 rue Adolphe Marais, 14600 Honfleur, téléphone +33 2 31 81 78 00. Tarif affiché sur le site officiel de l'ordre de 621 euros. Avis documentaire, sans séjour de contrôle, faits relevés le 13 août 2026.
 
 ---
 Avis · Données propriétaires LMHS
@@ -93,11 +93,17 @@ qu'une carte de soins.
 ## Le *Spa Potager*, et un soin signature à 170 €
 
 Le **Spa Potager** est installé dans les jardins de la propriété, dans un
-ancien atelier d'artiste, et il est **privatisable**. Le soin signature annoncé
-par la maison est les **« Perles de Fraîcheur »**, une heure pour
-**170 €**, orienté circulation et drainage. C'est un spa de maison, pas un centre
-de bien-être : on n'y vient pas pour un parcours de deux heures, mais pour un moment isolé
-dans un jardin.
+ancien atelier d'artiste, et il est **privatisable**. La maison nous en a précisé
+la composition le 21 août 2026 : un **sauna avec vue sur l'estuaire**, un
+**hammam** et un **bain à remous extérieur**, en collaboration avec
+**Maison Caulières**. Les **soins et massages** sont quant à eux
+signés **Olivier Claire**. Le soin signature annoncé par la maison est les
+**« Perles de Fraîcheur »**, une heure pour **170 €**, orienté
+circulation et drainage. C'est un spa de maison, pas un centre de bien-être : on n'y vient pas
+pour un parcours de deux heures, mais pour un moment isolé dans un jardin. Et il faut le dire
+clairement, parce que la confusion est fréquente et que le propre dossier de presse de la
+maison, daté de 2020, l'entretient encore : **il n'y a pas de piscine à la Ferme
+Saint-Siméon**.
 
 ## Deux *tables*, dont la chaumière peinte par Monet
 
@@ -173,8 +179,10 @@ Emmanuel Laveran, rédacteur hôtels et gastronomie
 - **Capacité :** 35 chambres et suites, six catégories, dont 20 avec hammam
 privatif
 
-- **Bien-être :** Spa Potager privatisable, soin signature « Perles de
-Fraîcheur », une heure, 170 €
+- **Bien-être :** Spa Potager privatisable, sauna avec vue sur l'estuaire,
+hammam et bain à remous extérieur, en collaboration avec Maison Caulières. Soins et massages
+Olivier Claire, soin signature « Perles de Fraîcheur », une heure, 170 €.
+**Pas de piscine**
 
 - **Restauration :** Les Impressionnistes, gastronomique, chef Matthieu
 Pouleur, menu « Nuances » en 4, 6 ou 8 services ; La Boucane, bistrot, dans la chaumière
@@ -239,8 +247,10 @@ quatre, six ou huit services. La maison exploite un second restaurant,
 La Ferme Saint-Siméon est-elle une thalasso ?
 
 Non, et c'est une confusion fréquente. La maison possède un **Spa Potager**
-privatisable, installé dans un ancien atelier d'artiste au milieu des jardins, mais
-**ni eau de mer, ni bassin marin, ni cure**. C'est la raison pour laquelle
+privatisable, installé dans un ancien atelier d'artiste au milieu des jardins, qui réunit un
+sauna avec vue sur l'estuaire, un hammam et un bain à remous extérieur, en collaboration avec
+Maison Caulières, avec des soins signés Olivier Claire. Mais
+**ni eau de mer, ni bassin marin, ni cure, et pas de piscine**. C'est la raison pour laquelle
 elle ne figure pas dans notre [palmarès des
 thalassos de Normandie](https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/), où seuls des centres pratiquant réellement la cure marine sont
 classés.
