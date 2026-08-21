@@ -325,6 +325,8 @@ chez NeurøRecup et à 290 € en solo chez M-Yoga.
 
 - [Meilleur hammam à Paris](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/), 8 adresses testées, thermomètre en main
 
+- [Spa de jour à Paris](https://www.lesmeilleurshotelspa.fr/spas/spa-de-jour-paris/), 8 adresses et une seule entrée sans soin imposé
+
 - [Hôtel de luxe avec spa à Paris](https://www.lesmeilleurshotelspa.fr/hotel-luxe-avec-spa-paris/), les 8 spas de palaces comparés
 
 - [Thalasso en Île-de-France](https://www.lesmeilleurshotelspa.fr/spas/thalasso-ile-de-france/), 8 adresses testées près de Paris

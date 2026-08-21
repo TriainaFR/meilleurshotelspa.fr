@@ -316,6 +316,8 @@ Parce qu'elles ne relèvent pas de la même grille. Cinq adresses ont été visi
 
 - [Spas avec bain froid à Paris : 5 adresses testées](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/)
 
+- [Spa de jour à Paris : 8 adresses, et une seule vend l'entrée seule](https://www.lesmeilleurshotelspa.fr/spas/spa-de-jour-paris/), qui prolonge le constat sur l'entrée sèche
+
 - [Thalasso en Île-de-France : 8 adresses testées près de Paris](https://www.lesmeilleurshotelspa.fr/spas/thalasso-ile-de-france/)
 
 - [Les 50 meilleurs hôtels et spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)

@@ -274,6 +274,8 @@ Thermomètre ±0,5 °C
 
 - [Spas avec bain froid à Paris : 5 adresses testées, toutes sous 100 €](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/)
 
+- [Spa de jour à Paris : 8 adresses, et une seule vend l'entrée seule](https://www.lesmeilleurshotelspa.fr/spas/spa-de-jour-paris/), pour une journée sans nuitée
+
 [Swann Bertaud](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/)
 Rédacteur, Meilleurs.
 

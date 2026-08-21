@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Spas21 août 2026
+
+### Spa de jour à Paris : 8 adresses, et une seule vend l'entrée seule
+
+Paris · 14 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/spas/spa-de-jour-paris/)[
+
 Spas20 août 2026
 
 ### Meilleur spa sur la Côte d'Azur : 10 adresses classées en 2026
