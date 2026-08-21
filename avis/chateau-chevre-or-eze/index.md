@@ -43,10 +43,7 @@ février.
 
 **Avis documentaire.** Nous n'avons pas dormi à la Chèvre d'Or. Les
 éléments de cette page ont été relevés le 21 août 2026 sur le site officiel de la maison et
-recoupés avec le Guide MICHELIN. Les observations de séjour sont celles de **Yonder**,
-citées comme telles. **Aucun tarif n'est publié** : les sources disponibles se
-contredisent, et nous expliquons pourquoi plus bas. Notre note porte sur ce qui est
-vérifiable, pas sur une nuit que nous n'avons pas passée.
+recoupés avec le Guide MICHELIN.
 
 ## Un village médiéval devenu hôtel, et non l'*inverse*
 
