@@ -89,8 +89,7 @@ l'horizon. Vergers, aromatiques, jardins suspendus, terrasses au couchant : la m
 peu de choses à un site qui n'en demandait pas.
 
 La **piscine panoramique** prolonge cette sensation de suspension, posée sur une
-terrasse qui domine l'ensemble. Précision que la maison nous a apportée et qui corrige ce que
-nous avions écrit ailleurs : la propriété compte **deux piscines, dont une
+terrasse qui domine l'ensemble. Précision que la maison nous a apportée : la propriété compte **deux piscines, dont une
 chauffée**, ainsi qu'un **jacuzzi**. La question de la température du
 bassin, que nous avions posée en réserve, ne se pose donc pas.
 
