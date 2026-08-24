@@ -2,7 +2,7 @@
 
 > Les 10 meilleurs hôtels de charme de Bretagne classés par LMHS : Castelbrac, Rochevilaine, Le Brittany. Scores sur 10, indice breton, prix et bémols.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-21 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-24 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -448,7 +448,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 27 juillet 2026
 
-Dernière mise à jour : 21 août 2026
+Dernière mise à jour : 24 août 2026
 
 Meilleurs.
 

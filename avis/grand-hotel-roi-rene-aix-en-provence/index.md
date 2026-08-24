@@ -2,7 +2,7 @@
 
 > Avis LMHS sur le Grand Hôtel Roi René Aix-en-Provence MGallery : rénovation Fabien Roque, restaurant AÏGA, piscine chauffée en centre-ville. Score 7,7/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/grand-hotel-roi-rene-aix-en-provence/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-21 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/grand-hotel-roi-rene-aix-en-provence/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-24 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -255,7 +255,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 14 août 2026
 
-Dernière mise à jour : 21 août 2026
+Dernière mise à jour : 24 août 2026
 
 Meilleurs.
 

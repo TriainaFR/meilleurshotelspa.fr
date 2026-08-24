@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-21 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-24 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -24,6 +24,14 @@ Destinations24 août 2026
 Pyrénées · 16 min de lecture
 
 ](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-pyrenees/)[
+
+Enquête24 août 2026
+
+### Hôtel Le Provençal, Giens : avis sur les 75 ans de la presqu'île
+
+Giens · 15 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/hotel-le-provencal-giens/)[
 
 Spas21 août 2026
 

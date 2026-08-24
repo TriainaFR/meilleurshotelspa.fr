@@ -2,7 +2,7 @@
 
 > 10 spas azuréens dont 8 mesurés au Protocole LMHS sur 20, de Ramatuelle à Vence. Surfaces, soins signature et tarifs. Le premier n'est pas celui qu'on cite.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-cote-dazur/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-21 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-cote-dazur/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-24 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -353,6 +353,8 @@ Protocole LMHS /20
 
 - [Château de la Chèvre d'Or, avis : le 5 étoiles suspendu au-dessus d'Èze](https://www.lesmeilleurshotelspa.fr/avis/chateau-chevre-or-eze/)
 
+- [Hôtel Le Provençal, Giens, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-le-provencal-giens/), dont l'espace bien-être a ouvert le 1er août 2026
+
 - [Les meilleurs hôtels de luxe de Saint-Tropez](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/)
 
 - [Meilleurs hôtels de luxe à Nice : 8 adresses d'exception](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/)
@@ -366,7 +368,7 @@ Rédacteur hôtels et gastronomie, Meilleurs.
 
 Publié le 20 août 2026
 
-Dernière mise à jour : 21 août 2026
+Dernière mise à jour : 24 août 2026
 
 Meilleurs.
 

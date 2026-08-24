@@ -6,7 +6,7 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-08-24",
-  "count": 60,
+  "count": 61,
   "articles": [
     {
       "slug": "charme-pyrenees",
@@ -19,6 +19,18 @@
       "url": "https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-pyrenees/",
       "markdown": "https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-pyrenees/index.md",
       "image": "https://www.lesmeilleurshotelspa.fr/images/py-riberach.jpg"
+    },
+    {
+      "slug": "provencal-giens",
+      "title": "Hôtel Le Provençal, Giens : avis sur les 75 ans de la presqu'île",
+      "category": "Enquête",
+      "destination": "Giens",
+      "region": "Var",
+      "published": "2026-08-24",
+      "readingMinutes": 15,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/hotel-le-provencal-giens/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/hotel-le-provencal-giens/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/vr-prov-chambre.jpg"
     },
     {
       "slug": "spa-de-jour-paris",

@@ -2,7 +2,7 @@
 
 > Avis LMHS sur l'Hôtel Casarose, Mandelieu-la-Napoule : 72 clés West Coast, villa de 155 m², ponton privé, table californienne. Ouvert toute l'année, dès 115 €.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-21 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-24 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -248,6 +248,8 @@ Sans séjour de contrôle
 
 - [Château de la Chèvre d'Or, avis](https://www.lesmeilleurshotelspa.fr/avis/chateau-chevre-or-eze/), la partition inverse, perchée et saisonnière
 
+- [Hôtel Le Provençal, Giens, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-le-provencal-giens/), l'autre 4 étoiles de notre base varoise
+
 - [Notre méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/), les grilles de notation et les règles d'indépendance
 
 [Swann Bertaud](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/)
@@ -255,7 +257,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 19 août 2026
 
-Dernière mise à jour : 21 août 2026
+Dernière mise à jour : 24 août 2026
 
 Meilleurs.
 

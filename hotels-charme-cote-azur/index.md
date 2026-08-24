@@ -2,7 +2,7 @@
 
 > Notre palmarès 2026 des 12 meilleurs hôtels de charme sur la Côte d'Azur : scores LMHS/10, Indice Saisonnalité prix haute/basse saison, bémols honnêtes et guide par zone.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-21 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-24 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -315,6 +315,8 @@ Indice Saisonnalité propriétaire
 
 - [Hôtel Casarose, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/), le 4 étoiles de Mandelieu ouvert toute l'année
 
+- [Hôtel Le Provençal, Giens, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-le-provencal-giens/), la même famille depuis 1951 sur la presqu'île
+
 - [Hôtels de luxe à Cannes : les 8 meilleures adresses, classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/)
 
 - [Meilleurs hôtels de luxe à Nice : 8 adresses d'exception](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/), dont sont repris ici le Negresco et La Pérouse
@@ -332,7 +334,7 @@ Rédacteur, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 21 août 2026
+Dernière mise à jour : 24 août 2026
 
 Meilleurs.
 

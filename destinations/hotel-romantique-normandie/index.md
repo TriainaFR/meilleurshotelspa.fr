@@ -2,7 +2,7 @@
 
 > 8 hôtels romantiques en Normandie classés par l'Indice Romantisme LMHS, de Honfleur à Étretat. Scores propriétaires, intimité, vue et spa. Sélection documentaire.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-normandie/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-21 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-normandie/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-24 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -343,7 +343,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 17 août 2026
 
-Dernière mise à jour : 21 août 2026
+Dernière mise à jour : 24 août 2026
 
 Meilleurs.
 
