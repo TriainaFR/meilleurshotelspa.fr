@@ -22,8 +22,8 @@ Publié le 21 août 2026
 ✺
 14 min de lecture
 
-Les jardins en terrasses tombent vers la Méditerranée, quatre cents mètres plus
-bas. Photo : site officiel de la maison.
+La chèvre dorée qui donne son nom à la maison, sur les toits, au-dessus de la
+rade de Saint-Jean-Cap-Ferrat. Photo : photothèque du Château de la Chèvre d'Or.
 
 ## TL;DR : l'essentiel · Score LMHS 9,1/10, Indice Azur 4,7/5
 
@@ -79,6 +79,8 @@ en charge à l'arrivée comme au départ. Ce qui reste vrai, et qui fait le char
 que sa singularité, c'est qu'on circule à pied entre les ruelles, les terrasses et les tables,
 dans un village dont l'hôtel a épousé le tracé.
 
+L'entrée, dans une ruelle du village. C'est par ce porche que l'on passe du village médiéval à l'hôtel. Photo : photothèque du Château de la Chèvre d'Or.
+
 ## Les jardins en terrasses, le vrai *sujet* de la maison
 
 Ce que l'on vient chercher ici tient en une image : des jardins qui descendent en terrasses
@@ -96,6 +98,8 @@ bassin, que nous avions posée en réserve, ne se pose donc pas.
 Deux catégories disposent en outre de leur propre bassin, et il faut les distinguer : la
 **Suite Panoramique** a une **piscine et un jacuzzi privés**, la
 **Suite Nietzsche** une **piscine privée**.
+
+Les jardins en terrasses tombent vers la Méditerranée, quatre cents mètres plus bas. Photo : site officiel de la maison.
 
 Oliviers, statues et vasques sur l'une des terrasses du domaine.
 Photo : site officiel de la maison.
@@ -129,8 +133,9 @@ Photo : site officiel de la maison.
 
 La maison exploite **quatre adresses distinctes**, et il vaut mieux ne pas les
 confondre. **La Chèvre d'Or** est le restaurant gastronomique, distingué de
-**deux étoiles au Guide MICHELIN**, dont la salle vient d'être entièrement
-redessinée. **Les Remparts** tient le registre bistronomique, **Le Café du
+**deux étoiles au Guide MICHELIN**. La maison le compte parmi ses nouveautés
+récentes : **le restaurant a été entièrement rénové**, dans le but affiché d'en
+repenser à la fois le cadre et l'expérience proposée. **Les Remparts** tient le registre bistronomique, **Le Café du
 Jardin** celui du déjeuner en extérieur, et **Le Bar** occupe une salle de
 pierre ouverte sur une terrasse.
 
@@ -147,6 +152,12 @@ La **première étoile** est obtenue en **1978** sous le chef
 **Jean-Marc Delacourt**, et elle n'a plus quitté la maison depuis. Vingt-cinq ans
 de deux étoiles sans interruption, à travers plusieurs changements de chef, disent quelque
 chose que le classement seul ne dit pas.
+
+Tom Meyer, col tricolore de Meilleur Ouvrier de France, à la tête des cuisines
+depuis 2024. Photo : photothèque du Château de la Chèvre d'Or.
+
+La terrasse au couchant, à l'heure où le village se vide de ses visiteurs de
+la journée. Photo : photothèque du Château de la Chèvre d'Or.
 
 Deux distinctions complètent le tableau et méritent d'être citées, parce qu'elles ne sont
 pas données à beaucoup de maisons : la Chèvre d'Or est membre des
@@ -271,7 +282,7 @@ Oui, et il y en a **deux** sur la propriété, **dont une chauffée**, ainsi qu'
 
 ## Méthode et *sources*
 
-**Avis documentaire, sans séjour de contrôle**, et nous ne prétendons pas le contraire. Le **Score LMHS sur 10** relève de la [grille LMHS Destination](https://www.lesmeilleurshotelspa.fr/notre-methode/) ; il est **repris à l'identique** de notre [sélection des hôtels de charme de la Côte d'Azur](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/), où la maison est deuxième sur douze, afin qu'une même adresse ne porte jamais deux notes différentes sur ce site. L'**Indice Azur sur 5** est celui de nos avis azuréens, déjà employé pour l'[Hôtel Casarose](https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/). Adresse, téléphone, courriels, capacité, catégories de chambres, tables, distinctions et calendrier d'ouverture relevés le **21 août 2026** sur le [site officiel de la maison](https://www.chevredor.fr/), page par page, et recoupés avec le Guide MICHELIN et la fiche [Relais & Châteaux](https://www.relaischateaux.com/fr/hotel/chateau-de-la-chevre-d-or/). Photographies : site officiel de la maison.
+**Avis documentaire, sans séjour de contrôle**, et nous ne prétendons pas le contraire. Le **Score LMHS sur 10** relève de la [grille LMHS Destination](https://www.lesmeilleurshotelspa.fr/notre-methode/) ; il est **repris à l'identique** de notre [sélection des hôtels de charme de la Côte d'Azur](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/), où la maison est deuxième sur douze, afin qu'une même adresse ne porte jamais deux notes différentes sur ce site. L'**Indice Azur sur 5** est celui de nos avis azuréens, déjà employé pour l'[Hôtel Casarose](https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/). Adresse, téléphone, courriels, capacité, catégories de chambres, tables, distinctions et calendrier d'ouverture relevés le **21 août 2026** sur le [site officiel de la maison](https://www.chevredor.fr/), page par page, et recoupés avec le Guide MICHELIN et la fiche [Relais & Châteaux](https://www.relaischateaux.com/fr/hotel/chateau-de-la-chevre-d-or/). Photographies : site officiel de la maison et photothèque que l'établissement nous a ouverte le 24 août 2026.
 
 Score LMHS 9,1/10
 Indice Azur 4,7/5
