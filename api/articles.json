@@ -5,9 +5,21 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-08-21",
-  "count": 59,
+  "updated": "2026-08-24",
+  "count": 60,
   "articles": [
+    {
+      "slug": "charme-pyrenees",
+      "title": "Hôtels de charme dans les Pyrénées : 8 adresses classées en 2026",
+      "category": "Destinations",
+      "destination": "Pyrénées",
+      "region": "Pyrénées",
+      "published": "2026-08-24",
+      "readingMinutes": 16,
+      "url": "https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-pyrenees/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-pyrenees/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/py-riberach.jpg"
+    },
     {
       "slug": "spa-de-jour-paris",
       "title": "Spa de jour à Paris : 8 adresses, et une seule vend l'entrée seule",

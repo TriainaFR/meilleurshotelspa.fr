@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Destinations24 août 2026
+
+### Hôtels de charme dans les Pyrénées : 8 adresses classées en 2026
+
+Pyrénées · 16 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-pyrenees/)[
+
 Spas21 août 2026
 
 ### Spa de jour à Paris : 8 adresses, et une seule vend l'entrée seule
