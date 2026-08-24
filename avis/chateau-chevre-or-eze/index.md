@@ -61,9 +61,8 @@ domine Èze et en fait d'abord un **restaurant**. En **1956**,
 conseille à son ami Wolf d'en faire un établissement hôtelier digne du site. C'est de ce
 conseil que tout découle, y compris la méthode : la propriété s'agrandit ensuite par
 l'**acquisition de plusieurs maisons particulières** du village médiéval, une à
-une, sans jamais rien bâtir de neuf. Le principe qu'invoque la Chèvre d'Or pour décrire cette
-démarche est emprunté à **Jean Nouvel** : « on ne construit pas un espace mais
-dans un espace ».
+une, sans jamais rien bâtir de neuf. C'est le geste inverse de celui de toute la Riviera de ces
+années-là, qui construisait sur le littoral des volumes neufs et signés.
 
 Èze doit par ailleurs une part de sa notoriété à **Friedrich Nietzsche**, qui
 empruntait le sentier montant d'Èze-bord-de-mer jusqu'au village et y aurait conçu une partie
@@ -135,7 +134,8 @@ La maison exploite **quatre adresses distinctes**, et il vaut mieux ne pas les
 confondre. **La Chèvre d'Or** est le restaurant gastronomique, distingué de
 **deux étoiles au Guide MICHELIN**. La maison le compte parmi ses nouveautés
 récentes : **le restaurant a été entièrement rénové**, dans le but affiché d'en
-repenser à la fois le cadre et l'expérience proposée. **Les Remparts** tient le registre bistronomique, **Le Café du
+repenser à la fois le cadre et l'expérience proposée. La presse professionnelle attribue le
+nouvel écrin à l'architecte d'intérieur **Caroline Tissier**. **Les Remparts** tient le registre bistronomique, **Le Café du
 Jardin** celui du déjeuner en extérieur, et **Le Bar** occupe une salle de
 pierre ouverte sur une terrasse.
 
