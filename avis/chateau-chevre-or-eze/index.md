@@ -1,12 +1,12 @@
 # Château de la Chèvre d'Or, avis : le 5 étoiles suspendu au-dessus d'Èze
 
-> Avis LMHS sur le Château de la Chèvre d'Or, Èze : 45 clés dispersées dans le village médiéval, deux étoiles MICHELIN, jardins suspendus à 400 m. Score 9,1/10.
+> Avis LMHS sur le Château de la Chèvre d'Or, Èze : 45 clés entre le Château et les maisons du village, deux étoiles MICHELIN, jardins suspendus à 400 m. Score 9,1/10.
 
 URL canonique : https://www.lesmeilleurshotelspa.fr/avis/chateau-chevre-or-eze/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-24 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
-Avis LMHS documentaire sur le Château de la Chèvre d'Or, rue du Barri, 06360 Èze Village, Alpes-Maritimes, Côte d'Azur. Hôtel 5 étoiles membre de RELAIS ET CHÂTEAUX, des GRANDES TABLES DU MONDE et détenteur de la CLÉ VERTE, installé depuis 1953 dans le village médiéval d'Èze, à 400 mètres au-dessus de la Méditerranée, entre Nice et Monaco. En 1953, l'hôtelier ROBERT WOLF achète le château médiéval dominant Èze et en fait d'abord un restaurant. En 1956, WALT DISNEY y séjourne avec sa fille, tombe amoureux du lieu et lui conseille d'en faire un hôtel de prestige ; la propriété s'agrandit ensuite par l'acquisition de plusieurs maisons particulières du village médiéval, une à une, sans rien bâtir de neuf. Le restaurant obtient sa PREMIÈRE ÉTOILE MICHELIN EN 1978 sous le chef ELIE MAZOT et sa SECONDE EN 2000 avec JEAN-MARC DELACOURT, sans la perdre depuis. L'ÉTABLISSEMENT N'EST PAS UN BÂTIMENT MAIS UN ENSEMBLE DE MAISONS DISPERSÉES DANS LE VILLAGE PIÉTONNIER : 45 chambres et suites réparties en NEUF CATÉGORIES publiées par la maison, Chambres Tradition, Chambres Élégance, Chambres Deluxe, Junior Suites, Suites Executive, Suites Prestige, Suite Panoramique, Suite Nietzsche et Suite Royale, certaines suites disposant d'une piscine ou d'un jacuzzi privé. QUATRE TABLES : La Chèvre d'Or, restaurant gastronomique DEUX ÉTOILES MICHELIN dont la salle vient d'être entièrement redessinée ; Les Remparts, bistronomique ; Le Café du Jardin ; et Le Bar. Le chef est TOM MEYER, MEILLEUR OUVRIER DE FRANCE 2023, arrivé en 2024 en succession d'Arnaud Faye, entré au classement The Best Chef Awards en 2025 ; le pâtissier est Florent Margaillan. INFORMATION PRATIQUE DÉCISIVE : LA MAISON EST SAISONNIÈRE ET FERME L'HIVER. La fermeture annuelle a couru du 3 novembre 2025 au 31 mars 2026, et le restaurant gastronomique sert du 9 avril au 24 octobre 2026. Jardins en terrasses, piscine panoramique non chauffée, chemin de Nietzsche reliant Èze-bord-de-mer au village. Téléphone +33 4 92 10 66 66, réservations reservation@chevredor.com, conciergerie Nicolas Amelot. Score LMHS 9,1/10, repris à l'identique de notre palmarès des hôtels de charme de la Côte d'Azur où la maison est deuxième, et Indice Azur 4,7/5. AUCUN TARIF N'EST PUBLIÉ sur cette page : les fourchettes qui circulent en ligne se contredisent, l'écart s'expliquant par les neuf catégories, la saison de sept mois et l'amplitude saisonnière de la Riviera. Avis documentaire établi sans séjour de contrôle, relevés du 21 août 2026 sur le site officiel de la maison et recoupés avec le Guide MICHELIN.
+Avis LMHS documentaire sur le Château de la Chèvre d'Or, rue du Barri, 06360 Èze Village, Alpes-Maritimes, Côte d'Azur. Hôtel 5 étoiles membre de RELAIS ET CHÂTEAUX, des GRANDES TABLES DU MONDE et détenteur de la CLÉ VERTE, installé depuis 1953 dans le village médiéval d'Èze, à 400 mètres au-dessus de la Méditerranée, entre Nice et Monaco. En 1953, l'hôtelier ROBERT WOLF achète le château médiéval dominant Èze et en fait d'abord un restaurant. En 1956, WALT DISNEY y séjourne avec sa fille, tombe amoureux du lieu et lui conseille d'en faire un hôtel de prestige ; la propriété s'agrandit ensuite par l'acquisition de plusieurs maisons particulières du village médiéval, une à une, sans rien bâtir de neuf. Le restaurant obtient sa PREMIÈRE ÉTOILE MICHELIN EN 1978 sous le chef ELIE MAZOT et sa SECONDE EN 2000 avec JEAN-MARC DELACOURT, sans la perdre depuis. L'ÉTABLISSEMENT NE TIENT PAS DANS UN BÂTIMENT UNIQUE : une partie des chambres se trouve DANS LE BÂTIMENT PRINCIPAL DU CHÂTEAU, les autres dans PLUSIEURS MAISONS INTÉGRÉES AU VILLAGE. 45 chambres et suites réparties en NEUF CATÉGORIES publiées par la maison, Chambres Tradition, Chambres Élégance, Chambres Deluxe, Junior Suites, Suites Executive, Suites Prestige, Suite Panoramique, Suite Nietzsche et Suite Royale, la SUITE PANORAMIQUE disposant d'une piscine et d'un jacuzzi privés et la SUITE NIETZSCHE d'une piscine privée. QUATRE TABLES : La Chèvre d'Or, restaurant gastronomique DEUX ÉTOILES MICHELIN dont la salle vient d'être entièrement redessinée ; Les Remparts, bistronomique ; Le Café du Jardin ; et Le Bar. Le chef est TOM MEYER, MEILLEUR OUVRIER DE FRANCE 2023, arrivé en 2024 en succession d'Arnaud Faye, entré au classement The Best Chef Awards en 2025 ; le pâtissier est Florent Margaillan. INFORMATION PRATIQUE DÉCISIVE : LA MAISON EST SAISONNIÈRE : ELLE EST OUVERTE CHAQUE ANNÉE D'AVRIL À FIN OCTOBRE. En 2026, le restaurant gastronomique a servi du 9 avril au 24 octobre. Jardins en terrasses, DEUX PISCINES SUR LA PROPRIÉTÉ DONT UNE CHAUFFÉE et un jacuzzi, chemin de Nietzsche reliant Èze-bord-de-mer au village. LES BAGAGES SONT PRIS EN CHARGE PAR LES VOITURIERS ET BAGAGISTES de la maison, à l'arrivée comme au départ. Téléphone +33 4 92 10 66 66, réservations reservation@chevredor.com, conciergerie Nicolas Amelot. Score LMHS 9,1/10, repris à l'identique de notre palmarès des hôtels de charme de la Côte d'Azur où la maison est deuxième, et Indice Azur 4,7/5. AUCUN TARIF N'EST PUBLIÉ sur cette page : les fourchettes qui circulent en ligne se contredisent, l'écart s'expliquant par les neuf catégories, la saison de sept mois et l'amplitude saisonnière de la Riviera. Avis documentaire établi sans séjour de contrôle, relevés du 21 août 2026 sur le site officiel de la maison et recoupés avec le Guide MICHELIN.
 
 ---
 Avis · Données propriétaires LMHS
@@ -37,9 +37,9 @@ et suites sont réparties dans des maisons du village médiéval rachetées et r
 en **1978**. La maison est aussi membre des **Grandes Tables du Monde**.
 
 3. **La maison est saisonnière, et c'est l'information la plus utile de cette page.**
-La fermeture annuelle a couru **du 3 novembre 2025 au 31 mars 2026**, et le
-gastronomique sert **du 9 avril au 24 octobre 2026**. On ne vient pas ici en
-février.
+Elle est **ouverte chaque année d'avril à fin octobre**, formulation qu'elle nous a
+confirmée, et le gastronomique a servi **du 9 avril au 24 octobre** en 2026. On ne
+vient pas ici en février.
 
 **Avis documentaire.** Nous n'avons pas dormi à la Chèvre d'Or. Les
 éléments de cette page ont été relevés le 21 août 2026 sur le site officiel de la maison et
@@ -48,10 +48,11 @@ recoupés avec le Guide MICHELIN.
 ## Un village médiéval devenu hôtel, et non l'*inverse*
 
 La particularité de la Chèvre d'Or se comprend avant d'entrer, et elle décide de tout le
-reste. **Ce n'est pas un bâtiment.** C'est un ensemble de maisons du village
-d'Èze, rachetées une à une depuis **1953**, restaurées et reliées, dont les
-chambres se dispersent dans les ruelles piétonnes accrochées au rocher, à
-**quatre cents mètres au-dessus de la mer**, entre Nice et Monaco.
+reste. **Ce n'est pas un bâtiment unique.** Une partie des chambres se trouve
+dans le **bâtiment principal du Château** ; les autres sont réparties dans
+plusieurs **maisons intégrées au village** d'Èze, rachetées une à une depuis
+**1953**, restaurées et reliées, à **quatre cents mètres au-dessus de la
+mer**, entre Nice et Monaco.
 
 L'histoire que raconte la maison est datée, et elle explique le reste. En
 **1953**, l'hôtelier **Robert Wolf** achète le château médiéval qui
@@ -71,12 +72,12 @@ l'hôtel aussi. Précision utile puisque la confusion est fréquente : *Ainsi pa
 Zarathoustra* n'est pas une nouvelle, mais un poème philosophique en quatre parties, publié
 entre 1883 et 1885.
 
-La conséquence pratique de ce parti pris mérite d'être dite, parce qu'elle surprend à
-l'arrivée. Un village piétonnier signifie des **escaliers**, des ruelles étroites
-et des distances à pied entre la réception, votre chambre et la table du soir. C'est le prix,
-parfaitement assumé par la maison, d'une intégration que personne d'autre sur la Riviera ne
-peut proposer. Demandez à la conciergerie comment vos bagages arrivent, et prévoyez des
-chaussures qui tiennent.
+Une précision que la maison nous a demandé d'apporter, et qui corrige ce que l'on pourrait
+déduire d'un village piétonnier : **les clients n'ont à aucun moment à porter leurs
+valises**. Une équipe de **voituriers et de bagagistes** en assure la prise
+en charge à l'arrivée comme au départ. Ce qui reste vrai, et qui fait le charme du lieu autant
+que sa singularité, c'est qu'on circule à pied entre les ruelles, les terrasses et les tables,
+dans un village dont l'hôtel a épousé le tracé.
 
 ## Les jardins en terrasses, le vrai *sujet* de la maison
 
@@ -87,13 +88,14 @@ l'horizon. Vergers, aromatiques, jardins suspendus, terrasses au couchant : la m
 peu de choses à un site qui n'en demandait pas.
 
 La **piscine panoramique** prolonge cette sensation de suspension, posée sur une
-terrasse qui domine l'ensemble. C'est aussi le point sur lequel nous devons être précis, parce
-que nous l'avons déjà écrit dans notre
-[sélection des hôtels de charme de la Côte d'Azur](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/) :
-**ce bassin n'est pas chauffé**. Compte tenu du calendrier d'ouverture de la
-maison, la question ne se pose vraiment qu'en avril, en mai et en octobre, aux deux extrémités
-de la saison. Les **suites Nietzsche et Panoramique** disposent, elles, de leur
-propre piscine ou jacuzzi privé.
+terrasse qui domine l'ensemble. Précision que la maison nous a apportée et qui corrige ce que
+nous avions écrit ailleurs : la propriété compte **deux piscines, dont une
+chauffée**, ainsi qu'un **jacuzzi**. La question de la température du
+bassin, que nous avions posée en réserve, ne se pose donc pas.
+
+Deux catégories disposent en outre de leur propre bassin, et il faut les distinguer : la
+**Suite Panoramique** a une **piscine et un jacuzzi privés**, la
+**Suite Nietzsche** une **piscine privée**.
 
 Oliviers, statues et vasques sur l'une des terrasses du domaine.
 Photo : site officiel de la maison.
@@ -181,11 +183,12 @@ d'une qualité rare, deux étoiles MICHELIN sur place, une appartenance à
 quarante-cinq clés seulement pour tout cela.
 
 Ce qui la retient sous les 9,3 du **Cap Estel**, premier de notre palmarès
-azuréen et voisin d'Èze-bord-de-mer : la **saisonnalité**, qui ferme la maison
-cinq mois par an, la **piscine panoramique non chauffée**, et la
-**dispersion des chambres** dans un village piétonnier, qui est une splendeur pour
-le regard et une contrainte pour les jambes et les valises. Le Cap Estel, sur sa péninsule
-privée, ne demande rien de tout cela.
+azuréen et voisin d'Èze-bord-de-mer, tient désormais à un seul motif : la
+**saisonnalité**, qui ferme la maison cinq mois par an. Nous avions d'abord
+avancé deux autres réserves, une piscine non chauffée et la contrainte d'un village piétonnier
+pour les bagages. **La maison nous a corrigés sur les deux**, et elle avait
+raison : la propriété compte deux piscines dont une chauffée, et une équipe de bagagistes
+prend les valises en charge à l'arrivée comme au départ. Les deux réserves sont retirées.
 
 L'**Indice Azur à 4,7/5** mesure autre chose : ce qui fait qu'une adresse
 appartient à la Côte d'Azur et non à une riviera interchangeable. La hauteur, la lumière, le
@@ -223,13 +226,14 @@ Lucas Lecoq, rédacteur en chef
 | **Restaurant** | restaurant@chevredor.com · +33 4 92 10 66 61 |
 | **Conciergerie** | Nicolas Amelot · concierge@chevredor.com · +33 4 92 10 66 60 |
 | **Classement** | 5 étoiles, Relais & Châteaux, Les Grandes Tables du Monde, Clé Verte |
-| **Capacité** | 45 chambres et suites, en 9 catégories, dispersées dans le village |
-| **Suites avec bassin privé** | Suite Nietzsche et Suite Panoramique |
+| **Capacité** | 45 chambres et suites, en 9 catégories, réparties entre le bâtiment principal du Château et plusieurs maisons du village |
+| **Suites avec bassin privé** | Suite Panoramique, piscine et jacuzzi privés · Suite Nietzsche, piscine privée |
 | **Tables** | La Chèvre d'Or, 2 étoiles MICHELIN · Les Remparts, bistronomique · Le Café du Jardin · Le Bar |
 | **Chef** | Tom Meyer, Meilleur Ouvrier de France 2023, arrivé en 2024. Pâtissier : Florent Margaillan |
-| **Saison 2026** | Fermeture annuelle du 3 novembre 2025 au 31 mars 2026. Restaurant gastronomique du 9 avril au 24 octobre 2026 |
-| **Piscine** | Panoramique, non chauffée |
-| **Accès** | Village piétonnier, escaliers et ruelles. Nice à 20 minutes, Monaco à 15 minutes |
+| **Saison** | Ouvert chaque année d'avril à fin octobre. En 2026, restaurant gastronomique du 9 avril au 24 octobre |
+| **Piscines** | Deux piscines sur la propriété, dont une chauffée, et un jacuzzi |
+| **Bagages** | Pris en charge par les voituriers et bagagistes de la maison, à l'arrivée comme au départ |
+| **Accès** | Village piétonnier. Nice à 20 minutes, Monaco à 15 minutes |
 | **Tarifs** | Non publiés sur cette page, les sources se contredisent |
 | **Score LMHS** | 9,1/10 · Indice Azur 4,7/5 |
 
@@ -243,7 +247,7 @@ l'arrière-pays, Peille, Peillon et Sainte-Agnès.
 
 Le Château de la Chèvre d'Or est-il ouvert toute l'année ?
 
-Non, et c'est l'information la plus utile avant de réserver. **La maison est saisonnière.** La fermeture annuelle a couru **du 3 novembre 2025 au 31 mars 2026**. Pour la saison 2026, le restaurant gastronomique La Chèvre d'Or sert **du 9 avril au 24 octobre**, les autres tables suivant un calendrier plus resserré encore. Un séjour à Èze en hiver suppose donc une autre adresse.
+Non, et c'est l'information la plus utile avant de réserver. **La maison est saisonnière : elle est ouverte chaque année d'avril à fin octobre**, calendrier qu'elle nous a confirmé. En 2026, le restaurant gastronomique La Chèvre d'Or a servi **du 9 avril au 24 octobre**, les autres tables suivant un calendrier plus resserré encore. Un séjour à Èze en hiver suppose donc une autre adresse.
 
 Le restaurant de la Chèvre d'Or est-il étoilé ?
 
@@ -251,7 +255,7 @@ Oui, **deux étoiles au Guide MICHELIN**. La cuisine est dirigée depuis **2024*
 
 Combien de chambres compte le Château de la Chèvre d'Or ?
 
-**45 chambres et suites**, réparties en **neuf catégories** : Chambres Tradition, Élégance et Deluxe, puis Junior Suites, Suites Executive, Suites Prestige, Suite Panoramique, Suite Nietzsche et Suite Royale. Particularité de la maison : **elles ne sont pas dans un bâtiment unique** mais dispersées dans des maisons du village médiéval, rachetées et réunies depuis 1953.
+**45 chambres et suites**, réparties en **neuf catégories** : Chambres Tradition, Élégance et Deluxe, puis Junior Suites, Suites Executive, Suites Prestige, Suite Panoramique, Suite Nietzsche et Suite Royale. Particularité de la maison : **elles ne sont pas toutes dans le même bâtiment**. Une partie se trouve dans le bâtiment principal du Château, les autres dans plusieurs maisons intégrées au village médiéval, rachetées et réunies depuis 1953.
 
 Quelle chambre réserver au Château de la Chèvre d'Or ?
 
@@ -263,7 +267,7 @@ Combien coûte une nuit au Château de la Chèvre d'Or ?
 
 Y a-t-il une piscine au Château de la Chèvre d'Or ?
 
-Oui, une **piscine panoramique** posée sur une terrasse qui domine le domaine, avec vue sur la Méditerranée. **Elle n'est pas chauffée**, ce que nous signalons également dans notre sélection des hôtels de charme de la Côte d'Azur. Compte tenu de la saison d'ouverture, d'avril à octobre, la question se pose surtout aux deux extrémités du calendrier. Deux catégories disposent par ailleurs de leur propre bassin : la **Suite Nietzsche** et la **Suite Panoramique**.
+Oui, et il y en a **deux** sur la propriété, **dont une chauffée**, ainsi qu'un **jacuzzi**. La plus spectaculaire est la **piscine panoramique**, posée sur une terrasse qui domine le domaine, avec vue sur la Méditerranée. Deux catégories disposent en outre de leur propre bassin : la **Suite Panoramique**, avec piscine et jacuzzi privés, et la **Suite Nietzsche**, avec piscine privée. Nous avions initialement écrit que le bassin panoramique n'était pas chauffé : la maison nous a corrigés, et cette page a été mise à jour.
 
 ## Méthode et *sources*
 

@@ -91,9 +91,9 @@ Eze-Bord-de-Mer · Dès 700 €/nuit en basse saison · Dès 1 875 € en haute 
 
 **Pour qui :** amateurs de charme médiéval, de gastronomie 2 étoiles Michelin et de vues panoramiques depuis 400 mètres d'altitude.
 
-Depuis 1953, la Chèvre d'Or s'est forgée dans les remparts médiévaux d'Eze une réputation qui dépasse largement la région. Les chambres et suites se cachent dans le village piétonnier, cheminées, escaliers en pierre, vues panoramiques depuis chaque recoin. En 2024, le chef et Meilleur Ouvrier de France Tom Meyer a pris la tête des cuisines du restaurant gastronomique 2 étoiles Michelin. Quatre espaces de restauration, piscines avec service, spa sur mesure. Membre Relais & Châteaux. TripAdvisor : 4,6/5 sur 1 126 avis.
+Depuis 1953, la Chèvre d'Or s'est forgée dans les remparts médiévaux d'Eze une réputation qui dépasse largement la région. Les chambres et suites se répartissent entre le bâtiment principal du Château et plusieurs maisons intégrées au village piétonnier : cheminées, escaliers en pierre, vues panoramiques depuis chaque recoin. En 2024, le chef et Meilleur Ouvrier de France Tom Meyer a pris la tête des cuisines du restaurant gastronomique 2 étoiles Michelin. Quatre espaces de restauration, piscines avec service, spa sur mesure. Membre Relais & Châteaux. TripAdvisor : 4,6/5 sur 1 126 avis.
 
-Le bémol LMHS : l'infinity pool n'est pas chauffée, inutilisable en dehors de l'été. Certains clients signalent un fort turnover du personnel en saison, avec des lacunes de service qui contrastent avec la réputation de la maison.
+Le bémol LMHS : la maison est saisonnière, ouverte chaque année d'avril à fin octobre. Un séjour à Èze en hiver suppose une autre adresse.
 
 Eze village · Dès 982 €/nuit en basse saison · Dès 2 610 € en haute saison ·
 [Notre avis complet sur la Chèvre d'Or →](https://www.lesmeilleurshotelspa.fr/avis/chateau-chevre-or-eze/)
