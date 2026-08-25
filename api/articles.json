@@ -6,8 +6,20 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-08-25",
-  "count": 62,
+  "count": 63,
   "articles": [
+    {
+      "slug": "hotels-nimes",
+      "title": "Meilleurs hôtels à Nîmes : 8 adresses de charme classées en 2026",
+      "category": "Palmarès",
+      "destination": "Nîmes",
+      "region": "Occitanie",
+      "published": "2026-08-25",
+      "readingMinutes": 14,
+      "url": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-nimes/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-nimes/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/nm-imperator.jpg"
+    },
     {
       "slug": "commaraine-pommard",
       "title": "Château la Commaraine, à Pommard : un 5 étoiles qui dort dans ses propres vignes",

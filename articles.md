@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Palmarès25 août 2026
+
+### Meilleurs hôtels à Nîmes : 8 adresses de charme classées en 2026
+
+Nîmes · 14 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-nimes/)[
+
 Enquête25 août 2026
 
 ### Château la Commaraine, à Pommard : un 5 étoiles qui dort dans ses propres vignes

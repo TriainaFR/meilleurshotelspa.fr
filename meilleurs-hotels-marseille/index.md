@@ -299,6 +299,8 @@ Indice marseillais propriétaire
 
 - [Meilleur hammam à Marseille : 7 adresses classées](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-marseille/), dont une fermée que tous les guides citent encore
 
+- [Meilleurs hôtels à Nîmes : 8 adresses de charme classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-nimes/), à une heure, et trois étoiles MICHELIN dans deux hôtels
+
 - [Grand Hôtel Roi René Aix-en-Provence, avis](https://www.lesmeilleurshotelspa.fr/avis/grand-hotel-roi-rene-aix-en-provence/), à trente minutes de train de Marseille
 
 - [Les 50 meilleurs hôtels et spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)

@@ -228,6 +228,8 @@ Sans séjour de contrôle
 
 - [Hôtels de charme sur la Côte d'Azur : 12 adresses testées](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/), dont sont issues les notes du Negresco et de La Pérouse
 
+- [Meilleurs hôtels à Nîmes : 8 adresses de charme classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-nimes/), le même exercice appliqué à une ville d'Occitanie
+
 - [Hôtel Sezz Saint-Tropez, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/), noté sur le même Indice Azur
 
 - [Hôtels de luxe à Cannes : les 8 meilleures adresses](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/), à trente minutes
