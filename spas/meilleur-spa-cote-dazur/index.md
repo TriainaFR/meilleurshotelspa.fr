@@ -2,7 +2,7 @@
 
 > 10 spas azuréens dont 8 mesurés au Protocole LMHS sur 20, de Ramatuelle à Vence. Surfaces, soins signature et tarifs. Le premier n'est pas celui qu'on cite.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-cote-dazur/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-24 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-cote-dazur/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-25 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -368,7 +368,7 @@ Rédacteur hôtels et gastronomie, Meilleurs.
 
 Publié le 20 août 2026
 
-Dernière mise à jour : 24 août 2026
+Dernière mise à jour : 25 août 2026
 
 Meilleurs.
 

@@ -2,7 +2,7 @@
 
 > Notre palmarès 2026 des 12 meilleurs hôtels de charme sur la Côte d'Azur : scores LMHS/10, Indice Saisonnalité prix haute/basse saison, bémols honnêtes et guide par zone.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-24 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-25 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -334,7 +334,7 @@ Rédacteur, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 24 août 2026
+Dernière mise à jour : 25 août 2026
 
 Meilleurs.
 

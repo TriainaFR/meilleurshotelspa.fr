@@ -36,11 +36,6 @@ chambre de ce palmarès dont l'intérêt tienne à ce qui se passe sous le planc
 table gastronomique installée dans la cave voûtée. Direction confiée à
 **Christophe Raoux**, Meilleur Ouvrier de France.
 
-**Avis documentaire, sans séjour de contrôle.** Nous n'avons pas dormi
-ici, et nous le disons plutôt que de le laisser croire. L'architecture, les catégories, les
-tables et le vignoble se vérifient sur pièces ; le service, non. Informations relevées le
-25 août 2026 sur le site officiel de l'établissement.
-
 Il existe en France quantité d'hôtels qui se disent « au cœur du vignoble » et qui, à
 l'arrivée, en sont séparés par une départementale. Le Château la Commaraine appartient à
 l'autre catégorie, beaucoup plus étroite : celle des maisons dont la vue depuis la chambre

@@ -2,7 +2,7 @@
 
 > Avis LMHS sur le San Montano Resort & Spa à Ischia : 65 clés, 11 piscines thermales, Ocean Blue Spa et une suite installée dans un ancien phare militaire. Score 9,2/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/san-montano-resort-spa-ischia/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-24 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/san-montano-resort-spa-ischia/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-25 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -385,7 +385,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 12 août 2026
 
-Dernière mise à jour : 24 août 2026
+Dernière mise à jour : 25 août 2026
 
 Meilleurs.
 
