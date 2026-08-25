@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Enquête25 août 2026
+
+### Château la Commaraine, à Pommard : un 5 étoiles qui dort dans ses propres vignes
+
+Pommard · 11 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/chateau-la-commaraine-pommard/)[
+
 Destinations24 août 2026
 
 ### Hôtels de charme dans les Pyrénées : 8 adresses classées en 2026

@@ -261,7 +261,7 @@ Jiva Hill Resort est l'adresse de référence. La combinaison chalet privatif, j
 
 ### Provence et Sud-Ouest : le cadre, plus que le spa
 
-La Bastide de Gordes et Les Sources de Caudalie séduisent par leur cadre (Luberon, vignobles bordelais) plus que par leur spa. Bon choix si le cadre prime sur l'équipement. Pour les meilleures thalassos du sud, voir notre classement [thalasso dans le sud de la France](https://www.lesmeilleurshotelspa.fr/spas/thalasso-sud-de-la-france/).
+La Bastide de Gordes et Les Sources de Caudalie séduisent par leur cadre (Luberon, vignobles bordelais) plus que par leur spa. Bon choix si le cadre prime sur l'équipement. Même logique en Bourgogne au [Château la Commaraine](https://www.lesmeilleurshotelspa.fr/avis/chateau-la-commaraine-pommard/), dont le spa myBlend est complet mais dont l'argument reste le vignoble qui touche les murs. Pour les meilleures thalassos du sud, voir notre classement [thalasso dans le sud de la France](https://www.lesmeilleurshotelspa.fr/spas/thalasso-sud-de-la-france/).
 
 ## FAQ : hôtel avec spa privatif en *France*
 

@@ -5,9 +5,21 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-08-24",
-  "count": 61,
+  "updated": "2026-08-25",
+  "count": 62,
   "articles": [
+    {
+      "slug": "commaraine-pommard",
+      "title": "Château la Commaraine, à Pommard : un 5 étoiles qui dort dans ses propres vignes",
+      "category": "Enquête",
+      "destination": "Pommard",
+      "region": "Bourgogne",
+      "published": "2026-08-25",
+      "readingMinutes": 11,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/chateau-la-commaraine-pommard/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/chateau-la-commaraine-pommard/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/bg-commaraine-chateau.jpg"
+    },
     {
       "slug": "charme-pyrenees",
       "title": "Hôtels de charme dans les Pyrénées : 8 adresses classées en 2026",

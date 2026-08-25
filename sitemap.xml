@@ -110,6 +110,10 @@
 
   <!-- Enquêtes et ouvertures -->
   <url>
+    <loc>https://www.lesmeilleurshotelspa.fr/avis/chateau-la-commaraine-pommard/</loc>
+    <lastmod>2026-08-25</lastmod>
+  </url>
+  <url>
     <loc>https://www.lesmeilleurshotelspa.fr/avis/hotel-le-provencal-giens/</loc>
     <lastmod>2026-08-24</lastmod>
   </url>
@@ -296,9 +300,5 @@
   <url>
     <loc>https://www.lesmeilleurshotelspa.fr/confidentialite/</loc>
     <lastmod>2026-08-24</lastmod>
-  </url>
-  <url>
-    <loc>https://www.lesmeilleurshotelspa.fr/avis/chateau-la-commaraine-pommard/</loc>
-    <lastmod>2026-08-25</lastmod>
   </url>
 </urlset>
