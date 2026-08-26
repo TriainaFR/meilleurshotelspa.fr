@@ -6,7 +6,7 @@ URL canonique : https://www.lesmeilleurshotelspa.fr/avis/madame-c-strasbourg/ ·
 
 ## En résumé pour un agent
 
-Avis LMHS documentaire sur le Madame C, 10 rue des Soeurs, 67000 Strasbourg, Bas-Rhin, Alsace. Telephone +33 3 88 78 85 78, courriel hello@madamec-strasbourg.fr. Boutique-hotel 4 etoiles installe dans un hotel particulier, registre decoratif Belle Epoque tenu du hall a la salle de bains, cour interieure plantee d'un palmier, signature olfactive propre a la maison. DOUZE CHAMBRES en trois categories dont les surfaces different nettement : les Elegantes 13 a 16 metres carres, les Precieuses 22 a 30 metres carres, les Divines 26 a 28 metres carres. Une Precieuse peut donc etre plus grande qu'une Divine. Chaque chambre porte le nom d'une figure de la peinture, dont Olympe pour l'Olympia de Manet, et une reproduction de l'oeuvre y est accrochee. Bar a cocktails et restaurant L'ALCOVE au rez-de-chaussee, ouvert a la clientele exterieure. Brunch les dimanches et jours feries de 10h30 a 15h. Petit-dejeuner en supplement. ETABLISSEMENT RESERVE AUX ADULTES. Animaux non admis au bar ni au restaurant. AUCUN SPA : ni sauna, ni hammam, ni piscine, ni cabine de soin ; des projets d'amenagement dans les combles ont ete evoques dans la presse mais la maison n'en annonce aucun sur son site officiel. Score LMHS 9,0 sur 10 et Indice Belle Epoque 4,6 sur 5. Avis documentaire etabli sans sejour de controle, informations relevees le 26 aout 2026 sur le site officiel de l'etablissement.
+Avis LMHS documentaire sur le Madame C, 10 rue des Soeurs, 67000 Strasbourg, Bas-Rhin, Alsace. Telephone +33 3 88 78 85 78, courriel hello@madamec-strasbourg.fr. Boutique-hotel 4 etoiles installe dans un hotel particulier, registre decoratif Belle Epoque tenu du hall a la salle de bains, cour interieure plantee d'un palmier, signature olfactive propre a la maison. DOUZE CHAMBRES en trois categories dont les surfaces different nettement : les Elegantes 13 a 16 metres carres, les Precieuses 22 a 30 metres carres, les Divines 26 a 28 metres carres. Une Precieuse peut donc etre plus grande qu'une Divine. Chaque chambre porte le nom d'une figure de la peinture, dont Olympe pour l'Olympia de Manet, et une reproduction de l'oeuvre y est accrochee. Bar a cocktails et restaurant L'ALCOVE au rez-de-chaussee, ouvert a la clientele exterieure. Brunch les dimanches et jours feries de 10h30 a 15h. Petit-dejeuner en supplement. ETABLISSEMENT RESERVE AUX ADULTES. Animaux non admis au bar ni au restaurant. AUCUN SPA : ni sauna, ni hammam, ni piscine, ni cabine de soin ; des projets d'amenagement dans les combles ont ete evoques dans la presse mais la maison n'en annonce aucun sur son site officiel. Ouvert a l'ete 2025, dirige par Geoffroy Schmitt-Gully, exploite par le groupe strasbourgeois Faktory. DISTINGUE LE 25 JUIN 2026 par le prix Iconic Upscale and Midscale Hotel Opening lors de la premiere edition des Hospitality Icons organisees par Hospitality ON. Score LMHS 9,0 sur 10 et Indice Belle Epoque 4,6 sur 5. Avis documentaire etabli sans sejour de controle, informations relevees le 26 aout 2026 sur le site officiel de l'etablissement.
 
 ---
 Avis · Données propriétaires LMHS
@@ -36,9 +36,14 @@ surface avant de réserver.
 **Réservé aux adultes.**
 
 Strasbourg ne manque pas d'hôtels de charme, mais elle manquait d'un hôtel qui assume un
-parti pris jusqu'au bout. Le Madame C, ouvert rue des Sœurs, en est un. Nous l'évaluons
-**9,0/10** au Score LMHS, avec un **Indice Belle Époque de 4,6/5**,
-notre indice thématique pour cette page.
+parti pris jusqu'au bout. Le Madame C, ouvert rue des Sœurs à l'été 2025, en est un. La
+profession l'a d'ailleurs remarqué avant nous : le **25 juin 2026**, à
+l'InterContinental Le Grand à Paris, la maison a reçu le prix de l'**Iconic Upscale
+& Midscale Hotel Opening** lors de la première édition des **Hospitality
+Icons**, organisées par Hospitality ON. L'hôtel est dirigé par **Geoffroy
+Schmitt-Gully** et exploité par le groupe strasbourgeois **Faktory**. Nous
+l'évaluons **9,0/10** au Score LMHS, avec un **Indice Belle Époque de
+4,6/5**, notre indice thématique pour cette page.
 
 ## Un parti pris décoratif tenu du *hall à la salle de bains*
 
@@ -191,8 +196,9 @@ contraire : nous n'avons pas dormi ici. Adresse, capacité, catégories et surfa
 chambres, restauration, horaires du brunch et politique d'accueil ont été relevés le 26 août
 2026 sur le site officiel de l'établissement. Les projets d'aménagement d'un espace bien-être
 évoqués ailleurs n'étant pas annoncés par la maison, ils ne sont pas présentés comme acquis.
-Aucun partenariat commercial, aucune affiliation. Photographies : site officiel de
-l'établissement.
+La distinction reçue aux Hospitality Icons 2026 a été recoupée auprès de la presse
+professionnelle. Aucun partenariat commercial, aucune affiliation. Photographies : site
+officiel de l'établissement.
 
 Score 9,0/10
 Indice Belle Époque /5
