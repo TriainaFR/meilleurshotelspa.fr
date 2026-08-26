@@ -6,8 +6,20 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-08-26",
-  "count": 64,
+  "count": 65,
   "articles": [
+    {
+      "slug": "madame-c-strasbourg",
+      "title": "Madame C, à Strasbourg : douze chambres qui portent chacune le nom d'un tableau",
+      "category": "Enquête",
+      "destination": "Strasbourg",
+      "region": "Alsace",
+      "published": "2026-08-26",
+      "readingMinutes": 10,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/madame-c-strasbourg/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/madame-c-strasbourg/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/st-madamec-olympe.jpg"
+    },
     {
       "slug": "hotels-colmar",
       "title": "Meilleurs hôtels à Colmar : 7 adresses classées en 2026",

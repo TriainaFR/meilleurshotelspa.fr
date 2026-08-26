@@ -2,7 +2,7 @@
 
 > Quatorze hôtels de charme en Alsace classés par le Protocole LMHS et la grille Destination, de la Route des Vins à Strasbourg. Prix, spas, tables étoilées.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-25 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-26 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -624,6 +624,8 @@ affiliation, aucun séjour offert.
 
 ### Pour aller plus loin
 
+- [Madame C, Strasbourg, avis](https://www.lesmeilleurshotelspa.fr/avis/madame-c-strasbourg/), un parti pris décoratif tenu jusqu'au bout, mais sans spa
+
 - [Meilleurs hôtels à Colmar : 7 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-colmar/), l'extrait colmarien de ce palmarès régional
 
 - [Hôtel avec spa privatif : 12 adresses testées](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-france/), où La Cheneaudière et 48° Nord ont été notées
@@ -647,7 +649,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 12 août 2026
 
-Dernière mise à jour : 25 août 2026
+Dernière mise à jour : 26 août 2026
 
 Meilleurs.
 

@@ -2,7 +2,7 @@
 
 > Avis LMHS sur le Saint-Delis, Honfleur : trois bâtiments, 9 chambres à douche-hammam, Spa du Verger, petit-déjeuner de Matthieu Pouleur. Score LMHS 8,6/10, Indice Héritage Normand 4,7/5.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-saint-delis-honfleur/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-25 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-saint-delis-honfleur/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-26 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -368,7 +368,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 20 août 2026
 
-Dernière mise à jour : 25 août 2026
+Dernière mise à jour : 26 août 2026
 
 Meilleurs.
 

@@ -294,6 +294,8 @@ Sans séjour de contrôle
 
 - [Meilleurs hôtels à Nîmes : 8 adresses de charme classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-nimes/), le même exercice sur une autre ville de patrimoine
 
+- [Madame C, Strasbourg, avis](https://www.lesmeilleurshotelspa.fr/avis/madame-c-strasbourg/), l'autre bout de l'Alsace hôtelière, à quarante minutes de train
+
 - [Notre méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/), les grilles de notation et les règles d'indépendance
 
 [Swann Bertaud](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/)

@@ -2,7 +2,7 @@
 
 > Châteaux bourguignons, boutique-hôtels parisiens, resort alpin : le protocole LMHS compile les 10 ouvertures hôtelières les plus attendues de l'automne 2026.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-france-automne-2026/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-25 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-france-automne-2026/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-26 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -317,7 +317,7 @@ Rédacteur, Meilleurs.
 
 Publié le 22 juillet 2026
 
-Dernière mise à jour : 25 août 2026
+Dernière mise à jour : 26 août 2026
 
 Meilleurs.
 
