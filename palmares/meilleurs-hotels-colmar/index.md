@@ -59,9 +59,9 @@ jamais deux notes différentes sur ce site.
 
 **268 à 549 €/nuit**, fourchette reprise de notre palmarès alsacien.
 
-C'est la meilleure adresse de la Route des Vins, et la seule de la région à réunir deux étoiles, un spa et une winstub dans le même bâtiment. La demeure, du XVIIIe siècle, se tient au cœur de l'un des plus beaux villages de France, et aligne colombages, poutres et boiseries sans jamais tomber dans le décor de carte postale. La rénovation conduite par Patricia Nasti a donné des chambres à tons chauds, papiers peints baroques et matériaux bruts, loin du pastiche régional. Le restaurant gastronomique est dirigé par **Olivier Nasti**, Meilleur Ouvrier de France, et distingué de **deux étoiles au Guide MICHELIN** ; la winstub sert la tarte à l'oignon et la choucroute. Le **spa de 200 m²** dispose d'une piscine à débordement, d'un sauna, d'un hammam et de soins Camille Becht. Le bémol : quinze kilomètres séparent Kaysersberg du centre de Colmar, donc voiture obligatoire si vous venez pour la ville. Pour les gastronomes et pour qui préfère le vignoble à la foule.
+C'est la meilleure adresse de la Route des Vins, et la seule de la région à réunir deux étoiles, un spa et une winstub dans le même bâtiment. La demeure, du **XVIIIe siècle**, se tient au cœur de l'un des plus beaux villages d'Alsace, et aligne colombages, poutres et boiseries sans jamais tomber dans le décor de carte postale. La maison compte **33 chambres, dont 4 suites juniors et 5 suites**, en tons chauds et matériaux bruts, loin du pastiche régional. **La Table d'Olivier Nasti** est distinguée de **deux étoiles au Guide MICHELIN** ; son chef, **Olivier Nasti**, est Meilleur Ouvrier de France et a été désigné **cuisinier de l'année 2023 par le Gault&Millau**. La maison exploite trois autres adresses dans le même bâtiment : **La Winstub**, pour la tarte à l'oignon et la choucroute, **Le Salon** de thé, et une **boulangerie-chocolaterie**. Le **spa de 200 m²** dispose d'une piscine à débordement, d'un sauna, d'un bain bouillonnant et d'un hammam. Le bémol : quinze kilomètres séparent Kaysersberg du centre de Colmar, donc voiture obligatoire si vous venez pour la ville. Pour les gastronomes et pour qui préfère le vignoble à la foule.
 
-Note reprise de notre palmarès alsacien · 2 étoiles MICHELIN · Spa 200 m² et piscine · Winstub ·
+Note reprise de notre palmarès alsacien · 33 chambres · La Table d'Olivier Nasti, 2 étoiles MICHELIN · Spa 200 m² et piscine · Winstub, salon de thé et boulangerie ·
 [Site officiel →](https://www.lechambard.fr/)
 
 02
@@ -279,7 +279,7 @@ de charme en Alsace](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-c
 ce site. Catégories, capacités, tables, distinctions et équipements relevés le 26 août 2026
 sur les sites officiels et auprès du Guide MICHELIN. La fermeture du Château d'Isenbourg a
 été vérifiée auprès de son exploitant. Aucun partenariat commercial, aucune affiliation.
-Photographies : sites officiels des établissements.
+Photographies : sites officiels des établissements ; Le Chambard, photo Ilya Kagan.
 
 7 adresses
 Indice Charme Alsacien /5
