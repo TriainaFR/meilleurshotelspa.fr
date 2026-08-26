@@ -5,9 +5,21 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-08-25",
-  "count": 63,
+  "updated": "2026-08-26",
+  "count": 64,
   "articles": [
+    {
+      "slug": "hotels-colmar",
+      "title": "Meilleurs hôtels à Colmar : 7 adresses classées en 2026",
+      "category": "Palmarès",
+      "destination": "Colmar",
+      "region": "Alsace",
+      "published": "2026-08-26",
+      "readingMinutes": 15,
+      "url": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-colmar/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-colmar/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/co-colombier.jpg"
+    },
     {
       "slug": "hotels-nimes",
       "title": "Meilleurs hôtels à Nîmes : 8 adresses de charme classées en 2026",

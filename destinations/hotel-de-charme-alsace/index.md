@@ -624,6 +624,8 @@ affiliation, aucun séjour offert.
 
 ### Pour aller plus loin
 
+- [Meilleurs hôtels à Colmar : 7 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-colmar/), l'extrait colmarien de ce palmarès régional
+
 - [Hôtel avec spa privatif : 12 adresses testées](https://www.lesmeilleurshotelspa.fr/destinations/hotel-spa-privatif-france/), où La Cheneaudière et 48° Nord ont été notées
 
 - [Week-end spa en France : 9 adresses](https://www.lesmeilleurshotelspa.fr/destinations/week-end-spa-france/), et ce que deux nuits coûtent réellement

@@ -295,6 +295,8 @@ Sans séjour de contrôle
 
 - [Meilleurs hôtels de luxe à Nice : 8 adresses d'exception](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/)
 
+- [Meilleurs hôtels à Colmar : 7 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-colmar/), même exercice sur une autre ville de patrimoine
+
 - [Les meilleurs hôtels de Marseille : 10 adresses testées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-marseille/)
 
 - [Notre méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/), les grilles de notation et les règles d'indépendance

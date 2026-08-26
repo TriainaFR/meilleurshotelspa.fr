@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Palmarès26 août 2026
+
+### Meilleurs hôtels à Colmar : 7 adresses classées en 2026
+
+Colmar · 15 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-colmar/)[
+
 Palmarès25 août 2026
 
 ### Meilleurs hôtels à Nîmes : 8 adresses de charme classées en 2026

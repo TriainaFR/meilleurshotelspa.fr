@@ -355,6 +355,8 @@ Données propriétaires
 
 - [Château la Commaraine, Pommard](https://www.lesmeilleurshotelspa.fr/avis/chateau-la-commaraine-pommard/), le 5 étoiles bourguignon qui possède son propre monopole de Premier Cru, ouvert au printemps 2026
 
+- [Meilleurs hôtels à Colmar : 7 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-colmar/), dont une adresse célèbre que nous écartons parce qu'elle est fermée jusqu'en 2028
+
 - [Hôtels de charme dans les Pyrénées : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-pyrenees/), le massif absent de ce palmarès
 
 - [Château du Portereau : l'hôtel 4 étoiles qui réinvente Nantes](https://www.lesmeilleurshotelspa.fr/avis/chateau-du-portereau-vertou/), une ouverture de mai 2026 à suivre pour la prochaine édition du palmarès
