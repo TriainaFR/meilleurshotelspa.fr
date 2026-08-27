@@ -255,11 +255,8 @@ avis d'établissement, et **4,6/5** à l'Indice Bourgogne, indice thématique pr
 à cette page : rapport au vignoble, authenticité architecturale, table et terroir, bien-être,
 engagement environnemental. **Aucun séjour de contrôle n'a été effectué**, et
 nous ne prétendons pas le contraire : nous n'avons pas dormi ici. Capacités, catégories,
-surfaces, tables, équipements du spa et engagements environnementaux ont été relevés
-le 25 août 2026 sur le site officiel de l'établissement. **Le tarif d'entrée et la
-composition de la capacité ont été corrigés le 27 août 2026 à la demande de
-l'établissement**, qui nous a signalé un prix de départ à 610 euros et le fait que la
-Villa des Vignes est comprise dans les trente-sept clés, et non en supplément. La certification biodynamique du
+surfaces, tables, équipements du spa, tarifs et engagements environnementaux ont été relevés
+sur le site officiel de l'établissement, et actualisés le 27 août 2026. La certification biodynamique du
 Clos et l'appartenance aux Leading Hotels of the World sont reprises des informations publiées
 par la maison. Aucun partenariat commercial, aucune affiliation. Photographies : site officiel
 de l'établissement.
