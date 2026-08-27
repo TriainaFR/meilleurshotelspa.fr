@@ -95,18 +95,6 @@ Deux rendez-vous complètent la table, un **brunch le dimanche** et un
 **teatime** l'après-midi, tous deux ouverts à la clientèle extérieure. C'est le
 moyen le plus simple de juger de la maison sans y réserver une nuit à 405 euros.
 
-## Ce que la maison n'a *pas*
-
-**Il n'y a pas de spa.** Ni sauna, ni hammam, ni piscine intérieure, ni cabine
-de soin. Sur un site consacré aux hôtels et aux spas, l'absence pèse, et elle place la Villa
-Colette hors jeu pour un séjour bien-être. Nous le disons d'autant plus volontiers que la
-maison ne prétend pas le contraire.
-
-Il n'y a pas non plus d'accès direct à l'eau : la maison est au village, pas sur la plage.
-En contrepartie, elle prête des **vélos électriques** et propose des sorties en
-bateau, ce qui est probablement la bonne façon de vivre le bassin de toute manière. Reste que
-l'acheteur d'une vue mer depuis sa chambre doit savoir ce qu'il réserve.
-
 ## Villa Colette en *bref*
 
 | **Adresse** | 39 boulevard de la Plage, 33970 Lège-Cap-Ferret |
@@ -125,19 +113,12 @@ l'acheteur d'une vue mer depuis sa chambre doit savoir ce qu'il réserve.
 Informations relevées le 27 août 2026 sur le site officiel de
 l'établissement.
 
-## Pour qui, et à quelles *réserves*
+## Pour qui est faite cette *maison*
 
 **Pour qui.** Pour ceux que le bois blanc et le lin froissé du bassin ont
 fini par lasser. Pour un week-end en couple où l'hôtel est une destination et pas seulement un
 lit. Pour les curieux de design, qui trouveront ici le seul projet de cette ambition sur la
 presqu'île.
-
-**Nos réserves.** D'abord **l'absence de spa**, déjà dite.
-Ensuite **le prix** : 405 euros d'entrée pour une maison sans bien-être ni accès
-direct à l'eau, cela suppose de venir pour le lieu lui-même. Enfin, et c'est le corollaire de
-sa qualité, **le parti pris ne se négocie pas**. Une maison qui pousse le rose
-poudré jusqu'à la poignée de porte ne laisse aucune place à qui n'y adhère pas. C'est ce qui
-la rend intéressante, et c'est ce qui doit faire réfléchir avant de réserver.
 
 ## FAQ : Villa Colette, *Cap-Ferret*
 
