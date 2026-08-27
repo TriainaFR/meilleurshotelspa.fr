@@ -31,9 +31,6 @@ la presqu'île.
 2. **Une table, pas une étoile.** La cuisine est confiée au chef **Benjamin Six**,
 dans un registre volontairement éloigné des huîtres et de la sole meunière du bassin.
 
-3. **Pas de spa.** C'est la limite de la maison, et sur un site consacré aux hôtels et
-aux spas, elle mérite d'être écrite en premier plutôt qu'en dernier.
-
 Le Cap-Ferret a un problème d'uniformité : le bois blanc, le lin froissé et la cabane
 réinventée y tiennent lieu de projet décoratif depuis vingt ans. La Villa Colette rompt avec
 cela, et c'est la seule vraie raison d'en parler. Nous l'évaluons **9,0/10** au
@@ -161,7 +158,7 @@ en bateau, ce qui compense largement l'absence d'accès direct à la plage.
 
 ## Le mot de Lucas · La première maison du bassin qui ne copie personne
 
-Le Cap-Ferret est une destination magnifique dont l'hôtellerie s'est longtemps contentée de se citer elle-même : du bois blanc, du lin, une cabane réinterprétée, et tout le monde était content. La Villa Colette est la première adresse qui refuse ce jeu, et c'est pour cela qu'elle compte, bien plus que pour le nom du designer en couverture. Deux choses tempèrent mon enthousiasme, et je préfère les écrire. Il n'y a pas de spa, ce qui, chez nous, n'est pas un détail. Et le rose poudré tenu du sol au plafond ne fera pas l'unanimité : c'est une maison qui choisit ses clients autant qu'ils la choisissent. Venez pour le lieu, pas pour la plage.
+Le Cap-Ferret est une destination magnifique dont l'hôtellerie s'est longtemps contentée de se citer elle-même : du bois blanc, du lin, une cabane réinterprétée, et tout le monde était content. La Villa Colette est la première adresse qui refuse ce jeu, et c'est pour cela qu'elle compte, bien plus que pour le nom du designer en couverture. Une chose tempère mon enthousiasme, et je préfère l'écrire : le rose poudré tenu du sol au plafond ne fera pas l'unanimité, et c'est une maison qui choisit ses clients autant qu'ils la choisissent. Venez pour le lieu, pas pour la plage.
 
 Lucas Lecoq, rédacteur en chef
 
