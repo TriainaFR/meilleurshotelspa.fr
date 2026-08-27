@@ -415,6 +415,8 @@ Quatre établissements ont été rétrogradés, une première depuis la créatio
 
 - [Hôtels de charme en Normandie](https://www.lesmeilleurshotelspa.fr/destinations/hotels-charme-normandie/), 10 maisons, là où la France du luxe compte le moins de palaces
 
+- [Meilleurs hôtels à Annecy : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-annecy/), dont trois 5 étoiles au bord du lac
+
 - [Hôtels de luxe à Cannes](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-cannes/), 8 adresses, dont le seul palace de la ville
 
 - [Notre méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/), les grilles de notation et les règles d'indépendance

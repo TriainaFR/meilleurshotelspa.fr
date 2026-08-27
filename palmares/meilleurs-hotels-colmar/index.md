@@ -296,6 +296,8 @@ Sans séjour de contrôle
 
 - [Madame C, Strasbourg, avis](https://www.lesmeilleurshotelspa.fr/avis/madame-c-strasbourg/), l'autre bout de l'Alsace hôtelière, à quarante minutes de train
 
+- [Meilleurs hôtels à Annecy : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-annecy/), le même exercice au bord d'un lac alpin
+
 - [Notre méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/), les grilles de notation et les règles d'indépendance
 
 [Swann Bertaud](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/)

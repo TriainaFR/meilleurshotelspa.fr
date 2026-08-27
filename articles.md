@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Palmarès27 août 2026
+
+### Meilleurs hôtels à Annecy : 8 adresses classées en 2026
+
+Annecy · 15 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-annecy/)[
+
 Enquête26 août 2026
 
 ### Madame C, à Strasbourg : douze chambres qui portent chacune le nom d'un tableau

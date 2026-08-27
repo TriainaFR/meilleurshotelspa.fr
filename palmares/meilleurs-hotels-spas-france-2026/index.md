@@ -357,6 +357,8 @@ Données propriétaires
 
 - [Madame C, Strasbourg, avis](https://www.lesmeilleurshotelspa.fr/avis/madame-c-strasbourg/), une adresse de caractère que son absence de spa tient hors de ce palmarès
 
+- [Meilleurs hôtels à Annecy : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-annecy/), six étoiles MICHELIN sur vingt kilomètres de rives
+
 - [Meilleurs hôtels à Colmar : 7 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-colmar/), dont une adresse célèbre que nous écartons parce qu'elle est fermée jusqu'en 2028
 
 - [Hôtels de charme dans les Pyrénées : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-pyrenees/), le massif absent de ce palmarès
