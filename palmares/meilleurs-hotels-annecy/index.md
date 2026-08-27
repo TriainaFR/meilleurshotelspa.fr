@@ -2,7 +2,7 @@
 
 > Les meilleurs hôtels du lac d'Annecy en 2026 : Les Trésoms, Père Bise, Impérial Palace, Black Bass. Scores LMHS, tables étoilées, spas, tarifs et réserves.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-annecy/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-annecy/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -14,7 +14,7 @@ Palmarès local · Données propriétaires LMHS
 Six étoiles au Guide MICHELIN sur vingt kilomètres de rives, deux étoiles vertes, et le
 plus grand spa de la ville qui n'est pas celui qu'on croit.
 
-Par [**Emmanuel Laveran**](https://www.lesmeilleurshotelspa.fr/redaction/emmanuel-laveran/), rédacteur hôtels et gastronomie
+Par [**Swann Bertaud**](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/), rédacteur hôtellerie de luxe
 ✺
 Publié le 27 août 2026
 ✺
@@ -259,11 +259,11 @@ août concentrent la haute saison, avec des tarifs au plus haut et des réservat
 prendre plusieurs mois à l'avance. L'hiver propose une tout autre lecture du lac, avec les
 stations de ski à moins d'une heure.
 
-## Le mot d'Emmanuel · Le lac se mérite, l'hôtellerie moins
+## Le mot de Swann · Le lac se mérite, l'hôtellerie moins
 
 Annecy a un problème que ses concurrents lacustres n'ont pas : elle est trop belle pour avoir besoin de bien faire. Le lac remplit les chambres tout seul de juin à septembre, et cela se voit sur les tarifs comme sur le service en pleine saison. Ce qui rachète tout, c'est la table. Six étoiles Michelin sur vingt kilomètres de rives, dont deux étoiles vertes, voilà une densité que ni le Bourget ni le Léman français n'atteignent. Une chose m'a frappé en établissant ce classement : le plus grand spa d'Annecy n'appartient à aucun palace centenaire, mais à une maison ouverte en 2021. Le lac a beau être immuable, l'hôtellerie qui le borde ne l'est pas.
 
-Emmanuel Laveran, rédacteur hôtels et gastronomie
+Swann Bertaud, rédacteur hôtellerie de luxe
 
 ## Méthode et *sources*
 
@@ -294,8 +294,8 @@ Sans séjour de contrôle
 
 - [Notre méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/), les grilles de notation et les règles d'indépendance
 
-[Emmanuel Laveran](https://www.lesmeilleurshotelspa.fr/redaction/emmanuel-laveran/)
-Rédacteur hôtels et gastronomie, Meilleurs.
+[Swann Bertaud](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/)
+Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 27 août 2026
 
