@@ -1,12 +1,12 @@
 # Château la Commaraine, Pommard : 5 étoiles dans les vignes
 
-> Avis LMHS sur le Château la Commaraine à Pommard : 37 chambres, monopole de 3,63 ha en Pommard Premier Cru certifié biodynamie, deux tables, spa myBlend. Score 9,0/10.
+> Avis LMHS sur le Château la Commaraine à Pommard : 37 chambres Villa comprise, monopole de 3,63 ha en Pommard Premier Cru certifié biodynamie, deux tables, spa myBlend. Score 9,0/10.
 
 URL canonique : https://www.lesmeilleurshotelspa.fr/avis/chateau-la-commaraine-pommard/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
-Avis LMHS documentaire sur le Château la Commaraine, 24 Grande Rue, 21630 Pommard, Côte-d'Or, Bourgogne. Hôtel 5 etoiles membre des Leading Hotels of the World, rouvert au printemps 2026 apres cinq annees de restauration conduite par l'architecte Richard Martinet sous controle des Batiments de France. Chateau du XIIe siecle, ancien fief des ducs de Bourgogne. 37 chambres et suites plus une villa. Suite Rotonde dans la tour medievale du XIVe siecle, Suite Cuverie de 64 metres carres surplombant la cuverie, Villa des Vignes de 211 metres carres avec quatre chambres. Le Clos de la Commaraine est un monopole de 3,63 hectares en appellation Pommard Premier Cru, certifie en biodynamie en 2025 apres sept ans de conversion. Deux tables : Le Clos, restaurant et bar, et Le VIII, table gastronomique installee dans la cave voutee. Restauration dirigee par Christophe Raoux, Meilleur Ouvrier de France, avec le chef resident Jerome Rioux. Carte des vins du sommelier Victor Petiot, environ la moitie en biodynamie, a partir de 45 euros la bouteille. Spa myBlend : piscine exterieure chauffee, trois cabines dont une double, jacuzzi, sauna, hammam, bain froid. Zero plastique, bassin de recuperation des eaux de pluie de 500 metres cubes, electricite verte. A partir de 450 euros la nuit. Score LMHS 9,0 sur 10 et Indice Bourgogne 4,6 sur 5. Avis documentaire etabli sans sejour de controle, informations relevees le 25 aout 2026 sur le site officiel de l'etablissement.
+Avis LMHS documentaire sur le Château la Commaraine, 24 Grande Rue, 21630 Pommard, Côte-d'Or, Bourgogne. Hôtel 5 etoiles membre des Leading Hotels of the World, rouvert au printemps 2026 apres cinq annees de restauration conduite par l'architecte Richard Martinet sous controle des Batiments de France. Chateau du XIIe siecle, ancien fief des ducs de Bourgogne. 37 chambres et suites, Villa des Vignes comprise. Suite Rotonde dans la tour medievale du XIVe siecle, Suite Cuverie de 64 metres carres surplombant la cuverie, Villa des Vignes de 211 metres carres avec quatre chambres. Le Clos de la Commaraine est un monopole de 3,63 hectares en appellation Pommard Premier Cru, certifie en biodynamie en 2025 apres sept ans de conversion. Deux tables : Le Clos, restaurant et bar, et Le VIII, table gastronomique installee dans la cave voutee. Restauration dirigee par Christophe Raoux, Meilleur Ouvrier de France, avec le chef resident Jerome Rioux. Carte des vins du sommelier Victor Petiot, environ la moitie en biodynamie, a partir de 45 euros la bouteille. Spa myBlend : piscine exterieure chauffee, trois cabines dont une double, jacuzzi, sauna, hammam, bain froid. Zero plastique, bassin de recuperation des eaux de pluie de 500 metres cubes, electricite verte. A partir de 610 euros la nuit. Score LMHS 9,0 sur 10 et Indice Bourgogne 4,6 sur 5. Avis documentaire etabli sans sejour de controle, informations relevees le 25 aout 2026 sur le site officiel de l'etablissement.
 
 ---
 Avis · Données propriétaires LMHS
@@ -59,7 +59,7 @@ Peninsula Paris, et menée **sous le contrôle des Bâtiments de France** avec d
 artisans locaux. Le parti pris se résume simplement : ne pas se faire remarquer. Pierre blonde
 de Bourgogne, voûtes conservées, boiseries claires, et le confort contemporain glissé dans les
 interstices plutôt que posé par-dessus. Le résultat s'intègre au village sans le dominer.
-L'établissement compte **37 chambres et suites**, auxquelles s'ajoute une villa,
+L'établissement compte **37 chambres et suites**, la Villa des Vignes comprise,
 et appartient à la collection des **Leading Hotels of the World**.
 
 ## Les chambres : trois catégories qui ne racontent pas la *même chose*
@@ -77,7 +77,8 @@ catégorie à demander pour l'architecture. La **Suite Cuverie**, **64
 m²**, surplombe directement le lieu de vinification : à la vendange, on entend et on sent
 le travail se faire en dessous. C'est la plus singulière des trois, et la seule dont l'intérêt
 soit saisonnier. La **Villa des Vignes**, **211 m²**, aligne
-**quatre chambres**, un salon et une cuisine, pour une privatisation complète.
+**quatre chambres**, un salon et une cuisine, pour une privatisation complète. Elle est comptée dans les
+trente-sept clés de la maison, et non en supplément.
 
 L'escapade en 2CV, l'une des activités proposées dans le Clos. Photo : site
 officiel de l'établissement.
@@ -148,12 +149,12 @@ biodynamique du vignoble, qui n'est pas une déclaration mais un label contrôl�
 | **Téléphone** | +33 3 75 83 43 34 |
 | **Catégorie** | 5 étoiles, Leading Hotels of the World |
 | **Ouverture** | Printemps 2026, après cinq années de restauration |
-| **Capacité** | 37 chambres et suites, plus une villa de 211 m² |
+| **Capacité** | 37 chambres et suites, dont la Villa des Vignes de 211 m² |
 | **Vignoble** | Monopole de 3,63 ha, Pommard Premier Cru, biodynamie certifiée 2025 |
 | **Tables** | Le Clos (restaurant et bar) et Le VIII (gastronomique, cave voûtée) |
 | **Direction des cuisines** | Christophe Raoux, MOF, avec Jérôme Rioux |
 | **Spa** | myBlend : piscine extérieure chauffée, 3 cabines, jacuzzi, sauna, hammam, bain froid |
-| **Tarifs** | À partir de 450 € la nuit |
+| **Tarifs** | À partir de 610 € la nuit |
 | **Accès** | Beaune 10 min, Dijon 45 min, TGV Paris-Dijon 1 h 35 |
 | **Score LMHS** | 9,0/10 · Indice Bourgogne 4,6/5 |
 
@@ -182,7 +183,7 @@ consommer, la Suite Cuverie et l'atelier de fût n'ayant pas d'équivalent évid
 les couples cherchant une maison de petite taille avec un spa complet. Pour un séjour de
 vendanges, en septembre et octobre, où la maison est à son sujet.
 
-**Nos réserves.** D'abord **le prix** : 450 euros d'entrée de
+**Nos réserves.** D'abord **le prix** : 610 euros d'entrée de
 gamme, avant les tables et le spa, placent le séjour hors de portée d'une visite improvisée.
 Ensuite **l'atmosphère**, orientée vers une clientèle adulte, ce qui n'en fait pas
 une adresse familiale, sauf avec de grands enfants déjà curieux de vin. Enfin, et c'est la
@@ -194,7 +195,7 @@ en juger.
 
 Quel est le prix d'une nuit au Château la Commaraine ?
 
-Les tarifs démarrent **à partir de 450 euros la nuit**, relevé effectué le
+Les tarifs démarrent **à partir de 610 euros la nuit**, tarif communiqué par la maison le
 25 août 2026. Les suites signature et la Villa des Vignes, 211 m² et quatre chambres, se
 situent au-delà. Les tarifs d'un hôtel de cette catégorie varient fortement selon la
 saison : la période des vendanges et celle de la vente des Hospices de Beaune, en novembre,
@@ -255,8 +256,11 @@ avis d'établissement, et **4,6/5** à l'Indice Bourgogne, indice thématique pr
 à cette page : rapport au vignoble, authenticité architecturale, table et terroir, bien-être,
 engagement environnemental. **Aucun séjour de contrôle n'a été effectué**, et
 nous ne prétendons pas le contraire : nous n'avons pas dormi ici. Capacités, catégories,
-surfaces, tables, équipements du spa, tarifs et engagements environnementaux ont été relevés
-le 25 août 2026 sur le site officiel de l'établissement. La certification biodynamique du
+surfaces, tables, équipements du spa et engagements environnementaux ont été relevés
+le 25 août 2026 sur le site officiel de l'établissement. **Le tarif d'entrée et la
+composition de la capacité ont été corrigés le 27 août 2026 à la demande de
+l'établissement**, qui nous a signalé un prix de départ à 610 euros et le fait que la
+Villa des Vignes est comprise dans les trente-sept clés, et non en supplément. La certification biodynamique du
 Clos et l'appartenance aux Leading Hotels of the World sont reprises des informations publiées
 par la maison. Aucun partenariat commercial, aucune affiliation. Photographies : site officiel
 de l'établissement.
