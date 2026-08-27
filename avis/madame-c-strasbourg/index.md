@@ -2,7 +2,7 @@
 
 > Avis LMHS sur le Madame C, boutique-hôtel 4 étoiles rue des Sœurs à Strasbourg : 12 chambres, bar-restaurant L'Alcôve, brunch dominical, et aucun spa. Score 9,0/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/madame-c-strasbourg/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-26 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/madame-c-strasbourg/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -213,6 +213,8 @@ Sans séjour de contrôle
 
 - [Les 50 meilleurs hôtels et spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)
 
+- [Villa Colette, Cap-Ferret, avis](https://www.lesmeilleurshotelspa.fr/avis/villa-colette-cap-ferret/), l'autre maison de ce site qui tient un parti pris décoratif jusqu'au bout
+
 - [Notre méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/), les grilles de notation et les règles d'indépendance
 
 [Swann Bertaud](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/)
@@ -220,7 +222,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 26 août 2026
 
-Dernière mise à jour : 26 août 2026
+Dernière mise à jour : 27 août 2026
 
 Meilleurs.
 

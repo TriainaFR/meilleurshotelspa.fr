@@ -2,7 +2,7 @@
 
 > Découvrez les 10 meilleurs hôtels de Bordeaux 2026 selon LMHS. Palmarès complet avec scores LMHS, indices vin et avis d'experts.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-bordeaux/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-26 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-bordeaux/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -228,7 +228,7 @@ La grande réussite urbaine de Bordeaux de la dernière décennie. Les quais de 
 
 Le cœur médiéval de Bordeaux, autour de la cathédrale Saint-André et de la place de la Bourse. C'est ici que se cachent les deux pépites les plus intimes de la sélection. L'**Hôtel Cardinal** (à 100 m de la cathédrale) est notre numéro un absolu pour l'intimité et la culture viticole. L'**Hôtel Acantha / Bleu de Mer** (rue Saint-Rémi) offre l'emplacement le plus central pour le prix le plus bas. L'**Hôtel Yndo** est à quinze minutes à pied, dans un quartier résidentiel calme entre Gambetta et Saint-Seurin.
 
-Pour aller plus loin, consultez notre [palmarès national des 50 meilleurs hôtels & spas de France](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/) et notre sélection des [meilleurs hôtels 4 étoiles de Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-paris/) pour comparer les niveaux de prestation. Pour un séjour à deux, voir nos [8 hôtels romantiques de Bordeaux](https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-bordeaux/), classés à l'indice romantisme, qui reprennent quatre des adresses de cette page sous un autre angle.
+Pour aller plus loin, consultez notre [palmarès national des 50 meilleurs hôtels & spas de France](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/) et notre sélection des [meilleurs hôtels 4 étoiles de Paris](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-paris/) pour comparer les niveaux de prestation. Pour un séjour à deux, voir nos [8 hôtels romantiques de Bordeaux](https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-bordeaux/), classés à l'indice romantisme, qui reprennent quatre des adresses de cette page sous un autre angle. Et si vous poussez jusqu'au bassin d'Arcachon, à une heure de route, lisez notre avis sur la [Villa Colette au Cap-Ferret](https://www.lesmeilleurshotelspa.fr/avis/villa-colette-cap-ferret/), le 5 étoiles dont Philippe Starck a signé les intérieurs.
 
 ## FAQ : vos questions sur les hôtels de *Bordeaux*
 
@@ -288,7 +288,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 26 août 2026
+Dernière mise à jour : 27 août 2026
 
 Meilleurs.
 

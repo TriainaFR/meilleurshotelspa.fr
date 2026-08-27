@@ -2,7 +2,7 @@
 
 > Découvrez les 8 meilleurs hôtels avec plage à l'île Maurice en 2026. Palmarès complet avec scores LMHS, indices plage, prix et avis d'experts.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-26 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-plage-ile-maurice/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -369,7 +369,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 29 juillet 2026
 
-Dernière mise à jour : 26 août 2026
+Dernière mise à jour : 27 août 2026
 
 Meilleurs.
 

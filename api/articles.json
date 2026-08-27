@@ -6,8 +6,20 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-08-27",
-  "count": 66,
+  "count": 67,
   "articles": [
+    {
+      "slug": "villa-colette",
+      "title": "Villa Colette, au Cap-Ferret : un Starck derrière une façade arcachonnaise",
+      "category": "Enquête",
+      "destination": "Cap-Ferret",
+      "region": "Aquitaine",
+      "published": "2026-08-27",
+      "readingMinutes": 10,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/villa-colette-cap-ferret/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/villa-colette-cap-ferret/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/cf-colette-chambre.jpg"
+    },
     {
       "slug": "hotels-annecy",
       "title": "Meilleurs hôtels à Annecy : 8 adresses classées en 2026",

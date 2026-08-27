@@ -16,7 +16,7 @@ La version complète, transparente et vérifiable, est ci-dessous.
 
 La rédaction de **Meilleurs.**
 ✺
-Mise à jour le 26 août 2026
+Mise à jour le 27 août 2026
 
 ## TL;DR : l'essentiel · Ce que ce site sait de vous : presque rien
 

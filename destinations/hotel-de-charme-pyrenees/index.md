@@ -2,7 +2,7 @@
 
 > Hôtels de charme Pyrénées : 8 adresses classées sur la grille LMHS Destination et l'Indice Pyrénéen. Le premier n'est pas en montagne, et le plus haut n'a pas encore ouvert.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-pyrenees/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-26 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-pyrenees/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -398,7 +398,7 @@ Rédacteur hôtels et gastronomie, Meilleurs.
 
 Publié le 24 août 2026
 
-Dernière mise à jour : 26 août 2026
+Dernière mise à jour : 27 août 2026
 
 Meilleurs.
 

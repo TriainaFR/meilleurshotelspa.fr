@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-26 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -16,6 +16,14 @@ Le sommaire
 ⌕
 
 [
+
+Enquête27 août 2026
+
+### Villa Colette, au Cap-Ferret : un Starck derrière une façade arcachonnaise
+
+Cap-Ferret · 10 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/villa-colette-cap-ferret/)[
 
 Palmarès27 août 2026
 

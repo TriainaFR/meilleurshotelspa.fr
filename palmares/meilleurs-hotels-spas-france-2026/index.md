@@ -2,7 +2,7 @@
 
 > Palmarès exclusif 2026 : les 50 meilleurs hôtels & spas de France testés selon le Protocole LMHS. Classement par score, prix, région et type de spa.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-26 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -357,6 +357,8 @@ Données propriétaires
 
 - [Madame C, Strasbourg, avis](https://www.lesmeilleurshotelspa.fr/avis/madame-c-strasbourg/), une adresse de caractère que son absence de spa tient hors de ce palmarès
 
+- [Villa Colette, Cap-Ferret, avis](https://www.lesmeilleurshotelspa.fr/avis/villa-colette-cap-ferret/), une ouverture remarquée que son absence de spa tient hors de ce palmarès
+
 - [Meilleurs hôtels à Annecy : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-annecy/), six étoiles MICHELIN sur vingt kilomètres de rives
 
 - [Meilleurs hôtels à Colmar : 7 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-colmar/), dont une adresse célèbre que nous écartons parce qu'elle est fermée jusqu'en 2028
@@ -374,7 +376,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 26 août 2026
+Dernière mise à jour : 27 août 2026
 
 Meilleurs.
 
