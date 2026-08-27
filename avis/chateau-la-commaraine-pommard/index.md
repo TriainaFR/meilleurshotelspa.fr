@@ -77,8 +77,7 @@ catégorie à demander pour l'architecture. La **Suite Cuverie**, **64
 m²**, surplombe directement le lieu de vinification : à la vendange, on entend et on sent
 le travail se faire en dessous. C'est la plus singulière des trois, et la seule dont l'intérêt
 soit saisonnier. La **Villa des Vignes**, **211 m²**, aligne
-**quatre chambres**, un salon et une cuisine, pour une privatisation complète. Elle est comptée dans les
-trente-sept clés de la maison, et non en supplément.
+**quatre chambres**, un salon et une cuisine, pour une privatisation complète.
 
 L'escapade en 2CV, l'une des activités proposées dans le Clos. Photo : site
 officiel de l'établissement.
