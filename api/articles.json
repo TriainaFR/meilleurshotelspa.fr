@@ -6,8 +6,20 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-08-28",
-  "count": 68,
+  "count": 69,
   "articles": [
+    {
+      "slug": "hotels-montpellier",
+      "title": "Meilleurs hôtels à Montpellier : 9 adresses classées en 2026",
+      "category": "Palmarès",
+      "destination": "Montpellier",
+      "region": "Occitanie",
+      "published": "2026-08-28",
+      "readingMinutes": 15,
+      "url": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-montpellier/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-montpellier/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/mp-richer-chambre.jpg"
+    },
     {
       "slug": "villa-gallici",
       "title": "Villa Gallici, à Aix-en-Provence : un palazzo toscan qui a choisi la Provence",

@@ -295,6 +295,8 @@ Sans séjour de contrôle
 
 - [Meilleurs hôtels de luxe à Nice : 8 adresses d'exception](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/)
 
+- [Meilleurs hôtels à Montpellier : 9 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-montpellier/), l'autre grande ville d'Occitanie, à trente minutes de train
+
 - [Meilleurs hôtels à Colmar : 7 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-colmar/), même exercice sur une autre ville de patrimoine
 
 - [Les meilleurs hôtels de Marseille : 10 adresses testées](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-marseille/)

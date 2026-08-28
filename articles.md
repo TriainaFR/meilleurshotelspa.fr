@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Palmarès28 août 2026
+
+### Meilleurs hôtels à Montpellier : 9 adresses classées en 2026
+
+Montpellier · 15 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-montpellier/)[
+
 Enquête28 août 2026
 
 ### Villa Gallici, à Aix-en-Provence : un palazzo toscan qui a choisi la Provence

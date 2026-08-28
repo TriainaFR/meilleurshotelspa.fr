@@ -361,6 +361,8 @@ Données propriétaires
 
 - [Villa Colette, Cap-Ferret, avis](https://www.lesmeilleurshotelspa.fr/avis/villa-colette-cap-ferret/), une ouverture remarquée que son absence de spa tient hors de ce palmarès
 
+- [Meilleurs hôtels à Montpellier : 9 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-montpellier/), dont le Domaine de Verchant, 23e de ce palmarès
+
 - [Meilleurs hôtels à Annecy : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-annecy/), six étoiles MICHELIN sur vingt kilomètres de rives
 
 - [Meilleurs hôtels à Colmar : 7 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-colmar/), dont une adresse célèbre que nous écartons parce qu'elle est fermée jusqu'en 2028
