@@ -106,9 +106,16 @@ les fichiers. Les déposer dans `images/` (`auteur-lucas-lecoq.jpg`,
 auteur et dans la propriété `image` des `Person` en JSON-LD.
 
 ### Réseaux sociaux de la marque
-Aucun `sameAs` d'entreprise n'est déclaré sur l'`Organization` : seuls les
-profils LinkedIn personnels des deux auteurs le sont. Dès qu'un compte média
-existe (LinkedIn Triaina, Instagram, X), l'ajouter aux blocs `NewsMediaOrganization`.
+**Fait le 28/08/2026 pour LinkedIn.** Le compte média est
+`https://www.linkedin.com/company/lesmeilleurshotelspa/`. Il est déclaré en
+`sameAs` sur les 93 nœuds `NewsMediaOrganization` du site, lié depuis le pied de
+page de toutes les pages (`.foot-social`, avec `rel="me"`), depuis le bloc
+« Nous suivre » de la page contact, et déclaré comme seul profil officiel dans
+`llms.txt`.
+
+Reste à faire le jour où d'autres comptes existent (Instagram, X) : les ajouter
+au tableau `sameAs`, qui est déjà un tableau précisément pour ça, et compléter la
+ligne de `llms.txt` qui affirme aujourd'hui qu'il n'y a qu'un seul profil.
 
 ### Newsletter
 Aucun mécanisme de rétention. Un formulaire « alerte palmarès » suffirait,

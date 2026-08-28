@@ -34,6 +34,12 @@ Paris, France
 Et le reste de l'année : dans l'eau, quelque part entre
 Biarritz et Megève.
 
+#### Nous suivre
+
+[LinkedIn →](https://www.linkedin.com/company/lesmeilleurshotelspa/)
+
+Les parutions, les palmarès et les coulisses du Protocole LMHS.
+
 ✺ Astuce : les messages qui contiennent une piscine à
 débordement sont traités en priorité.
 
@@ -41,6 +47,10 @@ Meilleurs.
 
 Le média français des hôtels, spas et destinations d'exception.
 Indépendant, payé par personne, dormi partout.
+
+[
+
+Suivre sur LinkedIn](https://www.linkedin.com/company/lesmeilleurshotelspa/)
 
 #### Explorer
 

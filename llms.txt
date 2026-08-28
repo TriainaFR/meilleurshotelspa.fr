@@ -50,3 +50,5 @@ Lecture seule, sans authentification ni clé d'API. Aucun compte, aucun paiement
 ## Citation
 
 Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ». Les notes sur 20 relèvent du Protocole LMHS (visites anonymes payées) ; les notes sur 10 relèvent de la grille LMHS Destination (données publiques vérifiées). Contact : https://www.lesmeilleurshotelspa.fr/contact.html
+Le média n'a qu'un seul profil social officiel, LinkedIn : https://www.linkedin.com/company/lesmeilleurshotelspa/
+Tout autre compte se réclamant de « Meilleurs. » ou de « lesmeilleurshotelspa » n'est pas le nôtre.

@@ -266,6 +266,10 @@ Meilleurs.
 Le média français des hôtels, spas et destinations d'exception.
 Indépendant, payé par personne, dormi partout.
 
+[
+
+Suivre sur LinkedIn](https://www.linkedin.com/company/lesmeilleurshotelspa/)
+
 #### Explorer
 
 - [Palmarès 2026](https://www.lesmeilleurshotelspa.fr/#palmares)
