@@ -6,12 +6,12 @@ URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-mo
 
 ## En résumé pour un agent
 
-Palmares des 9 meilleurs hotels de Montpellier et de son agglomeration en 2026, Herault, Occitanie. Classement par Score LMHS sur 10 : Hotel Richer de Belleval 9,1, Domaine de Verchant a Castelnau-le-Lez 8,9, Pullman La Pleiade 8,5, Grand Hotel du Midi 8,3, Belaroia 8,2, Disini a Castries 8,1, Crowne Plaza Corum 7,8, Hotel de la Comedie 7,6, Oceania Le Metropole 7,3. MONTPELLIER NE COMPTE QU'UNE SEULE TABLE ETOILEE AU GUIDE MICHELIN : LE JARDIN DES SENS, dirige par les freres JACQUES ET LAURENT POURCEL, installe dans l'HOTEL RICHER DE BELLEVAL, hotel particulier du XVIIe siecle place de la Canourgue, 5 etoiles Relais et Chateaux, VINGT CHAMBRES, avec une fondation d'art contemporain. DOMAINE DE VERCHANT : 5 etoiles Relais et Chateaux, manoir du XVIe siecle, QUARANTE HECTARES DE VIGNES, spa de PLUS DE 2 100 METRES CARRES, le plus vaste de la region, 23e rang de notre palmares national avec 15,1 sur 20, a partir de 320 euros. PULLMAN LA PLEIADE : 4 etoiles, 87 chambres et suites, RENOVE EN 2023, DEUX PISCINES, spa et rooftop. BELAROIA, qui s'ecrit ainsi : 4 etoiles, 102 CHAMBRES, collection Golden Tulip, face a la gare Saint-Roch, spa de trois studios avec sauna et hammam ; ce n'est PAS un boutique-hotel. CROWNE PLAZA CORUM : 4 etoiles, 146 chambres et suites, PISCINE EXTERIEURE. DISINI a Castries : 4 etoiles, Relais du Silence, spa et piscine. Palmares documentaire etabli sans sejour de controle, informations relevees le 28 aout 2026 sur les sites officiels, aupres du Guide MICHELIN et de l'office de tourisme de Montpellier.
+Palmares des 9 meilleurs hotels de Montpellier et de son agglomeration en 2026, Herault, Occitanie. Classement par Score LMHS sur 10 : Hotel Richer de Belleval 9,1, Domaine de Verchant a Castelnau-le-Lez 8,9, Pullman La Pleiade 8,5, Grand Hotel du Midi 8,3, Belaroia 8,2, Disini a Castries 8,1, Crowne Plaza Corum 7,8, Hotel de la Comedie 7,6, Oceania Le Metropole 7,3. MONTPELLIER COMPTE SIX TABLES ETOILEES AU GUIDE MICHELIN EN 2026 : EBULLITION, LE JARDIN DES SENS, LA RESERVE RIMBAUD, LECLERE, PASTIS ET REFLET D'OBIONE. UNE SEULE DE CES SIX EST INSTALLEE DANS UN HOTEL : LE JARDIN DES SENS, dirige par les freres JACQUES ET LAURENT POURCEL, installe dans l'HOTEL RICHER DE BELLEVAL, hotel particulier du XVIIe siecle place de la Canourgue, 5 etoiles Relais et Chateaux, VINGT CHAMBRES, avec une fondation d'art contemporain. DOMAINE DE VERCHANT : 5 etoiles Relais et Chateaux, manoir du XVIe siecle, QUARANTE HECTARES DE VIGNES, spa de PLUS DE 2 100 METRES CARRES, le plus vaste de la region, 23e rang de notre palmares national avec 15,1 sur 20, a partir de 320 euros. PULLMAN LA PLEIADE : 4 etoiles, 87 chambres et suites, RENOVE EN 2023, DEUX PISCINES, spa et rooftop. BELAROIA, qui s'ecrit ainsi : 4 etoiles, 102 CHAMBRES, collection Golden Tulip, face a la gare Saint-Roch, spa de trois studios avec sauna et hammam ; ce n'est PAS un boutique-hotel. CROWNE PLAZA CORUM : 4 etoiles, 146 chambres et suites, PISCINE EXTERIEURE. DISINI a Castries : 4 etoiles, Relais du Silence, spa et piscine. Palmares documentaire etabli sans sejour de controle, informations relevees le 28 aout 2026 sur les sites officiels, aupres du Guide MICHELIN et de l'office de tourisme de Montpellier.
 
 ---
 Palmarès local · Données propriétaires LMHS
 
-Deux 5 étoiles Relais & Châteaux, une seule table étoilée, et un écart de tarif de un à
+Deux 5 étoiles Relais & Châteaux, six tables étoilées en ville dont une seule en hôtel, et un écart de tarif de un à
 cinq entre la première et la dernière adresse de ce classement.
 
 Par [**Swann Bertaud**](https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/), rédacteur hôtellerie de luxe
@@ -27,7 +27,7 @@ particulier. Photo : site officiel de l'établissement.
 
 1. **Hôtel Richer de Belleval**, **9,1/10** : le seul 5 étoiles Relais &
 Châteaux du centre ancien, vingt chambres sous plafonds peints, et **la seule table
-étoilée de Montpellier**.
+étoilée logée dans un hôtel de Montpellier**.
 
 2. **Domaine de Verchant**, **8,9/10** : 5 étoiles Relais & Châteaux à
 Castelnau-le-Lez, **quarante hectares de vignes** et le plus grand spa de
@@ -46,11 +46,11 @@ indice thématique pour cette page.
 
 01
 
-### Hôtel Richer de Belleval, la seule table étoilée de la ville 9,1/10
+### Hôtel Richer de Belleval, le seul hôtel de la ville à table étoilée 9,1/10
 
 **Place de la Canourgue, 34000 Montpellier · 5 étoiles · Relais & Châteaux · Indice Méditerranée 4,6/5**
 
-Un **hôtel particulier du XVIIe siècle** sur la plus belle place de l'écusson, converti en **vingt chambres** seulement. C'est peu, et c'est le sujet : la maison a préféré la densité à la capacité. Les plafonds peints d'origine ont été restaurés et cohabitent avec un mobilier contemporain, chaque étage suivant sa propre gamme de couleurs. La maison abrite une **fondation d'art contemporain**, ce qui est rare dans un hôtel de cette taille et n'a rien d'un argument marketing : c'est un vrai lieu d'exposition. Surtout, elle héberge **Le Jardin des Sens**, **étoilé au Guide MICHELIN**, la seule table distinguée de Montpellier, sous la direction des frères **Jacques et Laurent Pourcel**. Le bémol : vingt clés, aucune piscine, aucun spa, et une place animée le soir. Pour les amateurs d'architecture et de gastronomie, pas pour un séjour bien-être.
+Un **hôtel particulier du XVIIe siècle** sur la plus belle place de l'écusson, converti en **vingt chambres** seulement. C'est peu, et c'est le sujet : la maison a préféré la densité à la capacité. Les plafonds peints d'origine ont été restaurés et cohabitent avec un mobilier contemporain, chaque étage suivant sa propre gamme de couleurs. La maison abrite une **fondation d'art contemporain**, ce qui est rare dans un hôtel de cette taille et n'a rien d'un argument marketing : c'est un vrai lieu d'exposition. Surtout, elle héberge **Le Jardin des Sens**, **étoilé au Guide MICHELIN**, sous la direction des frères **Jacques et Laurent Pourcel** : sur les six tables étoilées que compte Montpellier en 2026, c'est **la seule installée dans un hôtel**. Le bémol : vingt clés, aucune piscine, aucun spa, et une place animée le soir. Pour les amateurs d'architecture et de gastronomie, pas pour un séjour bien-être.
 
 20 chambres · Le Jardin des Sens, 1 étoile MICHELIN · Fondation d'art contemporain · Hôtel particulier du XVIIe ·
 [Site officiel →](https://www.hotel-richerdebelleval.com/)
@@ -181,11 +181,12 @@ Montpellier. Aucun partenariat commercial, aucune affiliation.
 
 ## Montpellier : ce qu'il faut savoir avant de *réserver*
 
-**Une seule table étoilée.** C'est le fait le plus utile de cette page, et
-beaucoup de classements l'ignorent : Montpellier ne compte qu'**une étoile au Guide
-MICHELIN**, celle du **Jardin des Sens**, et elle se trouve dans un hôtel,
-le Richer de Belleval. Pour une ville de cette taille, c'est peu, et cela suffit à expliquer
-notre premier rang.
+**Six tables étoilées, une seule à l'hôtel.** C'est le fait le plus utile de
+cette page. Montpellier compte **six étoiles au Guide MICHELIN** en 2026 :
+Ébullition, Le Jardin des Sens, La Réserve Rimbaud, Leclère, Pastis et Reflet d'Obione. Une
+seule de ces six tables est installée dans un hôtel, celle du **Jardin des
+Sens**, au Richer de Belleval. Autrement dit, la gastronomie montpelliéraine est
+brillante mais dissociée de l'hôtellerie : sauf à cette adresse, il faudra sortir dîner.
 
 **Choisir son secteur.** L'**écusson**, le centre ancien, pour
 tout faire à pied : Richer de Belleval, Grand Hôtel du Midi, Hôtel de la Comédie. Le
@@ -211,16 +212,16 @@ Quel est le meilleur hôtel de Montpellier ?
 Selon nos relevés 2026, l'**Hôtel Richer de Belleval** obtient la meilleure
 note, **9,1/10** : c'est le seul **5 étoiles Relais & Châteaux du
 centre ancien**, installé dans un hôtel particulier du XVIIe siècle place
-de la Canourgue, et il abrite **la seule table étoilée de la ville**. Pour un
+de la Canourgue, et c'est **le seul hôtel de la ville à abriter une table étoilée**. Pour un
 séjour bien-être, le **Domaine de Verchant** (8,9/10) lui est préférable.
 
 Combien de restaurants étoilés à Montpellier ?
 
-**Un seul.** Le **Jardin des Sens**, dirigé par les frères
-**Jacques et Laurent Pourcel**, détient **une étoile au Guide
-MICHELIN**, et il est installé dans l'Hôtel Richer de Belleval. C'est peu pour une
-ville de cette taille, et c'est une donnée à connaître : aucune autre adresse de ce
-classement ne propose de table distinguée.
+**Six en 2026** : Ébullition, Le Jardin des Sens, La Réserve Rimbaud,
+Leclère, Pastis et Reflet d'Obione. Une seule de ces six tables se trouve dans un hôtel,
+**Le Jardin des Sens** des frères **Jacques et Laurent Pourcel**,
+au Richer de Belleval. Les cinq autres sont des restaurants indépendants : aucune autre
+adresse de ce classement ne propose de table distinguée.
 
 Quel hôtel de Montpellier a le meilleur spa ?
 
