@@ -2,7 +2,7 @@
 
 > Avis complet sur la Villa Florentine Lyon 2026 : chambres, restaurant gastronomique, spa, piscine panoramique. L'unique Relais & Châteaux de Lyon, rouvert après rénovation. Score LMHS 9,3/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/villa-florentine-lyon/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/villa-florentine-lyon/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-28 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -164,7 +164,7 @@ Rédacteur hôtels et gastronomie, Meilleurs.
 
 Publié le 7 août 2026
 
-Dernière mise à jour : 27 août 2026
+Dernière mise à jour : 28 août 2026
 
 Meilleurs.
 

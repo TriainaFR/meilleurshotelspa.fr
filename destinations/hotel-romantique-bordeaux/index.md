@@ -2,7 +2,7 @@
 
 > Découvrez les 8 meilleurs hôtels romantiques de Bordeaux 2026. Palmarès exclusif avec spa, gastronomie et expérience oenologique. Indice Romantisme LMHS.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-bordeaux/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-27 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-bordeaux/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-28 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -227,7 +227,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 6 août 2026
 
-Dernière mise à jour : 27 août 2026
+Dernière mise à jour : 28 août 2026
 
 Meilleurs.
 
