@@ -11,12 +11,12 @@
 <meta property="og:title" content="Emmanuel Laveran, rédacteur hôtels et gastronomie chez Meilleurs.">
 <meta property="og:description" content="Rédacteur hôtels et gastronomie chez Meilleurs., cofondateur de Yonder et fondateur de W Garden. Vingt ans de tables et de chambres, et une exigence : y être allé.">
 <meta property="og:url" content="https://www.lesmeilleurshotelspa.fr/redaction/emmanuel-laveran/">
-<meta property="og:image" content="https://www.lesmeilleurshotelspa.fr/images/auteur-emmanuel-laveran.jpg">
+<meta property="og:image" content="https://www.lesmeilleurshotelspa.fr/images/auteur-emmanuel-laveran-2026.jpg">
 <meta property="og:image:width" content="300">
 <meta property="og:image:height" content="300">
 <meta property="profile:first_name" content="Emmanuel">
 <meta property="profile:last_name" content="Laveran">
-<meta name="twitter:image" content="https://www.lesmeilleurshotelspa.fr/images/auteur-emmanuel-laveran.jpg">
+<meta name="twitter:image" content="https://www.lesmeilleurshotelspa.fr/images/auteur-emmanuel-laveran-2026.jpg">
 <meta property="og:site_name" content="Meilleurs.">
 <meta property="og:locale" content="fr_FR">
 <meta name="twitter:card" content="summary">
@@ -107,7 +107,7 @@
   <div class="prose">
 
     <div class="entry has-ph" id="portrait">
-      <figure class="e-ph"><picture><source type="image/webp" srcset="../../images/auteur-emmanuel-laveran.webp"><img decoding="async" width="300" height="300" src="../../images/auteur-emmanuel-laveran.jpg" alt="Portrait d'Emmanuel Laveran, rédacteur hôtels et gastronomie chez Meilleurs."></picture></figure>
+      <figure class="e-ph"><picture><source type="image/webp" srcset="../../images/auteur-emmanuel-laveran-2026.webp"><img decoding="async" width="400" height="300" src="../../images/auteur-emmanuel-laveran-2026.jpg" alt="Portrait d'Emmanuel Laveran, rédacteur hôtels et gastronomie chez Meilleurs."></picture></figure>
       <div>
         <h2 style="margin-top:0">Vingt ans de tables et de chambres</h2>
         <p><strong>Emmanuel Laveran</strong> a passé l'essentiel de sa vie professionnelle à raconter des hôtels et des tables. Il est <strong>cofondateur de Yonder</strong>, le magazine de voyage qui couvre depuis dix ans les belles maisons, les chefs et les destinations, et où il a signé <strong>226 articles</strong> au 31 juillet 2026. Il écrit aussi pour <a href="https://www.leshardis.com/author/emmanuel-laveran/" rel="noopener" target="_blank">Les Hardis</a> et pour <a href="https://www.180c.fr/author/manu-rodriguez/" rel="noopener" target="_blank">180°C</a>, la revue culture food dont il est associé.</p>
@@ -222,7 +222,7 @@
     "givenName": "Emmanuel",
     "familyName": "Laveran",
     "url": "https://www.lesmeilleurshotelspa.fr/redaction/emmanuel-laveran/",
-    "image": "https://www.lesmeilleurshotelspa.fr/images/auteur-emmanuel-laveran.jpg",
+    "image": "https://www.lesmeilleurshotelspa.fr/images/auteur-emmanuel-laveran-2026.jpg",
     "sameAs": [
       "https://www.linkedin.com/in/elaveran/",
       "https://www.instagram.com/emmanuellaveran/",
@@ -300,9 +300,15 @@ Liens sortants : ../lucas-lecoq/, ../swann-bertaud/, ../../notre-methode/, ../..
 ../../contact.html
 Lien entrant ajouté le 31/07/2026 : carte auteur n°03 sur /redaction/
 
-PHOTO AJOUTÉE le 31/07/2026 :
-- images/auteur-emmanuel-laveran.jpg <- yonder.fr/sites/default/files/pictures/picture-1769-1688735283.jpg
-  Portrait officiel de l'intéressé, 300 x 300 px, servi depuis notre domaine.
+PHOTO AJOUTÉE le 31/07/2026, RECADRÉE le 28/08/2026 :
+- images/auteur-emmanuel-laveran-2026.jpg, portrait officiel de l'intéressé, servi depuis notre
+  domaine. 400 x 300 px, soit le format 4/3 du cadre .e-ph.
+- La première version était un carré de 300 px. Le CSS impose aux figures .e-ph un cadre 4/3 en
+  object-fit: cover, si bien que le navigateur rognait la photo lui-même, tête coupée en haut et
+  sujet décalé à gauche, avec un grand vide à droite. Recadré à la main sur le visage : format
+  4/3 natif, plus aucun rognage par le navigateur.
+- Ne pas remettre une image carrée ici, et si le fichier change, changer aussi son nom : le
+  Caddyfile sert les images en immutable pendant un an.
 -->
 
 <script src="../../assets/articles.js?v=174fc75b"></script>
