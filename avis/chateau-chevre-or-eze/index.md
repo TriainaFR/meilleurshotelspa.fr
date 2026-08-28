@@ -300,6 +300,8 @@ Sans séjour de contrôle
 
 - [Hôtel Sezz Saint-Tropez, avis : le 5 étoiles design de la route des Salins](https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/)
 
+- [Villa Gallici, Aix-en-Provence, avis](https://www.lesmeilleurshotelspa.fr/avis/villa-gallici-aix-en-provence/), une autre maison dont le bâti fait tout l'argument
+
 - [Notre méthode](https://www.lesmeilleurshotelspa.fr/notre-methode/), les grilles de notation et les règles d'indépendance
 
 [Lucas Lecoq](https://www.lesmeilleurshotelspa.fr/redaction/lucas-lecoq/)

@@ -357,6 +357,8 @@ Données propriétaires
 
 - [Madame C, Strasbourg, avis](https://www.lesmeilleurshotelspa.fr/avis/madame-c-strasbourg/), une adresse de caractère que son absence de spa tient hors de ce palmarès
 
+- [Villa Gallici, Aix-en-Provence, avis](https://www.lesmeilleurshotelspa.fr/avis/villa-gallici-aix-en-provence/), 28e de ce palmarès, en détail
+
 - [Villa Colette, Cap-Ferret, avis](https://www.lesmeilleurshotelspa.fr/avis/villa-colette-cap-ferret/), une ouverture remarquée que son absence de spa tient hors de ce palmarès
 
 - [Meilleurs hôtels à Annecy : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-annecy/), six étoiles MICHELIN sur vingt kilomètres de rives

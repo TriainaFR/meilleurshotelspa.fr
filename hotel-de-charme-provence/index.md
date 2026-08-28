@@ -344,6 +344,8 @@ Indice provençal propriétaire
 
 ### Pour aller plus loin
 
+- [Villa Gallici, Aix-en-Provence, avis](https://www.lesmeilleurshotelspa.fr/avis/villa-gallici-aix-en-provence/), la fiche détaillée de l'adresse la plus baroque de ce palmarès
+
 - [Grand Hôtel Roi René Aix-en-Provence, avis](https://www.lesmeilleurshotelspa.fr/avis/grand-hotel-roi-rene-aix-en-provence/), le MGallery rouvert en avril 2026, meilleur 4 étoiles d'Aix derrière la Villa Gallici
 
 - [Meilleurs hôtels à Nîmes : 8 adresses de charme classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-nimes/), la cité romaine que ce palmarès provençal ne couvre pas

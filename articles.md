@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Enquête28 août 2026
+
+### Villa Gallici, à Aix-en-Provence : un palazzo toscan qui a choisi la Provence
+
+Aix-en-Provence · 10 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/villa-gallici-aix-en-provence/)[
+
 Enquête27 août 2026
 
 ### Villa Colette, au Cap-Ferret : un Starck derrière une façade arcachonnaise
