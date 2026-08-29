@@ -120,13 +120,17 @@
      dernière rangée reste orpheline. Même valeur que FIL dans tools/build.py,
      qui écrit la version statique lue par les crawlers sans JavaScript. */
   const FIL = 14;
+  /* Le fil compact « Et aussi » est borné à WIRE lignes : sans borne il déroulait
+     tout le catalogue sous la grille. La suite passe par « Tous les articles ».
+     Même valeur que WIRE dans tools/build.py. */
+  const WIRE = 15;
   const latest = $("#latest-grid");
   if(latest && window.ARTICLES){
     const sorted = ARTICLES.slice().sort(byDateDesc);
     latest.innerHTML = sorted.slice(0,FIL).map(cardHTML).join("");
     const wire = $("#latest-wire");
     if(wire){
-      wire.innerHTML = sorted.slice(FIL).map(a =>
+      wire.innerHTML = sorted.slice(FIL, FIL + WIRE).map(a =>
         '<a class="wire-row" href="' + href(a) + '">' +
           '<span class="w-date">' + frDate(a.date).replace(" 2026","") + '</span>' +
           '<span class="w-cat">' + a.cat + '</span>' +

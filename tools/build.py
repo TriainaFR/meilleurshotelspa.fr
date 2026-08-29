@@ -160,8 +160,13 @@ def sync_counters():
 # quatre colonnes et les deux premières cartes en occupent chacune deux
 # (.latest .art-card:nth-child(-n+2){grid-column:span 2}). Le compte doit donc
 # valoir 2 + un multiple de 4, sans quoi la dernière rangée reste orpheline.
-# Les parutions suivantes basculent dans le fil compact « Et aussi ».
+# Les parutions suivantes basculent dans le fil compact « Et aussi », lui-même
+# borné à WIRE lignes : sans borne il déroulait tout le catalogue, soit 55 lignes
+# pour 69 parutions, ce qui allongeait la page d'accueil sans rien apporter. La
+# suite reste accessible par le bouton « Tous les articles » juste en dessous, et
+# articles.html continue de tous les lister. Même valeur que WIRE dans assets/app.js.
 FIL = 14
+WIRE = 15
 _DIMS = {}
 
 
@@ -308,7 +313,7 @@ def sync_schema():
 
 def sync_static_lists():
     fill("latest-grid", "".join(card_html(a) for a in ARTS[:FIL]), "index.html")
-    fill("latest-wire", "".join(wire_html(a) for a in ARTS[FIL:]), "index.html")
+    fill("latest-wire", "".join(wire_html(a) for a in ARTS[FIL:FIL + WIRE]), "index.html")
     fill("articles-grid", "".join(card_html(a) for a in ARTS), "articles.html")
     fill("recit-grid", "".join(recit_html(a, i) for i, a in enumerate(recits())), "index.html")
 
