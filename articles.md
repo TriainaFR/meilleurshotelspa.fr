@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Enquête31 août 2026
+
+### Alexandra Palace, dans les Deux-Sèvres : le seul 5 étoiles du département
+
+Mazières-en-Gâtine · 11 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/alexandra-palace-mazieres-en-gatine/)[
+
 Palmarès31 août 2026
 
 ### Meilleurs hôtels à Dijon : 8 adresses classées en 2026

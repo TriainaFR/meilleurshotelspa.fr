@@ -268,6 +268,8 @@ Sans séjour de contrôle
 
 ### Pour aller plus loin
 
+- [Alexandra Palace, dans les Deux-Sèvres](https://www.lesmeilleurshotelspa.fr/avis/alexandra-palace-mazieres-en-gatine/), l'autre château-hôtel dont le propriétaire possède ses propres vignes
+
 - [Meilleurs hôtels à Dijon : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-dijon/), à quarante-cinq minutes au nord, pour dormir en ville plutôt qu'aux vignes
 
 - [Les 50 meilleurs hôtels et spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)

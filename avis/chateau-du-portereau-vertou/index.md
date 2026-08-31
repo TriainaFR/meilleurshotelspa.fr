@@ -211,6 +211,8 @@ Indice Prestige Patrimonial 4,8/5
 
 ### À lire aussi
 
+- [Alexandra Palace, dans les Deux-Sèvres : le seul 5 étoiles du département](https://www.lesmeilleurshotelspa.fr/avis/alexandra-palace-mazieres-en-gatine/), un autre château de l'Ouest passé au Protocole LMHS
+
 - [Notre palmarès des meilleurs hôtels et spas de France 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)
 
 - [Hôtels de charme en Bretagne : 10 maisons d'exception](https://www.lesmeilleurshotelspa.fr/hotels-charme-bretagne/)

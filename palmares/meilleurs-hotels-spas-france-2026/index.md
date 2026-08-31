@@ -361,6 +361,8 @@ Données propriétaires
 
 - [Villa Colette, Cap-Ferret, avis](https://www.lesmeilleurshotelspa.fr/avis/villa-colette-cap-ferret/), une ouverture remarquée que son absence de spa tient hors de ce palmarès
 
+- [Alexandra Palace, dans les Deux-Sèvres](https://www.lesmeilleurshotelspa.fr/avis/alexandra-palace-mazieres-en-gatine/), le seul 5 étoiles d'un département qui n'en comptait aucun
+
 - [Meilleurs hôtels à Dijon : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-dijon/), à la porte de la Route des Grands Crus
 
 - [Meilleurs hôtels à Montpellier : 9 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-montpellier/), dont le Domaine de Verchant, 23e de ce palmarès
