@@ -2,7 +2,7 @@
 
 > Le média français de référence des meilleurs hôtels, spas et destinations. Palmarès indépendants, guides et récits. Testé sur place, sans partenariat commercial.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/ · Dernière mise à jour : 2026-08-28 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/ · Dernière mise à jour : 2026-08-29 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -33,6 +33,14 @@ Le fil
 Les 14 dernières unes + dépêches
 
 [
+
+Palmarès31 août 2026
+
+### Meilleurs hôtels à Dijon : 8 adresses classées en 2026
+
+Dijon · 14 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-dijon/)[
 
 Palmarès28 août 2026
 
@@ -136,20 +144,12 @@ Spas20 août 2026
 
 Côte d'Azur · 16 min de lecture
 
-](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-cote-dazur/)[
-
-Enquête20 août 2026
-
-### Hôtel Saint-Delis Honfleur, avis : neuf chambres dans la maison du peintre
-
-Honfleur · 15 min de lecture
-
-](https://www.lesmeilleurshotelspa.fr/avis/hotel-saint-delis-honfleur/)
+](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-cote-dazur/)
 
 Et aussi
 La suite du fil
 
-[19 aoûtPalmarèsMeilleurs hôtels 4 étoiles à Lyon : 8 adresses classées en 2026→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-lyon/)[19 aoûtEnquêteHôtel Casarose, avis : le 4 étoiles West Coast qui ne ferme jamais→](https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/)[18 aoûtSpasMeilleur hammam à Marseille : 7 adresses, et la plus réputée est fermée→](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-marseille/)[18 aoûtEnquêteHôtel Sezz Saint-Tropez, avis : le 5 étoiles design de la route des Salins→](https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/)[17 aoûtDestinationsHôtel romantique en Normandie : 8 adresses classées pour un week-end à deux→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-normandie/)[17 aoûtEnquêteHôtel de Toiras, avis : le premier 5 étoiles de Poitou-Charentes→](https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/)[14 aoûtPalmarèsMeilleurs hôtels de luxe en Normandie : les 8 adresses 5 étoiles de 2026→](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-normandie/)[14 aoûtEnquêteGrand Hôtel Roi René Aix-en-Provence, avis : le MGallery rouvert en 2026→](https://www.lesmeilleurshotelspa.fr/avis/grand-hotel-roi-rene-aix-en-provence/)[13 aoûtSpasThalasso en Normandie : 10 adresses classées, et une qui ferme dans quinze jours→](https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/)[13 aoûtEnquêteFerme Saint-Siméon, avis : l'auberge où l'impressionnisme a commencé→](https://www.lesmeilleurshotelspa.fr/avis/ferme-saint-simeon-honfleur/)[12 aoûtPalmarèsHôtel de charme en Alsace : 14 adresses classées, du colombage à la hytte→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/)[12 aoûtEnquêteSan Montano, avis : le premier Relais & Châteaux d'Ischia→](https://www.lesmeilleurshotelspa.fr/avis/san-montano-resort-spa-ischia/)[11 aoûtDestinationsWeek-end spa en France : 9 adresses, et ce qu'un week-end y coûte vraiment→](https://www.lesmeilleurshotelspa.fr/destinations/week-end-spa-france/)[11 aoûtEnquêteChâteau Saint-Jean, avis : la commanderie templière devenue Relais & Châteaux→](https://www.lesmeilleurshotelspa.fr/avis/chateau-saint-jean-montlucon/)[10 aoûtPalmarèsMeilleurs hôtels de luxe à Nice : 8 adresses d'exception en 2026→](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/)
+[20 aoûtEnquêteHôtel Saint-Delis Honfleur, avis : neuf chambres dans la maison du peintre→](https://www.lesmeilleurshotelspa.fr/avis/hotel-saint-delis-honfleur/)[19 aoûtPalmarèsMeilleurs hôtels 4 étoiles à Lyon : 8 adresses classées en 2026→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-lyon/)[19 aoûtEnquêteHôtel Casarose, avis : le 4 étoiles West Coast qui ne ferme jamais→](https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/)[18 aoûtSpasMeilleur hammam à Marseille : 7 adresses, et la plus réputée est fermée→](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-marseille/)[18 aoûtEnquêteHôtel Sezz Saint-Tropez, avis : le 5 étoiles design de la route des Salins→](https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/)[17 aoûtDestinationsHôtel romantique en Normandie : 8 adresses classées pour un week-end à deux→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-normandie/)[17 aoûtEnquêteHôtel de Toiras, avis : le premier 5 étoiles de Poitou-Charentes→](https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/)[14 aoûtPalmarèsMeilleurs hôtels de luxe en Normandie : les 8 adresses 5 étoiles de 2026→](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-normandie/)[14 aoûtEnquêteGrand Hôtel Roi René Aix-en-Provence, avis : le MGallery rouvert en 2026→](https://www.lesmeilleurshotelspa.fr/avis/grand-hotel-roi-rene-aix-en-provence/)[13 aoûtSpasThalasso en Normandie : 10 adresses classées, et une qui ferme dans quinze jours→](https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/)[13 aoûtEnquêteFerme Saint-Siméon, avis : l'auberge où l'impressionnisme a commencé→](https://www.lesmeilleurshotelspa.fr/avis/ferme-saint-simeon-honfleur/)[12 aoûtPalmarèsHôtel de charme en Alsace : 14 adresses classées, du colombage à la hytte→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/)[12 aoûtEnquêteSan Montano, avis : le premier Relais & Châteaux d'Ischia→](https://www.lesmeilleurshotelspa.fr/avis/san-montano-resort-spa-ischia/)[11 aoûtDestinationsWeek-end spa en France : 9 adresses, et ce qu'un week-end y coûte vraiment→](https://www.lesmeilleurshotelspa.fr/destinations/week-end-spa-france/)[11 aoûtEnquêteChâteau Saint-Jean, avis : la commanderie templière devenue Relais & Châteaux→](https://www.lesmeilleurshotelspa.fr/avis/chateau-saint-jean-montlucon/)
 
 Nouveaux articles chaque semaine, testés avant d'être écrits.
 [Tous les articles →](https://www.lesmeilleurshotelspa.fr/articles.html)

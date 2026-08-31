@@ -2,7 +2,7 @@
 
 > Découvrez les 10 meilleurs hôtels 5 étoiles de France 2026 hors Paris. Palmarès LMHS avec scores propriétaires, spas, restaurants étoilés et prix.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-28 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-5-etoiles-france/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-29 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -426,7 +426,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 29 juillet 2026
 
-Dernière mise à jour : 28 août 2026
+Dernière mise à jour : 29 août 2026
 
 Meilleurs.
 

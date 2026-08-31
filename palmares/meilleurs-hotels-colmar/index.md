@@ -2,7 +2,7 @@
 
 > Les meilleurs hôtels de Colmar en 2026 : L'Esquisse, La Maison des Têtes, Le Colombier, Le Chambard. Scores LMHS, tables étoilées, spas, tarifs et une adresse à éviter.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-colmar/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-28 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-colmar/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-29 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -288,6 +288,8 @@ Sans séjour de contrôle
 
 ### Pour aller plus loin
 
+- [Meilleurs hôtels à Dijon : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-dijon/), l'autre capitale viticole de l'Est
+
 - [Hôtels de charme en Alsace : 14 maisons classées](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/), dont sont issues trois des notes de cette page
 
 - [Les 50 meilleurs hôtels et spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)
@@ -305,7 +307,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 26 août 2026
 
-Dernière mise à jour : 28 août 2026
+Dernière mise à jour : 29 août 2026
 
 Meilleurs.
 

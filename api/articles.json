@@ -5,9 +5,21 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-08-28",
-  "count": 69,
+  "updated": "2026-08-31",
+  "count": 70,
   "articles": [
+    {
+      "slug": "hotels-dijon",
+      "title": "Meilleurs hôtels à Dijon : 8 adresses classées en 2026",
+      "category": "Palmarès",
+      "destination": "Dijon",
+      "region": "Bourgogne-Franche-Comté",
+      "published": "2026-08-31",
+      "readingMinutes": 14,
+      "url": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-dijon/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-dijon/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/dj-lacloche-bassin.jpg"
+    },
     {
       "slug": "hotels-montpellier",
       "title": "Meilleurs hôtels à Montpellier : 9 adresses classées en 2026",

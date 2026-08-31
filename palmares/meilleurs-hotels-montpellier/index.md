@@ -2,7 +2,7 @@
 
 > Les meilleurs hôtels de Montpellier en 2026 : Richer de Belleval, Domaine de Verchant, Pullman La Pléiade. Scores LMHS, table étoilée, spas, secteurs et réserves.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-montpellier/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-28 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-montpellier/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-29 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -258,7 +258,7 @@ L'hiver reste doux à Montpellier et les tarifs baissent sensiblement.
 
 ## Le mot de Swann · Une ville qui vient de rattraper son hôtellerie
 
-Montpellier a longtemps eu l'hôtellerie de ses congrès plutôt que de son patrimoine : beaucoup de chambres, peu de maisons. Le Richer de Belleval a changé cela, et il faut mesurer ce que représente un Relais et Châteaux de vingt clés dans un hôtel particulier du XVIIe, en plein écusson, avec une fondation d'art et la seule étoile de la ville. Une chose me frappe en établissant ce classement : Montpellier ne compte qu'une table étoilée, quand Nîmes, deux fois plus petite, en aligne trois sur deux hôtels. La ville a rattrapé son retard sur l'hébergement bien avant de le rattraper sur la table.
+Montpellier a longtemps eu l'hôtellerie de ses congrès plutôt que de son patrimoine : beaucoup de chambres, peu de maisons. Le Richer de Belleval a changé cela, et il faut mesurer ce que représente un Relais et Châteaux de vingt clés dans un hôtel particulier du XVIIe, en plein écusson, avec une fondation d'art et la seule étoile de la ville. Une chose me frappe en établissant ce classement : Montpellier aligne six tables étoilées, mais une seule se trouve dans un hôtel. La ville a rattrapé son retard sur l'hébergement, et sa gastronomie n'a jamais eu de retard à rattraper ; les deux vivent simplement chacune de leur côté.
 
 Swann Bertaud, rédacteur hôtellerie de luxe
 
@@ -296,7 +296,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 28 août 2026
 
-Dernière mise à jour : 28 août 2026
+Dernière mise à jour : 29 août 2026
 
 Meilleurs.
 

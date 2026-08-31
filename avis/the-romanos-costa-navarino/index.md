@@ -2,7 +2,7 @@
 
 > Avis LMHS du Romanos, Costa Navarino : fiche en cinq axes, 9,1/10. 321 chambres, Anazoe Spa de 4 000 m², quatre golfs, et le bémol que personne ne dit.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/the-romanos-costa-navarino/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-28 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/the-romanos-costa-navarino/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-29 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -195,7 +195,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 3 août 2026
 
-Dernière mise à jour : 28 août 2026
+Dernière mise à jour : 29 août 2026
 
 Meilleurs.
 
