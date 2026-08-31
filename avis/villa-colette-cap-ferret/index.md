@@ -2,7 +2,7 @@
 
 > Avis LMHS sur la Villa Colette au Cap-Ferret : 5 étoiles, 28 clés, intérieurs signés Philippe Starck, table du chef Benjamin Six, et aucun spa. Score 9,0/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/villa-colette-cap-ferret/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-29 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/villa-colette-cap-ferret/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-31 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -193,7 +193,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 27 août 2026
 
-Dernière mise à jour : 29 août 2026
+Dernière mise à jour : 31 août 2026
 
 Meilleurs.
 

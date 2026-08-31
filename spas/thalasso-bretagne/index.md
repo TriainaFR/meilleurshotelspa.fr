@@ -2,7 +2,7 @@
 
 > Les meilleures thalassos de Bretagne classées par LMHS : Castel Clara, Thermes de Saint-Malo, Quiberon. Scores sur 20, indice Atlantique, prix et bémols.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-29 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/spas/thalasso-bretagne/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-31 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -478,7 +478,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 25 juillet 2026
 
-Dernière mise à jour : 29 août 2026
+Dernière mise à jour : 31 août 2026
 
 Meilleurs.
 

@@ -2,7 +2,7 @@
 
 > Avis LMHS sur le Château la Commaraine à Pommard : 37 chambres Villa comprise, monopole de 3,63 ha en Pommard Premier Cru certifié biodynamie, deux tables, spa myBlend. Score 9,0/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/chateau-la-commaraine-pommard/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-29 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/chateau-la-commaraine-pommard/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-31 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -285,7 +285,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 25 août 2026
 
-Dernière mise à jour : 29 août 2026
+Dernière mise à jour : 31 août 2026
 
 Meilleurs.
 

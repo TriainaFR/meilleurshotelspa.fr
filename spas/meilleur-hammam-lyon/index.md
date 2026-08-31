@@ -2,7 +2,7 @@
 
 > Les 7 hammams de Lyon classés par l'Indice Hammam LMHS : public, rituels, surfaces et tarifs vérifiés. Les Cent Ciels est fermé jusqu'en octobre 2026.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-lyon/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-29 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-lyon/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-31 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -283,7 +283,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 3 août 2026
 
-Dernière mise à jour : 29 août 2026
+Dernière mise à jour : 31 août 2026
 
 Meilleurs.
 

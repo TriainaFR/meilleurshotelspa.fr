@@ -2,7 +2,7 @@
 
 > Avis LMHS sur le Madame C, boutique-hôtel 4 étoiles rue des Sœurs à Strasbourg : 12 chambres, bar-restaurant L'Alcôve, brunch dominical, et aucun spa. Score 9,0/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/madame-c-strasbourg/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-29 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/madame-c-strasbourg/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-31 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -222,7 +222,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 26 août 2026
 
-Dernière mise à jour : 29 août 2026
+Dernière mise à jour : 31 août 2026
 
 Meilleurs.
 

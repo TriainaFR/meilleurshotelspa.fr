@@ -2,7 +2,7 @@
 
 > Avis LMHS du Shangri-La The Shard : la fiche en cinq axes, 8,8/10. Vue inégalée depuis les étages 34 à 52, chambres, TĪNG, GŎNG, piscine, tarifs et bémols.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/shangri-la-the-shard-londres/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-29 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/shangri-la-the-shard-londres/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-08-31 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -220,7 +220,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 30 juillet 2026
 
-Dernière mise à jour : 29 août 2026
+Dernière mise à jour : 31 août 2026
 
 Meilleurs.
 
