@@ -2,7 +2,7 @@
 
 > Avis LMHS sur La Ferme Saint-Siméon à Honfleur : 35 chambres dont 20 à hammam privatif, Spa Potager, table de Matthieu Pouleur. Score 9,0/10, Héritage Normand 5/5.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/ferme-saint-simeon-honfleur/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-08-31 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/ferme-saint-simeon-honfleur/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-09-01 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -330,7 +330,7 @@ Rédacteur hôtels et gastronomie, Meilleurs.
 
 Publié le 13 août 2026
 
-Dernière mise à jour : 31 août 2026
+Dernière mise à jour : 1 septembre 2026
 
 Meilleurs.
 

@@ -2,7 +2,7 @@
 
 > Avis LMHS sur Le Provençal, presqu'île de Giens : 41 clés, piscine d'eau de mer creusée en 1962, six tables et un espace bien-être ouvert en août 2026. Score 8,8/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-le-provencal-giens/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-31 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-le-provencal-giens/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-01 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -256,6 +256,8 @@ Sans séjour de contrôle
 
 ### Pour aller plus loin
 
+- [Hôtel & Spa du Castellet](https://www.lesmeilleurshotelspa.fr/avis/hotel-spa-du-castellet/), l'autre 5 étoiles varois de nos avis, à une heure de route
+
 - [Hôtels de charme sur la Côte d'Azur : 12 adresses testées](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/)
 
 - [Château de la Chèvre d'Or, avis : le 5 étoiles suspendu au-dessus d'Èze](https://www.lesmeilleurshotelspa.fr/avis/chateau-chevre-or-eze/)
@@ -273,7 +275,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 24 août 2026
 
-Dernière mise à jour : 31 août 2026
+Dernière mise à jour : 1 septembre 2026
 
 Meilleurs.
 

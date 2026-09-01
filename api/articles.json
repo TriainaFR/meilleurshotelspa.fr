@@ -6,8 +6,20 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-09-01",
-  "count": 72,
+  "count": 73,
   "articles": [
+    {
+      "slug": "castellet",
+      "title": "Hôtel &amp; Spa du Castellet : le 5 étoiles du Var qui a formé son propre chef",
+      "category": "Enquête",
+      "destination": "Le Castellet",
+      "region": "Provence",
+      "published": "2026-09-01",
+      "readingMinutes": 12,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/hotel-spa-du-castellet/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/hotel-spa-du-castellet/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/ct-hotel-crepuscule.jpg"
+    },
     {
       "slug": "hotels-reims",
       "title": "Meilleurs hôtels à Reims : 8 adresses classées en 2026",

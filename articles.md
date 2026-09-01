@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-08-31 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-09-01 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -16,6 +16,14 @@ Le sommaire
 ⌕
 
 [
+
+Enquête1 sept. 2026
+
+### Hôtel & Spa du Castellet : le 5 étoiles du Var qui a formé son propre chef
+
+Le Castellet · 12 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/hotel-spa-du-castellet/)[
 
 Palmarès1 sept. 2026
 

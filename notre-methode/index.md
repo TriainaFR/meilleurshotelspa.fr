@@ -2,7 +2,7 @@
 
 > Comment Meilleurs. note les hôtels et les spas : le Protocole LMHS sur 20, la grille Destination sur 10, critères, pondérations et indépendance.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/notre-methode/ · Dernière mise à jour : 2026-08-31 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/notre-methode/ · Dernière mise à jour : 2026-09-01 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -17,7 +17,7 @@ comment nos scores sont fabriqués.
 
 La rédaction de **Meilleurs.**
 ✺
-Mise à jour le 31 août 2026
+Mise à jour le 1 septembre 2026
 
 ## TL;DR : l'essentiel · Trois instruments, jamais interchangeables
 

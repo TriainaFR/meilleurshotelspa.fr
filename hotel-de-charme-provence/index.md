@@ -2,7 +2,7 @@
 
 > Les 12 meilleurs hôtels de charme en Provence classés par LMHS : bastides, mas, couvents. Scores LMHS/10 + Indice provençal /5 pour chaque adresse.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-08-31 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-01 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -344,6 +344,8 @@ Indice provençal propriétaire
 
 ### Pour aller plus loin
 
+- [Hôtel & Spa du Castellet, dans le Var](https://www.lesmeilleurshotelspa.fr/avis/hotel-spa-du-castellet/), douze hectares et une table trois étoiles
+
 - [Meilleurs hôtels à Montpellier : 9 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-montpellier/), aux portes de la Provence
 
 - [Villa Gallici, Aix-en-Provence, avis](https://www.lesmeilleurshotelspa.fr/avis/villa-gallici-aix-en-provence/), la fiche détaillée de l'adresse la plus baroque de ce palmarès
@@ -379,7 +381,7 @@ Rédacteur, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 31 août 2026
+Dernière mise à jour : 1 septembre 2026
 
 Meilleurs.
 
