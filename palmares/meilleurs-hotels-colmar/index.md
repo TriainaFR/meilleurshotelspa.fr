@@ -288,6 +288,8 @@ Sans séjour de contrôle
 
 ### Pour aller plus loin
 
+- [Meilleurs hôtels à Reims : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-reims/), la capitale du champagne
+
 - [Meilleurs hôtels à Dijon : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-dijon/), l'autre capitale viticole de l'Est
 
 - [Hôtels de charme en Alsace : 14 maisons classées](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/), dont sont issues trois des notes de cette page

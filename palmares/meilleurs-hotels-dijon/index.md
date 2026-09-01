@@ -355,6 +355,8 @@ Sans séjour de contrôle
 
 - [Château la Commaraine, à Pommard : un 5 étoiles qui dort dans ses propres vignes](https://www.lesmeilleurshotelspa.fr/avis/chateau-la-commaraine-pommard/), à quarante-cinq minutes au sud
 
+- [Meilleurs hôtels à Reims : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-reims/), l'autre capitale du vignoble du quart nord-est
+
 - [Meilleurs hôtels à Colmar : 7 adresses classées en 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-colmar/), l'autre capitale viticole de l'Est
 
 - [Les 50 meilleurs hôtels et spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)

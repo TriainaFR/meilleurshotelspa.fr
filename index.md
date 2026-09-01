@@ -34,6 +34,14 @@ Les 14 dernières unes + dépêches
 
 [
 
+Palmarès1 sept. 2026
+
+### Meilleurs hôtels à Reims : 8 adresses classées en 2026
+
+Reims · 15 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-reims/)[
+
 Enquête31 août 2026
 
 ### Alexandra Palace, dans les Deux-Sèvres : le seul 5 étoiles du département
@@ -136,20 +144,12 @@ Spas21 août 2026
 
 Paris · 14 min de lecture
 
-](https://www.lesmeilleurshotelspa.fr/spas/spa-de-jour-paris/)[
-
-Enquête21 août 2026
-
-### Château de la Chèvre d'Or, avis : le 5 étoiles suspendu au-dessus d'Èze
-
-Èze · 14 min de lecture
-
-](https://www.lesmeilleurshotelspa.fr/avis/chateau-chevre-or-eze/)
+](https://www.lesmeilleurshotelspa.fr/spas/spa-de-jour-paris/)
 
 Et aussi
 La suite du fil
 
-[20 aoûtSpasMeilleur spa sur la Côte d'Azur : 10 adresses classées en 2026→](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-cote-dazur/)[20 aoûtEnquêteHôtel Saint-Delis Honfleur, avis : neuf chambres dans la maison du peintre→](https://www.lesmeilleurshotelspa.fr/avis/hotel-saint-delis-honfleur/)[19 aoûtPalmarèsMeilleurs hôtels 4 étoiles à Lyon : 8 adresses classées en 2026→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-lyon/)[19 aoûtEnquêteHôtel Casarose, avis : le 4 étoiles West Coast qui ne ferme jamais→](https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/)[18 aoûtSpasMeilleur hammam à Marseille : 7 adresses, et la plus réputée est fermée→](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-marseille/)[18 aoûtEnquêteHôtel Sezz Saint-Tropez, avis : le 5 étoiles design de la route des Salins→](https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/)[17 aoûtDestinationsHôtel romantique en Normandie : 8 adresses classées pour un week-end à deux→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-normandie/)[17 aoûtEnquêteHôtel de Toiras, avis : le premier 5 étoiles de Poitou-Charentes→](https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/)[14 aoûtPalmarèsMeilleurs hôtels de luxe en Normandie : les 8 adresses 5 étoiles de 2026→](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-normandie/)[14 aoûtEnquêteGrand Hôtel Roi René Aix-en-Provence, avis : le MGallery rouvert en 2026→](https://www.lesmeilleurshotelspa.fr/avis/grand-hotel-roi-rene-aix-en-provence/)[13 aoûtSpasThalasso en Normandie : 10 adresses classées, et une qui ferme dans quinze jours→](https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/)[13 aoûtEnquêteFerme Saint-Siméon, avis : l'auberge où l'impressionnisme a commencé→](https://www.lesmeilleurshotelspa.fr/avis/ferme-saint-simeon-honfleur/)[12 aoûtPalmarèsHôtel de charme en Alsace : 14 adresses classées, du colombage à la hytte→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/)[12 aoûtEnquêteSan Montano, avis : le premier Relais & Châteaux d'Ischia→](https://www.lesmeilleurshotelspa.fr/avis/san-montano-resort-spa-ischia/)[11 aoûtDestinationsWeek-end spa en France : 9 adresses, et ce qu'un week-end y coûte vraiment→](https://www.lesmeilleurshotelspa.fr/destinations/week-end-spa-france/)
+[21 aoûtEnquêteChâteau de la Chèvre d'Or, avis : le 5 étoiles suspendu au-dessus d'Èze→](https://www.lesmeilleurshotelspa.fr/avis/chateau-chevre-or-eze/)[20 aoûtSpasMeilleur spa sur la Côte d'Azur : 10 adresses classées en 2026→](https://www.lesmeilleurshotelspa.fr/spas/meilleur-spa-cote-dazur/)[20 aoûtEnquêteHôtel Saint-Delis Honfleur, avis : neuf chambres dans la maison du peintre→](https://www.lesmeilleurshotelspa.fr/avis/hotel-saint-delis-honfleur/)[19 aoûtPalmarèsMeilleurs hôtels 4 étoiles à Lyon : 8 adresses classées en 2026→](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-lyon/)[19 aoûtEnquêteHôtel Casarose, avis : le 4 étoiles West Coast qui ne ferme jamais→](https://www.lesmeilleurshotelspa.fr/avis/hotel-casarose-mandelieu-la-napoule/)[18 aoûtSpasMeilleur hammam à Marseille : 7 adresses, et la plus réputée est fermée→](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-marseille/)[18 aoûtEnquêteHôtel Sezz Saint-Tropez, avis : le 5 étoiles design de la route des Salins→](https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/)[17 aoûtDestinationsHôtel romantique en Normandie : 8 adresses classées pour un week-end à deux→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-romantique-normandie/)[17 aoûtEnquêteHôtel de Toiras, avis : le premier 5 étoiles de Poitou-Charentes→](https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/)[14 aoûtPalmarèsMeilleurs hôtels de luxe en Normandie : les 8 adresses 5 étoiles de 2026→](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-normandie/)[14 aoûtEnquêteGrand Hôtel Roi René Aix-en-Provence, avis : le MGallery rouvert en 2026→](https://www.lesmeilleurshotelspa.fr/avis/grand-hotel-roi-rene-aix-en-provence/)[13 aoûtSpasThalasso en Normandie : 10 adresses classées, et une qui ferme dans quinze jours→](https://www.lesmeilleurshotelspa.fr/spas/thalasso-normandie/)[13 aoûtEnquêteFerme Saint-Siméon, avis : l'auberge où l'impressionnisme a commencé→](https://www.lesmeilleurshotelspa.fr/avis/ferme-saint-simeon-honfleur/)[12 aoûtPalmarèsHôtel de charme en Alsace : 14 adresses classées, du colombage à la hytte→](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/)[12 aoûtEnquêteSan Montano, avis : le premier Relais & Châteaux d'Ischia→](https://www.lesmeilleurshotelspa.fr/avis/san-montano-resort-spa-ischia/)
 
 Nouveaux articles chaque semaine, testés avant d'être écrits.
 [Tous les articles →](https://www.lesmeilleurshotelspa.fr/articles.html)

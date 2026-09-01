@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Palmarès1 sept. 2026
+
+### Meilleurs hôtels à Reims : 8 adresses classées en 2026
+
+Reims · 15 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-reims/)[
+
 Enquête31 août 2026
 
 ### Alexandra Palace, dans les Deux-Sèvres : le seul 5 étoiles du département
