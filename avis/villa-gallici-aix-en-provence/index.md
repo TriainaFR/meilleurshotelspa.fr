@@ -2,7 +2,7 @@
 
 > Avis complet sur la Villa Gallici à Aix-en-Provence : 5 étoiles Relais et Châteaux, 23 suites baroques, spa de 200 m² Sothys, restaurant La Taula Gallici. À partir de 955 €.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/villa-gallici-aix-en-provence/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-01 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/villa-gallici-aix-en-provence/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -208,6 +208,8 @@ Indice Provence /5
 
 ### Pour aller plus loin
 
+- [Villa M, à Marseille](https://www.lesmeilleurshotelspa.fr/avis/villa-m-marseille/), un 4 étoiles ouvert en 2025 face au Prado, avec spa Deep Nature et cryothérapie
+
 - [Hôtel & Spa du Castellet, dans le Var](https://www.lesmeilleurshotelspa.fr/avis/hotel-spa-du-castellet/), un 5 étoiles provençal à table trois étoiles
 
 - [Hôtels de charme en Provence : 12 maisons d'exception](https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/)
@@ -223,7 +225,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 28 août 2026
 
-Dernière mise à jour : 1 septembre 2026
+Dernière mise à jour : 2 septembre 2026
 
 Meilleurs.
 

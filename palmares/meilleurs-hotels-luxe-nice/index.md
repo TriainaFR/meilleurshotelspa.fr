@@ -2,7 +2,7 @@
 
 > Découvrez les 8 meilleurs hôtels de luxe à Nice en 2026. Palaces 5 étoiles, spas, vue mer, Promenade des Anglais. Sélection LMHS avec scores propriétaires.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-09-01 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-nice/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -247,7 +247,7 @@ Rédacteur hôtels et gastronomie, Meilleurs.
 
 Publié le 10 août 2026
 
-Dernière mise à jour : 1 septembre 2026
+Dernière mise à jour : 2 septembre 2026
 
 Meilleurs.
 

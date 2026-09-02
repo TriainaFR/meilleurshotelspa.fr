@@ -2,7 +2,7 @@
 
 > Les 8 meilleurs hôtels de luxe en Normandie en 2026, tous classés 5 étoiles. Scores LMHS, Indice Héritage Normand, spas et tables. Sélection documentaire.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-normandie/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-01 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-luxe-normandie/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -350,7 +350,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 14 août 2026
 
-Dernière mise à jour : 1 septembre 2026
+Dernière mise à jour : 2 septembre 2026
 
 Meilleurs.
 

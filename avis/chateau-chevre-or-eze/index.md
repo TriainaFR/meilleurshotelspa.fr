@@ -2,7 +2,7 @@
 
 > Avis LMHS sur le Château de la Chèvre d'Or, Èze : 45 clés entre le Château et les maisons du village, deux étoiles MICHELIN, jardins suspendus à 400 m. Score 9,1/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/chateau-chevre-or-eze/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-09-01 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/chateau-chevre-or-eze/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -309,7 +309,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 21 août 2026
 
-Dernière mise à jour : 1 septembre 2026
+Dernière mise à jour : 2 septembre 2026
 
 Meilleurs.
 

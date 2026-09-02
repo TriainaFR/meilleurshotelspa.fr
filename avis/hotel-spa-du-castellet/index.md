@@ -2,7 +2,7 @@
 
 > Avis sur l'Hôtel & Spa du Castellet, 5 étoiles Relais & Châteaux du Var : table trois étoiles de Fabien Ferré, spa primé de 700 m², 43 clés dans 12 hectares.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-spa-du-castellet/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-01 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-spa-du-castellet/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -242,6 +242,8 @@ Sans séjour de contrôle
 0 partenariat
 
 ### Pour aller plus loin
+
+- [Villa M, à Marseille](https://www.lesmeilleurshotelspa.fr/avis/villa-m-marseille/), l'autre grande adresse bien-être de la région, à une heure de route
 
 - [Villa Gallici, à Aix-en-Provence](https://www.lesmeilleurshotelspa.fr/avis/villa-gallici-aix-en-provence/), l'autre 5 étoiles provençal de nos avis
 

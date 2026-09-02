@@ -2,7 +2,7 @@
 
 > Notre palmarès 2026 des meilleurs hôtels de Marseille : 10 adresses notées par le protocole LMHS, du palace au boutique-hôtel, avec prix et indice marseillais.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-marseille/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-01 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-marseille/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -297,6 +297,8 @@ Indice marseillais propriétaire
 
 ### Pour aller plus loin
 
+- [Villa M, à Marseille : l'hôtel qu'a construit une mutuelle de santé](https://www.lesmeilleurshotelspa.fr/avis/villa-m-marseille/), ouvert en 2025 face au Prado
+
 - [Meilleur hammam à Marseille : 7 adresses classées](https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-marseille/), dont une fermée que tous les guides citent encore
 
 - [Meilleurs hôtels à Nîmes : 8 adresses de charme classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-nimes/), à une heure, et trois étoiles MICHELIN dans deux hôtels
@@ -318,7 +320,7 @@ Rédacteur, Meilleurs.
 
 Publié le 22 juillet 2026
 
-Dernière mise à jour : 1 septembre 2026
+Dernière mise à jour : 2 septembre 2026
 
 Meilleurs.
 

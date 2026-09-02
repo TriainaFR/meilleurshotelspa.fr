@@ -2,7 +2,7 @@
 
 > Spa de jour Paris : sur 8 adresses réputées, une seule vend l'accès au hammam sans réserver de soin. Installations, horaires et Indice Accessibilité LMHS.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/spas/spa-de-jour-paris/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-01 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/spas/spa-de-jour-paris/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -336,7 +336,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 21 août 2026
 
-Dernière mise à jour : 1 septembre 2026
+Dernière mise à jour : 2 septembre 2026
 
 Meilleurs.
 

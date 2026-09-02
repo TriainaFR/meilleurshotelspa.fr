@@ -6,8 +6,20 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-09-02",
-  "count": 74,
+  "count": 75,
   "articles": [
+    {
+      "slug": "villa-m-marseille",
+      "title": "Villa M, à Marseille : l'hôtel qu'a construit une mutuelle de santé",
+      "category": "Enquête",
+      "destination": "Marseille",
+      "region": "Provence",
+      "published": "2026-09-02",
+      "readingMinutes": 11,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/villa-m-marseille/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/villa-m-marseille/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/vm-terrasse.jpg"
+    },
     {
       "slug": "hotels-metz",
       "title": "Meilleurs hôtels à Metz : 8 adresses classées en 2026",
