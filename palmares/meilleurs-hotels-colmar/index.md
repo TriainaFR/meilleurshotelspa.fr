@@ -288,6 +288,8 @@ Sans séjour de contrôle
 
 ### Pour aller plus loin
 
+- [Meilleurs hôtels à Metz : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-metz/), dont la Maison Heler de Philippe Starck
+
 - [Meilleurs hôtels à Reims : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-reims/), la capitale du champagne
 
 - [Meilleurs hôtels à Dijon : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-dijon/), l'autre capitale viticole de l'Est

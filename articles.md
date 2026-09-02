@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Palmarès2 sept. 2026
+
+### Meilleurs hôtels à Metz : 8 adresses classées en 2026
+
+Metz · 14 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-metz/)[
+
 Enquête1 sept. 2026
 
 ### Hôtel & Spa du Castellet : le 5 étoiles du Var qui a formé son propre chef

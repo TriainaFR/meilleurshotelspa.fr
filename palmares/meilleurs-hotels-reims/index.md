@@ -360,6 +360,8 @@ Sans séjour de contrôle
 
 - [Meilleurs hôtels à Dijon : 8 adresses classées en 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-dijon/), l'autre capitale viticole du quart nord-est
 
+- [Meilleurs hôtels à Metz : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-metz/), l'autre grande ville du Grand Est, à une heure et demie de route
+
 - [Meilleurs hôtels à Colmar : 7 adresses classées en 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-colmar/)
 
 - [Château la Commaraine, à Pommard : un 5 étoiles qui dort dans ses propres vignes](https://www.lesmeilleurshotelspa.fr/avis/chateau-la-commaraine-pommard/)

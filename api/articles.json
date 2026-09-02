@@ -5,9 +5,21 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-09-01",
-  "count": 73,
+  "updated": "2026-09-02",
+  "count": 74,
   "articles": [
+    {
+      "slug": "hotels-metz",
+      "title": "Meilleurs hôtels à Metz : 8 adresses classées en 2026",
+      "category": "Palmarès",
+      "destination": "Metz",
+      "region": "Grand Est",
+      "published": "2026-09-02",
+      "readingMinutes": 14,
+      "url": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-metz/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-metz/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/mz-heler-maison.jpg"
+    },
     {
       "slug": "castellet",
       "title": "Hôtel &amp; Spa du Castellet : le 5 étoiles du Var qui a formé son propre chef",

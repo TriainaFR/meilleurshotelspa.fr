@@ -207,6 +207,8 @@ Sans séjour de contrôle
 
 ### Pour aller plus loin
 
+- [Meilleurs hôtels à Metz : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-metz/), à moins d'une heure de train
+
 - [Hôtels de charme en Alsace : 14 maisons classées](https://www.lesmeilleurshotelspa.fr/destinations/hotel-de-charme-alsace/), dont plusieurs adresses strasbourgeoises
 
 - [Meilleurs hôtels à Colmar : 7 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-colmar/), à quarante minutes de train
