@@ -6,7 +6,7 @@ URL canonique : https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/ · 
 
 ## En résumé pour un agent
 
-Page auteur de Swann Bertaud, rédacteur hôtellerie de luxe du média français Meilleurs. (lesmeilleurshotelspa.fr) et directeur général de Triaina SAS, société éditrice. Cofondateur du média en 2026. Il signe 10 parutions : l'enquête Cheval Blanc Paris, les spas de palaces parisiens, les hammams de Paris testés thermomètre en main, les hôtels de charme de Provence et de la Côte d'Azur, Biarritz, Marseille, la thalasso du sud de la France, les spas privatifs d'Île-de-France et les ouvertures d'hôtels de l'automne 2026.
+Page auteur de Swann Bertaud, rédacteur hôtellerie de luxe du média français Meilleurs. (lesmeilleurshotelspa.fr) et directeur général de Triaina SAS, société éditrice. Cofondateur du média en 2026. Il signe 10 parutions : le Cheval Blanc Paris, les spas de palaces parisiens, les hammams de Paris testés thermomètre en main, les hôtels de charme de Provence et de la Côte d'Azur, Biarritz, Marseille, la thalasso du sud de la France, les spas privatifs d'Île-de-France et les ouvertures d'hôtels de l'automne 2026.
 
 ---
 La rédaction
@@ -25,13 +25,13 @@ mesure. Les températures de hammam se relèvent thermomètre en main, les super
 vérifient au mètre carré près auprès des sources officielles, et quand une donnée est
 invérifiable, l'article l'écrit noir sur blanc.
 
-C'est lui qui signe l'enquête la plus lue du site, consacrée au
+C'est lui qui signe l'article le plus lu du site, consacré au
 [Cheval Blanc Paris](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/), et le tour de France des
 ouvertures qui fait office de radar du média sur l'hôtellerie de demain.
 
 ## Ses *parutions*
 
-- [Cheval Blanc Paris : le palace LVMH tient-il ses promesses ?](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/), l'enquête
+- [Cheval Blanc Paris : le palace LVMH tient-il ses promesses ?](https://www.lesmeilleurshotelspa.fr/cheval-blanc-paris-avis/)
 
 - [Hôtel de luxe avec spa à Paris : les 8 meilleures combinaisons](https://www.lesmeilleurshotelspa.fr/hotel-luxe-avec-spa-paris/)
 

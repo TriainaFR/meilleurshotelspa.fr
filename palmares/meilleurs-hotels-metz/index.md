@@ -327,8 +327,8 @@ moyen : 3,5/5. **Aucun séjour de contrôle n'a été effectué.** Catégories,
 capacités, bâti, équipements et distinctions relevés le 2 septembre 2026 sur les sites
 officiels des établissements et auprès du Guide MICHELIN. **Aucun tarif n'est
 publié**, faute d'en avoir relevé à la source. Aucun partenariat commercial, aucune
-affiliation. Photographies : Maison Heler, Hôtel de la Cathédrale et Hôtel Escurial, sites
-officiels.
+affiliation. Photographies : Maison Heler, La Citadelle Metz MGallery, Villa Camoufle, Hôtel de la
+Cathédrale et Hôtel Escurial, sites officiels.
 
 8 adresses
 Indice Lorraine /5
