@@ -20,7 +20,7 @@ Publié le 3 septembre 2026
 ✺
 11 min de lecture
 
-Le hameau au pied du massif de Cagna. Photo : Le Hameau de Saparale, site
+La terrasse du hameau, au pied du massif de Cagna. Photo : Le Hameau de Saparale, site
 officiel.
 
 ## L'essentiel · Ce qui distingue vraiment cette maison
@@ -96,7 +96,7 @@ en mezzanine ouvre sur une terrasse qui domine la place du hameau.
 
 ## Sopravigna : le chai devenu *salle à manger*
 
-La salle de Sopravigna, sous les voûtes de l'ancien chai. Photo : Le Hameau
+La salle de Sopravigna, sous ses lustres, dans l'ancien chai. Photo : Le Hameau
 de Saparale, site officiel.
 
 La table s'appelle **Sopravigna** et occupe **l'ancien chai** du
@@ -125,7 +125,7 @@ Ce qui n'existe pas encore : **le spa**. La maison annonce un
 séjour bien-être structuré doit le savoir avant de réserver, et regarder du côté de la Master
 Suite ou des bergeries, qui sont les seules clés à disposer d'un équipement en propre.
 
-Une terrasse sous tonnelle. Photo : Le Hameau de Saparale, site officiel.
+Une terrasse sous tonnelle, face à la vallée. Photo : Le Hameau de Saparale, site officiel.
 
 ## Le Hameau de Saparale en *bref*
 
