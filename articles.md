@@ -2,7 +2,7 @@
 
 > Tous les articles de Meilleurs : palmarès, guides, enquêtes, ouvertures, spas et destinations. Le sommaire complet du média des adresses d'exception.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/articles.html · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -16,6 +16,14 @@ Le sommaire
 ⌕
 
 [
+
+Enquête3 sept. 2026
+
+### Le Hameau de Saparale, en Corse : un village du XIIIe siècle rendu à la vigne
+
+Sartène · 11 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/hameau-de-saparale-sartene/)[
 
 Palmarès3 sept. 2026
 

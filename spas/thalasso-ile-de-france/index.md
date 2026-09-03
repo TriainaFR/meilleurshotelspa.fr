@@ -2,7 +2,7 @@
 
 > 8 centres de thalasso et spa marin testés selon le Protocole LMHS : 3 en Île-de-France, 5 accessibles depuis Paris. Scores, prix, distances, surfaces.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/spas/thalasso-ile-de-france/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/spas/thalasso-ile-de-france/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -209,7 +209,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 2 septembre 2026
+Dernière mise à jour : 3 septembre 2026
 
 Meilleurs.
 

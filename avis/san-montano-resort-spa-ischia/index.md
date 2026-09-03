@@ -2,7 +2,7 @@
 
 > Avis LMHS sur le San Montano Resort & Spa à Ischia : 65 clés, 11 piscines thermales, Ocean Blue Spa et une suite installée dans un ancien phare militaire. Score 9,2/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/san-montano-resort-spa-ischia/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/san-montano-resort-spa-ischia/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -368,6 +368,8 @@ Sans séjour de contrôle
 
 ### Pour aller plus loin
 
+- [Le Hameau de Saparale, en Corse](https://www.lesmeilleurshotelspa.fr/avis/hameau-de-saparale-sartene/), une autre île méditerranéenne passée au Protocole LMHS
+
 - [Monteverdi Tuscany](https://www.lesmeilleurshotelspa.fr/monteverdi-tuscany-val-orcia/), notre autre avis italien, et la note la plus haute que nous ayons attribuée hors de France
 
 - [Château Saint-Jean, Montluçon](https://www.lesmeilleurshotelspa.fr/avis/chateau-saint-jean-montlucon/), l'autre 9,2/10 de nos avis
@@ -385,7 +387,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 12 août 2026
 
-Dernière mise à jour : 2 septembre 2026
+Dernière mise à jour : 3 septembre 2026
 
 Meilleurs.
 

@@ -2,7 +2,7 @@
 
 > Avis sur l'Hôtel & Spa du Castellet, 5 étoiles Relais & Châteaux du Var : table trois étoiles de Fabien Ferré, spa primé de 700 m², 43 clés dans 12 hectares.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-spa-du-castellet/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-spa-du-castellet/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 

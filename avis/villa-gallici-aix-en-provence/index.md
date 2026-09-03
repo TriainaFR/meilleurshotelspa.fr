@@ -2,7 +2,7 @@
 
 > Avis complet sur la Villa Gallici à Aix-en-Provence : 5 étoiles Relais et Châteaux, 23 suites baroques, spa de 200 m² Sothys, restaurant La Taula Gallici. À partir de 955 €.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/villa-gallici-aix-en-provence/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/villa-gallici-aix-en-provence/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -225,7 +225,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 28 août 2026
 
-Dernière mise à jour : 2 septembre 2026
+Dernière mise à jour : 3 septembre 2026
 
 Meilleurs.
 

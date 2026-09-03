@@ -2,7 +2,7 @@
 
 > Les meilleurs hôtels de Montpellier en 2026 : Richer de Belleval, Domaine de Verchant, Pullman La Pléiade. Scores LMHS, table étoilée, spas, secteurs et réserves.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-montpellier/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-montpellier/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -296,7 +296,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 28 août 2026
 
-Dernière mise à jour : 2 septembre 2026
+Dernière mise à jour : 3 septembre 2026
 
 Meilleurs.
 

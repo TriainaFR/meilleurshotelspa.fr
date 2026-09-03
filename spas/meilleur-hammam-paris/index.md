@@ -2,7 +2,7 @@
 
 > 8 hammams parisiens testés selon le Protocole LMHS : score, prix, surface, ambiance. Du hammam traditionnel au spa palace - le classement sans complaisance.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/spas/meilleur-hammam-paris/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -281,7 +281,7 @@ Rédacteur, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 2 septembre 2026
+Dernière mise à jour : 3 septembre 2026
 
 Meilleurs.
 

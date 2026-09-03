@@ -6,8 +6,20 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-09-03",
-  "count": 76,
+  "count": 77,
   "articles": [
+    {
+      "slug": "hameau-saparale",
+      "title": "Le Hameau de Saparale, en Corse : un village du XIIIe siècle rendu à la vigne",
+      "category": "Enquête",
+      "destination": "Sartène",
+      "region": "Corse",
+      "published": "2026-09-03",
+      "readingMinutes": 11,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/hameau-de-saparale-sartene/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/hameau-de-saparale-sartene/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/sap-hameau.jpg"
+    },
     {
       "slug": "hotels-pau",
       "title": "Meilleurs hôtels à Pau : 8 adresses classées en 2026",

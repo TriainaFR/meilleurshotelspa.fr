@@ -2,7 +2,7 @@
 
 > Les meilleures adresses de Metz en 2026 : Maison Heler, La Citadelle MGallery, Villa Camoufle. Scores LMHS, patrimoine, quartiers et réserves. Aucun 5 étoiles en ville.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-metz/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-metz/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -352,7 +352,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 2 septembre 2026
 
-Dernière mise à jour : 2 septembre 2026
+Dernière mise à jour : 3 septembre 2026
 
 Meilleurs.
 

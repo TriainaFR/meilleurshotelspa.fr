@@ -2,7 +2,7 @@
 
 > Les 8 nouveaux hôtels parisiens de 2026, classés au score d'anticipation LMHS. Quatre ont déjà ouvert, nous le disons. Louis Vuitton, Bus Palladium, Salvia.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-paris-2026/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/nouveaux-hotels-paris-2026/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -266,7 +266,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 5 août 2026
 
-Dernière mise à jour : 2 septembre 2026
+Dernière mise à jour : 3 septembre 2026
 
 Meilleurs.
 

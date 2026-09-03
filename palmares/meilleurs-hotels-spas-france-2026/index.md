@@ -2,7 +2,7 @@
 
 > Palmarès exclusif 2026 : les 50 meilleurs hôtels & spas de France testés selon le Protocole LMHS. Classement par score, prix, région et type de spa.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -363,6 +363,8 @@ Données propriétaires
 
 - [Alexandra Palace, dans les Deux-Sèvres](https://www.lesmeilleurshotelspa.fr/avis/alexandra-palace-mazieres-en-gatine/), le seul 5 étoiles d'un département qui n'en comptait aucun
 
+- [Le Hameau de Saparale, en Corse](https://www.lesmeilleurshotelspa.fr/avis/hameau-de-saparale-sartene/), un hameau du XIIIe siècle rendu à la vigne
+
 - [Meilleurs hôtels à Pau : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-pau/), deux 5 étoiles face aux Pyrénées
 
 - [Meilleurs hôtels à Dijon : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-dijon/), à la porte de la Route des Grands Crus
@@ -386,7 +388,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 21 juillet 2026
 
-Dernière mise à jour : 2 septembre 2026
+Dernière mise à jour : 3 septembre 2026
 
 Meilleurs.
 

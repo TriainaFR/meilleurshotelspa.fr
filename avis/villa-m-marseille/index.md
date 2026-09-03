@@ -2,7 +2,7 @@
 
 > Avis sur la Villa M Marseille, 4 étoiles ouvert en mai 2025 face au Prado : 140 clés, spa Deep Nature avec cryothérapie, club de boxe et centre de soins. Score LMHS 9,0/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/villa-m-marseille/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-09-02 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/villa-m-marseille/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -271,7 +271,7 @@ Rédacteur en chef, Meilleurs.
 
 Publié le 2 septembre 2026
 
-Dernière mise à jour : 2 septembre 2026
+Dernière mise à jour : 3 septembre 2026
 
 Meilleurs.
 
