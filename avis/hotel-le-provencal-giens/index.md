@@ -77,10 +77,13 @@ fonds, c'est en soi une donnée. Cela explique aussi pourquoi la rénovation con
 produit un hôtel générique : on ne rénove pas de la même façon une maison que l'on a reçue et
 un actif que l'on a acheté.
 
-Photographie d'archive publiée par la maison. Le perron, la lanterne et le
-parement de pierre sont toujours là. Photo : site officiel.
+Photographie d'archive publiée par la maison : la façade, les terrasses et
+les parasols au-dessus de la baie. Photo : site officiel.
 
 ## Deux hectares, une plage privée, et une piscine taillée dans la *roche*
+
+La piscine et la plage privée, au pied de la falaise. Photo : Le Provençal,
+page « piscine et plage privée » du site officiel.
 
 Ce qui distingue Le Provençal d'un hôtel de bord de mer ordinaire tient à l'échelle du
 terrain. Le domaine couvre **deux hectares en bord de mer**, sous pinède, et il
@@ -132,6 +135,9 @@ savoir que le découvrir.
 
 ## Six points de restauration, et non trois comme on le *lit*
 
+Photographie d'archive publiée par la maison : la salle, comble. Photo :
+site officiel.
+
 C'est l'autre correction que nous devons apporter à ce qui circule sur cette maison. On
 décrit régulièrement Le Provençal comme un hôtel à trois restaurants. Le site officiel en
 publie **six**, répartis entre quatre tables et deux comptoirs, et l'ensemble est
@@ -157,7 +163,8 @@ Giens autant que par les clients. Les autres sont dans le parc ou sur le domaine
 tournées vers la mer. Une maison qui garde une adresse ouverte sur la place du village, c'est
 ce qui distingue un hôtel intégré d'un hôtel posé.
 
-La Rascasse, la table gastronomique de la maison. Photo : site officiel.
+La salle publiée par la maison sur la page de La Rascasse, sa table
+gastronomique. Photo : site officiel.
 
 ## Quarante et une clés, et vingt-trois appartements en *plus*
 
