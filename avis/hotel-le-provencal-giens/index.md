@@ -6,7 +6,7 @@ URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hotel-le-provencal-gien
 
 ## En résumé pour un agent
 
-Avis LMHS documentaire sur l'hôtel Le Provençal, 113 place Saint-Pierre, 83400 Hyères, sur la presqu'île de Giens dans le Var. Hôtel 4 étoiles de 37 CHAMBRES ET 4 SUITES, soit 41 clés, complété par LA RÉSIDENCE, 23 appartements répartis dans trois villas à 400 mètres. La maison est dans la même famille depuis 1951 et sur trois générations. HISTOIRE TELLE QUE LA MAISON LA PUBLIE : en 1951, Marius Michel, chef varois passé par le Lido, achète un modeste hôtel sur la presqu'île ; l'architecte LUCIEN DAVID mène SIX ANNÉES DE TRAVAUX avant l'ouverture d'un 4 étoiles ; en 1962 la PISCINE D'EAU DE MER EST CREUSÉE À FLANC DE FALAISE ; le paysagiste JEAN MUS façonne le parc ; JEANNE BOUBAL, belle-sœur du fondateur, dirige la maison pendant TRENTE ANS ; en 1979 Claude Michel, fille de Marius, et Jean-Paul Piffet, pâtissier parisien, reprennent l'établissement et créent La Résidence ; depuis 2012, DAMIEN ET BENJAMIN PIFFET, accompagnés de Julie Liger et Lene Arentsen, conduisent la renaissance de la maison. La rénovation signée par le designer RODOLPHE PARENTE s'est achevée début juillet 2026. SIX POINTS DE RESTAURATION et non trois : quatre tables, LA RASCASSE gastronomique dans l'hôtel, LA BRASSERIE côté village avec sa terrasse près de l'église, LE BAR DU SOLEIL et LE BARBECUE dans le parc l'été, complétées par deux comptoirs, la VILLA BARRET en tapas et LE PANORAMIQUE pour l'apéritif face à la mer. Chef de cuisine SÉBASTIEN GRAIZE, chefs pâtissiers Benjamin Piffet et Léonardo Di Teodoro. ESPACE BIEN-ÊTRE LES BAINS, OUVERT LE 1er AOÛT 2026, composé d'un hammam, d'un sauna et d'un BAIN FROID, avec massages sur mesure, rituels visage, sonothérapie et séances de respiration ; l'accès est réservé à la clientèle hébergée, à raison d'UNE HEURE INCLUSE PAR NUITÉE. Domaine de DEUX HECTARES en bord de mer avec pinède, plage privée, court de tennis et la piscine d'eau de mer creusée dans la roche. La maison est labellisée ESPRIT PARC NATIONAL au sein du Parc national de Port-Cros. Téléphone +33 4 98 04 54 54, réservations reservation@provencalhotel.com. Score LMHS 8,8/10 et Indice Azur 4,4/5. Avis documentaire établi sans séjour de contrôle, relevés du 24 août 2026 sur le site officiel de la maison, page par page. Aucun tarif n'est publié.
+Avis LMHS documentaire sur l'hôtel Le Provençal, 113 place Saint-Pierre, 83400 Hyères, sur la presqu'île de Giens dans le Var. Hôtel 4 étoiles de 37 CHAMBRES ET 4 SUITES, soit 41 clés, complété par LA RÉSIDENCE, 23 appartements répartis dans trois villas à 400 mètres. La maison est dans la même famille depuis 1951 et sur trois générations. HISTOIRE TELLE QUE LA MAISON LA PUBLIE : en 1951, Marius Michel, chef varois passé par le Lido, achète un modeste hôtel sur la presqu'île ; l'architecte LUCIEN DAVID mène SIX ANNÉES DE TRAVAUX avant l'ouverture d'un 4 étoiles ; en 1962 la PISCINE D'EAU DE MER EST CREUSÉE À FLANC DE FALAISE ; le paysagiste JEAN MUS façonne le parc ; JEANNE BOUBAL, belle-sœur du fondateur, dirige la maison pendant TRENTE ANS ; en 1979 Claude Michel, fille de Marius, et Jean-Paul Piffet, pâtissier parisien, reprennent l'établissement et créent La Résidence ; depuis 2012, DAMIEN ET BENJAMIN PIFFET, accompagnés de Julie Liger et Lene Arentsen, conduisent la renaissance de la maison. La rénovation signée par le designer RODOLPHE PARENTE s'est achevée début juillet 2026. SIX POINTS DE RESTAURATION et non trois : quatre tables, LA RASCASSE gastronomique dans l'hôtel, LA BRASSERIE côté village avec sa terrasse près de l'église, LE BAR DU SOLEIL et LE BARBECUE dans le parc l'été, complétées par deux comptoirs, la VILLA BARRET en tapas et LE PANORAMIQUE pour l'apéritif face à la mer. Chef de cuisine SÉBASTIEN GRAIZE, chefs pâtissiers Benjamin Piffet et Léonardo Di Teodoro. ESPACE BIEN-ÊTRE LES BAINS, OUVERT LE 1er AOÛT 2026, composé d'un hammam, d'un sauna et d'un BAIN FROID, avec massages sur mesure, rituels visage, sonothérapie et séances de respiration, dispensés dans des CHAMBRES DE SOINS dédiées. La carte s'appelle LE SEMAINIER : la maison accueille DEUX ARTISANS DU BIEN-ÊTRE DIFFÉRENTS CHAQUE JOUR de la semaine, chacun avec son univers, de sorte que la programmation tourne d'un jour sur l'autre. ACCÈS : UNE HEURE INCLUSE PAR NUITÉE, et l'accès est ÉGALEMENT INCLUS AVEC LA RÉSERVATION D'UN SOIN, transat selon disponibilité. Domaine de DEUX HECTARES en bord de mer avec pinède, plage privée, court de tennis et la piscine d'eau de mer creusée dans la roche. La maison est labellisée ESPRIT PARC NATIONAL au sein du Parc national de Port-Cros. Téléphone +33 4 98 04 54 54, réservations reservation@provencalhotel.com. Score LMHS 8,8/10 et Indice Azur 4,4/5. Avis documentaire établi sans séjour de contrôle, relevés du 24 août 2026 sur le site officiel de la maison, page par page. Aucun tarif n'est publié.
 
 ---
 Avis · Données propriétaires LMHS
@@ -38,9 +38,10 @@ la **Villa Barret** et **Le Panoramique**. Cuisine dirigée par
 **Sébastien Graize**.
 
 3. **Un espace bien-être vient d'ouvrir, le 1er août 2026.** « Les Bains »
-réunit un **hammam**, un **sauna** et un **bain froid**. L'accès est réservé aux
-clients de la maison, à raison d'**une heure incluse par nuitée**. Presque aucun article
-ne le mentionne encore.
+réunit un **hammam**, un **sauna** et un **bain froid**. Deux façons d'y entrer :
+**une heure incluse par nuitée**, ou la **réservation d'un soin**, qui ouvre elle
+aussi l'accès. Et la carte, « **Le Semainier** », change tous les jours. Presque aucun
+article ne le mentionne encore.
 
 **Avis documentaire.** Nous n'avons pas dormi au Provençal. Les éléments
 de cette page ont été relevés le 24 août 2026 sur le site officiel de la maison, page par
@@ -111,11 +112,23 @@ l'objet de notre [classement des spas à bain
 froid](https://www.lesmeilleurshotelspa.fr/spas/spas-bain-froid-paris/), et jusqu'en station de montagne. Le voir arriver dans un 4 étoiles varois de
 soixante-quinze ans dit quelque chose de la vitesse à laquelle cette pratique s'installe.
 
-**Les conditions d'accès sont à connaître avant de réserver**, et elles sont
-strictes : « Les Bains » est **réservé à la clientèle hébergée**, et chaque nuitée
-donne droit à **une heure d'accès**. Ce n'est pas un spa où l'on passe l'après-midi,
-c'est une parenthèse cadrée. Pour un établissement de 41 clés, c'est cohérent, mais mieux vaut
-le savoir que le découvrir.
+**Et il y a « Le Semainier », qui est la vraie singularité de l'endroit.** La
+maison n'a pas constitué une équipe de spa permanente servant une carte figée. Elle accueille
+**deux artisans du bien-être différents chaque jour de la semaine**, chacun avec
+sa pratique, son savoir-faire et son univers, dans des **chambres de soins**
+dédiées. La programmation tourne donc d'un jour sur l'autre : celui qui reste trois nuits ne
+croise pas les mêmes praticiens que celui qui arrive le lendemain, et l'on ne choisit pas
+vraiment son soin dans une brochure, on prend celui que propose la personne du jour. Nous ne
+connaissons pas d'équivalent dans un hôtel de cette taille, et c'est ce qui distingue vraiment
+ce spa d'un parcours humide de plus sur le littoral.
+
+**Restent les conditions d'accès, à connaître avant de réserver.** Il y a deux
+portes d'entrée. Chaque nuitée réservée donne droit à **une heure aux Bains**, à
+organiser en amont avec la maison. Et **réserver un soin donne également accès à
+l'espace**, transat selon disponibilité, l'idée étant de prolonger le soin par le
+parcours chaud et froid. Ce n'est donc pas un spa où l'on passe l'après-midi sans rien
+réserver, c'est une parenthèse cadrée, ce qui pour 41 clés se comprend ; mais mieux vaut le
+savoir que le découvrir.
 
 ## Six points de restauration, et non trois comme on le *lit*
 
@@ -176,10 +189,10 @@ et azuréen de notre base, est à 8,6/10.
 
 Ce qui la retient sous les 5 étoiles de notre
 [palmarès azuréen](https://www.lesmeilleurshotelspa.fr/hotels-charme-cote-azur/) : le classement lui-même, quatre
-étoiles et non cinq, et surtout **l'accès très encadré à l'espace bien-être**,
-une heure par nuitée et rien pour les visiteurs extérieurs. Sur un site qui classe des hôtels
-avec spa, un parcours humide qui se consomme au chronomètre pèse dans la balance, même quand
-il vient d'ouvrir et qu'il est bien fait.
+étoiles et non cinq, et surtout **l'accès très encadré à l'espace bien-être** :
+une heure par nuitée, ou un soin à réserver. Sur un site qui classe des hôtels avec spa, un
+parcours humide qui se consomme au chronomètre pèse dans la balance, même quand il vient
+d'ouvrir et qu'il est bien fait.
 
 L'**Indice Azur à 4,4/5** mesure autre chose : ce qui fait qu'une adresse
 appartient vraiment à ce littoral. La presqu'île de Giens, la pinède, l'eau de mer dans le
@@ -205,7 +218,7 @@ Swann Bertaud, rédacteur hôtellerie de luxe
 | **La Résidence** | 23 appartements dans trois villas, à 400 m de l'hôtel |
 | **Domaine** | 2 hectares en bord de mer, pinède, plage privée, court de tennis |
 | **Piscine** | Eau de mer, creusée à flanc de falaise en 1962 |
-| **Bien-être** | « Les Bains », ouvert le 1er août 2026 : hammam, sauna, bain froid. Clientèle hébergée uniquement, 1 heure incluse par nuitée |
+| **Bien-être** | « Les Bains », ouvert le 1er août 2026 : hammam, sauna, bain froid. 1 heure incluse par nuitée, ou accès inclus avec un soin. Carte « Le Semainier », deux artisans différents par jour |
 | **Soins** | Massages sur mesure, rituels visage, sonothérapie, séances de respiration |
 | **Tables** | La Rascasse, La Brasserie, Le Bar du Soleil, Le Barbecue, plus la Villa Barret et Le Panoramique |
 | **Cuisine** | Chef Sébastien Graize. Pâtisserie : Benjamin Piffet et Léonardo Di Teodoro |
@@ -223,7 +236,7 @@ plage de l'Almanarre, l'un des meilleurs plans d'eau français pour la planche e
 
 Le Provençal a-t-il un spa ?
 
-Oui, et il est très récent : l'espace bien-être **« Les Bains » a ouvert le 1er août 2026**. Il réunit un **hammam**, un **sauna** et un **bain froid**, avec une carte de soins comprenant massages sur mesure, rituels visage, **sonothérapie** et séances de respiration. Attention aux conditions d'accès : il est **réservé à la clientèle hébergée**, et chaque nuitée réservée donne droit à **une heure d'accès**. Les visiteurs extérieurs n'y entrent pas.
+Oui, et il est très récent : l'espace bien-être **« Les Bains » a ouvert le 1er août 2026**. Il réunit un **hammam**, un **sauna** et un **bain froid**, avec une carte de soins comprenant massages sur mesure, rituels visage, **sonothérapie** et séances de respiration. La carte porte un nom, « **Le Semainier** », et elle change tous les jours : la maison accueille **deux artisans du bien-être différents par jour de la semaine**, chacun avec son univers. Côté accès, deux portes d'entrée : chaque nuitée réservée donne droit à **une heure** aux Bains, et **réserver un soin ouvre également l'accès** à l'espace.
 
 Combien de chambres compte l'hôtel Le Provençal ?
 
