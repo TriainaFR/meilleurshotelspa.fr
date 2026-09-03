@@ -261,6 +261,8 @@ Indice basque propriétaire
 
 ### Pour aller plus loin
 
+- [Meilleurs hôtels à Pau : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-pau/), à une heure et demie de route dans les terres
+
 - [Hôtel de Toiras, avis](https://www.lesmeilleurshotelspa.fr/avis/hotel-de-toiras-ile-de-re/), l'autre adresse atlantique de notre sélection, sur l'Île de Ré
 
 - [Les 50 meilleurs hôtels & spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)

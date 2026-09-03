@@ -381,6 +381,8 @@ Indice Pyrénéen /5
 
 ### Pour aller plus loin
 
+- [Meilleurs hôtels à Pau : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-pau/), la porte du Béarn et des Pyrénées
+
 - [Les 50 meilleurs hôtels et spas de France, palmarès national 2026](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/)
 
 - [Hôtels de charme en Provence : 12 maisons d'exception](https://www.lesmeilleurshotelspa.fr/hotel-de-charme-provence/)

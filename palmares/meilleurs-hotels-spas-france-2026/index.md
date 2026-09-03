@@ -363,6 +363,8 @@ Données propriétaires
 
 - [Alexandra Palace, dans les Deux-Sèvres](https://www.lesmeilleurshotelspa.fr/avis/alexandra-palace-mazieres-en-gatine/), le seul 5 étoiles d'un département qui n'en comptait aucun
 
+- [Meilleurs hôtels à Pau : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-pau/), deux 5 étoiles face aux Pyrénées
+
 - [Meilleurs hôtels à Dijon : 8 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-dijon/), à la porte de la Route des Grands Crus
 
 - [Meilleurs hôtels à Montpellier : 9 adresses classées](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-montpellier/), dont le Domaine de Verchant, 23e de ce palmarès

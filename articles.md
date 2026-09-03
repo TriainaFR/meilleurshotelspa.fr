@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Palmarès3 sept. 2026
+
+### Meilleurs hôtels à Pau : 8 adresses classées en 2026
+
+Pau · 14 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-pau/)[
+
 Enquête2 sept. 2026
 
 ### Villa M, à Marseille : l'hôtel qu'a construit une mutuelle de santé
