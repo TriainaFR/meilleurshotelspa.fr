@@ -96,11 +96,13 @@ en mezzanine ouvre sur une terrasse qui domine la place du hameau.
 
 ## Sopravigna : le chai devenu *salle à manger*
 
-### Rustique, ancrée, généreuse
+La salle de Sopravigna, sous les voûtes de l'ancien chai. Photo : Le Hameau
+de Saparale, site officiel.
 
-La table s'appelle **Sopravigna** et occupe **l'ancien chai**
-du domaine, sous voûtes de pierre. Le chef **Jérémy Vivien** se fournit chez
-les producteurs de la vallée et des alentours, et au potager de la maison.
+La table s'appelle **Sopravigna** et occupe **l'ancien chai** du
+domaine, sous voûtes de pierre. Le chef **Jérémy Vivien** se fournit chez les
+producteurs de la vallée et des alentours, et au potager de la maison. La cuisine est
+rustique, ancrée et généreuse, dans cet ordre.
 
 Le service de midi joue la simplicité : produits emblématiques du terroir corse, légumes du
 potager, **saucisses de porc nustrale**. Le soir monte d'un cran sans jamais
