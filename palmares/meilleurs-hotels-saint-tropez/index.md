@@ -49,81 +49,68 @@ plateformes de réservation.
 
 ## Notre sélection : les 8 meilleurs hôtels de *Saint-Tropez*
 
-1
+01
 
 ### Kube, le seul spa dont on connaisse la surface 9,3/10
 
-319 route du littoral, 83580 Gassin · 5 étoiles · Indice Azur 3,9/5
+**319 route du littoral, 83580 Gassin · 5 étoiles · groupe Machefert · Indice Azur 3,9/5**
 
 Il prend la tête, et il n'est pas à Saint-Tropez : **Gassin**.
-**70 chambres** réparties dans **neuf bâtiments** et trois univers,
-**trois piscines**, un rooftop, **Le Petit Célestin**, et une plage
-affiliée, la **plage Cybèle**, elle-même à Ramatuelle. Le spa est le seul du
-classement dont l'établissement publie les dimensions : **300 m² sur deux
+**70 chambres** réparties dans **neuf bâtiments** et trois
+univers, **trois piscines**, un rooftop, **Le Petit Célestin**, et
+une plage affiliée, la **plage Cybèle**, elle-même à Ramatuelle. Le spa est le
+seul du classement dont l'établissement publie les dimensions : **300 m² sur deux
 niveaux**, **six cabines dont une double**, hammam et sauna, sous
 enseigne **myBlend**. La maison ne cite pas Clarins, contrairement à ce qu'on
-lit ; nous ne l'écrivons donc pas non plus. Il prend la première place sur les équipements et
-sur la table, pas sur l'âme : son Indice Azur est le plus bas des huit, parce que le bâti est
-contemporain et ne doit rien au village. Le bémol : neuf bâtiments et une route du
+lit ; nous ne l'écrivons donc pas non plus. Il prend la première place sur les équipements
+et sur la table, pas sur l'âme : son Indice Azur est le plus bas des huit, parce que le bâti
+est contemporain et ne doit rien au village. Le bémol : neuf bâtiments et une route du
 littoral, ce n'est pas une adresse pour qui cherche le silence.
 
-- 70 chambres en neuf bâtiments
-
-- Spa myBlend de 300 m², six cabines
-
-- Trois piscines et un rooftop
-
-- Groupe Machefert
-
+70 chambres en neuf bâtiments · Spa myBlend de 300 m², six cabines · Trois piscines et un rooftop · Plage Cybèle à Ramatuelle ·
 [Site officiel →](https://www.kubehotel-saint-tropez.com/)
 
-2
+02
 
 ### Villa Marie, quarante-cinq clés dans trois hectares de pins 9,1/10
 
-1100 chemin de Val Rian, 83350 Ramatuelle · 5 étoiles · Indice Azur 4,4/5
+**1100 chemin de Val Rian, 83350 Ramatuelle · 5 étoiles · Indice Azur 4,4/5**
 
-Autre maison vendue sous l'étiquette Saint-Tropez et située à **Ramatuelle**,
-sur les hauteurs de Pampelonne, à **quatre kilomètres des plages**. Elle annonce
-**45 chambres et suites**, toutes avec terrasse ou balcon, dans une
-**pinède de trois hectares** et non de sept comme on le lit. Le spa est signé
-**Pure Altitude**, la marque de la famille Sibuet, et le restaurant s'appelle
-**Dolce Vita**. La maison commercialise un séjour bien-être de trois nuits
-comprenant un soin Pure Altitude de cinquante minutes par personne et par jour. Le bémol :
-la route pour y monter, et une fermeture saisonnière.
+Autre maison vendue sous l'étiquette Saint-Tropez et située à
+**Ramatuelle**, sur les hauteurs de Pampelonne, à **quatre kilomètres des
+plages**. Elle annonce **45 chambres et suites**, toutes avec terrasse
+ou balcon, dans une **pinède de trois hectares** et non de sept comme on le
+lit. Le spa est signé **Pure Altitude**, la marque de la famille Sibuet, et le
+restaurant s'appelle **Dolce Vita**. La maison commercialise un séjour
+bien-être de trois nuits comprenant un soin Pure Altitude de cinquante minutes par personne
+et par jour. Le bémol : la route pour y monter, et une fermeture saisonnière.
 
+45 chambres et suites · Pinède de 3 hectares · Spa Pure Altitude · Restaurant Dolce Vita ·
 [Site officiel →](https://www.villamarie-saint-tropez.com/)
 
-3
+03
 
 ### Lou Pinet, la plus grande piscine du classement 9,0/10
 
-Chemin du Pinet, 83990 Saint-Tropez · 5 étoiles · Indice Azur 4,5/5
+**Chemin du Pinet, 83990 Saint-Tropez · 5 étoiles · collection Pariente · Indice Azur 4,5/5**
 
-Voici l'adresse dont tout le monde se trompe sur la taille. On lit régulièrement seize
-chambres ; la maison en annonce **34 clés**. Ce n'est donc pas un hôtel
-confidentiel, c'est un hôtel discret, ce qui n'est pas la même chose. Elle appartient à la
-collection **Pariente**, et son argument principal est dehors : la maison écrit
-que sa piscine est **l'une des plus grandes de Saint-Tropez**, et elle réunit
-tout l'hôtel autour d'elle. Le **Spa by Tata Harper** et le restaurant
-**Beefbar** complètent l'ensemble, dans un jardin tropézien planté de pins
-parasols. Le bémol : le chemin du Pinet n'est pas le port, il faut compter le trajet.
+Voici l'adresse dont tout le monde se trompe sur la taille. On lit régulièrement
+seize chambres ; la maison en annonce **34 clés**. Ce n'est donc pas un hôtel
+confidentiel, c'est un hôtel discret, ce qui n'est pas la même chose. Son argument principal
+est dehors : la maison écrit que sa piscine est **l'une des plus grandes de
+Saint-Tropez**, et qu'elle réunit tout l'hôtel autour d'elle. Le **Spa by Tata
+Harper** et le restaurant **Beefbar** complètent l'ensemble, dans un
+jardin tropézien planté de pins parasols. Le bémol : le chemin du Pinet n'est pas le port,
+il faut compter le trajet.
 
-- 34 clés
-
-- L'une des plus grandes piscines de Saint-Tropez
-
-- Spa by Tata Harper
-
-- Restaurant Beefbar
-
+34 clés · L'une des plus grandes piscines de Saint-Tropez · Spa by Tata Harper · Restaurant Beefbar ·
 [Site officiel →](https://www.loupinet.com/)
 
-4
+04
 
 ### La Ponche, et le bar que Boris Vian a ouvert en 1949 8,9/10
 
-Quartier de la Ponche, 83990 Saint-Tropez · 5 étoiles · Indice Azur 4,8/5
+**Quartier de la Ponche, 83990 Saint-Tropez · 5 étoiles · Indice Azur 4,8/5**
 
 C'est la seule des huit qui ne se visite pas, qui se traverse. La maison est née en
 **1938** d'un bar de pêcheurs, et son bar actuel date de **1949**,
@@ -132,88 +119,86 @@ Saint-Germain-des-Prés-La Ponche. La maison le raconte elle-même, en ces terme
 **21 chambres** et **quatre appartements** qui portent des noms
 plutôt que des numéros : **Danièle Thompson, Jack Nicholson, Pablo Picasso** et
 **La Glaye**. Le restaurant est pensé par le chef **Simon Pinault**
-et dirigé par Marine Bon Mugnaïni. L'espace bien-être propose les
-**soins exclusifs PERS**, du yoga et du Pilates **face à la mer**,
-et non sur un ponton comme on le lit parfois. Le bémol : c'est le cœur du village ancien,
-donc les ruelles, donc le stationnement.
+et dirigé par Marine Bon Mugnaïni. L'espace bien-être propose les **soins exclusifs
+PERS**, du yoga et du Pilates **face à la mer**, et non sur un ponton
+comme on le lit parfois. Elle obtient le meilleur Indice Azur du classement sans en prendre
+la tête, et c'est exactement ce que cet indice sert à dire. Le bémol : c'est le cœur du
+village ancien, donc les ruelles, donc le stationnement.
 
-- 21 chambres et 4 appartements nommés
-
-- Bar ouvert en 1949 par Boris Vian
-
-- Chef Simon Pinault
-
-- Soins exclusifs PERS
-
+21 chambres et 4 appartements nommés · Bar ouvert en 1949 par Boris Vian · Chef Simon Pinault · Soins exclusifs PERS ·
 [Site officiel →](https://laponche.com/)
 
-5
+05
 
-### Hôtel Sezz, le design de la route des Salins 8,8/10
+### Hôtel Sezz, la seule étoile du classement 8,8/10
 
-151 route des Salins, 83990 Saint-Tropez · 5 étoiles · Indice Azur 4,2/5
+**151 route des Salins, 83990 Saint-Tropez · 5 étoiles · Indice Azur 4,2/5**
 
-Nous lui consacrons déjà un [avis détaillé](https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/),
-et la note reprise ici est celle de cet avis : chez nous, une adresse ne porte qu'une seule
-note, quelle que soit la page. Contrairement à ce qu'on lit régulièrement, le Sezz n'est
-**pas à Ramatuelle** mais bien sur la commune de Saint-Tropez, au 151 route des
-Salins. **37 clés**, un spa **Susanne Kaufmann** dimensionné pour la
-maison plutôt que pour rivaliser avec les palaces, une piscine extérieure chauffée de 200 m²
-et une table, **Colette**, **étoilée au Guide MICHELIN depuis
-2021**. C'est la seule étoile du classement. Le bémol : deux kilomètres du centre, donc
-la navette.
+Nous lui consacrons déjà un [avis
+détaillé](https://www.lesmeilleurshotelspa.fr/avis/hotel-sezz-saint-tropez/), et la note reprise ici est celle de cet avis : chez nous, une adresse ne porte
+qu'une seule note, quelle que soit la page. Contrairement à ce qu'on lit régulièrement, le
+Sezz n'est **pas à Ramatuelle** mais bien sur la commune de Saint-Tropez.
+**37 clés**, un spa **Susanne Kaufmann** dimensionné pour la
+maison plutôt que pour rivaliser avec les palaces, une piscine extérieure chauffée de
+**200 m²** et une table, **Colette**, **étoilée au Guide
+MICHELIN depuis 2021**. C'est la seule étoile de ce classement. Le bémol : deux
+kilomètres du centre, donc la navette.
 
+37 clés · Restaurant Colette, étoilé au Guide MICHELIN · Spa Susanne Kaufmann · Piscine chauffée de 200 m² ·
 [Site officiel →](https://saint-tropez.hotelsezz.com/)
 
-6
+06
 
 ### Byblos, quatre-vingt-six clés et une nuit de mai 1967 8,5/10
 
-Avenue Paul Signac, 83990 Saint-Tropez · 5 étoiles · Indice Azur 4,3/5
+**Avenue Paul Signac, 83990 Saint-Tropez · 5 étoiles · Indice Azur 4,3/5**
 
-L'institution, et l'adresse sur laquelle circulent le plus d'erreurs. Elle n'a pas été
-fondée par Jean Castel : son fondateur est **Jean-Prosper Gay-Para**, hôtelier
-libanais, et la maison a été **inaugurée le 27 mai 1967**, en présence de
-Brigitte Bardot et de Mireille Darc. Elle annonce **86 chambres et suites**, et
-non quatre-vingt-onze. Le spa est **Byblos Spa by Sisley**, la boîte de nuit
+L'institution, et l'adresse sur laquelle circulent le plus d'erreurs. Elle n'a pas
+été fondée par Jean Castel : son fondateur est **Jean-Prosper Gay-Para**,
+hôtelier libanais, et la maison a été **inaugurée le 27 mai 1967**, en présence
+de Brigitte Bardot et de Mireille Darc. Elle annonce **86 chambres et suites**,
+et non quatre-vingt-onze. Le spa est **Byblos Spa by Sisley**, la boîte de nuit
 s'appelle **Les Caves du Roy** et la plage, **Byblos Beach**, est à
 Ramatuelle. Le bémol : c'est une maison de fête, et cela s'entend.
 
+86 chambres et suites · Inauguré le 27 mai 1967 · Byblos Spa by Sisley · Les Caves du Roy ·
 [Site officiel →](https://www.byblos.com/)
 
-7
+07
 
 ### Airelles Saint-Tropez, le palais d'une princesse indienne 8,3/10
 
-52 rue Gambetta, 83990 Saint-Tropez · 5 étoiles · Indice Azur 4,6/5
+**52 rue Gambetta, 83990 Saint-Tropez · 5 étoiles · enseigne Airelles · Indice Azur 4,6/5**
 
-La plus petite du classement, et celle qui a la plus belle histoire. La demeure a été bâtie
-en **1835** par le général **Jean-François Allard** pour son épouse,
-la princesse **Bannu Pan Deï**, rencontrée au Pendjab. D'où le nom, et d'où le
-décor. La maison est passée sous enseigne **Airelles** et compte
+La plus petite du classement, et celle qui a la plus belle histoire. La demeure a
+été bâtie en **1835** par le général **Jean-François Allard** pour
+son épouse, la princesse **Bannu Pan Deï**, rencontrée au Pendjab. D'où le nom,
+et d'où le décor. La maison est passée sous enseigne **Airelles** et compte
 **12 chambres et suites**, et non dix-huit comme l'écrivent la plupart des
 classements. Piscine en mosaïque, et une table, **Les Délices du Pan Deï**,
-confiée au chef **Paul Benimelli**. Son Indice Azur est l'un des plus élevés du classement,
-parce que peu d'adresses sont à ce point inséparables de leur décor. Le bémol : douze
-clés à deux pas de la place des Lices, il faut aimer être au centre.
+confiée au chef **Paul Benimelli**. Son Indice Azur est l'un des plus élevés du
+classement, parce que peu d'adresses sont à ce point inséparables de leur décor. Le bémol :
+douze clés à deux pas de la place des Lices, il faut aimer être au centre.
 
+12 chambres et suites · Demeure bâtie en 1835 · Piscine en mosaïque · Table Les Délices du Pan Deï ·
 [Site officiel →](https://airelles.com/fr/destination/pan-dei-palais-hotel)
 
-8
+08
 
 ### Hôtel de Paris, le rooftop et la traverse de la Gendarmerie 8,1/10
 
-1 traverse de la Gendarmerie, 83990 Saint-Tropez · 5 étoiles · Indice Azur 3,7/5
+**1 traverse de la Gendarmerie, 83990 Saint-Tropez · 5 étoiles · Indice Azur 3,7/5**
 
 C'est la plus urbaine des huit, à deux pas du port, décorée par l'architecte
-**Sybille de Margerie** dans un registre qui revendique les années soixante. Deux
-corrections s'imposent, parce qu'elles circulent partout : le spa n'est pas signé L'Occitane
-mais **Clarins**, et il n'y a **aucun restaurant nommé Rivea** ici.
-La maison exploite **Le Pationata**, le **bar l'Atrium** dans le
-lobby, et ce qu'elle présente comme **l'unique rooftop du village**. Elle tient
-aussi une plage, **La Serena**. Le bémol : peu d'extérieur comparé aux maisons de
-la pinède, et le bruit du village.
+**Sybille de Margerie** dans un registre qui revendique les années soixante.
+Deux corrections s'imposent, parce qu'elles circulent partout : le spa n'est pas signé
+L'Occitane mais **Clarins**, et il n'y a **aucun restaurant nommé
+Rivea** ici. La maison exploite **Le Pationata**, le **bar
+l'Atrium** dans le lobby, et ce qu'elle présente comme **l'unique rooftop du
+village**. Elle tient aussi une plage, **La Serena**. Le bémol : peu
+d'extérieur comparé aux maisons de la pinède, et le bruit du village.
 
+Spa by Clarins · Restaurant Le Pationata · Rooftop et bar l'Atrium · Plage La Serena ·
 [Site officiel →](https://hoteldeparis-sainttropez.com/)
 
 ## Tableau comparatif : hôtels du golfe de *Saint-Tropez* 2026

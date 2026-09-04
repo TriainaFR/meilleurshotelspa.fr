@@ -2,7 +2,7 @@
 
 > Les meilleurs hôtels de Dijon en 2026 : Grand Hôtel La Cloche, Chapeau Rouge, Vertigo. Scores LMHS, tables étoilées, spas, quartiers et réserves.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-dijon/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-dijon/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-09-04 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -368,7 +368,7 @@ Rédacteur hôtels et gastronomie, Meilleurs.
 
 Publié le 31 août 2026
 
-Dernière mise à jour : 3 septembre 2026
+Dernière mise à jour : 4 septembre 2026
 
 Meilleurs.
 

@@ -2,7 +2,7 @@
 
 > Swann Bertaud, rédacteur hôtellerie de luxe chez Meilleurs. Il signe les enquêtes palaces, les spas de palaces et les hammams de Paris.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/redaction/swann-bertaud/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-04 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 

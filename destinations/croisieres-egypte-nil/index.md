@@ -2,7 +2,7 @@
 
 > Cinq croisières en Égypte classées par l'Indice Dépaysement LMHS : dahabiehs de 14 à 16 passagers, safari-boat du lac Nasser, vapeur Belle Époque, bateau moteur.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/croisieres-egypte-nil/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/destinations/croisieres-egypte-nil/ · Auteur : Emmanuel Laveran · Dernière mise à jour : 2026-09-04 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -240,7 +240,7 @@ Rédacteur hôtels et gastronomie, Meilleurs.
 
 Publié le 31 juillet 2026
 
-Dernière mise à jour : 3 septembre 2026
+Dernière mise à jour : 4 septembre 2026
 
 Meilleurs.
 

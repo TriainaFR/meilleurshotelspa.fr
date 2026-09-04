@@ -2,7 +2,7 @@
 
 > Le média français de référence des meilleurs hôtels, spas et destinations. Palmarès indépendants, guides et récits. Testé sur place, sans partenariat commercial.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/ · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/ · Dernière mise à jour : 2026-09-04 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 

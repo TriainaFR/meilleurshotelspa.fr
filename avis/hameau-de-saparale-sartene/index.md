@@ -2,7 +2,7 @@
 
 > Avis sur Le Hameau de Saparale, hameau corse du XIIIe siècle restauré dans 52 hectares de vignes : 16 chambres, 3 bergeries, restaurant Sopravigna. Score LMHS 8,9/10.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hameau-de-saparale-sartene/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/avis/hameau-de-saparale-sartene/ · Auteur : Swann Bertaud · Dernière mise à jour : 2026-09-04 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
@@ -266,7 +266,7 @@ Rédacteur hôtellerie de luxe, Meilleurs.
 
 Publié le 3 septembre 2026
 
-Dernière mise à jour : 3 septembre 2026
+Dernière mise à jour : 4 septembre 2026
 
 Meilleurs.
 

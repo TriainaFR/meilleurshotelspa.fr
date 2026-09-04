@@ -282,7 +282,7 @@ Rédacteur hôtels et gastronomie, Meilleurs.
 
 Publié le 7 août 2026
 
-Dernière mise à jour : 3 septembre 2026
+Dernière mise à jour : 4 septembre 2026
 
 Meilleurs.
 

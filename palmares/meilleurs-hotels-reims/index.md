@@ -2,7 +2,7 @@
 
 > Les meilleures adresses de Reims en 2026 : Les Crayères, L'Assiette Champenoise, La Caserne Chanzy. Scores LMHS, tables étoilées, spas, piscines et réserves.
 
-URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-reims/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-09-03 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
+URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-reims/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-09-04 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
