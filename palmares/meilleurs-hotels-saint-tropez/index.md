@@ -1,6 +1,6 @@
 # Meilleurs hôtels Saint-Tropez 2026 : 12 adresses classées
 
-> Douze hôtels de Saint-Tropez en 2026 : Cheval Blanc et La Vague d'Or, Byblos, La Ponche, Airelles Pan Deï, Lou Pinet, La Bastide, Kube, Sezz, Villa Marie et trois autres.
+> Douze hôtels de Saint-Tropez en 2026 : Cheval Blanc et La Vague d'Or, Byblos, La Ponche, Pan Deï, Lou Pinet, Kube, Sezz, Villa Marie et quatre autres.
 
 URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-saint-tropez/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-09-04 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
