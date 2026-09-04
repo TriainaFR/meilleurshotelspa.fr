@@ -6,8 +6,20 @@
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
   "updated": "2026-09-04",
-  "count": 78,
+  "count": 79,
   "articles": [
+    {
+      "slug": "domaine-misincu",
+      "title": "Domaine de Misíncu, Cap Corse : l'ancien Caribou rendu à la mer",
+      "category": "Avis",
+      "destination": "Cap Corse",
+      "region": "Corse",
+      "published": "2026-09-04",
+      "readingMinutes": 12,
+      "url": "https://www.lesmeilleurshotelspa.fr/avis/domaine-de-misincu-cagnano/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/avis/domaine-de-misincu-cagnano/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/mis-piscine.jpg"
+    },
     {
       "slug": "hotels-saint-tropez",
       "title": "Meilleurs hôtels à Saint-Tropez : 8 adresses classées en 2026",

@@ -295,6 +295,8 @@ Un spa de destination est un établissement où le spa est la raison principale 
 
 World Spa Awards, Relais & Châteaux, Leading Hotels of the World : ces labels garantissent une certaine qualité, mais ne sont pas des gages absolus. World Spa Awards récompense l'excellence des soins. Relais & Châteaux certifie le service et l'authenticité. Leading Hotels of the World valide le luxe global. Aucun label ne remplace une visite terrain.
 
+Deux adresses corses relevées depuis la publication de ce palmarès méritent le détour : le [Domaine de Misíncu](https://www.lesmeilleurshotelspa.fr/avis/domaine-de-misincu-cagnano/), en Cap Corse, dont le spa Pure Wellness développe 350 m², et le [Hameau de Saparale](https://www.lesmeilleurshotelspa.fr/avis/hameau-de-saparale-sartene/), en Corse-du-Sud.
+
 ## Les tendances spa 2026 : ce que ce palmarès *révèle*
 
 ### Le bain froid s'impose dans les palaces

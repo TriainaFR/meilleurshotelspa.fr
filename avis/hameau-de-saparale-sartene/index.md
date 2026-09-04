@@ -102,7 +102,7 @@ de Saparale, site officiel.
 La table s'appelle **Sopravigna** et occupe **l'ancien chai** du
 domaine, sous voûtes de pierre. Le chef **Jérémy Vivien** se fournit chez les
 producteurs de la vallée et des alentours, et au potager de la maison. La cuisine est
-rustique, ancrée et généreuse, dans cet ordre.
+rustique, ancrée et généreuse, dans cet ordre. Même parti pris du potager et du producteur, à l'autre bout de l'île, au [Domaine de Misíncu](https://www.lesmeilleurshotelspa.fr/avis/domaine-de-misincu-cagnano/), en Cap Corse.
 
 Le service de midi joue la simplicité : produits emblématiques du terroir corse, légumes du
 potager, **saucisses de porc nustrale**. Le soir monte d'un cran sans jamais

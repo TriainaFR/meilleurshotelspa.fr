@@ -22,6 +22,8 @@ Publié le 21 juillet 2026
 
 Photo : Thalazur Bandol, site officiel. Les visuels de cet article proviennent des établissements cités.
 
+Pour un bien-être insulaire plutôt que marin, voir notre avis sur le [Domaine de Misíncu](https://www.lesmeilleurshotelspa.fr/avis/domaine-de-misincu-cagnano/), en Cap Corse, et son spa de 350 m².
+
 ## L'essentiel en 30 secondes · La meilleure thalasso du sud
 
 1. **Thalazur Bandol, Hôtel Île Rousse** (PACA), 18,4/20 :

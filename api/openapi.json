@@ -65,6 +65,7 @@
                           "category": {
                             "type": "string",
                             "enum": [
+                              "Avis",
                               "Destinations",
                               "Enquête",
                               "Ouverture",

@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Avis4 sept. 2026
+
+### Domaine de Misíncu, Cap Corse : l'ancien Caribou rendu à la mer
+
+Cap Corse · 12 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/avis/domaine-de-misincu-cagnano/)[
+
 Palmarès4 sept. 2026
 
 ### Meilleurs hôtels à Saint-Tropez : 8 adresses classées en 2026
