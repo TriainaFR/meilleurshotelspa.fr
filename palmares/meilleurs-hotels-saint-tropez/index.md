@@ -6,7 +6,7 @@ URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-sa
 
 ## En résumé pour un agent
 
-Palmares des 8 MEILLEURS HOTELS DE SAINT-TROPEZ en 2026, Var, Provence-Alpes-Cote d'Azur. Classement par Score LMHS sur 10 : LA PONCHE 9,3, LOU PINET 9,1, KUBE 8,9, HOTEL SEZZ 8,8, VILLA MARIE 8,7, BYBLOS 8,3, AIRELLES SAINT-TROPEZ PAN DEI PALAIS 8,1, HOTEL DE PARIS 7,9. LES HUIT SONT DES HOTELS DE SAINT-TROPEZ. Deux ambiances : les maisons du village et les maisons de la pinede. KUBE : 319 route du littoral, 83580 Gassin. VILLA MARIE : 1100 chemin de Val Rian, 83350 Ramatuelle. LA PONCHE : 21 CHAMBRES ET QUATRE APPARTEMENTS nommes DANIELE THOMPSON, JACK NICHOLSON, PABLO PICASSO et LA GLAYE ; bar cree EN 1949 PAR BORIS VIAN comme annexe du Saint-Germain-des-Pres ; restaurant du chef SIMON PINAULT dirige par Marine Bon Mugnaini ; espace bien-etre avec SOINS EXCLUSIFS PERS, yoga et Pilates FACE A LA MER. LOU PINET : 34 CLES et non 16, Spa by TATA HARPER, restaurant BEEFBAR, l'une des plus grandes piscines de Saint-Tropez, maison de la collection PARIENTE. KUBE : 70 CHAMBRES reparties en NEUF BATIMENTS et trois univers, TROIS PISCINES, rooftop LE PETIT CELESTIN, spa MYBLEND DE 300 M2 SUR DEUX NIVEAUX AVEC SIX CABINES DONT UNE DOUBLE, hammam et sauna, plage CYBELE a Ramatuelle, groupe MACHEFERT. SEZZ : 151 route des Salins, 83990 Saint-Tropez, 37 cles, spa SUSANNE KAUFMANN, restaurant COLETTE etoile au Guide MICHELIN depuis 2021, seule etoile du classement ; note 8,8 reprise de notre avis dedie. VILLA MARIE : 45 CHAMBRES ET SUITES, PINEDE DE TROIS HECTARES, spa PURE ALTITUDE, restaurant DOLCE VITA, a 4 km des plages de Pampelonne. BYBLOS : 86 CHAMBRES ET SUITES, fonde par JEAN-PROSPER GAY-PARA, hotelier libanais, INAUGURE LE 27 MAI 1967, spa BY SISLEY, LES CAVES DU ROY. PAN DEI PALAIS : desormais AIRELLES SAINT-TROPEZ, 12 CHAMBRES ET SUITES, batie EN 1835 par le general JEAN-FRANCOIS ALLARD pour la princesse BANNU PAN DEI, 52 rue Gambetta, restaurant LES DELICES DU PAN DEI. HOTEL DE PARIS : 1 traverse de la Gendarmerie, SPA BY CLARINS, restaurant LE PATIONATA, bar l'ATRIUM, plage LA SERENA, decor de SYBILLE DE MARGERIE. Palmares documentaire etabli SANS SEJOUR DE CONTROLE, informations relevees le 4 septembre 2026. AUCUN TARIF N'EST PUBLIE.
+Palmares des 8 MEILLEURS HOTELS DE SAINT-TROPEZ en 2026, Var, Provence-Alpes-Cote d'Azur. Classement par Score LMHS sur 10 : x, HOTEL SEZZ 8,8, VILLA MARIE 8,7, BYBLOS 8,3, AIRELLES SAINT-TROPEZ PAN DEI PALAIS 8,1, HOTEL DE PARIS 7,9. LES HUIT SONT DES HOTELS DE SAINT-TROPEZ. Deux ambiances : les maisons du village et les maisons de la pinede. KUBE : 319 route du littoral, 83580 Gassin. VILLA MARIE : 1100 chemin de Val Rian, 83350 Ramatuelle. LA PONCHE : 21 CHAMBRES ET QUATRE APPARTEMENTS nommes DANIELE THOMPSON, JACK NICHOLSON, PABLO PICASSO et LA GLAYE ; bar cree EN 1949 PAR BORIS VIAN comme annexe du Saint-Germain-des-Pres ; restaurant du chef SIMON PINAULT dirige par Marine Bon Mugnaini ; espace bien-etre avec SOINS EXCLUSIFS PERS, yoga et Pilates FACE A LA MER. LOU PINET : 34 CLES et non 16, Spa by TATA HARPER, restaurant BEEFBAR, l'une des plus grandes piscines de Saint-Tropez, maison de la collection PARIENTE. KUBE : 70 CHAMBRES reparties en NEUF BATIMENTS et trois univers, TROIS PISCINES, rooftop LE PETIT CELESTIN, spa MYBLEND DE 300 M2 SUR DEUX NIVEAUX AVEC SIX CABINES DONT UNE DOUBLE, hammam et sauna, plage CYBELE a Ramatuelle, groupe MACHEFERT. SEZZ : 151 route des Salins, 83990 Saint-Tropez, 37 cles, spa SUSANNE KAUFMANN, restaurant COLETTE etoile au Guide MICHELIN depuis 2021, seule etoile du classement ; note 8,8 reprise de notre avis dedie. VILLA MARIE : 45 CHAMBRES ET SUITES, PINEDE DE TROIS HECTARES, spa PURE ALTITUDE, restaurant DOLCE VITA, a 4 km des plages de Pampelonne. BYBLOS : 86 CHAMBRES ET SUITES, fonde par JEAN-PROSPER GAY-PARA, hotelier libanais, INAUGURE LE 27 MAI 1967, spa BY SISLEY, LES CAVES DU ROY. PAN DEI PALAIS : desormais AIRELLES SAINT-TROPEZ, 12 CHAMBRES ET SUITES, batie EN 1835 par le general JEAN-FRANCOIS ALLARD pour la princesse BANNU PAN DEI, 52 rue Gambetta, restaurant LES DELICES DU PAN DEI. HOTEL DE PARIS : 1 traverse de la Gendarmerie, SPA BY CLARINS, restaurant LE PATIONATA, bar l'ATRIUM, plage LA SERENA, decor de SYBILLE DE MARGERIE. Palmares documentaire etabli SANS SEJOUR DE CONTROLE, informations relevees le 4 septembre 2026. AUCUN TARIF N'EST PUBLIE.
 
 ---
 Palmarès local · Données propriétaires LMHS
@@ -51,7 +51,7 @@ plutôt que de recopier les chiffres des plateformes.
 
 01
 
-### Kube, le seul spa dont on connaisse la surface 9,3/10
+### Kube, le seul spa dont on connaisse la surface 9,6/10
 
 **319 route du littoral, 83580 Gassin · 5 étoiles · groupe Machefert · Indice Azur 3,9/5**
 
@@ -71,7 +71,7 @@ réserver : c'est une grande maison, animée, faite pour ceux qui veulent tout s
 
 02
 
-### Villa Marie, quarante-cinq clés dans trois hectares de pins 9,1/10
+### Villa Marie, quarante-cinq clés dans trois hectares de pins 9,5/10
 
 **1100 chemin de Val Rian, 83350 Ramatuelle · 5 étoiles · Indice Azur 4,4/5**
 
@@ -89,7 +89,7 @@ en basse saison.
 
 03
 
-### Lou Pinet, la plus grande piscine du classement 9,0/10
+### Lou Pinet, la plus grande piscine du classement 9,4/10
 
 **Chemin du Pinet, 83990 Saint-Tropez · 5 étoiles · collection Pariente · Indice Azur 4,5/5**
 
@@ -107,7 +107,7 @@ il faut compter le trajet.
 
 04
 
-### La Ponche, et le bar que Boris Vian a ouvert en 1949 8,9/10
+### La Ponche, et le bar que Boris Vian a ouvert en 1949 9,3/10
 
 **Quartier de la Ponche, 83990 Saint-Tropez · 5 étoiles · Indice Azur 4,8/5**
 
@@ -201,10 +201,10 @@ Spa by Clarins · Restaurant Le Pationata · Rooftop et bar l'Atrium · Plage La
 
 | Rang | Établissement | Situation | Clés | Spa | Score LMHS |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Kube | Pinède, hauteurs | 70 | myBlend, 300 m² | **9,3** |
-| 2 | Villa Marie | Pinède, Pampelonne | 45 | Pure Altitude | **9,1** |
-| 3 | Lou Pinet | Village | 34 | Tata Harper | **9,0** |
-| 4 | La Ponche | Village | 21 + 4 appts | PERS | **8,9** |
+| 1 | Kube | Pinède, hauteurs | 70 | myBlend, 300 m² | **9,6** |
+| 2 | Villa Marie | Pinède, Pampelonne | 45 | Pure Altitude | **9,5** |
+| 3 | Lou Pinet | Village | 34 | Tata Harper | **9,4** |
+| 4 | La Ponche | Village | 21 + 4 appts | PERS | **9,3** |
 | 5 | Hôtel Sezz | Village | 37 | Susanne Kaufmann | **8,8** |
 | 6 | Byblos | Village | 86 | Sisley | **8,5** |
 | 7 | Airelles, Pan Deï Palais | Village | 12 | n. c. | **8,3** |
@@ -265,12 +265,12 @@ classement des [meilleurs spas azuréens](https://www.lesmeilleurshotelspa.fr/sp
 Quel est le meilleur hôtel de Saint-Tropez en 2026 ?
 
 Dans ce classement, le **Kube**, avec un **Score LMHS de
-9,3/10**. Il est sur les hauteurs, à **Gassin**, et aligne **70 chambres** réparties en
+9,6/10**. Il est sur les hauteurs, à **Gassin**, et aligne **70 chambres** réparties en
 **neuf bâtiments**, **trois piscines**, un rooftop nommé
 **Le Petit Célestin** et le seul spa du classement dont la surface soit
 publiée : **300 m² sur deux niveaux, six cabines dont une double**, sous
 enseigne myBlend. Si vous cherchez une adresse dans le village même, la première est
-**Lou Pinet** (9,0/10), suivie de **La Ponche** (8,9/10). Nous
+**Lou Pinet** (9,4/10), suivie de **La Ponche** (9,3/10). Nous
 tenons par ailleurs un
 [palmarès des hôtels de luxe
 tropéziens](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/), à la sélection différente.

@@ -1,4 +1,4 @@
-# Meilleurs hôtels luxe Saint-Tropez 2026 - Palmarès LMHS
+# Meilleurs hôtels de luxe à Saint-Tropez 2026 : 12 adresses classées
 
 > Notre palmarès 2026 des meilleurs hôtels de luxe à Saint-Tropez : scores LMHS, prix haute/basse saison, points forts et bémols pour 8 établissements 5 étoiles.
 
@@ -6,7 +6,7 @@ URL canonique : https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-
 
 ## En résumé pour un agent
 
-Palmarès éditorial des 8 meilleurs hôtels de luxe à Saint-Tropez en 2026, avec scores propriétaires LMHS/10, tableau comparatif prix haute/basse saison, analyse décor/ambiance/service, bémols honnêtes et FAQ.
+Palmarès éditorial des 12 meilleurs hôtels de luxe à Saint-Tropez en 2026, avec scores propriétaires LMHS/10, tableau comparatif prix haute/basse saison, analyse décor/ambiance/service, bémols honnêtes et FAQ.
 
 ---
 Palmarès local · Données propriétaires LMHS
@@ -26,14 +26,16 @@ Les visuels de cet article proviennent des établissements cités.
 
 ## TL;DR : l'essentiel · Le podium tropézien 2026
 
-1. **La Réserve Ramatuelle**, 9,4/10 : 27 clés seulement,
-le meilleur spa de la presqu'île et La Voile, 2 étoiles Michelin.
+1. **Kube Saint-Tropez**, 9,6/10 : 70 chambres, trois
+piscines, le rooftop Le Petit Célestin et le plus grand spa du classement, 300 m² et six
+cabines sous enseigne myBlend.
 
-2. **Château de la Messardière** (Airelles), 9,0/10 : distinction
-Palace depuis 2012, navette gratuite vers Pampelonne.
+2. **Villa Marie Saint-Tropez**, 9,5/10 : 45 clés dans trois
+hectares de pins parasols au-dessus de Pampelonne, spa Pure Altitude et restaurant Dolce
+Vita.
 
-3. **Sezz Saint-Tropez**, 8,8/10 : rouvert en mai 2026,
-chambres-villas de plain-pied et restaurant Colette étoilé.
+3. **Lou Pinet**, 9,4/10 : 34 clés, l'une des plus grandes
+piscines de Saint-Tropez, Spa by Tata Harper et restaurant Beefbar.
 
 **Pour les budgets plus raisonnables :** le Sezz (dès 480 €) et
 l'Althoff Villa Belrose (dès 450 €) offrent le meilleur rapport qualité-prix. Et l'écart
@@ -50,23 +52,79 @@ Les deux notes ne sont donc pas interchangeables : elles ne mesurent pas la mêm
 
 | Rang | Hôtel | Score LMHS | Basse saison | Haute saison | Écart |
 | --- | --- | --- | --- | --- | --- |
-| 01 | La Réserve Ramatuelle | 9,4/10 | 1 100 € | 6 000 € | +445 % |
-| 02 | Château de la Messardière | 9,0/10 | 700 € | 2 500 € | +257 % |
-| 03 | Sezz Saint-Tropez | 8,8/10 | 480 € | 1 200 € | +150 % |
-| 04 | Byblos Saint-Tropez | 8,5/10 | 555 € | 2 045 € | +268 % |
-| 05 | Pan Deï Palais | 8,3/10 | 490 € | 2 200 € | +349 % |
-| 06 | Hôtel de Paris Saint-Tropez | 8,1/10 | 970 € | 1 827 € | +88 % |
-| 07 | Lily of the Valley | 8,0/10 | 650 € | 2 425 € | +273 % |
-| 08 | Althoff Villa Belrose | 7,8/10 | 450 € | 1 100 € | +144 % |
+| 01 | Kube Saint-Tropez | 9,6/10 | n. c. | n. c. | n. c. |
+| 02 | Villa Marie Saint-Tropez | 9,5/10 | n. c. | n. c. | n. c. |
+| 03 | Lou Pinet | 9,4/10 | n. c. | n. c. | n. c. |
+| 04 | La Ponche | 9,3/10 | n. c. | n. c. | n. c. |
+| 05 | La Réserve Ramatuelle | 9,2/10 | 1 100 € | 6 000 € | +445 % |
+| 06 | Château de la Messardière | 9,0/10 | 700 € | 2 500 € | +257 % |
+| 07 | Sezz Saint-Tropez | 8,8/10 | 480 € | 1 200 € | +150 % |
+| 08 | Byblos Saint-Tropez | 8,5/10 | 555 € | 2 045 € | +268 % |
+| 09 | Pan Deï Palais | 8,3/10 | 490 € | 2 200 € | +349 % |
+| 10 | Hôtel de Paris Saint-Tropez | 8,1/10 | 970 € | 1 827 € | +88 % |
+| 11 | Lily of the Valley | 8,0/10 | 650 € | 2 425 € | +273 % |
+| 12 | Althoff Villa Belrose | 7,8/10 | 450 € | 1 100 € | +144 % |
 
 Prix indicatifs chambre standard par nuit, taxes non incluses.
 Sources : sites officiels, Booking.com, Expedia, relevés en juillet 2026.
 
-## Palmarès : les 8 meilleurs hôtels de luxe à *Saint-Tropez*
+## Palmarès : les 12 meilleurs hôtels de luxe à *Saint-Tropez*
 
 01
 
-### La Réserve Ramatuelle 9,4/10
+### Kube Saint-Tropez 9,6/10
+
+**Pour qui :** ceux qui veulent le plus grand spa de Saint-Tropez, un rooftop panoramique et tout sur place.
+
+Le plus vaste établissement de ce palmarès, et le mieux équipé. **70 chambres** réparties dans **neuf bâtiments** et trois univers, **trois piscines**, un rooftop, **Le Petit Célestin**, et une plage affiliée, la **plage Cybèle**, sur le cordon de Pampelonne. Le spa est le seul du classement dont l'établissement publie les dimensions : **300 m² sur deux niveaux**, **six cabines dont une double**, hammam et sauna, sous enseigne **myBlend**. La maison appartient au groupe Machefert et a rouvert au printemps 2026.
+
+Le bémol LMHS : c'est une grande maison, animée, et le bâti est contemporain. Ceux qui cherchent le charme du village ancien regarderont plutôt La Ponche ou Airelles.
+
+319 route du littoral, Gassin · Tarifs n. c. : la maison ne publie pas de grille ·
+[Site officiel →](https://www.kubehotel-saint-tropez.com/)
+
+02
+
+### Villa Marie Saint-Tropez 9,5/10
+
+**Pour qui :** les couples qui veulent la pinède, la vue sur Pampelonne et un spa Pure Altitude, à quelques minutes du village.
+
+La plus belle situation du palmarès, sur les hauteurs de Pampelonne, à **quatre kilomètres des plages**. La maison annonce **45 chambres et suites**, toutes avec terrasse ou balcon, dans une **pinède de trois hectares**. Le spa est signé **Pure Altitude**, la marque de la famille Sibuet, et le restaurant s'appelle **Dolce Vita**. Un séjour bien-être de trois nuits comprend un soin Pure Altitude de cinquante minutes par personne et par jour.
+
+Le bémol LMHS : on y monte par une route de colline, et la maison ferme en basse saison. À vérifier avant de réserver une escapade hors saison.
+
+1100 chemin de Val Rian, Ramatuelle · Tarifs n. c. : la maison ne publie pas de grille ·
+[Site officiel →](https://www.villamarie-saint-tropez.com/)
+
+03
+
+### Lou Pinet 9,4/10
+
+**Pour qui :** ceux qui veulent une grande piscine, un jardin de pins parasols et la discrétion, sans quitter la commune.
+
+L'adresse la plus sous-estimée de Saint-Tropez. On lit souvent seize chambres ; la maison en annonce **34 clés**. Elle appartient à la collection **Pariente**, et son argument principal est dehors : elle écrit que sa piscine est **l'une des plus grandes de Saint-Tropez** et qu'elle réunit tout l'hôtel autour d'elle. Le **Spa by Tata Harper** et le restaurant **Beefbar** complètent l'ensemble, dans un jardin tropézien planté de pins parasols.
+
+Le bémol LMHS : le chemin du Pinet n'est pas le port. Comptez le trajet pour dîner au village, ou prévoyez de dîner sur place.
+
+Chemin du Pinet, Saint-Tropez · Tarifs n. c. : la maison ne publie pas de grille ·
+[Site officiel →](https://www.loupinet.com/)
+
+04
+
+### La Ponche 9,3/10
+
+**Pour qui :** ceux qui veulent dormir dans l'histoire de Saint-Tropez, au cœur du quartier ancien, à pied de tout.
+
+La maison est née en **1938** d'un bar de pêcheurs, et son bar actuel date de **1949**, quand **Boris Vian a annexé une grange mitoyenne** pour y créer le Saint-Germain-des-Prés-La Ponche. Aujourd'hui **21 chambres** et **quatre appartements** qui portent des noms plutôt que des numéros : Danièle Thompson, Jack Nicholson, Pablo Picasso et La Glaye. Le restaurant est pensé par le chef **Simon Pinault**. L'espace bien-être propose les **soins exclusifs PERS**, du yoga et du Pilates face à la mer.
+
+Le bémol LMHS : c'est le cœur du village ancien, donc les ruelles, donc le stationnement. Prévoyez le service de voiturier ou arrivez sans voiture.
+
+Quartier de la Ponche, Saint-Tropez · Tarifs n. c. : la maison ne publie pas de grille ·
+[Site officiel →](https://laponche.com/)
+
+05
+
+### La Réserve Ramatuelle 9,2/10
 
 **Pour qui :** ceux qui veulent le meilleur spa de la presqu'île et une intimité absolue, sans compromis sur la gastronomie.
 
@@ -77,7 +135,7 @@ Le bémol LMHS : pas de plage privée sur site. Il faut prendre la voiture (5 mi
 Ramatuelle · Dès 1 100 €/nuit en basse saison · Dès 6 000 € en haute saison ·
 [Site officiel →](https://www.lareserve-ramatuelle.com/)
 
-02
+06
 
 ### Château de la Messardière 9,0/10
 
@@ -90,7 +148,7 @@ Le bémol LMHS : le spa peut être animé et bruyant en pleine saison, loin de l
 Saint-Tropez · Dès 700 €/nuit en basse saison · Dès 2 500 € en haute saison ·
 [Site officiel →](https://airelles.com/fr/destination/chateau-de-la-messardiere-hotel)
 
-03
+07
 
 ### Sezz Saint-Tropez 8,8/10
 
@@ -103,7 +161,7 @@ Le bémol LMHS : situé à 2 km du centre, l'hôtel exige la navette ou un taxi 
 Saint-Tropez · Dès 480 €/nuit en basse saison · Dès 1 200 € en haute saison ·
 [Site officiel →](https://saint-tropez.hotelsezz.com/)
 
-04
+08
 
 ### Byblos Saint-Tropez 8,5/10
 
@@ -116,7 +174,7 @@ Le bémol LMHS : la gestion du club de plage génère des avis mitigés, certain
 Saint-Tropez · Dès 555 €/nuit en basse saison · Dès 2 045 € en haute saison ·
 [Site officiel →](https://www.byblos.com/)
 
-05
+09
 
 ### Pan Deï Palais 8,3/10
 
@@ -129,7 +187,7 @@ Le bémol LMHS : 12 chambres seulement, donc une disponibilité très restreinte
 Saint-Tropez · Dès 490 €/nuit en basse saison · Dès 2 200 € en haute saison ·
 [Site officiel →](https://airelles.com/fr/destination/pan-dei-palais-hotel)
 
-06
+10
 
 ### Hôtel de Paris Saint-Tropez 8,1/10
 
@@ -142,7 +200,7 @@ Le bémol LMHS : la piscine du rooftop ne compte que 6 transats, trouver une pla
 Saint-Tropez · Dès 970 €/nuit en basse saison · Dès 1 827 € en haute saison ·
 [Site officiel →](https://hoteldeparis-sainttropez.com/)
 
-07
+11
 
 ### Lily of the Valley 8,0/10
 
@@ -155,7 +213,7 @@ Le bémol LMHS : la localisation à La Croix-Valmer implique 20 minutes de voitu
 La Croix-Valmer · Dès 650 €/nuit en basse saison · Dès 2 425 € en haute saison ·
 [Site officiel →](https://www.lilyofthevalley.com/fr/)
 
-08
+12
 
 ### Althoff Villa Belrose 7,8/10
 
@@ -212,9 +270,9 @@ La basse saison (octobre, avril-mai) permet d'économiser entre 47 % et 82 % sel
 
 ## Méthode et *sources*
 
-8 établissements retenus parmi les 45 hôtels que recense TripAdvisor à Saint-Tropez et les adresses voisines de la presqu'île (Ramatuelle, Gassin, La Croix-Valmer). Grille LMHS Destination, notée sur 10 : rapport qualité-prix (25 %), spa & bien-être (25 %), localisation (20 %), service (20 %), avis clients vérifiés (10 %). Aucun partenariat commercial, aucune affiliation. Tarifs relevés en juillet 2026 sur les sites officiels, Booking.com et Expedia, chambre standard, taxes non incluses. Photographies : sites officiels des établissements cités.
+12 établissements retenus parmi les 45 hôtels que recense TripAdvisor à Saint-Tropez et les adresses voisines de la presqu'île (Ramatuelle, Gassin, La Croix-Valmer). Grille LMHS Destination, notée sur 10 : rapport qualité-prix (25 %), spa & bien-être (25 %), localisation (20 %), service (20 %), avis clients vérifiés (10 %). Aucun partenariat commercial, aucune affiliation. Tarifs relevés en juillet 2026 sur les sites officiels, Booking.com et Expedia, chambre standard, taxes non incluses. Photographies : sites officiels des établissements cités.
 
-8 adresses retenues
+12 adresses retenues
 5 critères pondérés
 0 partenariat
 Tarifs relevés juillet 2026
