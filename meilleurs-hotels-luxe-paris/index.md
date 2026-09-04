@@ -1,4 +1,4 @@
-# Meilleurs hôtels de luxe à Paris : 19 adresses classées
+# Meilleurs hôtels de luxe à Paris : 18 adresses classées
 
 > Les 19 meilleurs hôtels de luxe à Paris classés par LMHS : 10 palaces et 9 cinq étoiles de caractère, avec scores, Indice Prestige, tarifs relevés et bémols.
 
@@ -64,7 +64,7 @@ parisiens**. Les trois manquants, le Bvlgari, le Fouquet's et La Réserve Paris,
 encore été visités par la rédaction : nous ne classons pas une adresse sur dossier. Ils entreront
 dans l'édition suivante.
 
-## Le tableau : *19 adresses*, scores et tarifs
+## Le tableau : *18 adresses*, scores et tarifs
 
 | Rang | Hôtel | Arr. | Statut | Score LMHS | Indice Prestige | Chambre dès |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -84,9 +84,8 @@ dans l'édition suivante.
 | 14 | Nolinski Paris | 1er | 5 étoiles | 8,2/10 | 4/5 | ~650 € |
 | 15 | Hôtel Vernet | 8e | 5 étoiles | 8,1/10 | 3,5/5 | ~450 € |
 | 16 | Hôtel Lancaster | 8e | 5 étoiles | 8,0/10 | 3,5/5 | ~550 € |
-| 17 | Hôtel Brach | 16e | 5 étoiles | 7,9/10 | 3,5/5 | ~500 € |
-| 18 | Hôtel de Sers | 8e | 5 étoiles | 7,8/10 | 3,5/5 | ~450 € |
-| 19 | Hôtel Montalembert | 7e | 5 étoiles | 7,7/10 | 3/5 | ~400 € |
+| 17 | Hôtel de Sers | 8e | 5 étoiles | 7,8/10 | 3,5/5 | ~450 € |
+| 18 | Hôtel Montalembert | 7e | 5 étoiles | 7,7/10 | 3/5 | ~400 € |
 
 **Lecture des tarifs :** prix d'appel pour une chambre d'entrée de
 gamme en basse saison, relevés en juillet 2026. Les tarifs des huit palaces déjà traités dans
@@ -339,18 +338,6 @@ Le bémol LMHS : pas de spa digne de ce nom ni d'espace aquatique. La rue de Ber
 
 17
 
-### Hôtel Brach 7,9/10
-
-**16e arrondissement**, 1-7 rue Jean Richepin.
-
-Un ancien centre de tri postal des années 1970 transformé par **Philippe Starck** en 7 000 m² de lifestyle assumé. Le Brach est l'adresse la moins conventionnelle de cette liste : restaurant méditerranéen, pâtisserie, potager et poulailler sur le toit, et surtout un **club de sport avec piscine de 22 mètres ouverte 24 heures sur 24**, chose rarissime à Paris. Les 59 chambres puisent dans le modernisme des années trente, avec cuir, bois et matières brutes.
-
-Le bémol LMHS : le 16e arrondissement est loin de tout ce qui fait le Paris des visiteurs, et l'établissement s'adresse d'abord à une clientèle locale. Le parti pris esthétique, très marqué, ne fera pas l'unanimité.
-
-16e arr. · 59 chambres et suites · Design Philippe Starck · 7 000 m² · Piscine 22 m ouverte 24h/24 · Rooftop potager · Dès ~500 €/nuit · Indice Prestige 3,5/5
-
-18
-
 ### Hôtel de Sers 7,8/10
 
 **8e arrondissement**, 41 avenue Pierre 1er de Serbie.
@@ -361,7 +348,7 @@ Le bémol LMHS : les chambres d'entrée de gamme sont petites, ce qui est fréqu
 
 8e arr. · 52 chambres et suites · Hôtel particulier 1880, Jules Pellechet · Galerie des portraits · Dès ~450 €/nuit · Indice Prestige 3,5/5
 
-19
+18
 
 ### Hôtel Montalembert 7,7/10
 
@@ -414,7 +401,7 @@ Hôtel de Sers mettent le Triangle d'Or à portée pour le tiers du tarif d'un
 palace voisin. Et nos [hôtels 4 étoiles](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-4-etoiles-paris/)
 descendent encore d'un cran sans quitter le centre.
 
-19 adresses classées
+18 adresses classées
 10 palaces sur les 13 de Paris
 Grille Destination · /10
 Indice Prestige Paris · /5
