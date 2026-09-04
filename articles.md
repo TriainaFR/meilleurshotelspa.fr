@@ -27,7 +27,7 @@ Cap Corse · 12 min de lecture
 
 Palmarès4 sept. 2026
 
-### Meilleurs hôtels à Saint-Tropez : 8 adresses classées en 2026
+### Meilleurs hôtels à Saint-Tropez : 12 adresses classées en 2026
 
 Saint-Tropez · 15 min de lecture
 

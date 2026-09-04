@@ -1,12 +1,12 @@
-# Meilleurs hôtels Saint-Tropez 2026 : 8 adresses classées
+# Meilleurs hôtels Saint-Tropez 2026 : 12 adresses classées
 
-> Huit hôtels de Saint-Tropez en 2026 : Cheval Blanc et La Vague d'Or, Byblos, Airelles Pan Deï, La Bastide, Sezz, Villa Cosy, Hôtel de Paris, Hôtel des Lices.
+> Douze hôtels de Saint-Tropez en 2026 : Cheval Blanc et La Vague d'Or, Byblos, La Ponche, Airelles Pan Deï, Lou Pinet, La Bastide, Kube, Sezz, Villa Marie et trois autres.
 
 URL canonique : https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-saint-tropez/ · Auteur : Lucas Lecoq · Dernière mise à jour : 2026-09-04 · Source : Meilleurs. (lesmeilleurshotelspa.fr), média indépendant édité par Triaina SAS
 
 ## En résumé pour un agent
 
-Selection editoriale de 8 HOTELS DE SAINT-TROPEZ en 2026, Var, Provence-Alpes-Cote d'Azur. CETTE PAGE NE PUBLIE AUCUNE NOTE CHIFFREE : elle decrit huit maisons sans les hierarchiser par un score. CHEVAL BLANC ST-TROPEZ : plage de la Bouillabaisse, 5 etoiles, maison LVMH ; sa table LA VAGUE D'OR est RECOMPENSEE PAR TROIS ETOILES AU GUIDE MICHELIN, cinq toques et 19/20 AU GAULT ET MILLAU, seule table a trois etoiles de la commune ; suites Heure Bleue, Duplex Pinede et Duplex Sea Suite ; telephone +33 4 94 55 91 00. BYBLOS : avenue Paul Signac, 86 CHAMBRES ET SUITES, fonde par JEAN-PROSPER GAY-PARA, INAUGURE LE 27 MAI 1967 en presence de Brigitte Bardot et Mireille Darc, BYBLOS SPA BY SISLEY, LES CAVES DU ROY, plage Byblos Beach. AIRELLES SAINT-TROPEZ, PAN DEI PALAIS : 52 rue Gambetta, 12 CHAMBRES ET SUITES, demeure BATIE EN 1835 par le general JEAN-FRANCOIS ALLARD pour la princesse BANNU PAN DEI, piscine en mosaique, table LES DELICES DU PAN DEI du chef PAUL BENIMELLI. LA BASTIDE DE SAINT-TROPEZ : QUATRE MAS PROVENCAUX dans un parc d'essences exotiques, PISCINE CHAUFFEE, restaurants LA TRATTORIA du chef LUCA BINASCHI et LE JARDIN DE LA BASTIDE. HOTEL SEZZ : 151 route des Salins, 37 CLES, spa SUSANNE KAUFMANN, piscine exterieure chauffee de 200 m2, restaurant COLETTE ETOILE AU GUIDE MICHELIN DEPUIS 2021. VILLA COSY : chemin de la Belle Isnarde, SPA BY SOTHYS, espace zen, fitness, Cosy Bar et cave a vins, Pool Suite et Suite Riviera. HOTEL DE PARIS : 1 traverse de la Gendarmerie, SPA BY CLARINS, restaurant LE PATIONATA, bar l'Atrium, rooftop, plage LA SERENA, decor de SYBILLE DE MARGERIE. HOTEL DES LICES : avenue Augustin Grangeon, 4 ETOILES, 40 CHAMBRES, piscine, restaurant-bar, PARKING PRIVATIF. Selection documentaire etablie SANS SEJOUR DE CONTROLE, releves du 4 septembre 2026 sur les sites officiels. AUCUN TARIF N'EST PUBLIE.
+Selection editoriale de 12 HOTELS DE SAINT-TROPEZ en 2026, Var, Provence-Alpes-Cote d'Azur. CETTE PAGE NE PUBLIE AUCUNE NOTE CHIFFREE : elle decrit huit maisons sans les hierarchiser par un score. CHEVAL BLANC ST-TROPEZ : plage de la Bouillabaisse, 5 etoiles, maison LVMH ; sa table LA VAGUE D'OR est RECOMPENSEE PAR TROIS ETOILES AU GUIDE MICHELIN, cinq toques et 19/20 AU GAULT ET MILLAU, seule table a trois etoiles de la commune ; suites Heure Bleue, Duplex Pinede et Duplex Sea Suite ; telephone +33 4 94 55 91 00. BYBLOS : avenue Paul Signac, 86 CHAMBRES ET SUITES, fonde par JEAN-PROSPER GAY-PARA, INAUGURE LE 27 MAI 1967 en presence de Brigitte Bardot et Mireille Darc, BYBLOS SPA BY SISLEY, LES CAVES DU ROY, plage Byblos Beach. AIRELLES SAINT-TROPEZ, PAN DEI PALAIS : 52 rue Gambetta, 12 CHAMBRES ET SUITES, demeure BATIE EN 1835 par le general JEAN-FRANCOIS ALLARD pour la princesse BANNU PAN DEI, piscine en mosaique, table LES DELICES DU PAN DEI du chef PAUL BENIMELLI. LA BASTIDE DE SAINT-TROPEZ : QUATRE MAS PROVENCAUX dans un parc d'essences exotiques, PISCINE CHAUFFEE, restaurants LA TRATTORIA du chef LUCA BINASCHI et LE JARDIN DE LA BASTIDE. HOTEL SEZZ : 151 route des Salins, 37 CLES, spa SUSANNE KAUFMANN, piscine exterieure chauffee de 200 m2, restaurant COLETTE ETOILE AU GUIDE MICHELIN DEPUIS 2021. VILLA COSY : chemin de la Belle Isnarde, SPA BY SOTHYS, espace zen, fitness, Cosy Bar et cave a vins, Pool Suite et Suite Riviera. HOTEL DE PARIS : 1 traverse de la Gendarmerie, SPA BY CLARINS, restaurant LE PATIONATA, bar l'Atrium, rooftop, plage LA SERENA, decor de SYBILLE DE MARGERIE. HOTEL DES LICES : avenue Augustin Grangeon, 4 ETOILES, 40 CHAMBRES, piscine, restaurant-bar, PARKING PRIVATIF. LA PONCHE : quartier de la Ponche, 21 CHAMBRES ET QUATRE APPARTEMENTS nommes Daniele Thompson, Jack Nicholson, Pablo Picasso et La Glaye, BAR CREE EN 1949 PAR BORIS VIAN, chef SIMON PINAULT, SOINS EXCLUSIFS PERS. LOU PINET : chemin du Pinet, 34 CLES, collection Pariente, L'UNE DES PLUS GRANDES PISCINES DE SAINT-TROPEZ, SPA BY TATA HARPER, restaurant BEEFBAR. KUBE : 319 route du littoral a Gassin, 70 CHAMBRES en NEUF BATIMENTS, TROIS PISCINES, rooftop LE PETIT CELESTIN, SPA MYBLEND DE 300 M2 SUR DEUX NIVEAUX AVEC SIX CABINES, plage CYBELE. VILLA MARIE : 1100 chemin de Val Rian a Ramatuelle, 45 CHAMBRES ET SUITES, PINEDE DE TROIS HECTARES, SPA PURE ALTITUDE, restaurant DOLCE VITA. Selection documentaire etablie SANS SEJOUR DE CONTROLE, releves du 4 septembre 2026 sur les sites officiels. AUCUN TARIF N'EST PUBLIE.
 
 ---
 Palmarès local · Données propriétaires LMHS
@@ -23,7 +23,7 @@ Publié le 4 septembre 2026
 Le Cheval Blanc St-Tropez, plage de la Bouillabaisse. Photo : site officiel de
 l'établissement.
 
-## L'essentiel · Huit maisons de Saint-Tropez, sans note et sans hiérarchie
+## L'essentiel · Douze maisons de Saint-Tropez, décrites sans note
 
 1. **Une seule table à trois étoiles dans la commune.** **La Vague d'Or**, au
 **Cheval Blanc St-Tropez**, plage de la Bouillabaisse, cumule trois étoiles au Guide
@@ -35,18 +35,18 @@ MICHELIN, cinq toques et 19/20 au Gault & Millau. Le **Sezz** tient la seconde t
 Pan Deï ; le **Byblos** en aligne **86** et fut inauguré le **27 mai 1967**. Deux
 idées opposées du luxe tropézien, à cinq minutes l'une de l'autre.
 
-3. **Cette page ne note pas.** Nous décrivons ce que chaque maison publie et ce qu'elle
-propose, sans chiffre. Pour un classement noté, voir notre
+3. **Cette page ne note pas.** Nous décrivons ce que chacune des douze maisons publie et
+ce qu'elle propose, sans chiffre. Pour un classement noté, voir notre
 [palmarès des hôtels de luxe de
 Saint-Tropez](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/), qui range douze adresses selon le Score LMHS.
 
-**Palmarès documentaire.** Nous n'avons pas dormi dans ces huit maisons.
+**Palmarès documentaire.** Nous n'avons pas dormi dans ces douze maisons.
 Les éléments de cette page ont été relevés le 4 septembre 2026 sur les sites officiels des
 établissements, page par page. **Les tarifs se demandent directement aux maisons**, qui
 établissent leur prix selon la saison, la durée et la vue ; nous préférons vous y renvoyer
 plutôt que de recopier les chiffres des plateformes.
 
-## Notre sélection : les 8 meilleurs hôtels de *Saint-Tropez*
+## Notre sélection : les 12 meilleurs hôtels de *Saint-Tropez*
 
 01
 
@@ -85,6 +85,25 @@ réserver : c'est une maison de fête, et cela s'entend.
 
 03
 
+### La Ponche, et le bar que Boris Vian a ouvert en 1949
+
+**Quartier de la Ponche, 83990 Saint-Tropez · 5 étoiles**
+
+La seule de cette sélection qui ne se visite pas, qui se traverse. La maison est née
+en **1938** d'un bar de pêcheurs, et son bar actuel date de
+**1949**, quand **Boris Vian a annexé une grange mitoyenne** pour y
+créer le Saint-Germain-des-Prés-La Ponche. Aujourd'hui **21 chambres** et
+**quatre appartements** qui portent des noms plutôt que des numéros :
+**Danièle Thompson, Jack Nicholson, Pablo Picasso** et **La Glaye**.
+Le restaurant est pensé par le chef **Simon Pinault**. L'espace bien-être propose
+les **soins exclusifs PERS**, du yoga et du Pilates face à la mer. À savoir avant
+de réserver : c'est le cœur du village ancien, donc les ruelles, donc le stationnement.
+
+21 chambres et 4 appartements nommés · Bar ouvert en 1949 par Boris Vian · Chef Simon Pinault · Soins exclusifs PERS ·
+[Site officiel →](https://laponche.com/)
+
+04
+
 ### Airelles Saint-Tropez, le palais d'une princesse indienne
 
 **52 rue Gambetta, 83990 Saint-Tropez · 5 étoiles · enseigne Airelles**
@@ -100,7 +119,24 @@ de réserver : douze clés à deux pas de la place des Lices, il faut aimer êtr
 12 chambres et suites · Demeure bâtie en 1835 · Piscine en mosaïque · Table Les Délices du Pan Deï ·
 [Site officiel →](https://airelles.com/fr/destination/pan-dei-palais-hotel)
 
-04
+05
+
+### Lou Pinet, l'une des plus grandes piscines de la commune
+
+**Chemin du Pinet, 83990 Saint-Tropez · 5 étoiles · collection Pariente**
+
+L'adresse la plus sous-estimée de Saint-Tropez. On lit souvent seize chambres ; la
+maison en annonce **34 clés**. Ce n'est donc pas un hôtel confidentiel, c'est un
+hôtel discret, ce qui vaut mieux. Son argument principal est dehors : la maison écrit que sa
+piscine est **l'une des plus grandes de Saint-Tropez** et qu'elle réunit tout
+l'hôtel autour d'elle. Le **Spa by Tata Harper** et le restaurant
+**Beefbar** complètent l'ensemble, dans un jardin planté de pins parasols. À
+savoir avant de réserver : le chemin du Pinet n'est pas le port, il faut compter le trajet.
+
+34 clés · L'une des plus grandes piscines de Saint-Tropez · Spa by Tata Harper · Restaurant Beefbar ·
+[Site officiel →](https://www.loupinet.com/)
+
+06
 
 ### La Bastide de Saint-Tropez, quatre mas dans un parc
 
@@ -117,7 +153,25 @@ réserver : on est à quelques minutes du centre, pas dedans.
 Quatre mas provençaux · Parc et piscine chauffée · La Trattoria, chef Luca Binaschi · Table Le Jardin ·
 [Site officiel →](https://www.bastide-saint-tropez.com/)
 
-05
+07
+
+### Kube, le plus grand spa de la sélection
+
+**319 route du littoral, 83580 Gassin · 5 étoiles · groupe Machefert**
+
+La plus vaste maison de cette sélection, et la mieux équipée.
+**70 chambres** réparties dans **neuf bâtiments** et trois univers,
+**trois piscines**, un rooftop, **Le Petit Célestin**, et une plage
+affiliée, la **plage Cybèle**, sur le cordon de Pampelonne. Le spa est le seul de
+la sélection dont l'établissement publie les dimensions : **300 m² sur deux
+niveaux**, **six cabines dont une double**, hammam et sauna, sous enseigne
+**myBlend**. À savoir avant de réserver : c'est une grande maison, animée, faite
+pour ceux qui veulent tout sur place.
+
+70 chambres en neuf bâtiments · Spa myBlend de 300 m², six cabines · Trois piscines et un rooftop · Plage Cybèle ·
+[Site officiel →](https://www.kubehotel-saint-tropez.com/)
+
+08
 
 ### Hôtel Sezz, et sa table étoilée route des Salins
 
@@ -133,7 +187,25 @@ la navette.
 37 clés · Restaurant Colette, étoilé au Guide MICHELIN · Spa Susanne Kaufmann · Piscine chauffée de 200 m² ·
 [Site officiel →](https://saint-tropez.hotelsezz.com/)
 
-06
+09
+
+### Villa Marie, quarante-cinq clés dans trois hectares de pins
+
+**1100 chemin de Val Rian, 83350 Ramatuelle · 5 étoiles**
+
+La plus belle situation de la sélection, sur les hauteurs de Pampelonne, à
+**quatre kilomètres des plages** et à quelques minutes du village. La maison
+annonce **45 chambres et suites**, toutes avec terrasse ou balcon, dans une
+**pinède de trois hectares**. Le spa est signé **Pure Altitude**, la
+marque de la famille Sibuet, et le restaurant s'appelle **Dolce Vita**. Un séjour
+bien-être de trois nuits comprend un soin Pure Altitude de cinquante minutes par personne et
+par jour. À savoir avant de réserver : on y monte par une route de colline, et la maison ferme
+en basse saison.
+
+45 chambres et suites · Pinède de 3 hectares · Spa Pure Altitude · Restaurant Dolce Vita ·
+[Site officiel →](https://www.villamarie-saint-tropez.com/)
+
+10
 
 ### Villa Cosy, la maison discrète du chemin de la Belle Isnarde
 
@@ -150,7 +222,7 @@ maison, elle se remplit vite en saison.
 Spa by Sothys · Piscine, espace zen et fitness · Cosy Bar et cave à vins · Pool Suite et Suite Riviera ·
 [Site officiel →](https://villacosy.com/)
 
-07
+11
 
 ### Hôtel de Paris, le rooftop et la traverse de la Gendarmerie
 
@@ -168,7 +240,7 @@ pinède.
 Spa by Clarins · Restaurant Le Pationata · Rooftop et bar l'Atrium · Plage La Serena ·
 [Site officiel →](https://hoteldeparis-sainttropez.com/)
 
-08
+12
 
 ### Hôtel des Lices, quarante chambres et un parking
 
@@ -190,25 +262,29 @@ un 4 étoiles, pas un palace, et la maison ne prétend pas l'inverse.
 | --- | --- | --- | --- | --- |
 | 1 | Cheval Blanc St-Tropez | Plage de la Bouillabaisse | 5 | La Vague d'Or, 3 étoiles MICHELIN |
 | 2 | Byblos | Avenue Paul Signac | 5 | 86 clés, Les Caves du Roy, spa Sisley |
-| 3 | Airelles, Pan Deï Palais | Rue Gambetta | 5 | 12 clés, demeure de 1835 |
-| 4 | La Bastide de Saint-Tropez | Route des Carles | 5 | Quatre mas dans un parc, piscine chauffée |
-| 5 | Hôtel Sezz | Route des Salins | 5 | 37 clés, Colette étoilé au Guide MICHELIN |
-| 6 | Villa Cosy | Chemin de la Belle Isnarde | 5 | Spa by Sothys, espace zen |
-| 7 | Hôtel de Paris | Traverse de la Gendarmerie | 5 | Spa Clarins, rooftop, plage La Serena |
-| 8 | Hôtel des Lices | Avenue Augustin Grangeon | 4 | 40 chambres, piscine, parking privatif |
+| 3 | La Ponche | Quartier de la Ponche | 5 | Bar ouvert en 1949 par Boris Vian |
+| 4 | Airelles, Pan Deï Palais | Rue Gambetta | 5 | 12 clés, demeure de 1835 |
+| 5 | Lou Pinet | Chemin du Pinet | 5 | 34 clés, l'une des plus grandes piscines |
+| 6 | La Bastide de Saint-Tropez | Route des Carles | 5 | Quatre mas dans un parc, piscine chauffée |
+| 7 | Kube | Route du littoral, Gassin | 5 | Spa myBlend de 300 m², six cabines |
+| 8 | Hôtel Sezz | Route des Salins | 5 | 37 clés, Colette étoilé au Guide MICHELIN |
+| 9 | Villa Marie | Chemin de Val Rian, Ramatuelle | 5 | 45 clés, pinède de trois hectares |
+| 10 | Villa Cosy | Chemin de la Belle Isnarde | 5 | Spa by Sothys, espace zen |
+| 11 | Hôtel de Paris | Traverse de la Gendarmerie | 5 | Spa Clarins, rooftop, plage La Serena |
+| 12 | Hôtel des Lices | Avenue Augustin Grangeon | 4 | 40 chambres, piscine, parking privatif |
 
 Relevé le 4 septembre 2026 sur les sites officiels des huit maisons.
 « n. c. » signifie que l'établissement ne publie pas l'information.
 
 ## Comment nous avons établi cette *sélection*
 
-**Cette page ne publie aucune note.** C'est un choix : les huit maisons
+**Cette page ne publie aucune note.** C'est un choix : les douze maisons
 retenues ne jouent pas dans la même catégorie, et les comparer par un chiffre unique
 donnerait une fausse précision. Un palace de bord de mer et un 4 étoiles avec parking ne se
 mesurent pas à la même aune, mais les deux ont leur place dans un séjour tropézien.
 
-La sélection retient huit adresses **sur la commune de Saint-Tropez**, du
-palace à la maison de quarante chambres. Chaque fiche décrit ce que l'établissement publie
+La sélection retient douze adresses du golfe, **du palace à la maison de quarante
+chambres**. Chaque fiche décrit ce que l'établissement publie
 sur son propre site, page par page : nombre de clés, tables, spa, situation. Là où la maison
 ne publie rien, nous ne complétons pas.
 
@@ -216,7 +292,7 @@ Pour un classement noté et hiérarchisé, nous tenons par ailleurs un
 [palmarès des hôtels de luxe de
 Saint-Tropez](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/), qui range douze adresses selon le Score LMHS.
 
-8 adresses décrites
+12 adresses décrites
 Relevés du 4 septembre 2026
 Aucune note chiffrée
 Aucun tarif publié
