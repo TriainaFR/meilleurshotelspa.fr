@@ -246,7 +246,7 @@ Eze concentre à elle seule trois établissements du palmarès. Le Cap Estel (9,
 
 ### Cannes et la Croisette
 
-Cannes, c'est le Majestic Barrière (8,2/10) pour le palace complet sur la Croisette, et le Mas Candille (7,8/10) à Mougins pour l'arrière-pays calme à 20 minutes. Évitez le Festival de Cannes (mi-mai) si vous n'y participez pas : les prix triplent et la ville est saturée. Plus à l'ouest, la presqu'île tropézienne fait l'objet de notre [palmarès des meilleurs hôtels de luxe à Saint-Tropez](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/).
+Cannes, c'est le Majestic Barrière (8,2/10) pour le palace complet sur la Croisette, et le Mas Candille (7,8/10) à Mougins pour l'arrière-pays calme à 20 minutes. Évitez le Festival de Cannes (mi-mai) si vous n'y participez pas : les prix triplent et la ville est saturée. Plus à l'ouest, la presqu'île tropézienne fait l'objet de notre [palmarès des meilleurs hôtels de luxe à Saint-Tropez](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/) et de notre [palmarès généraliste des hôtels de Saint-Tropez](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-saint-tropez/).
 
 ## FAQ : hôtels de charme sur la *Côte d'Azur*
 

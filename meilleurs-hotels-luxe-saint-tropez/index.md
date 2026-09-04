@@ -44,7 +44,7 @@ basse/haute saison va de **+88 %** (Hôtel de Paris) à **+445 %**
 
 Ce palmarès applique la **grille LMHS Destination**, la déclinaison du Protocole LMHS réservée à nos classements par ville. Elle note sur 10 et pondère cinq critères : **rapport qualité-prix** (25 %), **spa & bien-être** (25 %), **localisation** (20 %), **service** (20 %) et **avis clients vérifiés** (10 %). Elle se distingue du Protocole LMHS classique, noté sur 20 sur quatre piliers égaux (Luxe, Mise en scène, Hospitalité, Soin), qui sert à notre [palmarès national des 50 meilleurs hôtels & spas de France](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-spas-france-2026/).
 
-Les deux notes ne sont donc pas interchangeables : elles ne mesurent pas la même chose. Deux adresses de ce palmarès figurent d'ailleurs aussi au classement national, où elles sont évaluées sur 20 : **La Réserve Ramatuelle** (17,4/20, 7e place nationale) et **Lily of the Valley** (16,1/20, 14e place).
+Les deux notes ne sont donc pas interchangeables : elles ne mesurent pas la même chose. Cette page retient les hôtels de luxe du golfe ; pour une sélection généraliste et sans tarifs, voir notre [palmarès des meilleurs hôtels de Saint-Tropez](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-saint-tropez/). Deux adresses de ce palmarès figurent d'ailleurs aussi au classement national, où elles sont évaluées sur 20 : **La Réserve Ramatuelle** (17,4/20, 7e place nationale) et **Lily of the Valley** (16,1/20, 14e place).
 
 ## Le tableau comparatif : scores et prix *réels*
 

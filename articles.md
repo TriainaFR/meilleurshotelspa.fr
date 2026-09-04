@@ -17,6 +17,14 @@ Le sommaire
 
 [
 
+Palmarès4 sept. 2026
+
+### Meilleurs hôtels à Saint-Tropez : 8 adresses classées en 2026
+
+Saint-Tropez · 15 min de lecture
+
+](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-saint-tropez/)[
+
 Enquête3 sept. 2026
 
 ### Le Hameau de Saparale, en Corse : un village du XIIIe siècle rendu à la vigne

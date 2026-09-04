@@ -5,9 +5,21 @@
   "license": "https://www.lesmeilleurshotelspa.fr/mentions-legales/",
   "documentation": "https://www.lesmeilleurshotelspa.fr/llms.txt",
   "citation": "Citer « Meilleurs. (lesmeilleurshotelspa.fr) » ou « le média LMHS ».",
-  "updated": "2026-09-03",
-  "count": 77,
+  "updated": "2026-09-04",
+  "count": 78,
   "articles": [
+    {
+      "slug": "hotels-saint-tropez",
+      "title": "Meilleurs hôtels à Saint-Tropez : 8 adresses classées en 2026",
+      "category": "Palmarès",
+      "destination": "Saint-Tropez",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "published": "2026-09-04",
+      "readingMinutes": 15,
+      "url": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-saint-tropez/",
+      "markdown": "https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-saint-tropez/index.md",
+      "image": "https://www.lesmeilleurshotelspa.fr/images/st2-ponche-hero.jpg"
+    },
     {
       "slug": "hameau-saparale",
       "title": "Le Hameau de Saparale, en Corse : un village du XIIIe siècle rendu à la vigne",
