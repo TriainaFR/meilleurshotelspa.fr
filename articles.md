@@ -27,11 +27,11 @@ Cap Corse · 12 min de lecture
 
 Palmarès4 sept. 2026
 
-### Meilleurs hôtels à Saint-Tropez : 12 adresses classées en 2026
+### Les plus beaux hôtels de Saint-Tropez : 12 adresses en 2026
 
 Saint-Tropez · 15 min de lecture
 
-](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-saint-tropez/)[
+](https://www.lesmeilleurshotelspa.fr/palmares/plus-beaux-hotels-saint-tropez/)[
 
 Enquête3 sept. 2026
 

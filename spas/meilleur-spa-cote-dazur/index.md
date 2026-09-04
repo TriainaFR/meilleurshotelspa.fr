@@ -14,7 +14,7 @@ Palmarès régional · Données propriétaires LMHS
 Huit spas azuréens mesurés au Protocole LMHS sur 20, deux qui entrent sans note faute de
 visite. Le mieux classé n'est pas sur le littoral, et celui que tous les palmarès
 placent en tête n'arrive que cinquième.
-Le Byblos figure d'ailleurs dans notre [palmarès des hôtels de Saint-Tropez](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-saint-tropez/).
+Le Byblos figure d'ailleurs dans notre [sélection des plus beaux hôtels de Saint-Tropez](https://www.lesmeilleurshotelspa.fr/palmares/plus-beaux-hotels-saint-tropez/).
 
 Par [**Emmanuel Laveran**](https://www.lesmeilleurshotelspa.fr/redaction/emmanuel-laveran/), rédacteur hôtels et gastronomie
 ✺

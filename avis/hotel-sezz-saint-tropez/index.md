@@ -100,7 +100,7 @@ ses formulations naturelles. L'espace est **à taille humaine**, deux cabines de
 soins, hammam et jacuzzi, avec une terrasse de relaxation. C'est cohérent avec un hôtel de
 trente-sept clés, mais il faut le savoir : ce n'est pas un spa de palace, et si le bien-être
 est votre motif principal de séjour, notre
-[palmarès tropézien](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/), et dans notre [palmarès des hôtels de Saint-Tropez](https://www.lesmeilleurshotelspa.fr/palmares/meilleurs-hotels-saint-tropez/) pointe des adresses
+[palmarès tropézien](https://www.lesmeilleurshotelspa.fr/meilleurs-hotels-luxe-saint-tropez/), et dans notre [sélection des plus beaux hôtels de Saint-Tropez](https://www.lesmeilleurshotelspa.fr/palmares/plus-beaux-hotels-saint-tropez/) pointe des adresses
 nettement mieux dotées sur ce seul critère.
 
 La **piscine extérieure chauffée de 200 m²** est en revanche l'une des plus
